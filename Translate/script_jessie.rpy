@@ -550,7 +550,7 @@ translate russian ch2j_02_a57fd6bb:
 translate russian ch2j_02_8130303b:
 
     # v1 "Well, sure. We can let 'ya know if we see her 'round. We can let her know you're calling after her."
-    v1 "Ладно, хорошо. Мы дадим те знать, если увидём её где-нить. И дадим ей знать, что ты её ищёшь"
+    v1 "Ладно, хорошо. Мы дадим тебе знать, если увидём её где-нить. И дадим ей знать, что ты её ищёшь"
 
 # game/script_jessie.rpy:245
 translate russian ch2j_02_b2984b71:
@@ -574,7 +574,7 @@ translate russian ch2j_02_10be019e:
 translate russian ch2j_02_cc669ad3:
 
     # b "Ahoy, Malcolm!"
-    b "Хэй, Мальком"
+    b "Хэй, Мальком!"
 
 # game/script_jessie.rpy:251
 translate russian ch2j_02_fb236f17:
@@ -586,7 +586,7 @@ translate russian ch2j_02_fb236f17:
 translate russian ch2j_02_816b9365:
 
     # b "'Ya look a mess, Mr. Campbell. Can I get 'ya a tea? Coffee?"
-    b "Глядишься ужасно, мистер Кампбел. Могу сделать те чай? Кофе?"
+    b "Выглядишь ужасно, мистер Кампбел. Сделать тебе чай? Кофе?"
 
 # game/script_jessie.rpy:259
 translate russian ch2j_02_f7745c54:
@@ -622,7 +622,7 @@ translate russian ch2j_02_d19f855d:
 translate russian ch2j_02_cc14411b:
 
     # b "Are you all right, lad? Ought not take ya this much time to decide which bevvy you'd like in the mornin'. Not every decision should feel as though yer life depends on it!"
-    b "С тобой всё впорядке, парень? У тя не должно уходить столько времени, чтобы выбрать выпивку на утро. Не каждое решение должно восприниматься так, словно от него жизнь твоя зависит."
+    b "С тобой всё впорядке, парень? У тебя не должно уходить столько времени, чтобы выбрать выпивку на утро. Не каждое решение должно восприниматься так, словно от него жизнь твоя зависит."
 
 # game/script_jessie.rpy:268
 translate russian ch2j_02_b154733e:
@@ -664,7 +664,7 @@ translate russian ch2j_02_a2f38ed8:
 translate russian ch2j_02_fea76afd:
 
     # "I sense that he knows I shouldn't be out this time of the day, looking like I'd just left the pub; smelling like it, too."
-    "Я чувствую, что он знает, что мне не следует выходить наружу в это время дня, выглядя так, будто я только что покинул паб; и так же пахнув."
+    "Я чувствую, он понимает, что мне не следует выходить наружу в это время дня, выглядя так, будто я только что покинул паб; и соответствующе пахнув."
 
 # game/script_jessie.rpy:289
 translate russian ch2j_02_9de48f31:
@@ -688,7 +688,7 @@ translate russian ch2j_02_a_e27980e5:
 translate russian ch2j_02_a_0ecb5d9e:
 
     # b "Ah, and a fine thank you, but His Majesty's armoury will be holdin' onto that when 'ya come home. Was the same in my time."
-    b "Ох, огромное спасибо, но арсенал Его Величества придержит эт, когда ты отправишься домой. Было тоже самое в моё время."
+    b "Ох, \"огромное спасибо, но арсенал Его Величества придержит это, когда ты отправишься домой \". В моё время было тоже самое."
 
 # game/script_jessie.rpy:302
 translate russian ch2j_02_a_df515b16:
@@ -706,775 +706,775 @@ translate russian ch2j_02_a_d4e2f96c:
 translate russian ch2j_02_a_181a4282:
 
     # b "These have been hard times. The village is hurtin', my boy. There's not enough to go around."
-    b "Это были тяжелые времена. Деревня получила повреждения, мой мальчик. Стволов на всех не хватало"
+    b "Это были тяжелые времена. Деревня пострадала, мой мальчик. Еды на всех не хватало."
 
 # game/script_jessie.rpy:311
 translate russian ch2j_02_b_6a20a80d:
 
     # "I shake my head."
-    "Я качаю голову"
+    "Я покачал головой."
 
 # game/script_jessie.rpy:312
 translate russian ch2j_02_b_c868c5b2:
 
     # c "Really, a wolf? Here?"
-    c "Действительно волк? Здесь?"
+    c "Серьёзно? Волк? Здесь?"
 
 # game/script_jessie.rpy:314
 translate russian ch2j_02_b_895b24ae:
 
     # "He nods and laughs."
-    "Он кивнул и рассмеялся"
+    "Он кивнул и рассмеялся."
 
 # game/script_jessie.rpy:315
 translate russian ch2j_02_b_3d8422fc:
 
     # b "And who'd have thought? The scourge of the highlands come back to menace the flocks."
-    b ""
+    b "И кто бы мог подумать? Бич высокогорья возвращается, чтобы снова угрожать стадам."
 
 # game/script_jessie.rpy:317
 translate russian ch2j_02_b_b8864b4b:
 
     # b "Danae if I believe it meself. These geezers can barely see well enough to order their next drink. An' Angus is a right bampot."
-    b ""
+    b "Не знаю, верю ли в это сам. Эти стариканы едва видят, чтобы заказать себе ещё выпивки. А Ангус ещё и тупица настоящий."
 
 # game/script_jessie.rpy:319
 translate russian ch2j_02_b_e0001b73:
 
     # v2 "Oi, yer mam was a bampot!"
-    v2 ""
+    v2 "Эй, мать твоя была тупицей!"
 
 # game/script_jessie.rpy:320
 translate russian ch2j_02_b_7a745027:
 
     # "Balgair leans in."
-    ""
+    "Балгайр наклонился."
 
 # game/script_jessie.rpy:321
 translate russian ch2j_02_b_d48555c5:
 
     # b "But I do believe somethin' is out there."
-    b ""
+    b "Но я верю, что что-то здесь не так."
 
 # game/script_jessie.rpy:326
 translate russian ch2j_02_c_d6cf4411:
 
     # c "I've heard. I'll be careful."
-    c ""
+    c "Я тебя услышал. Буду осторожней."
 
 # game/script_jessie.rpy:328
 translate russian ch2j_02_c_bd5baf72:
 
     # b "Ha, Mr. Campbell, it's not you I'm worried about!"
-    b ""
+    b "Ха, мистер Кампбел, я не о тебе беспокоюсь!"
 
 # game/script_jessie.rpy:330
 translate russian ch2j_02_c_4fe15be1:
 
     # b "We fight overseas for King and country, but who does that leave to keep the peace at home?"
-    b ""
+    b "Мы сражаемся за границей за Короля и страну, но кто в это время сохранит мир дома?"
 
 # game/script_jessie.rpy:332
 translate russian ch2j_02_c_4ebe99eb:
 
     # "The old publican puffs his chest out in pride."
-    ""
+    "Старый трактирщик гордо выпячивает свою грудь"
 
 # game/script_jessie.rpy:333
 translate russian ch2j_02_c_023584e0:
 
     # b "Mind, I've still got some pluck in me, but the rest of this lot? Too old for this sort of thing."
-    b ""
+    b "Держи в виду, у меня может и есть немного отваги, но что насчёт остального? Я слишком стар для подобных дел"
 
 # game/script_jessie.rpy:334
 translate russian ch2j_02_c_a4e0bd53:
 
     # c "What sort of thing?"
-    c ""
+    c "Каких дел?"
 
 # game/script_jessie.rpy:336
 translate russian ch2j_02_c_29d748fe:
 
     # b "Malcolm, my boy."
-    b ""
+    b "Мальком, мальчик мой."
 
 # game/script_jessie.rpy:338
 translate russian ch2j_02_c_73b3dd42:
 
     # b "This beastie needs ridding!"
-    b ""
+    b "От этого зверя нужно избавиться!"
 
 # game/script_jessie.rpy:341
 translate russian ch2j_02_c_1d7ef43c:
 
     # "As I sip my tea, I frown and remember how it stumbled. Fierce it may have been, but something seemed off."
-    ""
+    "Потягивая свой чай, я хмурюсь и вспоминаю, как на него наткнулся. Хоть он и выглядел сверепо, что-то с ним было не так."
 
 # game/script_jessie.rpy:343
 translate russian ch2j_02_c_4dc40fe4:
 
     # "As I sip my coffee, I frown and remember how it stumbled. Fierce it may have been, but something seemed off."
-    ""
+    "Потягивая свой кофе, я хмурюсь и вспоминаю, как на него наткнулся. Хоть он и выглядел сверепо, что-то с ним было не так."
 
 # game/script_jessie.rpy:345
 translate russian ch2j_02_c_4241bd28:
 
     # b "It can't get into any livestock. It'll be the end of someone's livelihood. You can bet on it."
-    b ""
+    b "Он не должен прийти за чьим-то скотом. Это будет конец чьих-то средств к существованию. Можешь в этом не сомневаться."
 
 # game/script_jessie.rpy:346
 translate russian ch2j_02_c_f006f2f3:
 
     # "He's right. Agnes, the MacLeods... they are getting by, but only just. I nod, and Balgair gives me a hearty slap on the back."
-    ""
+    "Он прав. Агнес, Маклеоды... они и так сводят концы с концами. Я киваю, и Балгайр от души хлопает меня по спине."
 
 # game/script_jessie.rpy:348
 translate russian ch2j_02_c_df273698:
 
     # b "There 'ya go, lad!"
-    b ""
+    b "Вот о чём я тебе и говорю, парень!"
 
 # game/script_jessie.rpy:352
 translate russian ch2j_02_c_905b01d6:
 
     # b "Tea's on the house. When you're done, head home, get yerself cleaned up. We've work to do tonight."
-    b ""
+    b "Чай за счёт заведения. Когда ты закончишь, отправляйся домой, приведи себя в порядок. Нам предстоит работёнка этой ночью."
 
 # game/script_jessie.rpy:354
 translate russian ch2j_02_c_1a53bf91:
 
     # b "Coffee's on the house. When you're done, head home, get yerself cleaned up. We've work to do tonight."
-    b ""
+    b "Кофе за счёт заведения. Когда ты закончишь, отправляйся домой, приведи себя в порядок. Нам предстоит работёнка этой ночью."
 
 # game/script_jessie.rpy:356
 translate russian ch2j_02_c_9032fa5b:
 
     # "I sigh, finding myself enlisted again. A soldier's duty is never done."
-    ""
+    "Я вздыхаю, обнаруживая себя снова завербованным. Солдатскому долгу никогда не исполнится."
 
 # game/script_jessie.rpy:357
 translate russian ch2j_02_c_d1217d28:
 
     # c "You think it will be back?"
-    c ""
+    c "Ты точно уверен, что волк вернётся?"
 
 # game/script_jessie.rpy:359
 translate russian ch2j_02_c_e4855dfe:
 
     # b "Sure as clockwork, my boy."
-    b ""
+    b "Точно, как часы, мой мальчик."
 
 # game/script_jessie.rpy:360
 translate russian ch2j_02_c_27274513:
 
     # "He turns to the group at the bar and bellows."
-    ""
+    "Он поворачивается к группе у бара и кричит."
 
 # game/script_jessie.rpy:362
 translate russian ch2j_02_c_75341b4a:
 
     # b "But after tonight 'ya can rest easy, 'cause you'll not be seeing no scurry monster again!"
-    b ""
+    b "Но после сегодняшней ночи вы сможете спать спокойно, потому что не увидите снующего монстра снова!"
 
 # game/script_jessie.rpy:363
 translate russian ch2j_02_c_8c80a840:
 
     # "The locals laugh and wave him off, and Balgair chuckles."
-    ""
+    "Двоица смеётся, отмахиваясь от него, и Балгайр хихикает."
 
 # game/script_jessie.rpy:365
 translate russian ch2j_02_c_6b2a99e4:
 
     # b "A fine thank-you indeed."
-    b ""
+    b "Вот именно, большое спасибо."
 
 # game/script_jessie.rpy:366
 translate russian ch2j_02_c_d0a8d2df:
 
     # "He turns to leave, but a voice at the door stops him."
-    ""
+    "Балгайр оборачивается, чтобы уйти, но голос в двери останавливает его."
 
 # game/script_jessie.rpy:367
 translate russian ch2j_02_c_c8ccd624:
 
     # a "And what's all this about a monster I'm hearing?"
-    a ""
+    a "И что это за монстр, о котором я услышала?"
 
 # game/script_jessie.rpy:373
 translate russian ch2j_02_c_51f98756:
 
     # "The laughter dies out as Alana walks into the room, carrying an air of royalty about her."
-    ""
+    "Смех утих, как только Алана вошла в комнату, окружённая королевской атмосферой"
 
 # game/script_jessie.rpy:377
 translate russian ch2j_02_c_f97d4394:
 
     # "I groan quietly. She's the last person I want to see."
-    ""
+    "Я тихо простонал. Она последний человек, которого я бы хотел видить."
 
 # game/script_jessie.rpy:378
 translate russian ch2j_02_c_e507ecb9:
 
     # "The others are caught off-guard, too. The old men have gone quiet, as if one of their wives had walked in on their social gathering."
-    ""
+    "Остальные тоже были застигнуты в расплох. Старики замолчали, словно кто-то из их жён зашла на их светское мероприятие."
 
 # game/script_jessie.rpy:380
 translate russian ch2j_02_c_64d95c38:
 
     # "Alana reassures everyone with a kindly smile, but when she looks at me, a look of pity flashes across her face."
-    ""
+    "Алана успокаивает всех доброй улыбкой, но при взгляде на меня на её лице мелькает выражение жалости."
 
 # game/script_jessie.rpy:381
 translate russian ch2j_02_c_dc7a9ca4:
 
     # "Balgair breaks the silence."
-    ""
+    "Балгайр нарушил тишину."
 
 # game/script_jessie.rpy:386
 translate russian ch2j_02_c_84864bda:
 
     # b "Nothing you need fret about, marm."
-    b ""
+    b "Ничего из того, о чём вам стоило бы беспокоиться, мэм."
 
 # game/script_jessie.rpy:388
 translate russian ch2j_02_c_f14d1025:
 
     # a "I assure you, I fret about very little."
-    a ""
+    a "Уверяю тебя, я очень мало о чём беспокоюсь."
 
 # game/script_jessie.rpy:390
 translate russian ch2j_02_c_01e50832:
 
     # b "You see, Angus here was just regaling us with tall tales from his farm."
-    b ""
+    b "Видите ли, Ангус лишь потчивал нас небылицами со своей фермы."
 
 # game/script_jessie.rpy:391
 translate russian ch2j_02_c_f8e6c2be:
 
     # v2 "I swear on me mum's grave, it was a wolf!"
-    v2 ""
+    v2 "Клянусь могилой своей матери, это был волк!"
 
 # game/script_jessie.rpy:392
 translate russian ch2j_02_c_5111fcc5:
 
     # "She turns to face the old man. He shrinks a little bit, but is eager to tell his story."
-    ""
+    "Она повернулась лицом к старику. Он немного съеживается, но всё ещё горит желанием рассказать свою историю."
 
 # game/script_jessie.rpy:393
 translate russian ch2j_02_c_5417046e:
 
     # v2 "A right bigg'un, too, stalking my herd. I saw it with mine own two eyes!"
-    v2 ""
+    v2 "Ещё и настоящий здоровяк, преследующий моё стадо. Я видел его своими двумя глазами!"
 
 # game/script_jessie.rpy:395
 translate russian ch2j_02_c_8575813d:
 
     # "Alana tuts and shakes her head."
-    ""
+    "Алана фыркает и качает головой."
 
 # game/script_jessie.rpy:396
 translate russian ch2j_02_c_19ef2bb5:
 
     # a "A wolf?"
-    a ""
+    a "Волк?"
 
 # game/script_jessie.rpy:398
 translate russian ch2j_02_c_0f4d57ab:
 
     # a "Dearie, there haven't been wolves about since the days of Bonnie King Charlie."
-    a ""
+    a "Дорогуша, здесь не было волков со времен Бонни Короля Красавчика Чарли."
 
 # game/script_jessie.rpy:399
 translate russian ch2j_02_c_00df05d4:
 
     # v1 "(See, what did I tell ya?)"
-    v1 ""
+    v1 "(Видишь, что я тебе говорил?)"
 
 # game/script_jessie.rpy:400
 translate russian ch2j_02_c_f183a1fc:
 
     # "Balgair once again steps in."
-    ""
+    "Балгайр снова вступил в разговор."
 
 # game/script_jessie.rpy:402
 translate russian ch2j_02_c_64c7ef0d:
 
     # b "So what can I do for you today? Tea, breakfast maybe?"
-    b ""
+    b "И так, что я могу сделать для вас сегодня? Чай, может завтрак?"
 
 # game/script_jessie.rpy:404
 translate russian ch2j_02_c_9ae315c7:
 
     # a "Oh, thank you dear, but I'm passing through. Just wanted to hear what all the hubbub was about. And..."
-    a ""
+    a "Ох, спасибо тебе, дорогой, но я просто мимо проходила. Лишь хотела узнать, о чём весь этот шум. И..."
 
 # game/script_jessie.rpy:405
 translate russian ch2j_02_c_b01e8419:
 
     # "She levels her gaze on me."
-    ""
+    "Она пристально смотрит на меня."
 
 # game/script_jessie.rpy:407
 translate russian ch2j_02_c_d011cac5:
 
     # a "As it happens, this is just the man I need to talk to."
-    a ""
+    a "Так уж вышло, это как раз тот человек, с которым мне нужно поговорить"
 
 # game/script_jessie.rpy:410
 translate russian ch2j_02_c_8f3f604e:
 
     # "My stomach sinks. I down the last of my tea and stand up."
-    ""
+    "Моё нутро сжимается. Я допиваю остатки чая и встаю."
 
 # game/script_jessie.rpy:412
 translate russian ch2j_02_c_17a307cb:
 
     # "My stomach sinks. I down the last of my coffee and stand up."
-    ""
+    "Моё нутро сжимается. Я допиваю остатки кофе и встаю."
 
 # game/script_jessie.rpy:414
 translate russian ch2j_02_c_bdaac1f6:
 
     # c "I'm sorry, I was just about to leave. I really need to be going."
-    c ""
+    c "Прошу простить, но мне как раз нужно вас покинуть. Мне действительно нужно идти."
 
 # game/script_jessie.rpy:416
 translate russian ch2j_02_c_e2cbb2bc:
 
     # a "Of course, and I won't hold you up. Let's walk together."
-    a ""
+    a "Конечно, и я не смею тебя задерживать. Давай пройдёмся вместе."
 
 # game/script_jessie.rpy:418
 translate russian ch2j_02_c_75395a3a:
 
     # "I give a pleading look to Balgair, who smiles conspiratorially and leaves me to my fate."
-    ""
+    "Я кидаю умоляющий взгяд на Балгайра, но он лишь заговорщически улыбается и оставляет меня на произвол судьбы."
 
 # game/script_jessie.rpy:420
 translate russian ch2j_02_c_e1989637:
 
     # b "See ye tonight, my boy."
-    b ""
+    b "Увидимся ночью, мой мальчик."
 
 # game/script_jessie.rpy:421
 translate russian ch2j_02_c_a013ccc6:
 
     # "I nod and sigh. Alana and I step outside."
-    ""
+    "Я киваю и вздыхаю. Мы с Аланой выходим из паба."
 
 # game/script_jessie.rpy:446
 translate russian ch2j_03_84a7445a:
 
     # "We're well out of the others' earshot when next we speak."
-    ""
+    "Мы отдаляемся достаточно далеко от посторонних ушей, прежде чем снова заговорим"
 
 # game/script_jessie.rpy:450
 translate russian ch2j_03_338f2a90:
 
     # a "You're looking for her."
-    a ""
+    a "Ты ищешь её."
 
 # game/script_jessie.rpy:451
 translate russian ch2j_03_33aa7bcd:
 
     # c "I don't want to talk to you."
-    c ""
+    c "Я не хочу с тобой говорить."
 
 # game/script_jessie.rpy:453
 translate russian ch2j_03_0202cc1b:
 
     # a "Malcolm! Please. You won't find her."
-    a ""
+    a "Мальком! Пожалуйста. Ты её не найдёшь."
 
 # game/script_jessie.rpy:454
 translate russian ch2j_03_f29bd01b:
 
     # "I stop in my tracks."
-    ""
+    "Я встал как вкопанный."
 
 # game/script_jessie.rpy:455
 translate russian ch2j_03_af64f5bd:
 
     # c "You don't know where she is! You're a mad bat."
-    c ""
+    c "Ты не знаешь, где она! Ты безумная летучая мышь."
 
 # game/script_jessie.rpy:456
 translate russian ch2j_03_bdba852c:
 
     # c "Stay away from me. Stay away from any of us!"
-    c ""
+    c "Держись подальше от меня. Держись подальше от всех нас!"
 
 # game/script_jessie.rpy:457
 translate russian ch2j_03_00ce3bd3:
 
     # a "You need to listen to me, Malcolm. This is what I warned you about."
-    a ""
+    a "Ты должен выслушать меня, Мальком. Это то, о чём я тебя предупреждала."
 
 # game/script_jessie.rpy:458
 translate russian ch2j_03_655f1891:
 
     # "She's pleading, now. I turn away."
-    ""
+    "Теперь она умоляет. Я отворачиваюсь."
 
 # game/script_jessie.rpy:469
 translate russian ch2j_03_1a92763e:
 
     # a "If you shoot that wolf, you'll be killing someone you care about very deeply."
-    a ""
+    a "Если ты застрелишь этого волка, ты убьешь кого-то, кто тебе очень дорог."
 
 # game/script_jessie.rpy:470
 translate russian ch2j_03_a4e5582e:
 
     # "My heart stops. The blood drains from my head. I feel faint."
-    ""
+    "Мое сердце замирает. Кровь отхлынула от моей головы. Я чувствую слабость."
 
 # game/script_jessie.rpy:471
 translate russian ch2j_03_316f4e89:
 
     # "Maybe it was my worst fear, or the thing I was trying to avoid the most right now."
-    ""
+    "Возможно, это был мой худший страх или то, чего я сейчас старался избежать больше всего."
 
 # game/script_jessie.rpy:472
 translate russian ch2j_03_b1109bb5:
 
     # "Was Alana always right? Is she telling me the truth? What on earth does she know that I don't?"
-    ""
+    "Была ли Алана всё это время права? Она говорит мне правду? Что, черт возьми, она знает такого, чего не знаю я?"
 
 # game/script_jessie.rpy:473
 translate russian ch2j_03_3a83c3d4:
 
     # c "You're out of your mind."
-    c ""
+    c "Ты сошла с ума."
 
 # game/script_jessie.rpy:480
 translate russian ch2j_03_8ef9418f:
 
     # a "That may be true."
-    a ""
+    a "Может и так."
 
 # game/script_jessie.rpy:482
 translate russian ch2j_03_e745f042:
 
     # a "But your love is the wolf, Malcolm. Of this I have no doubt."
-    a ""
+    a "Но твоя любовь - волк, Мальком. Насчёт этого я не сомневаюсь."
 
 # game/script_jessie.rpy:483
 translate russian ch2j_03_837d7a47:
 
     # "Every fiber of my being wants to not believe her."
-    ""
+    "Каждая клеточка моего естества хочет не верить ей."
 
 # game/script_jessie.rpy:484
 translate russian ch2j_03_364707cf:
 
     # c "How? How can that be?"
-    c ""
+    c "Но как? Как это возможно?"
 
 # game/script_jessie.rpy:486
 translate russian ch2j_03_31208c7e:
 
     # a "I see I finally have your attention."
-    a ""
+    a "Как вижу, я наконец привлекла твоё внимание."
 
 # game/script_jessie.rpy:487
 translate russian ch2j_03_d717e555:
 
     # c "You've been speaking in riddles! I need the truth. Real, honest answers."
-    c ""
+    c "Ты говоришь загадками! Мне нужна правда. Настоящий, честный ответ."
 
 # game/script_jessie.rpy:489
 translate russian ch2j_03_8e1047d2:
 
     # a "I told you to stay away. I warned you, and you never heeded my advice."
-    a ""
+    a "Я говорила тебя держаться подальше. Предупреждала, но ты так и не внял моему совету."
 
 # game/script_jessie.rpy:490
 translate russian ch2j_03_69d96ae2:
 
     # c "You never told me why."
-    c ""
+    c "Ты никогда не говорила почему."
 
 # game/script_jessie.rpy:492
 translate russian ch2j_03_b7f213f8:
 
     # a "You should have trusted me."
-    a ""
+    a "Ты должен был доверять мне."
 
 # game/script_jessie.rpy:493
 translate russian ch2j_03_c0c80c8f:
 
     # "Exasperated, I throw my hands up in the air."
-    ""
+    "Раздраженный, я вскидываю руки в воздух."
 
 # game/script_jessie.rpy:494
 translate russian ch2j_03_01ba2236:
 
     # c "Just speak to me. Clearly."
-    c ""
+    c "Просто поговори со мной. Открыто."
 
 # game/script_jessie.rpy:496
 translate russian ch2j_03_5a57bf53:
 
     # "Alana hesitates, but only for a moment."
-    ""
+    "Алана колеблется, но только мгновение."
 
 # game/script_jessie.rpy:497
 translate russian ch2j_03_c4c8dff0:
 
     # a "Those girls are not like you."
-    a ""
+    a "Эти девочки не такие, как ты."
 
 # game/script_jessie.rpy:498
 translate russian ch2j_03_7deb4048:
 
     # a "Jessie has become the wolf. She has embraced her new form. Her new body."
-    a ""
+    a "Джесси стала волком. Она приняла свою новую форму. Своё новое тело."
 
 # game/script_jessie.rpy:499
 translate russian ch2j_03_1ed4cee4:
 
     # c "A werewolf?"
-    c ""
+    c "Оборотень?"
 
 # game/script_jessie.rpy:501
 translate russian ch2j_03_7ba79753:
 
     # a "Call it what you will."
-    a ""
+    a "Называй так, если хочешь."
 
 # game/script_jessie.rpy:502
 translate russian ch2j_03_a32a762d:
 
     # "Madness."
-    ""
+    "Безумие."
 
 # game/script_jessie.rpy:503
 translate russian ch2j_03_557bc083:
 
     # "Deeper down the rabbit hole I go."
-    ""
+    "Я забираюсь все глубже в кроличью нору."
 
 # game/script_jessie.rpy:504
 translate russian ch2j_03_7fe3ee4f:
 
     # c "Why last night? Of all nights?"
-    c ""
+    c "Почему в прошлую ночь? Из всех возможных ночей?"
 
 # game/script_jessie.rpy:506
 translate russian ch2j_03_99f0c229:
 
     # a "So you believe me now?"
-    a ""
+    a "Итак, теперь ты мне веришь?"
 
 # game/script_jessie.rpy:520
 translate russian ch2j_03_a_0c675694:
 
     # "This is a tall tale, even for Alana. But my mind revisits the nightmare I had just the day before. How vivid it felt, transforming, even if it were just a dream."
-    ""
+    "Это невероятная история, даже для Аланы. Но мой разум вновь возвращается к кошмару, который приснился мне накануне. Каким ярким он был, преображающим, хоть это и был всего лишь сон"
 
 # game/script_jessie.rpy:521
 translate russian ch2j_03_a_acc98503:
 
     # "Was it... just a dream? I don't know what to believe. My mind returns to Jessie, and reflects."
-    ""
+    "Был ли это... просто сон? Я не знаю, чему верить. Мои мысли возвращаются к Джесси, и я впадаю в раздумья."
 
 # game/script_jessie.rpy:522
 translate russian ch2j_03_a_43850981:
 
     # c "I've always felt that she was different than me. Maybe better, stronger. Less fearful of her surroundings."
-    c ""
+    c "Я всегда чувствовал, что она отличается от меня. Возможно, лучше, сильнее. Меньше боялась своего окружения."
 
 # game/script_jessie.rpy:524
 translate russian ch2j_03_a_6fb56115:
 
     # a "More open to adventure?"
-    a ""
+    a "Более открытой для преключений?"
 
 # game/script_jessie.rpy:525
 translate russian ch2j_03_a_ef29028a:
 
     # c "Braver, that's all."
-    c ""
+    c "Смелее, только и всего."
 
 # game/script_jessie.rpy:526
 translate russian ch2j_03_a_72a99440:
 
     # "I resign myself to the possibility that there is some shred of truth, no matter how outlandish, to what Alana is saying."
-    ""
+    "Я смиряюсь с возможностью того, что в словах Аланы, есть доля правды, какой бы диковинной эта правда ни была."
 
 # game/script_jessie.rpy:534
 translate russian ch2j_03_b_361d8434:
 
     # "What Alana was implying was beyond impossible. But crazy though she may be, I'm convinced she knows something about what's happening."
-    ""
+    "То, на что намекала Алана, было за гранью невозможного. Но какой бы сумасшедшей она ни была, я убежден, что она что-то знает о происходящем."
 
 # game/script_jessie.rpy:535
 translate russian ch2j_03_b_14c66e1e:
 
     # "I decide to play along, for now."
-    ""
+    "Я решаю пока подыграть ей."
 
 # game/script_jessie.rpy:543
 translate russian ch2j_03_c_9d05b7ce:
 
     # "My mind is still reeling from Jessie being gone, and now Alana is invoking the supernatural. I shake my head. I'm tired of playing these games."
-    ""
+    "У меня все еще кружиться голова от того, что Джесси пропала, а теперь ещё и Алана взывает к сверхъестественному. Я качаю головой. Я устал играть в эти игры."
 
 # game/script_jessie.rpy:544
 translate russian ch2j_03_c_a603bc4d:
 
     # c "Does it matter if I believe you?"
-    c ""
+    c "Имеет ли значение, верю ли я тебе?"
 
 # game/script_jessie.rpy:546
 translate russian ch2j_03_c_e1fdfc39:
 
     # a "No, I suppose not. Not any more."
-    a ""
+    a "Нет, я полагаю, что нет. Теперь нет."
 
 # game/script_jessie.rpy:547
 translate russian ch2j_03_c_7d93c484:
 
     # "My mind returns to the only questions that matter."
-    ""
+    "Мои мысли возвращаются к тем вопросам, которые имеют значение."
 
 # game/script_jessie.rpy:548
 translate russian ch2j_03_c_c1268cf5:
 
     # c "Is Jessie safe? Will I see her again?"
-    c ""
+    c "Джесси в безопасности? Увижу ли я ее снова?"
 
 # game/script_jessie.rpy:553
 translate russian ch2j_03_d_647f1e8d:
 
     # c "How long has this been happening, her changing? How do you know about it?"
-    c ""
+    c "Как давно они происходят, её изменение? Откуда ты об этом знаешь?"
 
 # game/script_jessie.rpy:555
 translate russian ch2j_03_d_e85ca56e:
 
     # a "Part of Jessie's soul resides among the animals."
-    a ""
+    a "Часть души Джесси живет среди животных."
 
 # game/script_jessie.rpy:557
 translate russian ch2j_03_d_cf6a88c6:
 
     # a "Your hearts met in human form. But half of her heart is lupine."
-    a ""
+    a "Ваши сердца встретились в человеческом обличье. Но половина ее сердца принадлежит волкам."
 
 # game/script_jessie.rpy:558
 translate russian ch2j_03_d_41486041:
 
     # a "Last night the full moon made her even more brave, more aggressive, more dangerous."
-    a ""
+    a "Полнолуние прошлой ночью сделало ее еще более смелой, более агрессивной и более опасной."
 
 # game/script_jessie.rpy:559
 translate russian ch2j_03_d_3e1cedf9:
 
     # c "More wanton."
-    c ""
+    c "Более распутной."
 
 # game/script_jessie.rpy:561
 translate russian ch2j_03_d_ec31ab3d:
 
     # a "More sexual."
-    a ""
+    a "Более сексуальной."
 
 # game/script_jessie.rpy:562
 translate russian ch2j_03_d_480bc50f:
 
     # "My eyes close as memories of last night come flooding back."
-    ""
+    "Мои глаза закрываются, когда воспоминания о прошлой ночи нахлынули на меня."
 
 # game/script_jessie.rpy:563
 translate russian ch2j_03_d_cf229c2a:
 
     # c "What should I do? How can I get her back?"
-    c ""
+    c "Что мне делать? Как я могу вернуть ее обратно?"
 
 # game/script_jessie.rpy:570
 translate russian ch2j_03_e_b025bf6f:
 
     # a "Jessie is living out her free will. She will make her way back, perhaps to you, perhaps not."
-    a ""
+    a "Джесси следует собственной воле. Возможно, она вернется к тебе, а возможно и нет."
 
 # game/script_jessie.rpy:571
 translate russian ch2j_03_e_1dcde018:
 
     # c "Can you bring her back?"
-    c ""
+    c "Ты можешь вернуть ее обратно?"
 
 # game/script_jessie.rpy:573
 translate russian ch2j_03_e_fd64f4ba:
 
     # a "Me? No."
-    a ""
+    a "Я? Нет."
 
 # game/script_jessie.rpy:575
 translate russian ch2j_03_e_c6cc0a00:
 
     # a "But she can be lured and trapped. Is that how you want to woo your beloved?"
-    a ""
+    a "Но ее можно заманить в ловушку. Так ты хочешь добиться расположения своей возлюбленной?"
 
 # game/script_jessie.rpy:576
 translate russian ch2j_03_e_28f0c88d:
 
     # c "Stop being cavalier, Alana. I want to help her."
-    c ""
+    c "Перестань быть такой бесцеремонной, Алана. Я хочу помочь ей."
 
 # game/script_jessie.rpy:577
 translate russian ch2j_03_e_f1551d31:
 
     # a "Who decided she needs help? You?"
-    a ""
+    a "А кто решил, что ей нужна помощь? Ты?"
 
 # game/script_jessie.rpy:579
 translate russian ch2j_03_e_bb4f6dad:
 
     # a "Jessie needs to be free. Free to decide her own actions."
-    a ""
+    a "Джесси должна быть свободной. Свободной самой решать, что ей делать."
 
 # game/script_jessie.rpy:580
 translate russian ch2j_03_e_ed88124a:
 
     # c "I don't want to {i}change{/i} her. I just want to know she is safe."
-    c ""
+    c "Я не хочу {i}менять{i} её. Я лишь хочу знать, что она в безопасности."
 
 # game/script_jessie.rpy:581
 translate russian ch2j_03_e_f045ecd6:
 
     # "She pauses, thoughtfully."
-    ""
+    "Она замолкает в раздумьях."
 
 # game/script_jessie.rpy:583
 translate russian ch2j_03_e_6d81e212:
 
     # a "That was exactly the answer I was hoping for, Malcolm."
-    a ""
+    a "Это был как раз тот ответ, который я надеялась от тебя услышать, Мальком"
 
 # game/script_jessie.rpy:584
 translate russian ch2j_03_e_c94eae31:
 
     # "For as long as I had known her, beneath that placid exterior Alana had always seemed distant. Troubled."
-    ""
+    "Сколько я ее знал, под своей безмятежной внешностью Алана всегда казалась отстраненной. Беспокойной."
 
 # game/script_jessie.rpy:585
 translate russian ch2j_03_e_0dc65af8:
 
     # "But now, after all these years, something seemed to soften in her. I can see it in her eyes."
-    ""
+    "Но теперь, после стольких лет, что-то в ней, кажется, смягчилось. Я вижу это в её глазах."
 
 # game/script_jessie.rpy:586
 translate russian ch2j_03_e_7af1245a:
 
     # c "So you'll help me?"
-    c ""
+    c "Так ты поможешь мне?"
 
 # game/script_jessie.rpy:588
 translate russian ch2j_03_e_dc3f9c35:
 
     # a "You will help me."
-    a ""
+    a "Ты поможешь мне."
 
 # game/script_jessie.rpy:589
 translate russian ch2j_03_e_9bda5754:
