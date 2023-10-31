@@ -502,229 +502,229 @@ translate russian ch2j_02_b526995c:
 translate russian ch2j_02_6169c5f1:
 
     # "It is a long shot, I know. But I can't shake the thought of Jessie, alone or missing somewhere."
-    ""
+    "Шансов мало, я знаю. Но я не могу избавиться от мысли о Джесси, одинокой или пропавшей где-то"
 
 # game/script_jessie.rpy:237
 translate russian ch2j_02_ac84a9c3:
 
     # "The two look a bit taken aback by the disheveled man standing in front of them. But they recover quickly enough."
-    ""
+    "Вид растрёпанного мужчины, стоящего напротив, немного ошеломил этих двоих, но они достаточно быстро пришли в себя."
 
 # game/script_jessie.rpy:238
 translate russian ch2j_02_4ffcc20f:
 
     # v2 "No."
-    v2 ""
+    v2 "Нет."
 
 # game/script_jessie.rpy:239
 translate russian ch2j_02_445a36c6:
 
     # v1 "Not I."
-    v1 ""
+    v1 "Я Тоже."
 
 # game/script_jessie.rpy:240
 translate russian ch2j_02_8745eaec:
 
     # v2 "Why? Did you have an evening fling planned?"
-    v2 ""
+    v2 "А что? Ты запланировал перепихон на вечер?"
 
 # game/script_jessie.rpy:241
 translate russian ch2j_02_3498a944:
 
     # "The two laugh, but I don't join in."
-    ""
+    "Двоица засмеялась, но я к ним не присоединился"
 
 # game/script_jessie.rpy:242
 translate russian ch2j_02_20c4bac7:
 
     # c "I just would like to know where she is. My gran has been asking after her. Hasn't seen her in quite a long stretch."
-    c ""
+    c "Я просто хотел бы знать, где она. Моя Ба спрашивала о ней - не видела довольно долгое время,"
 
 # game/script_jessie.rpy:243
 translate russian ch2j_02_a57fd6bb:
 
     # c "That's all. Been worried more than anything."
-    c ""
+    c " только и всего. Волнуется сильнее, чем о чём-либо"
 
 # game/script_jessie.rpy:244
 translate russian ch2j_02_8130303b:
 
     # v1 "Well, sure. We can let 'ya know if we see her 'round. We can let her know you're calling after her."
-    v1 ""
+    v1 "Ладно, хорошо. Мы дадим те знать, если увидём её где-нить. И дадим ей знать, что ты её ищёшь"
 
 # game/script_jessie.rpy:245
 translate russian ch2j_02_b2984b71:
 
     # v2 "And your heart is broken that she stood you up!"
-    v2 ""
+    v2 "И что твоё сердце разбито от того, что она тебя продинамила!"
 
 # game/script_jessie.rpy:246
 translate russian ch2j_02_05b74c33:
 
     # "More laughter. It churns my stomach, even though I know they mean no harm."
-    ""
+    "Ещё больше смеха. Это сводит мне живот, хоть я и знаю, что у них нет цели меня оскорбить"
 
 # game/script_jessie.rpy:247
 translate russian ch2j_02_10be019e:
 
     # "I keep the pain inside. Thanking them, I turn around and start toward the door."
-    ""
+    "Я сдержал внутреннюю боль. Поблагодарив их, я развернулся и последовал к двери"
 
 # game/script_jessie.rpy:250
 translate russian ch2j_02_cc669ad3:
 
     # b "Ahoy, Malcolm!"
-    b ""
+    b "Хэй, Мальком"
 
 # game/script_jessie.rpy:251
 translate russian ch2j_02_fb236f17:
 
     # "I wish the owner hadn't spotted me. I'm still unclean from last night and smell like whisky."
-    ""
+    "Я молился, чтобы владелец бара не заметил меня. Я так и не помылся с прошлой ночи и пахну виски"
 
 # game/script_jessie.rpy:254
 translate russian ch2j_02_816b9365:
 
     # b "'Ya look a mess, Mr. Campbell. Can I get 'ya a tea? Coffee?"
-    b ""
+    b "Глядишься ужасно, мистер Кампбел. Могу сделать те чай? Кофе?"
 
 # game/script_jessie.rpy:259
 translate russian ch2j_02_f7745c54:
 
     # "I can't really turn him down. As much as I'd love to fall in a drunk heap at his feet, I know tea is my best bet right now."
-    ""
+    "На самом деле, я не могу ему отказать. Как бы мне не хотелось упасть напившейся свиньёй к его ногам, я знаю, что чай мой лучший выбор на данный момент"
 
 # game/script_jessie.rpy:260
 translate russian ch2j_02_9f19e2b0:
 
     # c "Tea, thank you. Just what I'd be needing about now."
-    c ""
+    c "Чай, спасибо. То, что мне бы сейчас не помешало"
 
 # game/script_jessie.rpy:263
 translate russian ch2j_02_5d29afa2:
 
     # "I can't really turn him down. As much as I'd love to fall in a drunk heap at his feet, I know coffee is my best bet right now."
-    ""
+    "На самом деле, я не могу ему отказать. Как бы мне не хотелось упасть напившейся свиньёй к его ногам, я знаю, что кофе мой лучший выбор на данный момент"
 
 # game/script_jessie.rpy:264
 translate russian ch2j_02_16c63e43:
 
     # c "Coffee, thank you. Just what I'd be needing about now."
-    c ""
+    c "Кофе, спасибо. То, что мне бы сейчас не помешало"
 
 # game/script_jessie.rpy:266
 translate russian ch2j_02_d19f855d:
 
     # c "..."
-    c ""
+    c "..."
 
 # game/script_jessie.rpy:267
 translate russian ch2j_02_cc14411b:
 
     # b "Are you all right, lad? Ought not take ya this much time to decide which bevvy you'd like in the mornin'. Not every decision should feel as though yer life depends on it!"
-    b ""
+    b "С тобой всё впорядке, парень? У тя не должно уходить столько времени, чтобы выбрать выпивку на утро. Не каждое решение должно восприниматься так, словно от него жизнь твоя зависит."
 
 # game/script_jessie.rpy:268
 translate russian ch2j_02_b154733e:
 
     # "I can't really turn him down. As much as I'd love to fall in a drunk heap at his feet, I know caffeine is my best bet right now."
-    ""
+    "На самом деле, я не могу с ним не согласиться. Как бы мне не хотелось упасть напившейся свиньёй к его ногам, я знаю, что кофе мой лучший выбор на данный момент"
 
 # game/script_jessie.rpy:272
 translate russian ch2j_02_9f19e2b0_1:
 
     # c "Tea, thank you. Just what I'd be needing about now."
-    c ""
+    c "Чай, спасибо. То, что мне бы сейчас не помешало"
 
 # game/script_jessie.rpy:275
 translate russian ch2j_02_16c63e43_1:
 
     # c "Coffee, thank you. Just what I'd be needing about now."
-    c ""
+    c "Кофе, спасибо. То, что мне бы сейчас не помешало"
 
 # game/script_jessie.rpy:278
 translate russian ch2j_02_b5466fc5:
 
     # b "I'll get you some brew, fresh off the stove."
-    b ""
+    b "Я принесу тебе немного заваренного, только что с плиты"
 
 # game/script_jessie.rpy:282
 translate russian ch2j_02_0f352bcf:
 
     # "I make a vain attempt to look presentable and take a seat."
-    ""
+    "Я предпринимаю тщетную попытку выглядеть презентабельно, и присаживаюсь"
 
 # game/script_jessie.rpy:287
 translate russian ch2j_02_a2f38ed8:
 
     # "He comes out with a kettle and pours me a mug full of steaming liquid. I blow on it briefly, trying not to look him in the eye."
-    ""
+    "Он приходит с чайником и наливает мне полную кружку дымящейся жидкости. Я медленно дую на неё, стараясь не смотреть Малькому в глаза"
 
 # game/script_jessie.rpy:288
 translate russian ch2j_02_fea76afd:
 
     # "I sense that he knows I shouldn't be out this time of the day, looking like I'd just left the pub; smelling like it, too."
-    ""
+    "Я чувствую, что он знает, что мне не следует выходить наружу в это время дня, выглядя так, будто я только что покинул паб; и так же пахнув."
 
 # game/script_jessie.rpy:289
 translate russian ch2j_02_9de48f31:
 
     # b "How about you? Did 'ya hear the wolf last night?"
-    b ""
+    b "А что насчёт тебя? Не слышал волка прошлой ночью?"
 
 # game/script_jessie.rpy:298
 translate russian ch2j_02_a_8ce61eb8:
 
     # "I nod."
-    ""
+    "Я кивнул."
 
 # game/script_jessie.rpy:299
 translate russian ch2j_02_a_e27980e5:
 
     # c "Saw it, too. Fearsome thing. Wish I had had my rifle."
-    c ""
+    c "Ещё и видел. Устрашающее зрелище. Хотел бы я иметь тогда свою винтовку."
 
 # game/script_jessie.rpy:301
 translate russian ch2j_02_a_0ecb5d9e:
 
     # b "Ah, and a fine thank you, but His Majesty's armoury will be holdin' onto that when 'ya come home. Was the same in my time."
-    b ""
+    b "Ох, огромное спасибо, но арсенал Его Величества придержит эт, когда ты отправишься домой. Было тоже самое в моё время."
 
 # game/script_jessie.rpy:302
 translate russian ch2j_02_a_df515b16:
 
     # "He leans in closer."
-    ""
+    "Он наклонился ниже"
 
 # game/script_jessie.rpy:304
 translate russian ch2j_02_a_d4e2f96c:
 
     # b "But a man needs a gun on the farm. If it's not wee beasties after your lambs, it's shifty-eyed bastards come to lighten your stocks."
-    b ""
+    b "Но мужику нужен ствол на ферме. Не мелкое зверьё за твоими ягнятами, так вороватые ублюдки прийдут, чтоб подчистить твои запасы"
 
 # game/script_jessie.rpy:306
 translate russian ch2j_02_a_181a4282:
 
     # b "These have been hard times. The village is hurtin', my boy. There's not enough to go around."
-    b ""
+    b "Это были тяжелые времена. Деревня получила повреждения, мой мальчик. Стволов на всех не хватало"
 
 # game/script_jessie.rpy:311
 translate russian ch2j_02_b_6a20a80d:
 
     # "I shake my head."
-    ""
+    "Я качаю голову"
 
 # game/script_jessie.rpy:312
 translate russian ch2j_02_b_c868c5b2:
 
     # c "Really, a wolf? Here?"
-    c ""
+    c "Действительно волк? Здесь?"
 
 # game/script_jessie.rpy:314
 translate russian ch2j_02_b_895b24ae:
 
     # "He nods and laughs."
-    ""
+    "Он кивнул и рассмеялся"
 
 # game/script_jessie.rpy:315
 translate russian ch2j_02_b_3d8422fc:
