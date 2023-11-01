@@ -574,7 +574,7 @@ translate russian ch2j_02_10be019e:
 translate russian ch2j_02_cc669ad3:
 
     # b "Ahoy, Malcolm!"
-    b "Хэй, Мальком!"
+    b "Хэй, Малькольм!"
 
 # game/script_jessie.rpy:251
 translate russian ch2j_02_fb236f17:
@@ -658,7 +658,7 @@ translate russian ch2j_02_0f352bcf:
 translate russian ch2j_02_a2f38ed8:
 
     # "He comes out with a kettle and pours me a mug full of steaming liquid. I blow on it briefly, trying not to look him in the eye."
-    "Он приходит с чайником и наливает мне полную кружку дымящейся жидкости. Я медленно дую на неё, стараясь не смотреть Малькому в глаза"
+    "Он приходит с чайником и наливает мне полную кружку дымящейся жидкости. Я медленно дую на неё, стараясь не смотреть Малькольмуу в глаза"
 
 # game/script_jessie.rpy:288
 translate russian ch2j_02_fea76afd:
@@ -796,7 +796,7 @@ translate russian ch2j_02_c_a4e0bd53:
 translate russian ch2j_02_c_29d748fe:
 
     # b "Malcolm, my boy."
-    b "Мальком, мальчик мой."
+    b "Малькольм, мальчик мой."
 
 # game/script_jessie.rpy:338
 translate russian ch2j_02_c_73b3dd42:
@@ -1084,7 +1084,7 @@ translate russian ch2j_03_33aa7bcd:
 translate russian ch2j_03_0202cc1b:
 
     # a "Malcolm! Please. You won't find her."
-    a "Мальком! Пожалуйста. Ты её не найдёшь."
+    a "Малькольм! Пожалуйста. Ты её не найдёшь."
 
 # game/script_jessie.rpy:454
 translate russian ch2j_03_f29bd01b:
@@ -1108,7 +1108,7 @@ translate russian ch2j_03_bdba852c:
 translate russian ch2j_03_00ce3bd3:
 
     # a "You need to listen to me, Malcolm. This is what I warned you about."
-    a "Ты должен выслушать меня, Мальком. Это то, о чём я тебя предупреждала."
+    a "Ты должен выслушать меня, Малькольм. Это то, о чём я тебя предупреждала."
 
 # game/script_jessie.rpy:458
 translate russian ch2j_03_655f1891:
@@ -1156,7 +1156,7 @@ translate russian ch2j_03_8ef9418f:
 translate russian ch2j_03_e745f042:
 
     # a "But your love is the wolf, Malcolm. Of this I have no doubt."
-    a "Но твоя любовь - волк, Мальком. Насчёт этого я не сомневаюсь."
+    a "Но твоя любовь - волк, Малькольм. Насчёт этого я не сомневаюсь."
 
 # game/script_jessie.rpy:483
 translate russian ch2j_03_837d7a47:
@@ -1450,7 +1450,7 @@ translate russian ch2j_03_e_f045ecd6:
 translate russian ch2j_03_e_6d81e212:
 
     # a "That was exactly the answer I was hoping for, Malcolm."
-    a "Это был как раз тот ответ, который я надеялась от тебя услышать, Мальком"
+    a "Это был как раз тот ответ, который я надеялась от тебя услышать, Малькольм"
 
 # game/script_jessie.rpy:584
 translate russian ch2j_03_e_c94eae31:
@@ -1732,7 +1732,7 @@ translate russian ch2j_04_c_e9fb2e83:
 translate russian ch2j_04_c_def0726d:
 
     # g "Malcolm! Is that you?"
-    g "Мальком! Это ты?"
+    g "Малькольм! Это ты?"
 
 # game/script_jessie.rpy:730
 translate russian ch2j_04_c_8eec251b:
@@ -1780,7 +1780,7 @@ translate russian ch2j_04_c_844f4567:
 translate russian ch2j_04_c_919e3587:
 
     # g "Malcolm."
-    g "Мальком."
+    g "Малькольм."
 
 # game/script_jessie.rpy:745
 translate russian ch2j_04_c_e81b6f4b:
@@ -1906,7 +1906,7 @@ translate russian ch2j_05_9c9d26de:
 translate russian ch2j_05_deba3062:
 
     # c "Gran, the strength of a soldier is matched entirely by your own strength, I assure you. Don't worry about me. I'm readjusting well enough—I am happy to be home."
-    c "Ба, уверяю тебя, сила солдата полностью соответствует твоей силе. Не беспокойся обо мне. Я достаточно хорошо приспосабливаюсь — я счастлив быть дома."
+    c "Ба, уверяю тебя, сила солдата полностью соответствует твоей собственной силе. Не беспокойся обо мне. Я достаточно хорошо приспосабливаюсь — я счастлив быть дома."
 
 # game/script_jessie.rpy:805
 translate russian ch2j_05_e9a1e94e:
@@ -1918,7 +1918,7 @@ translate russian ch2j_05_e9a1e94e:
 translate russian ch2j_05_7c40b5a5:
 
     # s "If you're to miss church again, Malcolm, please leave me a note on your pillow. Lest I worry. Or lest your name be added to the Whist club's next round of gossip."
-    s "Если ты снова пропустишь церковь, Мальком, пожалуйста, оставь мне записку на своей подушке. Чтобы я не волновалась. Или чтобы твоё имя не попало в следующий круг сплетен Вист-клуба."
+    s "Если ты снова пропустишь церковь, Малькольм, пожалуйста, оставь мне записку на своей подушке. Чтобы я не волновалась. Или чтобы твоё имя не попало в следующий круг сплетен Вист-клуба."
 
 # game/script_jessie.rpy:815
 translate russian ch2j_05_be902a2b:
