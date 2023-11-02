@@ -21,3 +21,11 @@ translate russian strings:
     old "__________________________________\n\nArt by Little Napoleon & Watsup\n\nWritten by Little Librarian, Little Napoleon\n\nMusic by CheasyDino & Guest Composer Transfurom\n\nCoded by Little Napoleon\n\nAdditional Writing by Vixyy Fox\n\nAdditional Editing by REDACTED\n\nLogo Design by TGWonder\n__________________________________\n\nMade possible by players like you!\n{a=http://www.changelingtale.com}Visit Our Website{/a}\n__________________________________"
     new ""
 
+# TODO: Translation updated at 2023-11-01 19:51
+
+translate russian strings:
+
+    # game/options.rpy:33
+    old "\n{image=GUIDivider.png}\n\n{color=#6d6d6d}{i}Art{/i} .......................... {/color}Little Napoleon, Watsup\n{color=#6d6d6d}{i}Writing{/i} ................. {/color}Little Librarian, Little Napoleon\n{color=#6d6d6d}{i}Music{/i} ..................... {/color}CheasyDino & Guest Composer Transfurom\n{color=#6d6d6d}{i}Code{/i} ....................... {/color}Little Napoleon\n{color=#6d6d6d}{i}Add'l Editing{/i} ...... {/color}REDACTED\n{color=#6d6d6d}{i}Logo Design{/i} ........ {/color}TGWonder\n\nMade possible by players like you!\n{a=http://www.changelingtale.com}Visit Our Website{/a}\n\n{image=GUIDivider.png}"
+    new ""
+

@@ -422,3 +422,15 @@ translate russian strings:
     old "[entry_bgmotorcar_unlocked:.00f]/1"
     new ""
 
+# TODO: Translation updated at 2023-11-01 19:51
+
+translate russian strings:
+
+    # game/screens_bg.rpy:795
+    old "\nSpinning wheels like this one are a common sight in a country where the sheep outnumber the people. The wheel stretches and twists wool fibers into the yarn used to make tweed, tartans and cloth. This wheel once saw much use by Agnes Campbell, who once spun through as much as two pounds of wool a day. Agnes joked she was a spinster... even after getting married.\n\nEventually the family drastically reduced their flock of sheep, having amassed too much wool and yarn. The proceeds from the sold sheep went toward the purchase of several {i}cotton{/i} outfits, after the family conceded that the wool, while warm, could be intolerably itchy.\n\n{image=ctc_anchored}"
+    new ""
+
+    # game/screens_bg.rpy:1352
+    old "\nWhile Fiona is Marion's beloved heifer and Gladys is Jessie's prize sow, the animal pair doesn't always see hoof to snout. Gladys prefers warm temperatures, and occasionally uses her nose to unlatch the pig pen gate and wriggle her way into the barn on snowy nights. Fiona tolerated the visitor as a piglet, but has made a point of mooing mournfully when girthy Gladys now shoves her way through the herd and nips at ankles to get the cows to let her sleep among them. Many a winter evening, Jessie has had to haul Gladys back out to her pen, covering her with house quilts, and leaving Marion to wonder why the linens so often smell of swine.\n\n{image=ctc_anchored}"
+    new ""
+

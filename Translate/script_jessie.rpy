@@ -6965,3 +6965,30643 @@ translate russian strings:
     # game/script_jessie.rpy:2562
     old "But their smiles remained serene. Two spirits, disregarding their anxieties in order to savor a union stronger than the disapproving opinions of others. It made my heart leap."
     new ""
+# TODO: Translation updated at 2023-11-01 19:51
+
+# game/script_jessie.rpy:2620
+translate russian ch3j_01_2e2c46f2:
+
+    # j "Don't dally! Come on, we're almost there!"
+    j ""
+
+# game/script_jessie.rpy:2622
+translate russian ch3j_01_fa7cac50:
+
+    # "I can barely catch my breath. We'd bolted from the Stag & Nanny like giddy schoolchildren—leaving Balgair bewildered—and have been running ever since."
+    ""
+
+# game/script_jessie.rpy:2623
+translate russian ch3j_01_647562dd:
+
+    # "It seems Jessie wasn't exaggerating about her recovery. She's full of energy, and it's a struggle to keep up with her... as ever."
+    ""
+
+# game/script_jessie.rpy:2625
+translate russian ch3j_01_6c5a0241:
+
+    # c "Almost {i}where?{/i}"
+    c ""
+
+# game/script_jessie.rpy:2626
+translate russian ch3j_01_8bd08501:
+
+    # "She skids to a stop at the top of a hill, graciously letting me catch up."
+    ""
+
+# game/script_jessie.rpy:2632
+translate russian ch3j_01_43f60111:
+
+    # j "...Here!"
+    j ""
+
+# game/script_jessie.rpy:2633
+translate russian ch3j_01_fa130945:
+
+    # "\"Here\" is a hill well outside of town, along the road to our farms... the hill she'd raced me to the top of just a few nights ago. The memories come flooding back."
+    ""
+
+# game/script_jessie.rpy:2634
+translate russian ch3j_01_e7fa1a8a:
+
+    # c "Ah, is that your game? Well, you won fair and square this time! So..."
+    c ""
+
+# game/script_jessie.rpy:2651
+translate russian ch3j_01_8b3689b3:
+
+    # "I plant a huge kiss on her mouth, and she eagerly accepts. We hold each other close until she abruptly pushes me away."
+    ""
+
+# game/script_jessie.rpy:2667
+translate russian ch3j_01_bb3c988c:
+
+    # j "Stop distracting me! I'm on a mission!"
+    j ""
+
+# game/script_jessie.rpy:2668
+translate russian ch3j_01_f0318f8b:
+
+    # c "A mission? Very well; we've taken the hill, Miss Jessie. What next?"
+    c ""
+
+# game/script_jessie.rpy:2669
+translate russian ch3j_01_857b64f9:
+
+    # "The excitement brewing in her is palpable. We've both gone through shock, horror, sadness, passion, and joy in scarcely the tick of an eye."
+    ""
+
+# game/script_jessie.rpy:2670
+translate russian ch3j_01_050c51b7:
+
+    # c "Maybe we should rest? I'm not sure how much more I can take!"
+    c ""
+
+# game/script_jessie.rpy:2672
+translate russian ch3j_01_a9cc48a6:
+
+    # j "{i}You{/i} don't need to do anything. Here... take a seat, Mr. Campbell. The show is starting... and Miss Jessie MacLeod is the opening act and main number!"
+    j ""
+
+# game/script_jessie.rpy:2676
+translate russian ch3j_01_da14724a:
+
+    # c "Eh? What are we doing?"
+    c ""
+
+# game/script_jessie.rpy:2681
+translate russian ch3j_01_97711afe:
+
+    # "Jessie shouts from afar."
+    ""
+
+# game/script_jessie.rpy:2683
+translate russian ch3j_01_1f32e560:
+
+    # j "We're practicing!"
+    j ""
+
+# game/script_jessie.rpy:2686
+translate russian ch3j_01_1927e9cd:
+
+    # "I can't help but laugh. This... this {i}what{/i}? My understanding of the world—{i}my{/i} world—is so far akilter, there can be no recovery."
+    ""
+
+# game/script_jessie.rpy:2687
+translate russian ch3j_01_5ae9693a:
+
+    # "Short of me waking up and being told this was all a dream, I have to just stay calm. Be aware. Accept reality... whatever that means."
+    ""
+
+# game/script_jessie.rpy:2689
+translate russian ch3j_01_463a6848:
+
+    # "How is Jessie managing to stay so composed? After all that trauma, and she's already eager to coax her wolf out so soon? That lass has pep!"
+    ""
+
+# game/script_jessie.rpy:2690
+translate russian ch3j_01_442d41e6:
+
+    # "I guess I can't blame her. I'd rather she be practiced too, in case another accident happens. The sooner, the better."
+    ""
+
+# game/script_jessie.rpy:2691
+translate russian ch3j_01_18b1f8f2:
+
+    # "I just hope Jessie has enough control over this not to hurt herself. Or for that matter, not to hurt {i}me{/i}."
+    ""
+
+# game/script_jessie.rpy:2693
+translate russian ch3j_01_ee4339cd:
+
+    # "A shiver runs through me as I think of those ferocious fangs bearing down upon me last night. She wouldn't... would she?"
+    ""
+
+# game/script_jessie.rpy:2694
+translate russian ch3j_01_c1cc7b8e:
+
+    # "The last thing I need is a werewolf bite. It'd be a bugger to tell Gran how I got {i}that{/i} tear in my shirt."
+    ""
+
+# game/script_jessie.rpy:2707
+translate russian ch3j_01_96305baf:
+
+    # "Jessie stands like a statue on top of the hill while I tuck my legs under, trying to get comfortable in the damp grass."
+    ""
+
+# game/script_jessie.rpy:2715
+translate russian ch3j_01_72d2da55:
+
+    # j "I'm going to make it happen!"
+    j ""
+
+# game/script_jessie.rpy:2716
+translate russian ch3j_01_e463b30c:
+
+    # c "I bet you will!"
+    c ""
+
+# game/script_jessie.rpy:2718
+translate russian ch3j_01_1c9cec4c:
+
+    # "Look at me, cheering her on when someone could come walking down the road at any moment. Perhaps Jessie's audaciousness is contagious. Her enthusiasm certainly is!"
+    ""
+
+# game/script_jessie.rpy:2719
+translate russian ch3j_01_dddc2aaf:
+
+    # "To watch her now is like watching a creature set free. She is at once wild and playful, running and spinning, looking full of eagerness and excitement..."
+    ""
+
+# game/script_jessie.rpy:2723
+translate russian ch3j_01_fa130813:
+
+    # "...until she can't change."
+    ""
+
+# game/script_jessie.rpy:2730
+translate russian ch3j_01_3dc58b72:
+
+    # j "Ugh. It's not working, Malcolm! What am I doing wrong?"
+    j ""
+
+# game/script_jessie.rpy:2738
+translate russian ch3j_01_7295fbcf:
+
+    # "I stand briefly, and tug on her dress straps."
+    ""
+
+# game/script_jessie.rpy:2739
+translate russian ch3j_01_ec33d919:
+
+    # c "That's probably one thing standing in your way."
+    c ""
+
+# game/script_jessie.rpy:2747
+translate russian ch3j_01_47a4d291:
+
+    # j "Oh? Oh!"
+    j ""
+
+# game/script_jessie.rpy:2755
+translate russian ch3j_01_fe6a7af8:
+
+    # "She smiles coyly, and with a pull of her dress, she begins to slip out of her \"work clothes.\""
+    ""
+
+# game/script_jessie.rpy:2756
+translate russian ch3j_01_01c0c240:
+
+    # "I swallow, glancing once more up and down the road, making sure that we are alone. Yes, mine are the only eyes witnessing this spectacle."
+    ""
+
+# game/script_jessie.rpy:2761
+translate russian ch3j_01_b40e6a90:
+
+    # j "That should be better?"
+    j ""
+
+# game/script_jessie.rpy:2762
+translate russian ch3j_01_8f084f54:
+
+    # "I drink in the view."
+    ""
+
+# game/script_jessie.rpy:2763
+translate russian ch3j_01_505bae0b:
+
+    # c "Much."
+    c ""
+
+# game/script_jessie.rpy:2773
+translate russian ch3j_01_b4d95640:
+
+    # "Jessie gets down on her hands and knees in the wet grass. She arches her back, closes her eyes, and begins to stretch her neck."
+    ""
+
+# game/script_jessie.rpy:2778
+translate russian ch3j_01_f626876f:
+
+    # "Tufts of fur begin to appear on her lower back. The fur spreads smoothly across her hips and thighs."
+    ""
+
+# game/script_jessie.rpy:2780
+translate russian ch3j_01_073118f2:
+
+    # "It's mesmerizing."
+    ""
+
+# game/script_jessie.rpy:2781
+translate russian ch3j_01_365a8f28:
+
+    # "It's... wrong? Isn't it?"
+    ""
+
+# game/script_jessie.rpy:2784
+translate russian ch3j_01_8461781f:
+
+    # "But... this is Jessie. A side of her I—{i}we{/i}—never knew, but a part of her nonetheless. And I want to accept Jessie for all that she is."
+    ""
+
+# game/script_jessie.rpy:2785
+translate russian ch3j_01_be7067c9:
+
+    # "...Can I?"
+    ""
+
+# game/script_jessie.rpy:2787
+translate russian ch3j_01_edcd9641:
+
+    # "But... in some ways, it's ever so right. So befitting a spitfire like Jessie—like it really was in her all along. Finally coming out and baring it all."
+    ""
+
+# game/script_jessie.rpy:2794
+translate russian ch3j_01_bc0c3838:
+
+    # "Jessie's body contorts and sways as her inner wolf breaks free. Her feet go up on their toes, elongate and raise her body by several inches."
+    ""
+
+# game/script_jessie.rpy:2800
+translate russian ch3j_01_dd422ed7:
+
+    # "The tail, so thick and lush, floats out and swings back and forth above her beautiful—"
+    ""
+
+# game/script_jessie.rpy:2807
+translate russian ch3j_01_56e70ef9:
+
+    # j "Awooooo!"
+    j ""
+
+# game/script_jessie.rpy:2808
+translate russian ch3j_01_8e75eb6d:
+
+    # "Jessie lets out a howl, head towards the sky, and I break out laughing."
+    ""
+
+# game/script_jessie.rpy:2811
+translate russian ch3j_01_fe6a7af8_1:
+
+    # "She smiles coyly, and with a pull of her dress, she begins to slip out of her \"work clothes.\""
+    ""
+
+# game/script_jessie.rpy:2813
+translate russian ch3j_01_32d7f646:
+
+    # j "Malcolm! Can a lady have a little privacy in which to change?"
+    j ""
+
+# game/script_jessie.rpy:2814
+translate russian ch3j_01_5c1337b0:
+
+    # c "Of course! Sorry."
+    c ""
+
+# game/script_jessie.rpy:2821
+translate russian ch3j_01_007c8cf7:
+
+    # "I swallow and avert my eyes; never mind the fact that she is undressing out in the open."
+    ""
+
+# game/script_jessie.rpy:2822
+translate russian ch3j_01_afa9562b:
+
+    # "A glance up and down the road confirms that no one else is around to witness the spectacle, at least."
+    ""
+
+# game/script_jessie.rpy:2825
+translate russian ch3j_01_8b8a145a:
+
+    # "I hear sounds coming from the brush behind me, and it takes every ounce of discipline not to look. Is her effort succeeding this time?"
+    ""
+
+# game/script_jessie.rpy:2826
+translate russian ch3j_01_fa29780b:
+
+    # "Should I even be {i}hoping{/i} she'll turn into some fanged creature? It's wrong... isn't it?"
+    ""
+
+# game/script_jessie.rpy:2829
+translate russian ch3j_01_8461781f_1:
+
+    # "But... this is Jessie. A side of her I—{i}we{/i}—never knew, but a part of her nonetheless. And I want to accept Jessie for all that she is."
+    ""
+
+# game/script_jessie.rpy:2830
+translate russian ch3j_01_be7067c9_1:
+
+    # "...Can I?"
+    ""
+
+# game/script_jessie.rpy:2832
+translate russian ch3j_01_edcd9641_1:
+
+    # "But... in some ways, it's ever so right. So befitting a spitfire like Jessie—like it really was in her all along. Finally coming out and baring it all."
+    ""
+
+# game/script_jessie.rpy:2838
+translate russian ch3j_01_56e70ef9_1:
+
+    # j "Awooooo!"
+    j ""
+
+# game/script_jessie.rpy:2839
+translate russian ch3j_01_9b908c08:
+
+    # "Jessie lets out a howl, and I can contain my curiosity no longer."
+    ""
+
+# game/script_jessie.rpy:2852
+translate russian ch3j_01_bd331fbb:
+
+    # "Jessie stands in a thicket, her head towards the sky, and I break out laughing."
+    ""
+
+# game/script_jessie.rpy:2854
+translate russian ch3j_01_cbb6ad07:
+
+    # c "It's not even a full moon!"
+    c ""
+
+# game/script_jessie.rpy:2863
+translate russian ch3j_01_08d93a13:
+
+    # j "Just picture me when it is, Malcolm!"
+    j ""
+
+# game/script_jessie.rpy:2866
+translate russian ch3j_01_02b89734:
+
+    # "And I do."
+    ""
+
+# game/script_jessie.rpy:2867
+translate russian ch3j_01_9b151b7f:
+
+    # "Even with her naked and writhing before me, I can't help but imagine her even more seductive. Were we to make love again soon, I fear she would eat me alive..."
+    ""
+
+# game/script_jessie.rpy:2870
+translate russian ch3j_01_4a3df044:
+
+    # "...Or rather, maybe I didn't fear that at all."
+    ""
+
+# game/script_jessie.rpy:2871
+translate russian ch3j_01_7c9d5d7b:
+
+    # "My brain is a foggy haze of fantasies I didn't know existed deep within me."
+    ""
+
+# game/script_jessie.rpy:2872
+translate russian ch3j_01_c4bf9a0f:
+
+    # "But here they are."
+    ""
+
+# game/script_jessie.rpy:2887
+translate russian ch3j_01_740b9540:
+
+    # "Jessie's visage takes on one of a sultry animal, licking her muzzle, and tossing her hair off her eyes. She gains hold of my gaze, stands erect, and makes her way back over to me."
+    ""
+
+# game/script_jessie.rpy:2888
+translate russian ch3j_01_2c92b07d:
+
+    # j "Malcolm... I'm coming for you..."
+    j ""
+
+# game/script_jessie.rpy:2889
+translate russian ch3j_01_537458e8:
+
+    # "She speaks in a low, deep voice. I chuckle."
+    ""
+
+# game/script_jessie.rpy:2890
+translate russian ch3j_01_1ac1e3c0:
+
+    # c "Are you going to huff, and puff, and—"
+    c ""
+
+# game/script_jessie.rpy:2909
+translate russian ch3j_01_2ee6761c:
+
+    # "I watch as she wraps her sash around her body in a manner that hardly preserves any sense of modesty."
+    ""
+
+# game/script_jessie.rpy:2910
+translate russian ch3j_01_740b9540_1:
+
+    # "Jessie's visage takes on one of a sultry animal, licking her muzzle, and tossing her hair off her eyes. She gains hold of my gaze, stands erect, and makes her way back over to me."
+    ""
+
+# game/script_jessie.rpy:2911
+translate russian ch3j_01_2c92b07d_1:
+
+    # j "Malcolm... I'm coming for you..."
+    j ""
+
+# game/script_jessie.rpy:2912
+translate russian ch3j_01_537458e8_1:
+
+    # "She speaks in a low, deep voice. I chuckle."
+    ""
+
+# game/script_jessie.rpy:2913
+translate russian ch3j_01_1ac1e3c0_1:
+
+    # c "Are you going to huff, and puff, and—"
+    c ""
+
+# game/script_jessie.rpy:2925
+translate russian ch3j_01_97bfda5c:
+
+    # "But as she takes her first step as a wolf, her balance is ungainly, and she wobbles to and fro."
+    ""
+
+# game/script_jessie.rpy:2938
+translate russian ch3j_01_239761e8:
+
+    # "I leap over to catch her, getting my arms under hers just as she is about to hit the ground."
+    ""
+
+# game/script_jessie.rpy:2956
+translate russian ch3j_01_bac8c4f8:
+
+    # j "Oh, my! Thank you!"
+    j ""
+
+# game/script_jessie.rpy:2957
+translate russian ch3j_01_0231a610:
+
+    # c "That's what I'm here for!"
+    c ""
+
+# game/script_jessie.rpy:2965
+translate russian ch3j_01_7c189e3c:
+
+    # "She holds that steady gaze, and clings tighter to me as the wind atop our hill kicks up. Her fuzzy body rolls right under my hands."
+    ""
+
+# game/script_jessie.rpy:2966
+translate russian ch3j_01_ad908abd:
+
+    # j "I hope that's not all you're here for..."
+    j ""
+
+# game/script_jessie.rpy:2983
+translate russian ch3j_01_ecb30780:
+
+    # "We kiss again, and that wet nose grazes my cheek. The intensity of tasting her new deep, earthy flavor, or running my tongue along her honed teeth... it's like drinking whisky for the first time."
+    ""
+
+# game/script_jessie.rpy:2985
+translate russian ch3j_01_36e24768:
+
+    # "Everything else fades away. I crave the heat... the intoxication."
+    ""
+
+# game/script_jessie.rpy:2986
+translate russian ch3j_01_60ebe225:
+
+    # "My hands follow the lines of her curves, sliding lower and lower, until..."
+    ""
+
+# game/script_jessie.rpy:3016
+translate russian ch3j_01_c243d5d4:
+
+    # "Jessie pulls away, quickly hiding behind me."
+    ""
+
+# game/script_jessie.rpy:3017
+translate russian ch3j_01_4c9b242e:
+
+    # c "What's wrong—gah!"
+    c ""
+
+# game/script_jessie.rpy:3030
+translate russian ch3j_01_42605b9c:
+
+    # a "Jessie. I believe you lost something."
+    a ""
+
+# game/script_jessie.rpy:3031
+translate russian ch3j_01_b7946707:
+
+    # "A snout pokes out from behind me."
+    ""
+
+# game/script_jessie.rpy:3032
+translate russian ch3j_01_c479b3bf:
+
+    # j "Mi— Miss Alana! I don't know what happened."
+    j ""
+
+# game/script_jessie.rpy:3034
+translate russian ch3j_01_ece98702:
+
+    # "Alana doesn't even attempt to look convinced."
+    ""
+
+# game/script_jessie.rpy:3035
+translate russian ch3j_01_81b2a165:
+
+    # a "Oh, I know what happened."
+    a ""
+
+# game/script_jessie.rpy:3036
+translate russian ch3j_01_2e5d03f7:
+
+    # "She eyes me up and down, while Jessie clings tightly to my waist."
+    ""
+
+# game/script_jessie.rpy:3037
+translate russian ch3j_01_3c9a1c20:
+
+    # a "I warned you both. I can't help you anymore if this is to continue."
+    a ""
+
+# game/script_jessie.rpy:3056
+translate russian ch3j_01_9470702b:
+
+    # "Alana stuffs the red dress into my open palms."
+    ""
+
+# game/script_jessie.rpy:3057
+translate russian ch3j_01_9d4928a8:
+
+    # a "It's all in your hands now."
+    a ""
+
+# game/script_jessie.rpy:3058
+translate russian ch3j_01_288e6a33:
+
+    # "Jessie grabs the dress from me, and slips it back on. It makes her decent, but no less furry. She steps out to face her accuser."
+    ""
+
+# game/script_jessie.rpy:3065
+translate russian ch3j_01_0b0360a1:
+
+    # j "I... I'll be fine, Miss Alana. I know I will."
+    j ""
+
+# game/script_jessie.rpy:3067
+translate russian ch3j_01_537f06f4:
+
+    # a "You only know what you believe to be true. You need to live more to realize that what you {i}want{/i} to be true isn't always what shall be."
+    a ""
+
+# game/script_jessie.rpy:3069
+translate russian ch3j_01_b380b0f8:
+
+    # c "Alana, this is Jessie... as she is now. Her decisions are up to her."
+    c ""
+
+# game/script_jessie.rpy:3071
+translate russian ch3j_01_933784db:
+
+    # a "You're right, and I won't meddle. Just know your safety isn't dependent on your happiness. It's dependent on your ability to forego joy for rationality."
+    a ""
+
+# game/script_jessie.rpy:3073
+translate russian ch3j_01_7ebd849a:
+
+    # "What the hell kind of nonsense is that?"
+    ""
+
+# game/script_jessie.rpy:3076
+translate russian ch3j_01_4e969db0:
+
+    # j "I don't know what to say. There's just... so much... I only want to live my life. Please, let me be."
+    j ""
+
+# game/script_jessie.rpy:3078
+translate russian ch3j_01_046d82ea:
+
+    # "I keep quiet, silently absorbing Alana's message. I want Jessie to speak for herself."
+    ""
+
+# game/script_jessie.rpy:3079
+translate russian ch3j_01_0b583ccf:
+
+    # "There's truth to Alana's threat, though. Jessie can be happy, or she can be safe. I don't know if there is a middle ground yet."
+    ""
+
+# game/script_jessie.rpy:3081
+translate russian ch3j_01_f8b5ad36:
+
+    # a "I'll be going. I'll leave you be. Just know that I found you as easily as any villager could. Any child, any parishioner, any drunk publican with a gun."
+    a ""
+
+# game/script_jessie.rpy:3083
+translate russian ch3j_01_80b4c20e:
+
+    # "Jessie inhales sharply, but has no response. We both know Alana is right on this account."
+    ""
+
+# game/script_jessie.rpy:3086
+translate russian ch3j_01_3c0d6383:
+
+    # "I notice that despite wearing the dress, no part of her is reverting back to human. If Alana is provoking her, heightening Jessie's emotions, how will she be able to return to normal?"
+    ""
+
+# game/script_jessie.rpy:3088
+translate russian ch3j_01_b63f6856:
+
+    # "I notice that despite wearing the dress, no part of her is reverting back to human. If Alana is provoking her, heightening Jessie's emotions, how will she be able to regain her other identity?"
+    ""
+
+# game/script_jessie.rpy:3091
+translate russian ch3j_01_2ecab575:
+
+    # a "I say all this because I care for you, Jessie. I don't want a world of fantasies to cloud your vision. You can have a long and beautiful life."
+    a ""
+
+# game/script_jessie.rpy:3093
+translate russian ch3j_01_af9e9c2c:
+
+    # "Alana looks from Jessie to me."
+    ""
+
+# game/script_jessie.rpy:3094
+translate russian ch3j_01_a5a83eb4:
+
+    # a "One that is filled with love."
+    a ""
+
+# game/script_jessie.rpy:3097
+translate russian ch3j_01_3ab0bb80:
+
+    # "She starts off down the hill, then turns."
+    ""
+
+# game/script_jessie.rpy:3102
+translate russian ch3j_01_bd3d2ae3:
+
+    # a "Jessie. Consider your actions."
+    a ""
+
+# game/script_jessie.rpy:3109
+translate russian ch3j_01_9c5336ef:
+
+    # "We watch her disappear below the edge of land, and turn to each other."
+    ""
+
+# game/script_jessie.rpy:3115
+translate russian ch3j_01_6463770c:
+
+    # j "\"Consider your actions!\" Can't you believe her? An' I thought Marion was bad, sticking her nose into others' business!"
+    j ""
+
+# game/script_jessie.rpy:3116
+translate russian ch3j_01_e1aa957e:
+
+    # "I don't mention that Alana saved her life last night."
+    ""
+
+# game/script_jessie.rpy:3117
+translate russian ch3j_01_34af1237:
+
+    # c "I think she's just looking out for you. She's worried. Honestly, you know I am, too."
+    c ""
+
+# game/script_jessie.rpy:3119
+translate russian ch3j_01_f021c1e4:
+
+    # j "I know that! I do."
+    j ""
+
+# game/script_jessie.rpy:3122
+translate russian ch3j_01_b3774013:
+
+    # j "But I can't fight who I am. I've made a decision. I have to be myself! It would be even more painful to hide than to embrace who I am. You must understand that, Malcolm."
+    j ""
+
+# game/script_jessie.rpy:3125
+translate russian ch3j_01_8a0b037a:
+
+    # "She pleads with me, simply with her wide, puppy eyes."
+    ""
+
+# game/script_jessie.rpy:3126
+translate russian ch3j_01_0ee2a260:
+
+    # j "Imagine being told you can't be...{i}you{/i}."
+    j ""
+
+# game/script_jessie.rpy:3128
+translate russian ch3j_01_ab852d75:
+
+    # c "It's all right. I am trying to understand. Neither one of us knows how to deal with this. Remember? We're learning."
+    c ""
+
+# game/script_jessie.rpy:3141
+translate russian ch3j_01_9c413708:
+
+    # "Jessie seemingly ignores the exchange with Alana, and rips her dress back off. She proceeds to run free among the crag rock and thin rows of scrub."
+    ""
+
+# game/script_jessie.rpy:3146
+translate russian ch3j_01_7cc92f23:
+
+    # "Jessie seemingly ignores the exchange with Alana, and proceeds to run free among the crag rock and thin rows of scrub."
+    ""
+
+# game/script_jessie.rpy:3147
+translate russian ch3j_01_bb888002:
+
+    # "I shake my head, and decide I can best help by keeping an eye out for other unwelcome visitors."
+    ""
+
+# game/script_jessie.rpy:3148
+translate russian ch3j_01_3d7e4bce:
+
+    # "The last thing we need is for Grace to come wandering back from the loch to find her sister following scent trails and rolling in... who knows what."
+    ""
+
+# game/script_jessie.rpy:3149
+translate russian ch3j_01_c186c9bf:
+
+    # "...Is this still {i}practice{/i}? Or has she simply given into instinct? Even on two legs, she acts like a sheepdog exploring a new paddock."
+    ""
+
+# game/script_jessie.rpy:3151
+translate russian ch3j_01_4e532cc5:
+
+    # "I let her be. She deserves an afternoon to unwind, after everything... and so do I."
+    ""
+
+# game/script_jessie.rpy:3152
+translate russian ch3j_01_1427e7bf:
+
+    # "An afternoon free of advice, of injury, of questions..."
+    ""
+
+# game/script_jessie.rpy:3153
+translate russian ch3j_01_eaa90fb4:
+
+    # "I check myself. Yes, the questions are tiresome, but I could do with more answers. Or at least another dram of Balgair's special label whisky."
+    ""
+
+# game/script_jessie.rpy:3155
+translate russian ch3j_01_739d054c:
+
+    # "Part of me wants to interrogate Jessie, or even Alana, to satisfy my own curiosity. Another part doesn't want to upset or anger either one... not knowing the consequences."
+    ""
+
+# game/script_jessie.rpy:3156
+translate russian ch3j_01_b20030ba:
+
+    # "The volume of questions I have for them both, though, gets larger by the moment. But as I watch Jessie unleash her inner wild creature, I hold my tongue."
+    ""
+
+# game/script_jessie.rpy:3157
+translate russian ch3j_01_de4c10ba:
+
+    # "All in due time. Whit's fur ye, Malcolm, I remind myself."
+    ""
+
+# game/script_jessie.rpy:3170
+translate russian ch3j_01_9890d7ea:
+
+    # "Jessie finally comes back to me, panting."
+    ""
+
+# game/script_jessie.rpy:3173
+translate russian ch3j_01_1efcedde:
+
+    # j "Hey! What'cha doin' with my dress?"
+    j ""
+
+# game/script_jessie.rpy:3174
+translate russian ch3j_01_d6e546f0:
+
+    # "I look down, not realizing I'd been wringing it so tightly in my fists."
+    ""
+
+# game/script_jessie.rpy:3178
+translate russian ch3j_01_72313651:
+
+    # j "Hey! Everything all right?"
+    j ""
+
+# game/script_jessie.rpy:3179
+translate russian ch3j_01_bbe847b7:
+
+    # "I look down, not realizing I'd been wringing my hands."
+    ""
+
+# game/script_jessie.rpy:3181
+translate russian ch3j_01_f166141d:
+
+    # j "We're having fun, right?"
+    j ""
+
+# game/script_jessie.rpy:3182
+translate russian ch3j_01_521154c1:
+
+    # "Jessie looks down at where I sit, and I notice her face is mostly back to human, but little wolf ears twitch above her head as she winks."
+    ""
+
+# game/script_jessie.rpy:3183
+translate russian ch3j_01_1d2c0f48:
+
+    # c "Yes. Fun... yes, of course."
+    c ""
+
+# game/script_jessie.rpy:3192
+translate russian ch3j_01_c649fab2:
+
+    # j "Hey, don't worry too much about what Alana said."
+    j ""
+
+# game/script_jessie.rpy:3193
+translate russian ch3j_01_a244fab3:
+
+    # c "Somehow, I just can't help it."
+    c ""
+
+# game/script_jessie.rpy:3196
+translate russian ch3j_01_53ad007f:
+
+    # j "Well... look at me! Look what I was able to do, even without those rags!"
+    j ""
+
+# game/script_jessie.rpy:3231
+translate russian ch3j_01_ad1f86ff:
+
+    # "She spins around, half-human, before taking the dress from me, slipping it back on, and sitting across from me like an expectant puppy."
+    ""
+
+# game/script_jessie.rpy:3234
+translate russian ch3j_01_8760f4ed:
+
+    # j "Well... look at me! Look what I was able to do, all by myself!"
+    j ""
+
+# game/script_jessie.rpy:3236
+translate russian ch3j_01_427087cc:
+
+    # c "I'm very proud of you, Jessie!"
+    c ""
+
+# game/script_jessie.rpy:3238
+translate russian ch3j_01_76286e21:
+
+    # j "Ya are? I mean, it's a start."
+    j ""
+
+# game/script_jessie.rpy:3251
+translate russian ch3j_01_8fc60f9c:
+
+    # "She closes her eyes, concentrates, and I watch as she tries to finish the transformation. Her fur begins to recede... but then it stops, quivers, and I can see her brow furrow."
+    ""
+
+# game/script_jessie.rpy:3264
+translate russian ch3j_01_0a907904:
+
+    # "I reach out and take her hand in mine. Once again, I feel energy reverberating around us, between us. I try to clear my mind."
+    ""
+
+# game/script_jessie.rpy:3266
+translate russian ch3j_01_df64ca94:
+
+    # "A calm breeze whisks across the grass. Jessie seems to glow in the light of the slowly setting sun."
+    ""
+
+# game/script_jessie.rpy:3280
+translate russian ch3j_01_1e47daef:
+
+    # "Her eyelids flutter open, and she blushes."
+    ""
+
+# game/script_jessie.rpy:3283
+translate russian ch3j_01_8cc621f5:
+
+    # j "You know... Alana says a lot of things."
+    j ""
+
+# game/script_jessie.rpy:3284
+translate russian ch3j_01_7192d0ed:
+
+    # c "Boy, don't I know."
+    c ""
+
+# game/script_jessie.rpy:3286
+translate russian ch3j_01_db82d7f9:
+
+    # j "She's been telling me {i}things{/i} for years."
+    j ""
+
+# game/script_jessie.rpy:3290
+translate russian ch3j_01_8e5bfbe7:
+
+    # "Jessie draws circles on my trousers with her fingernails. I feel them through the cloth, still sharp as claws."
+    ""
+
+# game/script_jessie.rpy:3291
+translate russian ch3j_01_2523979e:
+
+    # j "She told me to stay away from you years ago... more than once, even."
+    j ""
+
+# game/script_jessie.rpy:3292
+translate russian ch3j_01_e046ad36:
+
+    # "My heart stops."
+    ""
+
+# game/script_jessie.rpy:3293
+translate russian ch3j_01_feb57c76:
+
+    # c "Wait. What? What do you mean?"
+    c ""
+
+# game/script_jessie.rpy:3296
+translate russian ch3j_01_1d37907a:
+
+    # j "Malcolm... I... I've had {i}feelings{/i} for you for a long time. Strong feelings."
+    j ""
+
+# game/script_jessie.rpy:3298
+translate russian ch3j_01_4e24c2ca:
+
+    # c "Really?"
+    c ""
+
+# game/script_jessie.rpy:3299
+translate russian ch3j_01_6876794f:
+
+    # "How did I miss the signs? I'm denser than Balgair's haggis balls!"
+    ""
+
+# game/script_jessie.rpy:3301
+translate russian ch3j_01_5d1764bc:
+
+    # j "I never let it show... to you, I guess. But Miss Alana somehow sensed it. She stopped me after class when we were children. She told me..."
+    j ""
+
+# game/script_jessie.rpy:3309
+translate russian ch3j_01_4269afd9:
+
+    # "Jessie cuddles in closer to me, and I stroke her back, to let her know I'm listening keenly."
+    ""
+
+# game/script_jessie.rpy:3310
+translate russian ch3j_01_4e45e252:
+
+    # j "Malcolm, I always resented Alana for wanting to hold me back. For trying to protect me and keep me from leaving the town."
+    j ""
+
+# game/script_jessie.rpy:3312
+translate russian ch3j_01_c4432039:
+
+    # j "Now I don't know what to think. She was trying to protect me from myself, but she kept all of this a secret."
+    j ""
+
+# game/script_jessie.rpy:3313
+translate russian ch3j_01_61d74e84:
+
+    # c "What did she tell you, all those years ago?"
+    c ""
+
+# game/script_jessie.rpy:3315
+translate russian ch3j_01_e501ff21:
+
+    # j "She said that I could be friends with you... but nothing more. She didn't just say it, though. It was as if it were a command."
+    j ""
+
+# game/script_jessie.rpy:3317
+translate russian ch3j_01_492e7d3b:
+
+    # c "Something to obey."
+    c ""
+
+# game/script_jessie.rpy:3318
+translate russian ch3j_01_3f2accf7:
+
+    # "I know this side of Alana all too well."
+    ""
+
+# game/script_jessie.rpy:3320
+translate russian ch3j_01_3f8edc01:
+
+    # j "It made no sense at the time. I didn't know what to think, so I just... I pushed away those feelings. I pretended you meant nothing more than any other friend I had at the time. But..."
+    j ""
+
+# game/script_jessie.rpy:3322
+translate russian ch3j_01_5c2061b7:
+
+    # "I continue to rub her back, urging her to continue, but nervous about what she is revealing. Has she truly harbored these emotions for me for all these years?"
+    ""
+
+# game/script_jessie.rpy:3324
+translate russian ch3j_01_0683dbbb:
+
+    # j "I thought four years was long enough. Enough time and distance between us that what I felt when I was near you... I thought it would go away forever."
+    j ""
+
+# game/script_jessie.rpy:3325
+translate russian ch3j_01_596fd688:
+
+    # j "But, that night at the pub. When I saw you again... that night you returned home..."
+    j ""
+
+# game/script_jessie.rpy:3328
+translate russian ch3j_01_3829a71f:
+
+    # j "Malcolm, all those feelings, those hidden desires, they all came rushing back. Nothing at all had changed. Every ounce of me felt alive again. I wanted to be with you."
+    j ""
+
+# game/script_jessie.rpy:3340
+translate russian ch3j_01_09bfaec2:
+
+    # "She bites her lower lip, and holds her breath. She lifts herself, and wraps her arms tightly around my back."
+    ""
+
+# game/script_jessie.rpy:3341
+translate russian ch3j_01_ab2088c6:
+
+    # j "I still want to be with you."
+    j ""
+
+# game/script_jessie.rpy:3343
+translate russian ch3j_01_578d1a7f:
+
+    # "Her admission leaves me speechless. All those years? Those times we spent running around the hills and cliffs? She was feeling that way... towards me?"
+    ""
+
+# game/script_jessie.rpy:3344
+translate russian ch3j_01_3ad87bcf:
+
+    # "How could I have never sensed it? I struggle for words."
+    ""
+
+# game/script_jessie.rpy:3346
+translate russian ch3j_01_79999389:
+
+    # c "Jessie... thank you for telling me. I wish I had known earlier, but... I'm beyond pleased to know now. I can only apologize, for not picking up on your feelings so many years past."
+    c ""
+
+# game/script_jessie.rpy:3347
+translate russian ch3j_01_8e50f77b:
+
+    # "I return her hug, and run my fingers through her hair."
+    ""
+
+# game/script_jessie.rpy:3348
+translate russian ch3j_01_d8cd7fd6:
+
+    # c "Maybe I hid those emotions away inside myself, as well. I've never felt this way towards another woman. Ever. I didn't think it was possible."
+    c ""
+
+# game/script_jessie.rpy:3350
+translate russian ch3j_01_306efa6b:
+
+    # c "I'm especially sorry I didn't recognize you when I returned. I sincerely wish I had."
+    c ""
+
+# game/script_jessie.rpy:3351
+translate russian ch3j_01_52299daf:
+
+    # j "It's fine! I do look a bit different! Apparently I didn't know who I was, either!"
+    j ""
+
+# game/script_jessie.rpy:3352
+translate russian ch3j_01_f9be110d:
+
+    # "Jessie's smile is faint but present. I lean in for a kiss."
+    ""
+
+# game/script_jessie.rpy:3353
+translate russian ch3j_01_e3504d2b:
+
+    # c "Let me try to make it up to you. I want to keep showing you my feelings for you, not just saying it. My desire now is for your friendship... and more than your friendship."
+    c ""
+
+# game/script_jessie.rpy:3354
+translate russian ch3j_01_ed8333be:
+
+    # "Her cheeks turn red."
+    ""
+
+# game/script_jessie.rpy:3365
+translate russian ch3j_01_d0fa8a7b:
+
+    # j "I'm so embarrassed! I shouldn't have said anything!"
+    j ""
+
+# game/script_jessie.rpy:3366
+translate russian ch3j_01_016be488:
+
+    # c "Of course you should have. I appreciate it!"
+    c ""
+
+# game/script_jessie.rpy:3368
+translate russian ch3j_01_6d292f5e:
+
+    # j "I only wanted you to know that the way I feel towards you isn't as sudden as it may seem."
+    j ""
+
+# game/script_jessie.rpy:3370
+translate russian ch3j_01_ed7b5d31:
+
+    # j "That... longing has been inside me for a long time. It's been building and building, no matter how hard I have tried to suppress it."
+    j ""
+
+# game/script_jessie.rpy:3372
+translate russian ch3j_01_c854a091:
+
+    # j "I know that Alana wants me to stay away from you, but I can't. I won't. Not now."
+    j ""
+
+# game/script_jessie.rpy:3373
+translate russian ch3j_01_424c433a:
+
+    # c "We'll be all right. We'll make it work."
+    c ""
+
+# game/script_jessie.rpy:3375
+translate russian ch3j_01_37957f59:
+
+    # j "Please. That's all I want."
+    j ""
+
+# game/script_jessie.rpy:3376
+translate russian ch3j_01_a02feb2e:
+
+    # c "Don't be silly! You want more than me. You deserve more than that!"
+    c ""
+
+# game/script_jessie.rpy:3378
+translate russian ch3j_01_c7693848:
+
+    # j "You're right. I know that. But having you here with me. It's a dream. One I don't want to wake from."
+    j ""
+
+# game/script_jessie.rpy:3380
+translate russian ch3j_01_5e76ce9e:
+
+    # "She looks off for a moment."
+    ""
+
+# game/script_jessie.rpy:3382
+translate russian ch3j_01_24dd300d:
+
+    # j "Oh, my! The time!"
+    j ""
+
+# game/script_jessie.rpy:3383
+translate russian ch3j_01_4d2b5155:
+
+    # "It's then I too notice the sun setting on the horizon."
+    ""
+
+# game/script_jessie.rpy:3385
+translate russian ch3j_01_b9ba2cce:
+
+    # j "If I'm staying in town, I can't lose my job! And I'll need to eat before I go back on stage tonight. All this exercise is making my tummy growl."
+    j ""
+
+# game/script_jessie.rpy:3398
+translate russian ch3j_01_9f43c1e6:
+
+    # "I'm glad it's coming from her tummy and not her throat. She stands, brushes grass off of her dress, and takes my hand, yanking me to my feet."
+    ""
+
+# game/script_jessie.rpy:3399
+translate russian ch3j_01_7ed60048:
+
+    # c "So, you're definitely staying?"
+    c ""
+
+# game/script_jessie.rpy:3401
+translate russian ch3j_01_7e26f579:
+
+    # "She kisses me on the nose, and winks."
+    ""
+
+# game/script_jessie.rpy:3402
+translate russian ch3j_01_70322090:
+
+    # j "Yes, Mr. Campbell. At least for one more night..."
+    j ""
+
+# game/script_jessie.rpy:3403
+translate russian ch3j_01_7dc366b6:
+
+    # c "I'll accompany you, then."
+    c ""
+
+# game/script_jessie.rpy:3405
+translate russian ch3j_01_ce1f51c1:
+
+    # j "No need—I'll be fine. Get back to Agnes. She must wonder where you disappear to so often."
+    j ""
+
+# game/script_jessie.rpy:3406
+translate russian ch3j_01_a0ed9870:
+
+    # c "Oh, she has a fairly good idea, Jessie. It's a quiet town... with very loud gossip."
+    c ""
+
+# game/script_jessie.rpy:3408
+translate russian ch3j_01_cabaddfa:
+
+    # j "And what would they say if you were to follow me in and out of the Stag & Nanny at all hours, like some stray pup?"
+    j ""
+
+# game/script_jessie.rpy:3410
+translate russian ch3j_01_f8b48f69:
+
+    # j "Besides, my tip jar won't fill if I have an admirer lingering at the stage. Especially one as tough and strong as you!"
+    j ""
+
+# game/script_jessie.rpy:3411
+translate russian ch3j_01_a3ccfb1b:
+
+    # "I snort, and squeeze my own muscles."
+    ""
+
+# game/script_jessie.rpy:3412
+translate russian ch3j_01_e30c10ff:
+
+    # c "Aye! Tough enough to wrestle a wolf!"
+    c ""
+
+# game/script_jessie.rpy:3414
+translate russian ch3j_01_07cba5ba:
+
+    # j "How about a vixen?"
+    j ""
+
+# game/script_jessie.rpy:3428
+translate russian ch3j_01_323e13b5:
+
+    # "Jessie lets her ears out, and jumps into my arms. I spin her in circles, stealing a few more kisses before setting her down and tugging the tips of those fluffy ears."
+    ""
+
+# game/script_jessie.rpy:3433
+translate russian ch3j_01_0c54c77c:
+
+    # c "Tuck those away, Miss MacLeod. Wouldn't want to make the other lasses jealous!"
+    c ""
+
+# game/script_jessie.rpy:3434
+translate russian ch3j_01_da0c210b:
+
+    # j "Whatever you say, Mr. Campbell."
+    j ""
+
+# game/script_jessie.rpy:3445
+translate russian ch3j_01_bfd99665:
+
+    # "She winks as the ears slowly change back to human, without trouble. She blows another kiss as we part ways, sending me in a reverie the whole way down the hill."
+    ""
+
+# game/script_jessie.rpy:3469
+translate russian ch3j_02_62d9e562:
+
+    # "I walk home, once again in a stupor. This time intoxicated by something more alluring than alcohol."
+    ""
+
+# game/script_jessie.rpy:3470
+translate russian ch3j_02_b58646ca:
+
+    # "That playfulness from childhood... our desires to escape... they're being reawakened in both of us."
+    ""
+
+# game/script_jessie.rpy:3471
+translate russian ch3j_02_c4e99b94:
+
+    # "And hearing Jessie confess an early and forbidden attraction to me, it... has my mind spinning. It changes everything."
+    ""
+
+# game/script_jessie.rpy:3472
+translate russian ch3j_02_d358d033:
+
+    # "What had I missed out on? A lifelong relationship? A childhood romance?"
+    ""
+
+# game/script_jessie.rpy:3473
+translate russian ch3j_02_451e345c:
+
+    # "We're all grown up now. I'm not Malcolm the schoolboy any more than she is Jessie the girl next door."
+    ""
+
+# game/script_jessie.rpy:3474
+translate russian ch3j_02_a20cefa7:
+
+    # "..."
+    ""
+
+# game/script_jessie.rpy:3475
+translate russian ch3j_02_84bc5063:
+
+    # "Jessie is anything {i}but{/i} the girl next door."
+    ""
+
+# game/script_jessie.rpy:3476
+translate russian ch3j_02_4b37716f:
+
+    # "I roll my own eyes. What kind of world have we all been living in? Why are we both so readily accepting of this... predicament?"
+    ""
+
+# game/script_jessie.rpy:3477
+translate russian ch3j_02_3e857262:
+
+    # "And now I'm to believe that I am partially responsible... or even to blame?"
+    ""
+
+# game/script_jessie.rpy:3478
+translate russian ch3j_02_ef9cbd4d:
+
+    # "I have no answer other than the nagging fear that I've gone completely mad whether from love, lust, or years of trauma... and I am somehow accepting of my own madness."
+    ""
+
+# game/script_jessie.rpy:3480
+translate russian ch3j_02_36f8cff6:
+
+    # "Hell, it's brought me the love of a beautiful woman. What more can a man ask?"
+    ""
+
+# game/script_jessie.rpy:3481
+translate russian ch3j_02_5b83bd33:
+
+    # "I think back on Jessie's lithe body, her agility, her ferocity. Her insatiable yearning to explore herself and her surroundings."
+    ""
+
+# game/script_jessie.rpy:3482
+translate russian ch3j_02_9d7b0fee:
+
+    # "I want nothing more than to be in her company, soaking up her burning need to embrace herself. I need nothing more than to embrace {i}her.{/i}"
+    ""
+
+# game/script_jessie.rpy:3502
+translate russian ch3j_02_982185c9:
+
+    # "When I finally get home, I find Gran sitting by the fire, mending a curtain with needle and thread."
+    ""
+
+# game/script_jessie.rpy:3503
+translate russian ch3j_02_eb44566f:
+
+    # s "Did you find your friend, Jessie?"
+    s ""
+
+# game/script_jessie.rpy:3505
+translate russian ch3j_02_98a082d9:
+
+    # "I sense disapproval in Gran's voice."
+    ""
+
+# game/script_jessie.rpy:3506
+translate russian ch3j_02_94208bad:
+
+    # c "I did. Is everything all right here?"
+    c ""
+
+# game/script_jessie.rpy:3507
+translate russian ch3j_02_b9f0ea4e:
+
+    # "She refuses to look at me."
+    ""
+
+# game/script_jessie.rpy:3508
+translate russian ch3j_02_98ba1b55:
+
+    # s "Oh, everything is just fine here. Just beginning to wonder where my grandson disappears to at all hours of the day... and night."
+    s ""
+
+# game/script_jessie.rpy:3509
+translate russian ch3j_02_6bd1bd06:
+
+    # s "Out for another wolf hunt?"
+    s ""
+
+# game/script_jessie.rpy:3514
+translate russian ch3j_02_14090556:
+
+    # "Something like that. I pause and try to gauge her level of reproach. She obviously knows about Jessie and me."
+    ""
+
+# game/script_jessie.rpy:3515
+translate russian ch3j_02_a6ac8bc0:
+
+    # c "It's nothing to worry about, Gran. I apologize for leaving you for such lengths of time, though. May I get you tea? Or biscuits?"
+    c ""
+
+# game/script_jessie.rpy:3516
+translate russian ch3j_02_6489c843:
+
+    # s "I'm not an invalid, Malcolm."
+    s ""
+
+# game/script_jessie.rpy:3518
+translate russian ch3j_02_52eaa3bf:
+
+    # c "I've been catching up. With Jessie. She's been through a lot lately, and frankly, so have I."
+    c ""
+
+# game/script_jessie.rpy:3520
+translate russian ch3j_02_1cb9a0d5:
+
+    # s "\"Catching up?\" Is that what the lads call it nowadays?"
+    s ""
+
+# game/script_jessie.rpy:3523
+translate russian ch3j_02_3e950b44:
+
+    # "It's getting late in the day. I'm overwhelmed with anxiety and excitement, not to mention just plain tired. Gran is not one to beat about the bush, so I shan't either."
+    ""
+
+# game/script_jessie.rpy:3524
+translate russian ch3j_02_ba7dfc3c:
+
+    # c "Do you not approve of me spending time with Jessie?"
+    c ""
+
+# game/script_jessie.rpy:3526
+translate russian ch3j_02_5579f857:
+
+    # s "Oh... well? Are you asking my opinion?"
+    s ""
+
+# game/script_jessie.rpy:3527
+translate russian ch3j_02_730279dc:
+
+    # c "I know you are often full of them..."
+    c ""
+
+# game/script_jessie.rpy:3528
+translate russian ch3j_02_76976f96:
+
+    # s "Malcolm..."
+    s ""
+
+# game/script_jessie.rpy:3554
+translate russian ch3j_02_a67d427f:
+
+    # "I spot the bottle of whisky. There is one empty glass next to her full one. She's been waiting for my arrival. I take a seat beside her, and she finally deigns to face me."
+    ""
+
+# game/script_jessie.rpy:3556
+translate russian ch3j_02_59b47cc8:
+
+    # s "I see you as I saw your grandfather: kind, wise, a hard worker. Even handsome, I dare say. I'm not surprised that a beautiful woman has taken a shine to you."
+    s ""
+
+# game/script_jessie.rpy:3557
+translate russian ch3j_02_67b1d122:
+
+    # "She sips her whisky, and starts to squint. I can tell she has prepared a statement."
+    ""
+
+# game/script_jessie.rpy:3559
+translate russian ch3j_02_55c518b6:
+
+    # s "Jessie is all of those things, too, mind you. She's just... a very {i}modern{/i} woman."
+    s ""
+
+# game/script_jessie.rpy:3561
+translate russian ch3j_02_d2c0a450:
+
+    # c "I see. And I'm more old-fashioned?"
+    c ""
+
+# game/script_jessie.rpy:3563
+translate russian ch3j_02_99a1b9ec:
+
+    # s "Oh, you say it as if it's a bad thing! It's not! Not at all!"
+    s ""
+
+# game/script_jessie.rpy:3564
+translate russian ch3j_02_4613d048:
+
+    # c "But being modern is?"
+    c ""
+
+# game/script_jessie.rpy:3566
+translate russian ch3j_02_a01c8b6f:
+
+    # s "Malcolm, stop! No words will be put in yer Gran's mouth. What I'm telling you is that you're both perfect... but perhaps not for each other."
+    s ""
+
+# game/script_jessie.rpy:3568
+translate russian ch3j_02_aef148d3:
+
+    # s "In fact..."
+    s ""
+
+# game/script_jessie.rpy:3569
+translate russian ch3j_02_bce22c3e:
+
+    # "Gran takes a longer swig of her drink."
+    ""
+
+# game/script_jessie.rpy:3571
+translate russian ch3j_02_1102a536:
+
+    # s "Jessie is a bit of a firestarter. I dare say you'll be engulfed in flames before you know it."
+    s ""
+
+# game/script_jessie.rpy:3573
+translate russian ch3j_02_fcf97e28:
+
+    # "I hesitate to respond, and answer by uncrossing my legs and giving her a hard stare."
+    ""
+
+# game/script_jessie.rpy:3574
+translate russian ch3j_02_8b5422a8:
+
+    # c "Unless I'm her match."
+    c ""
+
+# game/script_jessie.rpy:3576
+translate russian ch3j_02_c2f4ad88:
+
+    # "Gran cracks a smile."
+    ""
+
+# game/script_jessie.rpy:3577
+translate russian ch3j_02_975752e9:
+
+    # s "Perhaps. But in the end, the match will still end up burned."
+    s ""
+
+# game/script_jessie.rpy:3578
+translate russian ch3j_02_6092463b:
+
+    # c "I think I've already seen the worst of what this world has to offer. A broken heart is the least of my concerns."
+    c ""
+
+# game/script_jessie.rpy:3580
+translate russian ch3j_02_6de5c3b7:
+
+    # "My grandmother nods her head, as if in agreement, but I see the dissent written in every line and wrinkle across her forehead."
+    ""
+
+# game/script_jessie.rpy:3581
+translate russian ch3j_02_e7e384a7:
+
+    # c "As always, Grandmother... I appreciate your concern. But in matters of the heart, I would like to be trusted to use my own best judgement. Judgement you, yourself, instilled in me."
+    c ""
+
+# game/script_jessie.rpy:3582
+translate russian ch3j_02_f121075c:
+
+    # "Rather than appearing offended, Gran stands her ground."
+    ""
+
+# game/script_jessie.rpy:3584
+translate russian ch3j_02_a5642cfe:
+
+    # s "A wise Campbell once told me that love is a friendship of two hearts..."
+    s ""
+
+# game/script_jessie.rpy:3597
+translate russian ch3j_02_fb8850ba:
+
+    # "She stands, turns my empty glass upside down, and fill hers to the brim. I watch her down the tumbler of alcohol in one long swallow before she turns her glass over, as well."
+    ""
+
+# game/script_jessie.rpy:3598
+translate russian ch3j_02_06ceb8a7:
+
+    # s "...and an undying devotion of two souls."
+    s ""
+
+# game/script_jessie.rpy:3606
+translate russian ch3j_02_a70330e1:
+
+    # "Gran pats my back."
+    ""
+
+# game/script_jessie.rpy:3607
+translate russian ch3j_02_3e607982:
+
+    # s "Just make sure her devotion equals yours."
+    s ""
+
+# game/script_jessie.rpy:3608
+translate russian ch3j_02_63df45a0:
+
+    # "I want to laugh, or mock my Gran's advice, but for every quick comeback that pops into my head, a louder voice tells me to hush."
+    ""
+
+# game/script_jessie.rpy:3609
+translate russian ch3j_02_75f5592e:
+
+    # "Not just to avoid being insolent, but because... perhaps there's some truth in her words."
+    ""
+
+# game/script_jessie.rpy:3610
+translate russian ch3j_02_75bc2388:
+
+    # c "Goodnight, Gran."
+    c ""
+
+# game/script_jessie.rpy:3617
+translate russian ch3j_02_71542dd6:
+
+    # "She offers a light kiss atop my head."
+    ""
+
+# game/script_jessie.rpy:3618
+translate russian ch3j_02_7195b68d:
+
+    # s "Malcolm, at times everything seems so different from when I was a child. But other times... well, it's as if my own heart beats inside yours. I know how you must feel towards Jessie."
+    s ""
+
+# game/script_jessie.rpy:3621
+translate russian ch3j_02_1837c98b:
+
+    # s "Just please... trust your head, even when it argues with your heart."
+    s ""
+
+# game/script_jessie.rpy:3628
+translate russian ch3j_02_0d97f21f:
+
+    # "She bends down for a hug, resting her head on mine before letting me go."
+    ""
+
+# game/script_jessie.rpy:3629
+translate russian ch3j_02_06aa5d57:
+
+    # s "I love you so very much."
+    s ""
+
+# game/script_jessie.rpy:3640
+translate russian ch3j_02_65cef87b:
+
+    # "Once Gran has left the room, I turn back over the glass next to me, and fill it again with whisky."
+    ""
+
+# game/script_jessie.rpy:3641
+translate russian ch3j_02_6a4e276f:
+
+    # "I sip slowly to calm my racing thoughts."
+    ""
+
+# game/script_jessie.rpy:3643
+translate russian ch3j_02_8abcbb28:
+
+    # "What is Jessie? What is she to me? A girlfriend? A lover? Can she truly hold such strong emotions for me, after so many years apart?"
+    ""
+
+# game/script_jessie.rpy:3645
+translate russian ch3j_02_c4defaad:
+
+    # "This... our relationship... feels so dangerous, like it—or she—could explode at a moment's notice. A grenade the likes of which I've never seen before... that {i}no one{/i} has seen before."
+    ""
+
+# game/script_jessie.rpy:3646
+translate russian ch3j_02_dd26dbf6:
+
+    # "But the weapon is so gorgeous, alluring, so full of an inescapable energy that I crave. Desire is the word that repeats in my mind."
+    ""
+
+# game/script_jessie.rpy:3648
+translate russian ch3j_02_0d9821b1:
+
+    # "If I am the curious cat, what will the wolf do to me?"
+    ""
+
+# game/script_jessie.rpy:3655
+translate russian ch3j_02_205b33ce:
+
+    # "I keep drinking, letting my thoughts blur and slip away, until my mind is at last calmed enough to sleep. I stand, stretch, wobble... and notice a book lying open by Gran's chair."
+    ""
+
+# game/script_jessie.rpy:3656
+translate russian ch3j_02_6e544358:
+
+    # "That prepared speech... could this be the source of her dating advice? I wobble my way over and look."
+    ""
+
+# game/script_jessie.rpy:3662
+translate russian ch3j_02_a769f48e:
+
+    # "The book is old. Upon the open page, a fierce looking wolf glares back at me, and my heart catches. Does she know!?"
+    ""
+
+# game/script_jessie.rpy:3670
+translate russian ch3j_02_de549fdb:
+
+    # "...Ah. It seems to just be a passage about wolves. Gran's certainly taken the sighting to heart. I read a few lines, struggling to maintain focus."
+    ""
+
+# game/script_jessie.rpy:3671
+translate russian ch3j_02_efa684da:
+
+    # "\"With their massive and powerful jaws, they will tear deep into the earth to uncover the bones of the dead... A vile creature, the wolf...\""
+    ""
+
+# game/script_jessie.rpy:3672
+translate russian ch3j_02_c1077dea:
+
+    # "Goodness. What kind of guide is this? I turn it over to read the cover."
+    ""
+
+# game/script_jessie.rpy:3681
+translate russian ch3j_02_45f102e2:
+
+    # "\"Baird's Unabridged Compendium of Faerie Lore: Rhymes, Myths and Legends of Scotch Tradition.\""
+    ""
+
+# game/script_jessie.rpy:3683
+translate russian ch3j_02_8efb3f43:
+
+    # "I've always been around fables, fairy tales... countless were the winter nights huddled together with the family, reading them. But I don't recall this title. How long has Gran had it?"
+    ""
+
+# game/script_jessie.rpy:3684
+translate russian ch3j_02_1cf098cb:
+
+    # "Something clicks. No wonder I've not doubted what I've seen with my own eyes. I come from a long line of believers."
+    ""
+
+# game/script_jessie.rpy:3685
+translate russian ch3j_02_cf763554:
+
+    # "Of course it makes perfect sense that my neighbor... my friend... my {i}lover{/i}... is a werewolf. I've been fed stories like that since I was but a lad."
+    ""
+
+# game/script_jessie.rpy:3686
+translate russian ch3j_02_6989b95d:
+
+    # "I never imagined I'd be playing a leading role in such a story, though. I chuckle. Baird would be jealous."
+    ""
+
+# game/script_jessie.rpy:3691
+translate russian ch3j_02_68a72204:
+
+    # "Lest Gran think I've been snooping, I set the compendium back down and flip to find the page where she left off."
+    ""
+
+# game/script_jessie.rpy:3692
+translate russian ch3j_02_a1d1b0f0:
+
+    # "Among the \"W\"s, another name catches my eye."
+    ""
+
+# game/script_jessie.rpy:3701
+translate russian ch3j_02_4c456487:
+
+    # "\"In the darkest corners of the highlands, beneath barberry thickets and hiding between crag rock, live the wulvers.\""
+    ""
+
+# game/script_jessie.rpy:3702
+translate russian ch3j_02_b202991b:
+
+    # "\"Whilst the eyes of this human-wolf hybrid may evoke the spirit of a demon, make no mistake; every Wulver possesses a soul within.\""
+    ""
+
+# game/script_jessie.rpy:3703
+translate russian ch3j_02_8b675f06:
+
+    # "\"Despite their agile frames and ability to speak, the Wulver is never born of humans but evolved of the prehistoric wolf.\""
+    ""
+
+# game/script_jessie.rpy:3704
+translate russian ch3j_02_8dd2a4c5:
+
+    # "\"The Wulver has a helpful spirit. They will guide those who are lost, taking them to safer pastures.\""
+    ""
+
+# game/script_jessie.rpy:3705
+translate russian ch3j_02_c6b55887:
+
+    # "\"Wulvers will benevolently feed the poor, leaving freshly caught meat and fish by their windows in the middle of the night from whence they hunt.\""
+    ""
+
+# game/script_jessie.rpy:3706
+translate russian ch3j_02_ee15648a:
+
+    # "\"The Wulver will silently watch over those who are ailing or mourning.\""
+    ""
+
+# game/script_jessie.rpy:3707
+translate russian ch3j_02_f810ab30:
+
+    # "\"Whilst legend states that the Wulver holds an immortal body, pay no heed. A Wulver is as mortal as you and me.\""
+    ""
+
+# game/script_jessie.rpy:3708
+translate russian ch3j_02_dc7097f1:
+
+    # "\"So, should you come across one of these creatures shrouded in the black air, whilst they show no aggression if left undisturbed, Wulvers are very protective of those whom they watch over.\""
+    ""
+
+# game/script_jessie.rpy:3709
+translate russian ch3j_02_cf98cd3d:
+
+    # "\"If the Wulver detects any sign that their protected are in harm's way, they may become dominant.\""
+    ""
+
+# game/script_jessie.rpy:3710
+translate russian ch3j_02_c83ec0af:
+
+    # "\"The last known appearance of the Highland Wulver was recorded over three hundred years past.\""
+    ""
+
+# game/script_jessie.rpy:3711
+translate russian ch3j_02_f55ccb31:
+
+    # "\"Though a Wulver has not been seen since then, be aware that they still live among us, hidden in caves to protect themselves... and us.\""
+    ""
+
+# game/script_jessie.rpy:3714
+translate russian ch3j_02_6871f63f:
+
+    # "The smile fades from my lips. Whether a wolf, wulver, or werewolf... no matter what, Jessie is no longer just human."
+    ""
+
+# game/script_jessie.rpy:3716
+translate russian ch3j_02_bd3d567c:
+
+    # "I did not doubt my eyes before, but to see it here, in writing... it carries with it a weight of sobering finality. This is no fable. It is true."
+    ""
+
+# game/script_jessie.rpy:3718
+translate russian ch3j_02_4eaf5abe:
+
+    # s "Malcolm are you all right?"
+    s ""
+
+# game/script_jessie.rpy:3725
+translate russian ch3j_02_e26ba4a9:
+
+    # "I never notice Gran enter the room, nor the tears pouring down my face."
+    ""
+
+# game/script_jessie.rpy:3726
+translate russian ch3j_02_acf860c9:
+
+    # "What have I gotten myself into?"
+    ""
+
+# game/script_jessie.rpy:3729
+translate russian ch3j_02_7b835c61:
+
+    # s "I came when I heard you gasp. What ever is the matter?"
+    s ""
+
+# game/script_jessie.rpy:3730
+translate russian ch3j_02_a57050e6:
+
+    # "I wipe my tears, and assure her of my sanity."
+    ""
+
+# game/script_jessie.rpy:3731
+translate russian ch3j_02_65e57ad5:
+
+    # c "It's fine, Gran. Just a long day."
+    c ""
+
+# game/script_jessie.rpy:3733
+translate russian ch3j_02_13e97d3f:
+
+    # s "I sincerely hope it wasn't anything I said. I never meant to upset you. You know how much I love you."
+    s ""
+
+# game/script_jessie.rpy:3734
+translate russian ch3j_02_0c4dadb7:
+
+    # c "No, nothing like that, I assure you."
+    c ""
+
+# game/script_jessie.rpy:3741
+translate russian ch3j_02_78fc86b8:
+
+    # "Gran comes up behind me and rubs my shoulders. She dries my face with her handkerchief. She whispers to me."
+    ""
+
+# game/script_jessie.rpy:3742
+translate russian ch3j_02_ceff4dcd:
+
+    # s "It's clean, I promise!"
+    s ""
+
+# game/script_jessie.rpy:3744
+translate russian ch3j_02_161c6b34:
+
+    # "A minute passes where I collect myself."
+    ""
+
+# game/script_jessie.rpy:3747
+translate russian ch3j_02_c722185a:
+
+    # s "Understand that... when you don't talk about your suffering, the silence doesn't make it go away."
+    s ""
+
+# game/script_jessie.rpy:3748
+translate russian ch3j_02_871ca24b:
+
+    # s "You've been through so much... too much."
+    s ""
+
+# game/script_jessie.rpy:3750
+translate russian ch3j_02_2d6dac7c:
+
+    # s "If you need to sleep with the candles burning, do it. Lord knows how much I would have loved to have had another person here with me those days right after your Grandad left this earth."
+    s ""
+
+# game/script_jessie.rpy:3752
+translate russian ch3j_02_a9638229:
+
+    # s "Every blow of the wind sent my heart racing with fear, and I thought I'd already met the worst."
+    s ""
+
+# game/script_jessie.rpy:3754
+translate russian ch3j_02_47d65229:
+
+    # "I look up to face her."
+    ""
+
+# game/script_jessie.rpy:3755
+translate russian ch3j_02_8bf4f1ed:
+
+    # c "Gran, I can't tell you how much that means to me... and just how much my heart aches that Grandad is no longer here with you... for you."
+    c ""
+
+# game/script_jessie.rpy:3756
+translate russian ch3j_02_52eef20e:
+
+    # c "I'll be fine. I know I will. Time heals all wounds, right? You taught me that."
+    c ""
+
+# game/script_jessie.rpy:3758
+translate russian ch3j_02_67aeca80:
+
+    # s "Yes. Take all the time you need."
+    s ""
+
+# game/script_jessie.rpy:3759
+translate russian ch3j_02_7dda9b3c:
+
+    # c "You, as well."
+    c ""
+
+# game/script_jessie.rpy:3776
+translate russian ch3j_02_7faaae24:
+
+    # "My grandmother kisses the top of my head, and shuffles back to her bedroom. I close Baird's and choose to bury my fears deep, down in the internal rubble where I keep moments unspoken."
+    ""
+
+# game/script_jessie.rpy:3778
+translate russian ch3j_02_f68c3fcb:
+
+    # "Perhaps one day, I will dig through the ruins."
+    ""
+
+# game/script_jessie.rpy:3811
+translate russian ch3j_03_7a1c7b95:
+
+    # "My head is splitting... again."
+    ""
+
+# game/script_jessie.rpy:3812
+translate russian ch3j_03_5ba4561f:
+
+    # "How much did I drink last night? Or is my mind simply reeling from the whirlwind that was yesterday? I'm not sure if my head can handle all the excitement... even if my heart yearns for more."
+    ""
+
+# game/script_jessie.rpy:3818
+translate russian ch3j_03_4aeaedaf:
+
+    # "I splash my face with water from Hazel's trough, before pouring some more into a bucket full of powdered clay and limestone. My mare glares from her paddock, judging."
+    ""
+
+# game/script_jessie.rpy:3819
+translate russian ch3j_03_defc0fee:
+
+    # c "It's all right, girl. Just borrowing a bit to rebuild the hogpen. There's plenty water for all of us."
+    c ""
+
+# game/script_jessie.rpy:3820
+translate russian ch3j_03_a62e240a:
+
+    # "Gran let me know this morning that Gladys, the MacLeods' prize saddleback pig, will be bred come summer, and Marion has offered us pick of the litter."
+    ""
+
+# game/script_jessie.rpy:3821
+translate russian ch3j_03_e02c4fbf:
+
+    # "The gift is generous and more than welcome, but there's work to be done if we're to give it a proper home."
+    ""
+
+# game/script_jessie.rpy:3822
+translate russian ch3j_03_edb9cbc8:
+
+    # "What used to hold three near half-ton hogs is now just a crumbled pile of stone and mortar. A relic of decades past."
+    ""
+
+# game/script_jessie.rpy:3823
+translate russian ch3j_03_f0c4eb61:
+
+    # "It's all that stands between me and another day with Jessie. I promised myself I would visit her again... only after I promised Gran a proper day's worth of work."
+    ""
+
+# game/script_jessie.rpy:3824
+translate russian ch3j_03_faf6a0b0:
+
+    # "I've no doubt that I can get the repairs done in a day... or two... or perhaps a week... or two. But I dread the monotony of stacking stones."
+    ""
+
+# game/script_jessie.rpy:3826
+translate russian ch3j_03_ca338a9b:
+
+    # "More than that, I dread the reminder of being encased inside walls."
+    ""
+
+# game/script_jessie.rpy:3827
+translate russian ch3j_03_97261113:
+
+    # "After years of biding my time in a trench wide enough for two bodies, and deep enough to hide men and all semblance of reality, I cringe at the thought of constructing a wall around myself again."
+    ""
+
+# game/script_jessie.rpy:3829
+translate russian ch3j_03_059add92:
+
+    # c "I think we can keep the walls fairly low, eh, Miss Hazel? Pigs can't heft up too high, can they?"
+    c ""
+
+# game/script_jessie.rpy:3831
+translate russian ch3j_03_2ad88702:
+
+    # "Hazel's gaze softens, for once. She must sense me shaking from the inside out."
+    ""
+
+# game/script_jessie.rpy:3832
+translate russian ch3j_03_595c4f6f:
+
+    # "Then I feel another pair of eyes on me."
+    ""
+
+# game/script_jessie.rpy:3850
+translate russian ch3j_03_ddfb0669:
+
+    # g "Don't be so sure, Malcolm. I heard that pigs are flying, these days."
+    g ""
+
+# game/script_jessie.rpy:3851
+translate russian ch3j_03_7afff5e0:
+
+    # c "Is that so? I take it you've come out of hiding and gotten a job at the Stag & Nanny with your sister?"
+    c ""
+
+# game/script_jessie.rpy:3865
+translate russian ch3j_03_9a5ab7d3:
+
+    # "Grace laughs. She seems genuinely happy for once."
+    ""
+
+# game/script_jessie.rpy:3866
+translate russian ch3j_03_186d27c9:
+
+    # g "Hardly. But it {i}does{/i} involve Jessie. And how you've... transformed her."
+    g ""
+
+# game/script_jessie.rpy:3867
+translate russian ch3j_03_d415b5fd:
+
+    # "I choke."
+    ""
+
+# game/script_jessie.rpy:3868
+translate russian ch3j_03_21fbf668:
+
+    # c "P-pardon?"
+    c ""
+
+# game/script_jessie.rpy:3870
+translate russian ch3j_03_0e09eed2:
+
+    # g "I've never seen her like this before. I knew you and she were an item, but to hear her go on about you... you've completely changed her life, Malcolm."
+    g ""
+
+# game/script_jessie.rpy:3871
+translate russian ch3j_03_57686b21:
+
+    # "My muscles relax and I can finally exhale."
+    ""
+
+# game/script_jessie.rpy:3872
+translate russian ch3j_03_2e732e2b:
+
+    # c "That's... that's really sweet of you to say, Grace."
+    c ""
+
+# game/script_jessie.rpy:3874
+translate russian ch3j_03_de65b761:
+
+    # g "Jessie's words, not mine. I'm just glad she's found someone special. Someone... {i}here.{/i}"
+    g ""
+
+# game/script_jessie.rpy:3875
+translate russian ch3j_03_5cebf209:
+
+    # c "Wait—you knew?"
+    c ""
+
+# game/script_jessie.rpy:3878
+translate russian ch3j_03_4b55d953:
+
+    # g "Malcolm, please. Jessie broadcasts her intentions even louder than the music on her turntable."
+    g ""
+
+# game/script_jessie.rpy:3879
+translate russian ch3j_03_42c3a386:
+
+    # c "As loud as her red dress?"
+    c ""
+
+# game/script_jessie.rpy:3881
+translate russian ch3j_03_05dfae06:
+
+    # "Grace smiles, and nods."
+    ""
+
+# game/script_jessie.rpy:3882
+translate russian ch3j_03_2bb6a312:
+
+    # g "Aye, that, too. Not that I'd begrudge her leaving, but I shudder at the thought of being left here all alone."
+    g ""
+
+# game/script_jessie.rpy:3883
+translate russian ch3j_03_3e95fa8f:
+
+    # c "Alone? What about Marion?"
+    c ""
+
+# game/script_jessie.rpy:3885
+translate russian ch3j_03_dad66c81:
+
+    # g "Exactly."
+    g ""
+
+# game/script_jessie.rpy:3886
+translate russian ch3j_03_836b6ed9:
+
+    # "She winks, and I roll my eyes."
+    ""
+
+# game/script_jessie.rpy:3888
+translate russian ch3j_03_cb005206:
+
+    # g "Well, I'll leave you to your restoration of Swineton Abbey. I just thought you should know."
+    g ""
+
+# game/script_jessie.rpy:3889
+translate russian ch3j_03_d5ee90fc:
+
+    # c "Thank you, Grace."
+    c ""
+
+# game/script_jessie.rpy:3890
+translate russian ch3j_03_8652409f:
+
+    # s "GRACE?"
+    s ""
+
+# game/script_jessie.rpy:3894
+translate russian ch3j_03_4ff8cc7f:
+
+    # "We both jump higher than a pig's leap."
+    ""
+
+# game/script_jessie.rpy:3904
+translate russian ch3j_03_44c47c1a:
+
+    # s "Grace MacLeod, do my eyes deceive me?"
+    s ""
+
+# game/script_jessie.rpy:3906
+translate russian ch3j_03_b5b02b49:
+
+    # g "Good morning Agnes. I'm afraid they do. I was just on my way—"
+    g ""
+
+# game/script_jessie.rpy:3908
+translate russian ch3j_03_c1846a46:
+
+    # s "On your way without saying hello to your dear neighbor Agnes? I'll have you know your older sister Marion comes every week to pick up mail and—"
+    s ""
+
+# game/script_jessie.rpy:3910
+translate russian ch3j_03_f7da11a9:
+
+    # g "—And to darn your socks. Yes, I've heard all about it. Perhaps you understand my hesitation?"
+    g ""
+
+# game/script_jessie.rpy:3912
+translate russian ch3j_03_2b1bb60a:
+
+    # "Gran squints at Grace, then to me. I'm of no help; as is, I can barely suppress my laughter."
+    ""
+
+# game/script_jessie.rpy:3914
+translate russian ch3j_03_d062cf7d:
+
+    # s "Yes... yes I suppose. {i}But that's no excuse!{/i} Come on, lass, come inside! Auld Gran Agnes wants to catch up!"
+    s ""
+
+# game/script_jessie.rpy:3930
+translate russian ch3j_03_1f7d5be2:
+
+    # "Agnes grabs Grace by the tail of her sash. The youngest MacLeod gives me one last look of pure terror before being dragged off and through the doorway of our homestead."
+    ""
+
+# game/script_jessie.rpy:3939
+translate russian ch3j_03_109647fa:
+
+    # "The silence is broken by an enormous huff. Hazel must think we are all crazy. I laugh and shake my head. She might be right!"
+    ""
+
+# game/script_jessie.rpy:3940
+translate russian ch3j_03_e64db976:
+
+    # c "Aye, and just wait until you meet my werewolf girlfriend."
+    c ""
+
+# game/script_jessie.rpy:3962
+translate russian ch3j_03_4acc9495:
+
+    # "I grab my trowel, roll up my sleeves and set to scooping, scraping, and piling stones for the day."
+    ""
+
+# game/script_jessie.rpy:3973
+translate russian ch3j_03_19551a6e:
+
+    # "A fair portion gets done, despite many unstable patches and quite a few falling rocks. Not to mention the constant disapproving looks from my mare."
+    ""
+
+# game/script_jessie.rpy:3974
+translate russian ch3j_03_54929778:
+
+    # c "It's the best I can do, Hazel. I may have my grandfather's kindness... but certainly not his skill for construction. But won't you be happy to have new friends come spring?"
+    c ""
+
+# game/script_jessie.rpy:3975
+translate russian ch3j_03_14e38439:
+
+    # c "All the snorting and grunting will be healthy competition for you!"
+    c ""
+
+# game/script_jessie.rpy:3995
+translate russian ch3j_03_ddf6a65d:
+
+    # "I wipe my hands on my pants, and give her a nuzzle on her neck. Hazel huffs, but also leans into me."
+    ""
+
+# game/script_jessie.rpy:3996
+translate russian ch3j_03_14737fc8:
+
+    # c "I appreciate that, m'lady. That's a true sign of affection."
+    c ""
+
+# game/script_jessie.rpy:4006
+translate russian ch3j_03_231a082b:
+
+    # "She jolts her head away, then brings her nose back to my ear."
+    ""
+
+# game/script_jessie.rpy:4007
+translate russian ch3j_03_18013e98:
+
+    # c "Maybe not respect... but affection. An' I'll take it!"
+    c ""
+
+# game/script_jessie.rpy:4009
+translate russian ch3j_03_69bb254f:
+
+    # "As I wrap up the day's work, I can't help but yearn for someone else's affection. I take another hour to clean up best I can, then haul my supplies back into the barn."
+    ""
+
+# game/script_jessie.rpy:4023
+translate russian ch3j_03_efcfe00b:
+
+    # "When I finally get back inside the house, keen on getting the crusty cement off my hands and arms, I'm surprised to see Grace is still here."
+    ""
+
+# game/script_jessie.rpy:4024
+translate russian ch3j_03_11c0420e:
+
+    # g "Hello! Welcome home!"
+    g ""
+
+# game/script_jessie.rpy:4030
+translate russian ch3j_03_c6c6cf09:
+
+    # s "Malcolm, dear. Can you help me?"
+    s ""
+
+# game/script_jessie.rpy:4044
+translate russian ch3j_03_7597a849:
+
+    # "Seeing Gran struggle to hold up a massive bucket of water, I run over and grab the bottom end."
+    ""
+
+# game/script_jessie.rpy:4045
+translate russian ch3j_03_0b7a7206:
+
+    # c "What on earth... {i}ooooff{/i}... what are you doing?"
+    c ""
+
+# game/script_jessie.rpy:4061
+translate russian ch3j_03_ce04992a:
+
+    # "I heave up on the bucket, as we pour the liquid into a small cask half full with a thick layer of pungent mash."
+    ""
+
+# game/script_jessie.rpy:4063
+translate russian ch3j_03_8050ff26:
+
+    # g "It's cider-making time!"
+    g ""
+
+# game/script_jessie.rpy:4064
+translate russian ch3j_03_1ecffd3b:
+
+    # c "Is it now? My arms are killing me! You couldn't have done this another time?"
+    c ""
+
+# game/script_jessie.rpy:4066
+translate russian ch3j_03_1e63c160:
+
+    # g "Buck up, Malcolm! It's not going to make itself. You'll thank us when you're enjoying your first glass!"
+    g ""
+
+# game/script_jessie.rpy:4084
+translate russian ch3j_03_6c6c2ac8:
+
+    # "We fill the cask to the brim, and I set down the bucket. I fear the house will smell of fermented mash for days."
+    ""
+
+# game/script_jessie.rpy:4085
+translate russian ch3j_03_6070af83:
+
+    # c "Gran, what are you teaching this impressionable youth?"
+    c ""
+
+# game/script_jessie.rpy:4093
+translate russian ch3j_03_3deb6c52:
+
+    # "Gran wipes her hands on the front of her smock."
+    ""
+
+# game/script_jessie.rpy:4094
+translate russian ch3j_03_748c2cef:
+
+    # s "How to be self-sufficient... and keep her elders {i}well cared for{/i}."
+    s ""
+
+# game/script_jessie.rpy:4102
+translate russian ch3j_03_6a8d9218:
+
+    # "Grace pats my back hard."
+    ""
+
+# game/script_jessie.rpy:4104
+translate russian ch3j_03_56fca956:
+
+    # g "You see, Malcolm? I'm doing the Lord's work... love thy neighbor... or something like that."
+    g ""
+
+# game/script_jessie.rpy:4105
+translate russian ch3j_03_467a9055:
+
+    # c "Aye... something like that. Is there anything else you need from me? There's someone I'd like to—"
+    c ""
+
+# game/script_jessie.rpy:4112
+translate russian ch3j_03_aaae7985:
+
+    # "Grace picks up two large wooden paddles and hands me one."
+    ""
+
+# game/script_jessie.rpy:4113
+translate russian ch3j_03_1b350e9b:
+
+    # g "Let's get to mixing."
+    g ""
+
+# game/script_jessie.rpy:4130
+translate russian ch3j_03_3c4be891:
+
+    # "We dig into the acrid concoction, slopping and slushing it around in circles. My body can barely feel more than the dull ache in my biceps, and the calluses on my hands."
+    ""
+
+# game/script_jessie.rpy:4131
+translate russian ch3j_03_a59bf63e:
+
+    # "Gran disappears into the lavvy, and Grace takes the opportunity to ask me a loaded question."
+    ""
+
+# game/script_jessie.rpy:4136
+translate russian ch3j_03_545e3379:
+
+    # g "Why don't you ask your Gran to the pub tonight? To see Jessie's little song and dance number. Eh, Malcolm?"
+    g ""
+
+# game/script_jessie.rpy:4138
+translate russian ch3j_03_f5eaa7cc:
+
+    # g "Maybe it'll make her see how brilliant my big sister is on stage!"
+    g ""
+
+# game/script_jessie.rpy:4140
+translate russian ch3j_03_c1660454:
+
+    # "I think on the idea briefly."
+    ""
+
+# game/script_jessie.rpy:4141
+translate russian ch3j_03_7b85d9e2:
+
+    # c "Has she said something to you? About Jessie?"
+    c ""
+
+# game/script_jessie.rpy:4143
+translate russian ch3j_03_33d5d7cd:
+
+    # "Grace snorts so loudly that Gran calls out to her from the next room."
+    ""
+
+# game/script_jessie.rpy:4144
+translate russian ch3j_03_97e8f776:
+
+    # s "Are you all right, dear?"
+    s ""
+
+# game/script_jessie.rpy:4146
+translate russian ch3j_03_019881f6:
+
+    # g "Just fine, Agnes! A bit too much pulp up the nose!"
+    g ""
+
+# game/script_jessie.rpy:4149
+translate russian ch3j_03_7a6a663e:
+
+    # g "Oh, your Gran simply mentioned the undying gossip in town about you courting the local flip-flopper!"
+    g ""
+
+# game/script_jessie.rpy:4150
+translate russian ch3j_03_f8dfe259:
+
+    # c "Flip what?"
+    c ""
+
+# game/script_jessie.rpy:4152
+translate russian ch3j_03_e2a4f2d0:
+
+    # g "Not everyone around here knows the word \"flapper,\" it seems."
+    g ""
+
+# game/script_jessie.rpy:4153
+translate russian ch3j_03_df9b5d57:
+
+    # "I break out into a low laugh."
+    ""
+
+# game/script_jessie.rpy:4154
+translate russian ch3j_03_d39772fe:
+
+    # c "I see. Any other comments on my lovely friend?"
+    c ""
+
+# game/script_jessie.rpy:4156
+translate russian ch3j_03_dbbb6720:
+
+    # g "She's a real filly!"
+    g ""
+
+# game/script_jessie.rpy:4157
+translate russian ch3j_03_9b3959c5:
+
+    # "More like \"pup.\""
+    ""
+
+# game/script_jessie.rpy:4158
+translate russian ch3j_03_8751ecb6:
+
+    # c "And..."
+    c ""
+
+# game/script_jessie.rpy:4163
+translate russian ch3j_03_d9114a45:
+
+    # "Grace blushes, and resumes stirring."
+    ""
+
+# game/script_jessie.rpy:4164
+translate russian ch3j_03_e965618a:
+
+    # g "Well... one of them used the word \"harlot.\""
+    g ""
+
+# game/script_jessie.rpy:4165
+translate russian ch3j_03_55c53c21:
+
+    # c "What!"
+    c ""
+
+# game/script_jessie.rpy:4172
+translate russian ch3j_03_d5306416:
+
+    # s "Oh, if I had my ladle. I'd have swatted them harder than a buzzing mayfly!"
+    s ""
+
+# game/script_jessie.rpy:4173
+translate russian ch3j_03_1706de72:
+
+    # "Gran had tiptoed in behind us."
+    ""
+
+# game/script_jessie.rpy:4174
+translate russian ch3j_03_e0653c21:
+
+    # s "No one calls Miss Jessie that in front of this proper lady!"
+    s ""
+
+# game/script_jessie.rpy:4181
+translate russian ch3j_03_5d1f09e5:
+
+    # "Gran dips the ladle into the cider."
+    ""
+
+# game/script_jessie.rpy:4182
+translate russian ch3j_03_e8b4882c:
+
+    # s "Keep mixing! The pulp is sinking."
+    s ""
+
+# game/script_jessie.rpy:4184
+translate russian ch3j_03_fa0887cc:
+
+    # "Grace whispers to me again."
+    ""
+
+# game/script_jessie.rpy:4185
+translate russian ch3j_03_e5e06792:
+
+    # g "So... "
+    g ""
+
+# game/script_jessie.rpy:4186
+translate russian ch3j_03_278afb4b:
+
+    # "Grace raises her voice."
+    ""
+
+# game/script_jessie.rpy:4189
+translate russian ch3j_03_15cdfb40:
+
+    # g "What do you think? Ask her now!"
+    g ""
+
+# game/script_jessie.rpy:4192
+translate russian ch3j_03_382e88f4:
+
+    # "I find myself in a quagmire as thick as the cider mash."
+    ""
+
+# game/script_jessie.rpy:4193
+translate russian ch3j_03_50239511:
+
+    # "Gran has obviously gone out of her way to protect Jessie's reputation. But... if I ask her to go to the pub, aren't I opening up a can of worms that can never be closed again?"
+    ""
+
+# game/script_jessie.rpy:4195
+translate russian ch3j_03_e5c3caa6:
+
+    # s "Are you talking about me? Ask me what?"
+    s ""
+
+# game/script_jessie.rpy:4197
+translate russian ch3j_03_7c7bdf19:
+
+    # "Thanks, Grace."
+    ""
+
+# game/script_jessie.rpy:4202
+translate russian ch3j_03_a7c7203d:
+
+    # c "Well... seeing as how you're already defending her honor... how about Grace and I bring you down to the Stag & Nanny tonight? To see Jessie perform?"
+    c ""
+
+# game/script_jessie.rpy:4206
+translate russian ch3j_03_b46e1cee:
+
+    # "Gran's eyes light up faster than an oil lamp in the dark of night."
+    ""
+
+# game/script_jessie.rpy:4207
+translate russian ch3j_03_f3344b49:
+
+    # s "Now, that is a splendid idea!"
+    s ""
+
+# game/script_jessie.rpy:4209
+translate russian ch3j_03_999d5614:
+
+    # g "I knew it!"
+    g ""
+
+# game/script_jessie.rpy:4211
+translate russian ch3j_03_a9dabac4:
+
+    # s "I want to see what all the fuss is about. Get a pint or two!"
+    s ""
+
+# game/script_jessie.rpy:4212
+translate russian ch3j_03_649d70bc:
+
+    # c "Are you sure, Gran?"
+    c ""
+
+# game/script_jessie.rpy:4214
+translate russian ch3j_03_e7827212:
+
+    # s "Well, why not? My dancing shoes still fit, even if the dresses don't. I could take a spin on the floor. Show everyone what this auld mare is made of!"
+    s ""
+
+# game/script_jessie.rpy:4216
+translate russian ch3j_03_b715e4dd:
+
+    # "I think of every way the visit could go wrong. Rebellious behavior? Bared teeth? Perceived indecency? That's not even including the regular drunkards."
+    ""
+
+# game/script_jessie.rpy:4217
+translate russian ch3j_03_8a2a02e7:
+
+    # "It's just not a place for Gran, even in daylight, let alone with my werewolf girlfriend... one she decidedly does not approve of me dating."
+    ""
+
+# game/script_jessie.rpy:4218
+translate russian ch3j_03_38bdddf8:
+
+    # c "Gran... I, uh... was going to ask you—"
+    c ""
+
+# game/script_jessie.rpy:4220
+translate russian ch3j_03_1f1e7164:
+
+    # "I should know better than to take my time around Grace, as quick as an adder."
+    ""
+
+# game/script_jessie.rpy:4222
+translate russian ch3j_03_b5ec8709:
+
+    # g "Agnes, why don't we take you to the Stag & Nanny tonight? Jessie's act starts at sundown. That is, if you don't mind being out late into the evening?"
+    g ""
+
+# game/script_jessie.rpy:4224
+translate russian ch3j_03_302b1a0a:
+
+    # "Gran's face lights up like a candle."
+    ""
+
+# game/script_jessie.rpy:4225
+translate russian ch3j_03_09caf33e:
+
+    # s "That sounds like a wonderful time!"
+    s ""
+
+# game/script_jessie.rpy:4226
+translate russian ch3j_03_c54a45ed:
+
+    # "Oh, it does now? Gran seems to be a bit too fond of the woman she wants me to leave in the lurch."
+    ""
+
+# game/script_jessie.rpy:4227
+translate russian ch3j_03_db2f9831:
+
+    # c "I don't know if that's the best idea, Gran. Shouldn't we ask Jessie first, before appearing unannounced?"
+    c ""
+
+# game/script_jessie.rpy:4229
+translate russian ch3j_03_65085de8:
+
+    # s "What for? I'm sure she'd be happy to see her friends and family there!"
+    s ""
+
+# game/script_jessie.rpy:4232
+translate russian ch3j_03_95d81e31:
+
+    # g "Oh! Absolutely!"
+    g ""
+
+# game/script_jessie.rpy:4233
+translate russian ch3j_03_15640648:
+
+    # "Grace holds a grin that reeks of a devious agenda. She keeps my gaze and smirks."
+    ""
+
+# game/script_jessie.rpy:4234
+translate russian ch3j_03_0f13f7b3:
+
+    # "I imagine her to be more wolfish than her sister. Perhaps the wolf trait went to the wrong child, or is buried deep within her, still."
+    ""
+
+# game/script_jessie.rpy:4236
+translate russian ch3j_03_9e6f3562:
+
+    # s "I'd best get started if I'm to look presentable this evening. It takes us elder folk a while to paint on our face. Keep stirring! I'll help pour when I return."
+    s ""
+
+# game/script_jessie.rpy:4242
+translate russian ch3j_03_7199b882:
+
+    # "Gran goes to tend to herself at her vanity; and I tend to Grace."
+    ""
+
+# game/script_jessie.rpy:4243
+translate russian ch3j_03_42e3dfd4:
+
+    # c "You are looking particularly conniving. Care to fill me in?"
+    c ""
+
+# game/script_jessie.rpy:4249
+translate russian ch3j_03_8bfde71b:
+
+    # g "Conniving? Oh, no. Nothing of the sort."
+    g ""
+
+# game/script_jessie.rpy:4251
+translate russian ch3j_03_6f23a60d:
+
+    # c "You know what I think? I think you have something up your sleeve, tonight. And you're playing me like a fiddle."
+    c ""
+
+# game/script_jessie.rpy:4253
+translate russian ch3j_03_10c07292:
+
+    # g "But I've no bow, Malcolm! And you're hardly a fiddle... more like a... well, you're awfully thin, plucky and tightly wound. I suppose you {i}are{/i} a fiddle!"
+    g ""
+
+# game/script_jessie.rpy:4259
+translate russian ch3j_03_8a6c9804:
+
+    # "I swat her with a dish towel."
+    ""
+
+# game/script_jessie.rpy:4262
+translate russian ch3j_03_496d3e07:
+
+    # g "Oi! You'd better watch it there! My dark side could come out, too..."
+    g ""
+
+# game/script_jessie.rpy:4264
+translate russian ch3j_03_e555e0b8:
+
+    # c "Wait. What do you mean, \"too?\""
+    c ""
+
+# game/script_jessie.rpy:4266
+translate russian ch3j_03_1afc875b:
+
+    # g "Oh, you know. A little growl, a snarl... maybe a fang... maybe a howl at the moon..."
+    g ""
+
+# game/script_jessie.rpy:4267
+translate russian ch3j_03_d0182b94:
+
+    # c "You... you snake! You {i}do{/i} know!"
+    c ""
+
+# game/script_jessie.rpy:4269
+translate russian ch3j_03_f2d06156:
+
+    # g "I know. I told you already, Jessie's terrible at hiding secrets. Besides... I wander alone at night as oft as she does."
+    g ""
+
+# game/script_jessie.rpy:4270
+translate russian ch3j_03_60c13b2a:
+
+    # "How on Earth? I'm floored, but still slightly unconvinced. Why isn't she in shock, as I was?"
+    ""
+
+# game/script_jessie.rpy:4271
+translate russian ch3j_03_69b6501d:
+
+    # c "And... you're not frightened?"
+    c ""
+
+# game/script_jessie.rpy:4273
+translate russian ch3j_03_d95f61e5:
+
+    # g "Of Jessie? Oh, come now! What's she going to do, go radge and bite me?"
+    g ""
+
+# game/script_jessie.rpy:4274
+translate russian ch3j_03_e953d1e0:
+
+    # c "Simply put... yes!"
+    c ""
+
+# game/script_jessie.rpy:4275
+translate russian ch3j_03_74e09465:
+
+    # "Does that mean Jessie was practicing last night? Without me? Would she really be so reckless!?"
+    ""
+
+# game/script_jessie.rpy:4277
+translate russian ch3j_03_d106dd10:
+
+    # g "That doesn't frighten me one bit! Wouldn't you love the excitement of being a werewolf? The power? My! I get skin tingles all over just imagining it! What a dream!"
+    g ""
+
+# game/script_jessie.rpy:4279
+translate russian ch3j_03_ea598fd2:
+
+    # g "How did she get so lucky? Gorgeous {i}and{/i} a wolf? I was dealt every bad hand!"
+    g ""
+
+# game/script_jessie.rpy:4289
+translate russian ch3j_03_913eff8d:
+
+    # "Grace slides over to me, a little too close for comfort. I can smell the sea on her."
+    ""
+
+# game/script_jessie.rpy:4290
+translate russian ch3j_03_5b0cd518:
+
+    # g "You know, Malcolm, if you ever tire of my more beautiful, energetic, and talented older sister... I'll have you know I am very, very, {i}very{/i} willing to be nibbled upon."
+    g ""
+
+# game/script_jessie.rpy:4292
+translate russian ch3j_03_ec74be14:
+
+    # g "I imagine a tail would make me even more becoming!"
+    g ""
+
+# game/script_jessie.rpy:4294
+translate russian ch3j_03_0ba40559:
+
+    # "Grace winks and giggles."
+    ""
+
+# game/script_jessie.rpy:4295
+translate russian ch3j_03_a80d2272:
+
+    # c "I'm not a werewolf, Grace!"
+    c ""
+
+# game/script_jessie.rpy:4297
+translate russian ch3j_03_0f6444e4:
+
+    # g "Hmph. Well, maybe not yet. Check yourself for bite marks, though. Jessie's a quick one!"
+    g ""
+
+# game/script_jessie.rpy:4299
+translate russian ch3j_03_5e5fe97b:
+
+    # "I wonder if she isn't right. I make a mental note to look myself over later."
+    ""
+
+# game/script_jessie.rpy:4300
+translate russian ch3j_03_ee4653c8:
+
+    # c "You rascal... you are truly a hellion!"
+    c ""
+
+# game/script_jessie.rpy:4302
+translate russian ch3j_03_9d45c325:
+
+    # g "I take that as nothing but a compliment!"
+    g ""
+
+# game/script_jessie.rpy:4303
+translate russian ch3j_03_f1c21975:
+
+    # c "Then you're welcome!"
+    c ""
+
+# game/script_jessie.rpy:4305
+translate russian ch3j_03_1282ebee:
+
+    # "Gran calls from the other room."
+    ""
+
+# game/script_jessie.rpy:4306
+translate russian ch3j_03_eaaf82bc:
+
+    # s "I hear a lot of chatter and not a lot of stirring! What are you two arguing about?"
+    s ""
+
+# game/script_jessie.rpy:4307
+translate russian ch3j_03_1ba5231d:
+
+    # "Oh, Grace is stirring the pot, all right."
+    ""
+
+# game/script_jessie.rpy:4319
+translate russian ch3j_03_da683ac8:
+
+    # g "We're just debating which of us is the better dancer!"
+    g ""
+
+# game/script_jessie.rpy:4327
+translate russian ch3j_03_17436e5f:
+
+    # s "Well I've news for ya: my moves'll put yours both to shame!"
+    s ""
+
+# game/script_jessie.rpy:4328
+translate russian ch3j_03_866c2810:
+
+    # "Gran steps out in her normal attire, with one glaring addition."
+    ""
+
+# game/script_jessie.rpy:4329
+translate russian ch3j_03_0e4a8dae:
+
+    # g "Crivens, Agnes, what is that on your head—"
+    g ""
+
+# game/script_jessie.rpy:4330
+translate russian ch3j_03_85cd8496:
+
+    # c "Oh, Gran, isn't your hat just the cat's pajamas!"
+    c ""
+
+# game/script_jessie.rpy:4333
+translate russian ch3j_03_d24b294b:
+
+    # "I elbow Grace, and whisper through a gritted smile."
+    ""
+
+# game/script_jessie.rpy:4334
+translate russian ch3j_03_9f202bae:
+
+    # c "{size=26}{i}Behave.{/i} If this goes wrong, I blame you!{/size}"
+    c ""
+
+# game/script_jessie.rpy:4336
+translate russian ch3j_03_70275eab:
+
+    # g "{size=26}Oh, calm your knickers, Malcolm! Your Gran wants to hear a song and dance number, not shake a cane at your girlfriend! Everything will be fine!{/size}"
+    g ""
+
+# game/script_jessie.rpy:4338
+translate russian ch3j_03_adf71e89:
+
+    # s "What's that, Grace? Is my fashion {i}too bold{/i} for your liking?"
+    s ""
+
+# game/script_jessie.rpy:4340
+translate russian ch3j_03_08ddc5e9:
+
+    # g "No, it's... it's certainly the wolf's whiskers!"
+    g ""
+
+# game/script_jessie.rpy:4341
+translate russian ch3j_03_ab9ea1ad:
+
+    # c "What's {i}that{/i} supposed to mean?"
+    c ""
+
+# game/script_jessie.rpy:4343
+translate russian ch3j_03_c9474892:
+
+    # g "All the flip-floppers are saying it, Malcolm. Haven't you heard?"
+    g ""
+
+# game/script_jessie.rpy:4345
+translate russian ch3j_03_9ef8942a:
+
+    # s "Well, call me any animal you like, but don't call me late to the dance! Let's finish this cider and scarper out of here!"
+    s ""
+
+# game/script_jessie.rpy:4375
+translate russian ch3j_04_60c008d2:
+
+    # "Hazel is less than enthusiastic about being hitched to the cart, especially so late in the day. After some coercing, we finally take off down the rutted path."
+    ""
+
+# game/script_jessie.rpy:4377
+translate russian ch3j_04_870886c1:
+
+    # "Thankfully, the ride into town is less trying than its preparation, except for having to listen to Gran's stories of yore."
+    ""
+
+# game/script_jessie.rpy:4378
+translate russian ch3j_04_994db84f:
+
+    # s "Now, back in my day, Grace... a woman was never seen at the Stag & Nanny, except behind the counter."
+    s ""
+
+# game/script_jessie.rpy:4384
+translate russian ch3j_04_2de8954d:
+
+    # s "We were there to serve the men, you see. If a girl like you showed up, we'd have guessed you were there to earn a living."
+    s ""
+
+# game/script_jessie.rpy:4385
+translate russian ch3j_04_45253180:
+
+    # c "There you go, Grace. Don't be surprised if Balgair hands you a mop and bucket. Why else would as fine a lady as yourself be at such an establishment?"
+    c ""
+
+# game/script_jessie.rpy:4386
+translate russian ch3j_04_a0aa41f9:
+
+    # g "Oh, p'shaw!"
+    g ""
+
+# game/script_jessie.rpy:4388
+translate russian ch3j_04_cd5373ca:
+
+    # s "Goodness. Look at that moon tonight! I certainly hope that wolf doesn't make an appearance again. Everyone in town says it's as big as a lion!"
+    s ""
+
+# game/script_jessie.rpy:4389
+translate russian ch3j_04_e5ff40cf:
+
+    # g "Don't fret, Agnes... Balgair always has his faithful firearm at the ready. Should a wolf appear inside the Stag & Nanny, we'll be safe as can be."
+    g ""
+
+# game/script_jessie.rpy:4390
+translate russian ch3j_04_ccb81af1:
+
+    # "I could feel Grace's bottled up laughter, like an echoing snicker in my psyche. Damn, that girl. Full of piss and vinegar."
+    ""
+
+# game/script_jessie.rpy:4391
+translate russian ch3j_04_f8b56efa:
+
+    # "Is this just a game to her? The danger is very real. The blood that had stained my shirt is very real."
+    ""
+
+# game/script_jessie.rpy:4392
+translate russian ch3j_04_fcbd457a:
+
+    # "My blood pressure rises. I have to remind myself that drinks are right around the corner."
+    ""
+
+# game/script_jessie.rpy:4393
+translate russian ch3j_04_3a2299ed:
+
+    # c "No worries, Gran. I don't believe we'll be seeing the wolf again. The sighting is bound to fade away into just another one of Ach-na-Creige's tall tales."
+    c ""
+
+# game/script_jessie.rpy:4394
+translate russian ch3j_04_9ea6d403:
+
+    # "Gran has already moved on."
+    ""
+
+# game/script_jessie.rpy:4395
+translate russian ch3j_04_10a350a2:
+
+    # s "Tall tales... now back in my day, there were tales of the Wulver, a wolf man who delivered fish to the poorest locals. A saintly monster, that's what my father called it."
+    s ""
+
+# game/script_jessie.rpy:4396
+translate russian ch3j_04_3c69c9a5:
+
+    # g "Maybe that's my true calling! Delivering fish to the townspeople."
+    g ""
+
+# game/script_jessie.rpy:4397
+translate russian ch3j_04_1e7cfce6:
+
+    # c "You are a bit of a saintly monster..."
+    c ""
+
+# game/script_jessie.rpy:4398
+translate russian ch3j_04_0ac9991e:
+
+    # s "There you go, Grace. I'm sure the fishmonger is always looking for help."
+    s ""
+
+# game/script_jessie.rpy:4399
+translate russian ch3j_04_2cedac72:
+
+    # c "Yes, Grace. I'm sure he'd love to hire a young woman to go jump in the loch!"
+    c ""
+
+# game/script_jessie.rpy:4400
+translate russian ch3j_04_26bc7c80:
+
+    # s "Malcolm!"
+    s ""
+
+# game/script_jessie.rpy:4401
+translate russian ch3j_04_a6c451cb:
+
+    # g "It's fine, Agnes. Sounds like a dream come true!"
+    g ""
+
+# game/script_jessie.rpy:4424
+translate russian ch3j_04_c3c32ef7:
+
+    # "Finally we pull into town, and Grace helps Gran from the cart."
+    ""
+
+# game/script_jessie.rpy:4425
+translate russian ch3j_04_5f49c426:
+
+    # s "Thank you, dearie. Y'know, I wonder if Gemma Tyte is in attendance... she's about your age, and I imagine you two would get along swimmingly!"
+    s ""
+
+# game/script_jessie.rpy:4427
+translate russian ch3j_04_9bcd0fe2:
+
+    # "While Gran adjusts her headgear, Grace whispers my way."
+    ""
+
+# game/script_jessie.rpy:4428
+translate russian ch3j_04_c95b5c3e:
+
+    # g "{size=26}Your Gran is a terrible matchmaker. I cannae stand Gemma.{/size}"
+    g ""
+
+# game/script_jessie.rpy:4429
+translate russian ch3j_04_fe19f31b:
+
+    # c "{size=26}Oh, I'm sure you can get along with just about anyone, after a few rounds of rum. Especially if they're buyin'.{/size}"
+    c ""
+
+# game/script_jessie.rpy:4431
+translate russian ch3j_04_2457ec63:
+
+    # g "{size=26}...{/size}"
+    g ""
+
+# game/script_jessie.rpy:4433
+translate russian ch3j_04_e6e271ee:
+
+    # g "Sounds lovely, Agnes! Do lead on!"
+    g ""
+
+# game/script_jessie.rpy:4457
+translate russian ch3j_04_b4118534:
+
+    # "Inside, the pub is full. Jessie spots us as we enter, and just as Grace guessed, she looks thrilled to see us."
+    ""
+
+# game/script_jessie.rpy:4458
+translate russian ch3j_04_cdf6d7ff:
+
+    # "I'm flooded with relief to see her so happy. I would have thought our surprise appearance would be jarring."
+    ""
+
+# game/script_jessie.rpy:4463
+translate russian ch3j_04_c16a8145:
+
+    # j "Agnes! What a treat!"
+    j ""
+
+# game/script_jessie.rpy:4480
+translate russian ch3j_04_5904108e:
+
+    # "Jessie takes Agnes in her arms, and my poor grandmother looks a mite bit terrified."
+    ""
+
+# game/script_jessie.rpy:4482
+translate russian ch3j_04_cd087867:
+
+    # s "Jessie! You've forgotten half your dress!"
+    s ""
+
+# game/script_jessie.rpy:4495
+translate russian ch3j_04_ceeb3598:
+
+    # "Jessie spins around, laughing. I catch her eye, and her smile broadens. I swear she is blushing, too."
+    ""
+
+# game/script_jessie.rpy:4504
+translate russian ch3j_04_a0bc7242:
+
+    # j "It's the style, Agnes!"
+    j ""
+
+# game/script_jessie.rpy:4507
+translate russian ch3j_04_3c7007f6:
+
+    # s "So this is what the flip-floppers wear?"
+    s ""
+
+# game/script_jessie.rpy:4509
+translate russian ch3j_04_3abb4fd0:
+
+    # j "The wha—?"
+    j ""
+
+# game/script_jessie.rpy:4511
+translate russian ch3j_04_db9bfe10:
+
+    # "Before she can finish her question, Balgair signals Jessie that it's show time."
+    ""
+
+# game/script_jessie.rpy:4513
+translate russian ch3j_04_90aac2f0:
+
+    # j "Agnes, let me get you a seat by the stage."
+    j ""
+
+# game/script_jessie.rpy:4521
+translate russian ch3j_04_caacfc79:
+
+    # "Jessie starts to walk away, but Agnes takes her arm."
+    ""
+
+# game/script_jessie.rpy:4523
+translate russian ch3j_04_b983bb93:
+
+    # s "No need!"
+    s ""
+
+# game/script_jessie.rpy:4529
+translate russian ch3j_04_689d3cee:
+
+    # "Jessie's face falls."
+    ""
+
+# game/script_jessie.rpy:4530
+translate russian ch3j_04_b522af3d:
+
+    # c "Gran, we're staying for the performance, aren't we? That's why we traveled all the way to town."
+    c ""
+
+# game/script_jessie.rpy:4532
+translate russian ch3j_04_e7f2e35b:
+
+    # s "I don't need to watch the performance."
+    s ""
+
+# game/script_jessie.rpy:4542
+translate russian ch3j_04_b188eea3:
+
+    # b "What's this about not staying for the show? Miss MacLeod is the best act this side of Glasgow!"
+    b ""
+
+# game/script_jessie.rpy:4544
+translate russian ch3j_04_0167d995:
+
+    # s "I only said I don't need to watch it. I don't need a seat. What I need is a {i}dance partner{/i}. This is a dance parlor now, isn't it?"
+    s ""
+
+# game/script_jessie.rpy:4548
+translate russian ch3j_04_534e4b27:
+
+    # "Gran stands steadfast, waiting for the right response."
+    ""
+
+# game/script_jessie.rpy:4550
+translate russian ch3j_04_791bccf8:
+
+    # b "Aye! Let me adjust m'tam o' shanter, and comb my facials."
+    b ""
+
+# game/script_jessie.rpy:4551
+translate russian ch3j_04_4c2dd6bb:
+
+    # "Balgair strokes his hefty mustache."
+    ""
+
+# game/script_jessie.rpy:4553
+translate russian ch3j_04_982c9a5e:
+
+    # s "Find a place for my bonnet, as well, please, Mr. Buchan."
+    s ""
+
+# game/script_jessie.rpy:4558
+translate russian ch3j_04_b17eaa3b:
+
+    # "Balgair nods, and takes the monstrosity of a hat."
+    ""
+
+# game/script_jessie.rpy:4560
+translate russian ch3j_04_1cee99cc:
+
+    # b "I'll meet you on the dance floor, Mrs. Campbell!"
+    b ""
+
+# game/script_jessie.rpy:4583
+translate russian ch3j_04_06f72c66:
+
+    # "I let Jessie lead Grace and me to a table near the stage, dodging loud conversations and clouds of pipe smoke as we go."
+    ""
+
+# game/script_jessie.rpy:4585
+translate russian ch3j_04_e9b617ff:
+
+    # "Jessie whispers in my ear."
+    ""
+
+# game/script_jessie.rpy:4586
+translate russian ch3j_04_c15ed1db:
+
+    # j "This is a nice surprise, Malcolm. Thank you."
+    j ""
+
+# game/script_jessie.rpy:4587
+translate russian ch3j_04_68e90a9a:
+
+    # "I'm relieved, and also want desperately to kiss her. Perhaps later tonight... after a few rounds."
+    ""
+
+# game/script_jessie.rpy:4598
+translate russian ch3j_04_8a8ac161:
+
+    # "Jessie takes her spot on stage, and Grace leans over to me."
+    ""
+
+# game/script_jessie.rpy:4599
+translate russian ch3j_04_f0d79fb0:
+
+    # g "And you doubted me? This will be a grand evening, I promise you!"
+    g ""
+
+# game/script_jessie.rpy:4600
+translate russian ch3j_04_8fd21ead:
+
+    # c "You can guarantee that?"
+    c ""
+
+# game/script_jessie.rpy:4602
+translate russian ch3j_04_c43656c5:
+
+    # g "This will make Jessie happy. If we make her happy, she may, in turn, want to make {i}you{/i} happy."
+    g ""
+
+# game/script_jessie.rpy:4604
+translate russian ch3j_04_958f0447:
+
+    # "Grace gives an exaggerated wink, and I turn red. What is wrong with this girl?"
+    ""
+
+# game/script_jessie.rpy:4611
+translate russian ch3j_04_ee861928:
+
+    # "Balgair reappears with two pints, and a much fluffier mustache. Does he keep grooming supplies here? What a chap!"
+    ""
+
+# game/script_jessie.rpy:4612
+translate russian ch3j_04_6299d5ae:
+
+    # b "Drinks on the house! I'm off to lead your Gran around the dance floor."
+    b ""
+
+# game/script_jessie.rpy:4613
+translate russian ch3j_04_9b720b24:
+
+    # "For the third time in a row, I get a whisper my way."
+    ""
+
+# game/script_jessie.rpy:4617
+translate russian ch3j_04_d1064878:
+
+    # b "{size=26}Mind your manners with your ladies this evening, sir. That's a trio I wouldn't want on my bad side!{/size}"
+    b ""
+
+# game/script_jessie.rpy:4622
+translate russian ch3j_04_5937dc06:
+
+    # "I laugh, but another thought comes to mind. Poor Marion. Alone at home, most likely with a heap of dishes, and the quiet of an empty home. I mention this to Grace, as Jessie readies her act."
+    ""
+
+# game/script_jessie.rpy:4623
+translate russian ch3j_04_0e350309:
+
+    # c "I'm sorry we didn't invite Marion!"
+    c ""
+
+# game/script_jessie.rpy:4624
+translate russian ch3j_04_a30c2613:
+
+    # "Grace calls back over the din of the crowd."
+    ""
+
+# game/script_jessie.rpy:4626
+translate russian ch3j_04_9943ec56:
+
+    # g "She'll be fine. She enjoys her story books and a glass of warm milk. Besides, I can't imagine seeing her in a place like this!"
+    g ""
+
+# game/script_jessie.rpy:4627
+translate russian ch3j_04_1a240219:
+
+    # "I tend to agree, but still feel a twinge of guilt for leaving her out of the festivities. Ah, well. There's always another night..."
+    ""
+
+# game/script_jessie.rpy:4629
+translate russian ch3j_04_4ce9f723:
+
+    # "...I sincerely hope."
+    ""
+
+# game/script_jessie.rpy:4630
+translate russian ch3j_04_2445ad16:
+
+    # "Should I lose Jessie now to the promise and dreams of glitz and glamour in the city, I don't know how I'd move forward."
+    ""
+
+# game/script_jessie.rpy:4651
+translate russian ch3j_04_7200e19b:
+
+    # j "Good evenin', everyone! I've got a special song for you tonight. A ballad I wrote for someone special... it's called \"Rose-Coloured Glasses.\""
+    j ""
+
+# game/script_jessie.rpy:4658
+translate russian ch3j_04_772fbee7:
+
+    # "The needle falls on the victrola, and Jessie's voice charms us all."
+    ""
+
+# game/script_jessie.rpy:4659
+translate russian ch3j_04_7a5e15a1:
+
+    # "It's a song about seeing the world through fresh eyes, and leaving your inhibitions out the door. And it's being sung from the heart."
+    ""
+
+# game/script_jessie.rpy:4665
+translate russian ch3j_04_137e762d:
+
+    # "Balgair takes Gran by the arm, and they sway to the rhythm of the tune."
+    ""
+
+# game/script_jessie.rpy:4668
+translate russian ch3j_04_aa6a86b5:
+
+    # "The night I returned, that first night I heard Jessie sing... she was alluring, and talented for sure. But tonight... she has become a shooting star."
+    ""
+
+# game/script_jessie.rpy:4669
+translate russian ch3j_04_8bb1fe28:
+
+    # "Her voice is at once gentle and strong, soft and strident. A dichotomy of timbres that would be unthinkable if it weren't soothing my ears right now."
+    ""
+
+# game/script_jessie.rpy:4670
+translate russian ch3j_04_2e698b31:
+
+    # "It's impossible. It's beautiful. It has us all enraptured, like we are living a dream."
+    ""
+
+# game/script_jessie.rpy:4671
+translate russian ch3j_04_0679da5e:
+
+    # "{i}Jessie{/i} is living her dream. I'm at once proud of her, and shocked by her new artistic talents. What a gem of a gal."
+    ""
+
+# game/script_jessie.rpy:4674
+translate russian ch3j_04_58335671:
+
+    # "Heavens, what my world has become. From terror to pure joy. I don't understand it, but I relish it. All of it."
+    ""
+
+# game/script_jessie.rpy:4675
+translate russian ch3j_04_2f215269:
+
+    # "Being with friends and family in a darkened, smoky pub while my girlfriend enchants us all with a magical performance."
+    ""
+
+# game/script_jessie.rpy:4677
+translate russian ch3j_04_c623fd12:
+
+    # "I think back to when I asked Jessie about her father missing her. He is missing this. He is missing his daughter thrive, succeed, live her dream."
+    ""
+
+# game/script_jessie.rpy:4678
+translate russian ch3j_04_1cd79c29:
+
+    # "For the briefest of moments, I wonder what her mother would think."
+    ""
+
+# game/script_jessie.rpy:4679
+translate russian ch3j_04_efc2bded:
+
+    # "But then my mind threatens to wander down memories of my own parents, so I take a swig of ale and still my thoughts, focusing on the here and now."
+    ""
+
+# game/script_jessie.rpy:4681
+translate russian ch3j_04_d8e16ec3:
+
+    # "Here and now. I believe I have never felt more at home, more comforted... more at peace."
+    ""
+
+# game/script_jessie.rpy:4686
+translate russian ch3j_04_b7b3dcfa:
+
+    # "I barely hear the soft lull of the final note as the song comes to a close."
+    ""
+
+# game/script_jessie.rpy:4693
+translate russian ch3j_04_baea4523:
+
+    # "For a moment the spell lingers. Then, all at once, the crowd {nw}"
+    ""
+
+# game/script_jessie.rpy:4695
+translate russian ch3j_04_036b58b6:
+
+    # extend "erupts into applause."
+    extend ""
+
+# game/script_jessie.rpy:4709
+translate russian ch3j_04_be7060de:
+
+    # s "The voice of an angel! Grace, your sister is truly blessed."
+    s ""
+
+# game/script_jessie.rpy:4711
+translate russian ch3j_04_2f99eb02:
+
+    # g "I can't disagree."
+    g ""
+
+# game/script_jessie.rpy:4713
+translate russian ch3j_04_779c02a4:
+
+    # s "And Balgair, thank you for the dance! You remind me so much of your mother!"
+    s ""
+
+# game/script_jessie.rpy:4715
+translate russian ch3j_04_bdceacfa:
+
+    # b "Matilda?"
+    b ""
+
+# game/script_jessie.rpy:4717
+translate russian ch3j_04_9ead6c2d:
+
+    # s "A real tank of a woman!"
+    s ""
+
+# game/script_jessie.rpy:4718
+translate russian ch3j_04_2947b6a4:
+
+    # c "Gran!"
+    c ""
+
+# game/script_jessie.rpy:4720
+translate russian ch3j_04_d1e9e110:
+
+    # s "But so light on her feet... a stunning dancer!"
+    s ""
+
+# game/script_jessie.rpy:4722
+translate russian ch3j_04_18cf165c:
+
+    # b "Aye! Nothing more true. Strongest woman in the Highlands! Who do'ye think taught me to toss a caber? And you're absolutely right, no woman could step better!"
+    b ""
+
+# game/script_jessie.rpy:4724
+translate russian ch3j_04_142734fc:
+
+    # s "I saw her haul sheaf for days at a time, hours on end. I see where you get your work ethic, young man, and your muscles!"
+    s ""
+
+# game/script_jessie.rpy:4726
+translate russian ch3j_04_7cb4e140:
+
+    # b "Young, you say? I've not heard that in ought many years, m'dear! I thank ye."
+    b ""
+
+# game/script_jessie.rpy:4732
+translate russian ch3j_04_8da9dea5:
+
+    # "He leaves to fetch us another round, and Jessie keeps singing her heart out. Gran slides into the chair next to me, and shouts over the raucous crowd and the lively number."
+    ""
+
+# game/script_jessie.rpy:4734
+translate russian ch3j_04_55b9b2a5:
+
+    # s "What a grand time! Best night of my life so far! That Jessie is one hot ticket!"
+    s ""
+
+# game/script_jessie.rpy:4735
+translate russian ch3j_04_64974be9:
+
+    # "A few people around us hear Gran's shouts and cheer along. Jessie is, indeed, a hit. Her voice, her face, her charm. It's a perfect combination. For the perfect girl."
+    ""
+
+# game/script_jessie.rpy:4736
+translate russian ch3j_04_0bd9593d:
+
+    # "I'm incredibly pleased that my grandmother has made it out this evening, despite my misgivings. Maybe this is what she needs to open her mind up about Jessie and me being together."
+    ""
+
+# game/script_jessie.rpy:4737
+translate russian ch3j_04_458e9f7f:
+
+    # "Regardless, Gran is enjoying herself, and that alone is a wonderful sight to behold. She claps along with the tune, one about female independence, and \"not needin' no man.\""
+    ""
+
+# game/script_jessie.rpy:4738
+translate russian ch3j_04_3c4e8789:
+
+    # "Balgair delivers a few more pints, which we finish off while we continue to watch the show."
+    ""
+
+# game/script_jessie.rpy:4796
+translate russian ch3j_04_e62b2fae:
+
+    # "The first person to rush Jessie as she ends her set is my grandmother. She gives her a huge hug, nearly crushing Jessie's tiny frame."
+    ""
+
+# game/script_jessie.rpy:4797
+translate russian ch3j_04_2377001a:
+
+    # s "Oh, what a star! I didn't know how spectacular you would sound!"
+    s ""
+
+# game/script_jessie.rpy:4810
+translate russian ch3j_04_7c5fa4a4:
+
+    # "Gran pulls away, and takes hold of each side of the front of Jessie's dress, trying to pull them closer together."
+    ""
+
+# game/script_jessie.rpy:4811
+translate russian ch3j_04_07f4b592:
+
+    # s "Now, if only we could get you something a little more demure, don't you think? I can whip something up in a jiffy!"
+    s ""
+
+# game/script_jessie.rpy:4813
+translate russian ch3j_04_0e64640c:
+
+    # "Jessie blushes and tries to hide her smile."
+    ""
+
+# game/script_jessie.rpy:4814
+translate russian ch3j_04_3867cd43:
+
+    # c "Gran, I think Jessie looks lovely."
+    c ""
+
+# game/script_jessie.rpy:4819
+translate russian ch3j_04_cd421558:
+
+    # s "Exactly! But you don't want other fellows thinking the same thing, do you?"
+    s ""
+
+# game/script_jessie.rpy:4823
+translate russian ch3j_04_8cacdae0:
+
+    # "Gran winks, and we all burst out laughing. I take this as a sign of her approval."
+    ""
+
+# game/script_jessie.rpy:4824
+translate russian ch3j_04_c08fc348:
+
+    # c "I can't argue with my own grandmother, Jessie. Maybe something a little less revealing on stage?"
+    c ""
+
+# game/script_jessie.rpy:4826
+translate russian ch3j_04_41bfb8cd:
+
+    # j "I can't say no to Agnes!"
+    j ""
+
+# game/script_jessie.rpy:4828
+translate russian ch3j_04_de8733ed:
+
+    # s "That's right. Smart girl. I have to say I'm a little jealous. If only I had the body for such a dress myself. I would have to beat the boys off with a stick!"
+    s ""
+
+# game/script_jessie.rpy:4830
+translate russian ch3j_04_42224224:
+
+    # j "Oh, Agnes. You're still a stunner! Watch out for roaming eyes around here."
+    j ""
+
+# game/script_jessie.rpy:4833
+translate russian ch3j_04_0f99023c:
+
+    # g "It's where she picked up her first husband, I hear."
+    g ""
+
+# game/script_jessie.rpy:4834
+translate russian ch3j_04_53da38be:
+
+    # "I cringe, not knowing if the joke will offend my grandmother's sensibilities, but she takes it in stride."
+    ""
+
+# game/script_jessie.rpy:4836
+translate russian ch3j_04_91ec5ab7:
+
+    # s "That's a truth, dear Grace. \"Alluring Agnes\" is what the lads here called me back in my day. I had some wild times in my youth!"
+    s ""
+
+# game/script_jessie.rpy:4839
+translate russian ch3j_04_2337da2b:
+
+    # g "Tell us more!"
+    g ""
+
+# game/script_jessie.rpy:4840
+translate russian ch3j_04_ee4b4cd9:
+
+    # "No, let's not, Grace. I groan inside, but pat my grandmother on the back."
+    ""
+
+# game/script_jessie.rpy:4842
+translate russian ch3j_04_8e98438b:
+
+    # s "Well... there was the time I drank too much whisky, got on top of the bar and started taking off—"
+    s ""
+
+# game/script_jessie.rpy:4845
+translate russian ch3j_04_cc17c877:
+
+    # c "All right Gran! I think maybe the ale is making you a bit more {i}relaxed{/i} than usual. Perhaps we should rile up old Hazel, and get you home for the evening."
+    c ""
+
+# game/script_jessie.rpy:4849
+translate russian ch3j_04_b5ccb5df:
+
+    # s "Aye, perhaps... it is gettin' to be a wee bit past me bedtime. But one more round of applause for Miss Jessie. What a pleasant performance!"
+    s ""
+
+# game/script_jessie.rpy:4852
+translate russian ch3j_04_571db0ee:
+
+    # "We applaud our friend, and Jessie takes my hand. The gesture surprises me, and moves me. Her openly showing me affection gives me a rush of unexpected joy."
+    ""
+
+# game/script_jessie.rpy:4854
+translate russian ch3j_04_99fa5d8e:
+
+    # "She squeezes my hand, and I squeeze back. Grace takes notice."
+    ""
+
+# game/script_jessie.rpy:4856
+translate russian ch3j_04_aa0c60ab:
+
+    # g "Malcolm, I'll go hitch Hazel to the wagon. I imagine my sister will need a chaperone to get home this evening."
+    g ""
+
+# game/script_jessie.rpy:4858
+translate russian ch3j_04_3a78978a:
+
+    # s "Aye! And we need to get young Grace home, as well, before she gets any ideas!"
+    s ""
+
+# game/script_jessie.rpy:4860
+translate russian ch3j_04_37c0bcc0:
+
+    # g "No need to worry about me, Agnes. I venture out only once in a full...er, {i}blue{/i} moon."
+    g ""
+
+# game/script_jessie.rpy:4862
+translate russian ch3j_04_185798a8:
+
+    # "Grace catches her sister's eye, and Jessie looks very concerned. I hold tighter to her hand, to reassure her. Her secret is safe. For now."
+    ""
+
+# game/script_jessie.rpy:4869
+translate russian ch3j_04_ca2e3f03:
+
+    # "The crowd is thinning, and the pub space is opening back up. Grace and Gran make their way out, after a swarm of hugs, kisses, and well wishes."
+    ""
+
+# game/script_jessie.rpy:4877
+translate russian ch3j_04_5b5a9438:
+
+    # "I turn to Jessie, to pour on additional compliments and sneak a kiss."
+    ""
+
+# game/script_jessie.rpy:4878
+translate russian ch3j_04_deb56bd8:
+
+    # c "You were marvelous tonight."
+    c ""
+
+# game/script_jessie.rpy:4880
+translate russian ch3j_04_a166c441:
+
+    # j "Don't you mean I'm marvelous {i}every{/i} night?"
+    j ""
+
+# game/script_jessie.rpy:4885
+translate russian ch3j_04_d12285cd:
+
+    # c "It goes without saying. The scarlet starlet of Ach-na-Creige."
+    c ""
+
+# game/script_jessie.rpy:4887
+translate russian ch3j_04_31e58d16:
+
+    # j "Hah! Yes, we've hit the big time, now, Malcolm."
+    j ""
+
+# game/script_jessie.rpy:4888
+translate russian ch3j_04_fa0e2a9e:
+
+    # "I hold an empty beer mug to my ear and talk into the handle."
+    ""
+
+# game/script_jessie.rpy:4889
+translate russian ch3j_04_b44754c0:
+
+    # c "Aye, this is the Stag & Nanny. Mmhmm, she's right here; please hold. Jessie? It's Hollywood on the line."
+    c ""
+
+# game/script_jessie.rpy:4891
+translate russian ch3j_04_404950b7:
+
+    # j "Tell them I'm booked solid. My boss is quite the taskmaster."
+    j ""
+
+# game/script_jessie.rpy:4896
+translate russian ch3j_04_3ad0cd44:
+
+    # b "Your boss likes to run a tight ship, that's right."
+    b ""
+
+# game/script_jessie.rpy:4901
+translate russian ch3j_04_ee9e3a44:
+
+    # "Balgair's sudden appearance has Jessie and me both blushing. He looks at both of us, and breaks into a smile."
+    ""
+
+# game/script_jessie.rpy:4903
+translate russian ch3j_04_62cee374:
+
+    # b "...But that doesn't mean he's unreasonable. Take the night off, lass. You've earned it. The boys are all too blootered to appreciate another set, anyway."
+    b ""
+
+# game/script_jessie.rpy:4905
+translate russian ch3j_04_4058ba0c:
+
+    # c "You outdid yourself tonight. The whole room was hypnotized."
+    c ""
+
+# game/script_jessie.rpy:4907
+translate russian ch3j_04_a96d27ca:
+
+    # j "Mmm... my dress has that effect on people; at least, according to your Gran."
+    j ""
+
+# game/script_jessie.rpy:4908
+translate russian ch3j_04_f0bfc306:
+
+    # c "Not just your dress. Your voice, Jessie. It was magical."
+    c ""
+
+# game/script_jessie.rpy:4910
+translate russian ch3j_04_d002975a:
+
+    # j "Y'think so?"
+    j ""
+
+# game/script_jessie.rpy:4911
+translate russian ch3j_04_b55e2474:
+
+    # c "Me and everyone here. Your act put a spell on us."
+    c ""
+
+# game/script_jessie.rpy:4913
+translate russian ch3j_04_4d391df1:
+
+    # j "Cheers, Malcolm. Y'know, it's not really an act. When I'm up here, I can truly be myself."
+    j ""
+
+# game/script_jessie.rpy:4914
+translate russian ch3j_04_1e3956b3:
+
+    # c "Well, maybe not {i}entirely{/i}..."
+    c ""
+
+# game/script_jessie.rpy:4916
+translate russian ch3j_04_69e87f7a:
+
+    # j "Oh, shush! Such things are best left for after business... hours..."
+    j ""
+
+# game/script_jessie.rpy:4922
+translate russian ch3j_04_175f2f3f:
+
+    # "Jessie's voice trails off as Balgair walks by."
+    ""
+
+# game/script_jessie.rpy:4924
+translate russian ch3j_04_486d26c1:
+
+    # b "I, ah... {i}ahem{/i}. Carry on."
+    b ""
+
+# game/script_jessie.rpy:4926
+translate russian ch3j_04_d55cc4ca:
+
+    # "He is as red as a beet—and I imagine I am too. How much had he heard? I can only imagine what he must be thinking."
+    ""
+
+# game/script_jessie.rpy:4930
+translate russian ch3j_04_5d7c2103:
+
+    # b "In fact, on second thought... don't carry on. Take the night off, lass. You've earned it. The boys are all too blootered to appreciate another set, anyway."
+    b ""
+
+# game/script_jessie.rpy:4936
+translate russian ch3j_04_2404ee73:
+
+    # "He winks at me and leaves us standing, astonished. What a chap, indeed."
+    ""
+
+# game/script_jessie.rpy:4939
+translate russian ch3j_04_c1d77dde:
+
+    # j "Well... all right, then! I'd better head backstage to freshen up. Then maybe you can be my chaperone?"
+    j ""
+
+# game/script_jessie.rpy:4940
+translate russian ch3j_04_e034b4d2:
+
+    # c "Need me to help with anything... {i}backstage{/i}?"
+    c ""
+
+# game/script_jessie.rpy:4942
+translate russian ch3j_04_905e9028:
+
+    # j "Haha. Not right now. I'll be out in a jiffy."
+    j ""
+
+# game/script_jessie.rpy:4946
+translate russian ch3j_04_af856204:
+
+    # "She kisses my hand, and disappears into her small dressing room."
+    ""
+
+# game/script_jessie.rpy:4965
+translate russian ch3j_04_0d7bcfd1:
+
+    # "The evening rush has eased, and Balgair is wiping down the counter. He gestures for me to come over, tosses me a wet rag, and I join in the cleaning."
+    ""
+
+# game/script_jessie.rpy:4966
+translate russian ch3j_04_4ab540a3:
+
+    # b "My boy, I owe you a debt of gratitude."
+    b ""
+
+# game/script_jessie.rpy:4967
+translate russian ch3j_04_309e5307:
+
+    # c "Why's that?"
+    c ""
+
+# game/script_jessie.rpy:4969
+translate russian ch3j_04_d777736e:
+
+    # b "I do believe if it weren't for you, my prized performer would be halfway to Glasgow by now! She's got eyes for you, there's no doubt. But I think you've got her heart, as well."
+    b ""
+
+# game/script_jessie.rpy:4971
+translate russian ch3j_04_3dbc5207:
+
+    # b "Even I couldn't convince her to stay. But you? Malcolm, you best not trifle with her. Treat her with kid gloves."
+    b ""
+
+# game/script_jessie.rpy:4972
+translate russian ch3j_04_d371dbbc:
+
+    # c "I assure you, Balgair, I can't take credit for her decisions, but I will most certainly heed your orders. Jessie deserves the best treatment in the world. She's an angel."
+    c ""
+
+# game/script_jessie.rpy:4974
+translate russian ch3j_04_9af053f7:
+
+    # b "Angel? Well... let's not canonize the poor girl. I've seen her feisty streak... one that seems to be getting stronger over time. I don't expect she'd ever lash out at ye, but..."
+    b ""
+
+# game/script_jessie.rpy:4976
+translate russian ch3j_04_90ce42e9:
+
+    # "Balgair picks up his rag, and twists it in his hands, clenching his large biceps."
+    ""
+
+# game/script_jessie.rpy:4977
+translate russian ch3j_04_03801ac1:
+
+    # b "Should she ever pick a fight with you, you'd best let her win."
+    b ""
+
+# game/script_jessie.rpy:4978
+translate russian ch3j_04_ad880352:
+
+    # "He twists harder on the rag, until I can hear the fibers tear."
+    ""
+
+# game/script_jessie.rpy:4980
+translate russian ch3j_04_6ddffb74:
+
+    # b "I'd wring the neck of the man who didn't."
+    b ""
+
+# game/script_jessie.rpy:4982
+translate russian ch3j_04_f78fe615:
+
+    # "My heart races. He laughs and lets the wet towel fall from his grip."
+    ""
+
+# game/script_jessie.rpy:4983
+translate russian ch3j_04_5ccd8ba7:
+
+    # b "You should see your face, lad! Just as white as when the wolf came upon us! Fear not, Mr. Campbell! I've already shot ye... can't do much worse than that, can I?"
+    b ""
+
+# game/script_jessie.rpy:4985
+translate russian ch3j_04_7fe8f048:
+
+    # "He swats me on the back, and I try to start breathing."
+    ""
+
+# game/script_jessie.rpy:4987
+translate russian ch3j_04_dd1843ba:
+
+    # b "I've only one true warning for you."
+    b ""
+
+# game/script_jessie.rpy:4988
+translate russian ch3j_04_6859f0b1:
+
+    # "My heart stops again."
+    ""
+
+# game/script_jessie.rpy:4990
+translate russian ch3j_04_63dfa721:
+
+    # b "Jessie's not long for this village. No matter how much you care for her. Her dreams are too large... as large as her heart. And she's bullheaded, believe you me."
+    b ""
+
+# game/script_jessie.rpy:4991
+translate russian ch3j_04_51c920fb:
+
+    # "More like wolf-headed, but I stay silent. Jessie is opening her door."
+    ""
+
+# game/script_jessie.rpy:4999
+translate russian ch3j_04_72737e09:
+
+    # "She steps out from behind the counter wearing a large fur coat. One made for a human, thankfully."
+    ""
+
+# game/script_jessie.rpy:5000
+translate russian ch3j_04_b7b1166c:
+
+    # c "Where did you get that?"
+    c ""
+
+# game/script_jessie.rpy:5001
+translate russian ch3j_04_6fdc94c5:
+
+    # "It looks extremely flattering... and expensive. I start to wonder if she caught the poor critters herself."
+    ""
+
+# game/script_jessie.rpy:5003
+translate russian ch3j_04_a00bc3f7:
+
+    # j "A... gentleman caller."
+    j ""
+
+# game/script_jessie.rpy:5004
+translate russian ch3j_04_1063037d:
+
+    # c "A what?"
+    c ""
+
+# game/script_jessie.rpy:5006
+translate russian ch3j_04_74544519:
+
+    # b "Men enjoy giving Jessie gifts, Malcolm. Looks to be something you'll have to get used to."
+    b ""
+
+# game/script_jessie.rpy:5007
+translate russian ch3j_04_3e97b30a:
+
+    # c "Is that true?"
+    c ""
+
+# game/script_jessie.rpy:5009
+translate russian ch3j_04_9c0997af:
+
+    # j "Sometimes. It's nothing, really. You've given me drinks before. It's simply a nice gesture."
+    j ""
+
+# game/script_jessie.rpy:5010
+translate russian ch3j_04_36ab27d5:
+
+    # c "A fur coat?"
+    c ""
+
+# game/script_jessie.rpy:5012
+translate russian ch3j_04_81eb872a:
+
+    # j "The men with money are only passing through the village. Usually salesmen or merchants."
+    j ""
+
+# game/script_jessie.rpy:5014
+translate russian ch3j_04_f28f885c:
+
+    # j "These are trifles. They pay a pittance for them, and hand them over to me. I give them nothing in return but a smile and a good show. You don't need to worry."
+    j ""
+
+# game/script_jessie.rpy:5015
+translate russian ch3j_04_fcc5ee1d:
+
+    # "I fear I've sent the wrong message, one of jealousy or disapproval."
+    ""
+
+# game/script_jessie.rpy:5016
+translate russian ch3j_04_659dc4a8:
+
+    # c "Don't get me wrong, I think your performance warrants all the gifts in the world. You're a showstopper. I'm just... befuddled."
+    c ""
+
+# game/script_jessie.rpy:5018
+translate russian ch3j_04_4a078311:
+
+    # j "How so?"
+    j ""
+
+# game/script_jessie.rpy:5019
+translate russian ch3j_04_6e2a73d1:
+
+    # "I'm realizing that Jessie's act isn't just entertaining. It really is a performance that can earn her a living. That coat alone likely cost more than a year's income for anyone in this village."
+    ""
+
+# game/script_jessie.rpy:5020
+translate russian ch3j_04_d38cd6ae:
+
+    # "I don't want to be crass, or mention money, because that's not what this is about, either. I'm simply..."
+    ""
+
+# game/script_jessie.rpy:5021
+translate russian ch3j_04_faace8f4:
+
+    # c "I'm just proud. Proud of you for accomplishing your dreams. For earning what you deserve."
+    c ""
+
+# game/script_jessie.rpy:5023
+translate russian ch3j_04_5f1d0c44:
+
+    # j "Thank you, Malcolm."
+    j ""
+
+# game/script_jessie.rpy:5024
+translate russian ch3j_04_1031114b:
+
+    # "I hear Balgair's warning in my head, though."
+    ""
+
+# game/script_jessie.rpy:5025
+translate russian ch3j_04_e1d6b764:
+
+    # "Jessie won't be in Ach-na-Creige forever, there's no doubt. She's not cut out to be the local barmaid."
+    ""
+
+# game/script_jessie.rpy:5030
+translate russian ch3j_04_ccee27c3:
+
+    # "Although, as the barmaid and songstress with a muzzle and tail? That might be an even bigger sensation."
+    ""
+
+# game/script_jessie.rpy:5031
+translate russian ch3j_04_ab1515ac:
+
+    # "I can't hide my smile."
+    ""
+
+# game/script_jessie.rpy:5032
+translate russian ch3j_04_fe543b78:
+
+    # j "What's so funny?"
+    j ""
+
+# game/script_jessie.rpy:5034
+translate russian ch3j_04_d0b656ad:
+
+    # "I lean in and whisper."
+    ""
+
+# game/script_jessie.rpy:5035
+translate russian ch3j_04_d24f5606:
+
+    # c "Just imagining you working here... in your {i}other form.{/i}"
+    c ""
+
+# game/script_jessie.rpy:5036
+translate russian ch3j_04_81060415:
+
+    # "Jessie whispers back."
+    ""
+
+# game/script_jessie.rpy:5037
+translate russian ch3j_04_d8783df1:
+
+    # j "Whatever for?"
+    j ""
+
+# game/script_jessie.rpy:5038
+translate russian ch3j_04_2414d812:
+
+    # c "Well, I see how popular you are now. Imagine someone handing you a fur coat. You could just tell them you have one of your own!"
+    c ""
+
+# game/script_jessie.rpy:5044
+translate russian ch3j_04_e5a925cc:
+
+    # "I'm relieved when she smirks conspiratorially."
+    ""
+
+# game/script_jessie.rpy:5045
+translate russian ch3j_04_a0e2b038:
+
+    # j "Let's get out of here, so you can see me... in nothing but my coat."
+    j ""
+
+# game/script_jessie.rpy:5046
+translate russian ch3j_04_ed2b260a:
+
+    # c "Yes, please."
+    c ""
+
+# game/script_jessie.rpy:5071
+translate russian ch3j_05_16e7702a:
+
+    # "Jessie takes my hand in hers, and we stroll out into the chilly air, warmed by drink and good company."
+    ""
+
+# game/script_jessie.rpy:5075
+translate russian ch3j_05_f922365b:
+
+    # "We're but a hundred feet past the door when I can feel the strange but familiar sensation reverberating between us."
+    ""
+
+# game/script_jessie.rpy:5088
+translate russian ch3j_05_11466f5b:
+
+    # "Turning, I see her face begin to contort in the moonlight. Is she really doing this here? In public?"
+    ""
+
+# game/script_jessie.rpy:5089
+translate russian ch3j_05_4ac9e965:
+
+    # c "Jessie! Someone could see you!"
+    c ""
+
+# game/script_jessie.rpy:5091
+translate russian ch3j_05_436079ad:
+
+    # j "Oh, relax! It's dark. It's late. No one is out this time of night but crazy drunkards... and boys with their werewolf girlfriends!"
+    j ""
+
+# game/script_jessie.rpy:5092
+translate russian ch3j_05_b1b7250b:
+
+    # "It's the first time I'd heard her say \"girlfriend,\" and I love hearing it. It almost makes up for the fact that she's probably putting us both at risk."
+    ""
+
+# game/script_jessie.rpy:5094
+translate russian ch3j_05_b813a77f:
+
+    # "Jessie reads the concern on my face, and brings the lapels of her coat closer to her fuzzy cheeks."
+    ""
+
+# game/script_jessie.rpy:5096
+translate russian ch3j_05_7cb9a071:
+
+    # j "I have my fears. I do."
+    j ""
+
+# game/script_jessie.rpy:5097
+translate russian ch3j_05_54fd4982:
+
+    # c "But they aren't stopping you from..."
+    c ""
+
+# game/script_jessie.rpy:5098
+translate russian ch3j_05_518b359f:
+
+    # "I throw caution to the wind."
+    ""
+
+# game/script_jessie.rpy:5099
+translate russian ch3j_05_ddbfceae:
+
+    # c "...turning yourself into... my {i}werewolf girlfriend{/i} in plain sight!"
+    c ""
+
+# game/script_jessie.rpy:5101
+translate russian ch3j_05_ee7b14da:
+
+    # "She looks at me affectionately."
+    ""
+
+# game/script_jessie.rpy:5102
+translate russian ch3j_05_93198665:
+
+    # j "No. They aren't. I can't deny the moon on such a perfect night. Malcolm, thank you for making this a perfect night."
+    j ""
+
+# game/script_jessie.rpy:5104
+translate russian ch3j_05_abc3dc64:
+
+    # "Her smile melts all my concerns away. Even if her grin is a bit... toothy."
+    ""
+
+# game/script_jessie.rpy:5105
+translate russian ch3j_05_107ccf3e:
+
+    # c "You make it sound like it's about over. The night is still young! And I've nowhere I need to be."
+    c ""
+
+# game/script_jessie.rpy:5107
+translate russian ch3j_05_64393608:
+
+    # j "Is that so, Mr. Campbell? Then let's make this night last, together."
+    j ""
+
+# game/script_jessie.rpy:5124
+translate russian ch3j_05_a7a7b89f:
+
+    # "The night sky is crystal clear. A dazzling array of stars twinkles down upon us—none of which shines as brightly as the star beside me."
+    ""
+
+# game/script_jessie.rpy:5130
+translate russian ch3j_05_f3e6e80d:
+
+    # "We reach the crest of the hill—{i}our{/i} hill—and as we sit down on the soft grass, Jessie plants a big kiss on me."
+    ""
+
+# game/script_jessie.rpy:5131
+translate russian ch3j_05_ab31dfa5:
+
+    # "Her wolf muzzle still feels so awkward, but pleasant. The bristle of her fur and whiskers, and the puffy rim of her long lips are altogether stimulating—as potent as any stiff drink."
+    ""
+
+# game/script_jessie.rpy:5139
+translate russian ch3j_05_49a65815:
+
+    # "Jessie stops kissing me, and with the reflections of stars sparkling in her eyes, she lets her dress and fur coat slide off onto the ground."
+    ""
+
+# game/script_jessie.rpy:5142
+translate russian ch3j_05_49fd65dd:
+
+    # "Our hands touch, the energy around us heightens, and before long, a new fur coat wraps around Jessie's body. She looks to the moon, but I can't keep my eyes off her."
+    ""
+
+# game/script_jessie.rpy:5144
+translate russian ch3j_05_88ce91e0:
+
+    # j "It's beautiful, isn't it?"
+    j ""
+
+# game/script_jessie.rpy:5145
+translate russian ch3j_05_c157a0de:
+
+    # c "Yes. It certainly is."
+    c ""
+
+# game/script_jessie.rpy:5146
+translate russian ch3j_05_82127370:
+
+    # j "It... it's like it calls me."
+    j ""
+
+# game/script_jessie.rpy:5147
+translate russian ch3j_05_cca358be:
+
+    # "My imagination is astir, and it takes a moment for her words to register."
+    ""
+
+# game/script_jessie.rpy:5148
+translate russian ch3j_05_ca5fa796:
+
+    # c "The moon? Do you mean... it triggers your change?"
+    c ""
+
+# game/script_jessie.rpy:5149
+translate russian ch3j_05_0d6bb8b7:
+
+    # j "No. At least, not exactly."
+    j ""
+
+# game/script_jessie.rpy:5150
+translate russian ch3j_05_db5bed6e:
+
+    # j "It's hard to describe. As a wolf, the full moon becomes your best friend."
+    j ""
+
+# game/script_jessie.rpy:5153
+translate russian ch3j_05_6bb336ba:
+
+    # "I nod. Perhaps, in a way, it's courting Jessie as much as I am. I only hope I can compete."
+    ""
+
+# game/script_jessie.rpy:5155
+translate russian ch3j_05_6d4d6f83:
+
+    # "I nod. Perhaps, in a way, it's courting Jessie as much as I am. But she shouldn't have to choose."
+    ""
+
+# game/script_jessie.rpy:5157
+translate russian ch3j_05_af7c9f0d:
+
+    # c "I understand. Jessie, if you need to... you know..."
+    c ""
+
+# game/script_jessie.rpy:5158
+translate russian ch3j_05_1f5d6045:
+
+    # "I stop short of saying \"become the wolf.\" I don't understand. At all. The memory—the trauma—of the last time I saw her in that form is still too strong."
+    ""
+
+# game/script_jessie.rpy:5159
+translate russian ch3j_05_968a4e7f:
+
+    # "It must be for Jessie, too. I wonder if I shouldn't have brought it up. She gives me the saddest look I've seen on her face in some time."
+    ""
+
+# game/script_jessie.rpy:5160
+translate russian ch3j_05_e444b5cb:
+
+    # j "I love my freedom, Malcolm. That body? It gives me even more freedom! But also so much restraint. I don't even know how to describe that feeling."
+    j ""
+
+# game/script_jessie.rpy:5161
+translate russian ch3j_05_ae22dafe:
+
+    # "She pauses, then takes a deep breath."
+    ""
+
+# game/script_jessie.rpy:5162
+translate russian ch3j_05_06273c2b:
+
+    # j "I'm afraid of losing control. Of myself, my mind, my free will."
+    j ""
+
+# game/script_jessie.rpy:5163
+translate russian ch3j_05_8563deab:
+
+    # j "One wrong move and... Malcolm, everything would end for me... for us."
+    j ""
+
+# game/script_jessie.rpy:5164
+translate russian ch3j_05_6c48e5ab:
+
+    # "I stop to wonder all she must be going through. Seeking independence, and freedom from the self-imposed shackles of familial duties."
+    ""
+
+# game/script_jessie.rpy:5165
+translate russian ch3j_05_6460e55c:
+
+    # "Not to mention the real shackles placed upon her by small town life, and growing up in near financial and cultural poverty."
+    ""
+
+# game/script_jessie.rpy:5167
+translate russian ch3j_05_964e80ca:
+
+    # j "But even more than all of that... I'm afraid I'm not in control of the body I possess, the one I want the most."
+    j ""
+
+# game/script_jessie.rpy:5168
+translate russian ch3j_05_aa391d73:
+
+    # "A thought strikes me, and I almost don't say it aloud."
+    ""
+
+# game/script_jessie.rpy:5170
+translate russian ch3j_05_74fb71a6:
+
+    # c "You're afraid {i}I'm{/i} in control of your changes?"
+    c ""
+
+# game/script_jessie.rpy:5171
+translate russian ch3j_05_efc02e6c:
+
+    # "Jessie's eyes fill with tears. One word spills softly from her tongue."
+    ""
+
+# game/script_jessie.rpy:5172
+translate russian ch3j_05_9f64a2bd:
+
+    # j "Yes."
+    j ""
+
+# game/script_jessie.rpy:5173
+translate russian ch3j_05_730c89e6:
+
+    # c "Is that what Alana told you?"
+    c ""
+
+# game/script_jessie.rpy:5174
+translate russian ch3j_05_bb35ba79:
+
+    # j "In not so many words."
+    j ""
+
+# game/script_jessie.rpy:5175
+translate russian ch3j_05_11d64a46:
+
+    # c "What exactly did she say?"
+    c ""
+
+# game/script_jessie.rpy:5176
+translate russian ch3j_05_ca23d55a:
+
+    # j "I don't remember everything I was told! Very little of it made sense. I was still recovering from the injury."
+    j ""
+
+# game/script_jessie.rpy:5178
+translate russian ch3j_05_5b992187:
+
+    # j "In essence, she said that you're the problem. If you hadn't come into my life, none of this would have happened. It's... like a curse. I'm cursed. Maybe we're both cursed."
+    j ""
+
+# game/script_jessie.rpy:5180
+translate russian ch3j_05_077b66a3:
+
+    # j "Alana said I should fight it as hard as I can. She said over and over again that I can't live like this... Malcolm..."
+    j ""
+
+# game/script_jessie.rpy:5181
+translate russian ch3j_05_7d14e6a8:
+
+    # "Jessie looks at me, panicked."
+    ""
+
+# game/script_jessie.rpy:5182
+translate russian ch3j_05_a224ef92:
+
+    # j "Malcolm, now that I've experienced the transformation... I {i}have{/i} to live like this! This is who I am!"
+    j ""
+
+# game/script_jessie.rpy:5183
+translate russian ch3j_05_40a84e48:
+
+    # c "All right, please take a breath."
+    c ""
+
+# game/script_jessie.rpy:5184
+translate russian ch3j_05_1fdbbec0:
+
+    # "I stroke her back over and again until her breathing slows."
+    ""
+
+# game/script_jessie.rpy:5186
+translate russian ch3j_05_20626b81:
+
+    # c "We've already established... Alana says a lot of things. Words that instigate. I want to believe that she means well... but I'm not sure she is always to be trusted."
+    c ""
+
+# game/script_jessie.rpy:5187
+translate russian ch3j_05_caa1e643:
+
+    # "Jessie rolls her eyes."
+    ""
+
+# game/script_jessie.rpy:5188
+translate russian ch3j_05_3ce3b84b:
+
+    # j "Well, I see how much she trusts us."
+    j ""
+
+# game/script_jessie.rpy:5190
+translate russian ch3j_05_c1b5035a:
+
+    # c "Remember what terrible children we all were? All the times we used to prank her in school? The toads on her chair? The worms in her inkwell?"
+    c ""
+
+# game/script_jessie.rpy:5191
+translate russian ch3j_05_db25cdba:
+
+    # "That finally coaxes a smile from her."
+    ""
+
+# game/script_jessie.rpy:5192
+translate russian ch3j_05_72c6b72c:
+
+    # j "We really got her goat!"
+    j ""
+
+# game/script_jessie.rpy:5193
+translate russian ch3j_05_b726725e:
+
+    # c "Alana is a lot of things. Certainly as strong and independent as any woman I've ever known."
+    c ""
+
+# game/script_jessie.rpy:5194
+translate russian ch3j_05_502037f2:
+
+    # "I nudge Jessie."
+    ""
+
+# game/script_jessie.rpy:5195
+translate russian ch3j_05_7ec263d2:
+
+    # c "Maybe even more than you!"
+    c ""
+
+# game/script_jessie.rpy:5196
+translate russian ch3j_05_5c1a8455:
+
+    # c "But there's more to her... obviously. Things neither of us can identify."
+    c ""
+
+# game/script_jessie.rpy:5197
+translate russian ch3j_05_0f5896fd:
+
+    # j "She saved me from death. I feel as though I owe her my life."
+    j ""
+
+# game/script_jessie.rpy:5198
+translate russian ch3j_05_83e7e003:
+
+    # c "That's completely understandable. She, herself, has probably made you feel that way. But you don't owe her your unquestioning devotion. You only owe that to yourself, Jessie."
+    c ""
+
+# game/script_jessie.rpy:5199
+translate russian ch3j_05_fbc6e7eb:
+
+    # c "Whatever she's told you. You can challenge it. We both can."
+    c ""
+
+# game/script_jessie.rpy:5201
+translate russian ch3j_05_e88279c8:
+
+    # "She looks back to the moon, and gives pause."
+    ""
+
+# game/script_jessie.rpy:5203
+translate russian ch3j_05_93f863be:
+
+    # j "You know what? You're right. We can."
+    j ""
+
+# game/script_jessie.rpy:5209
+translate russian ch3j_05_2da0673b:
+
+    # "It takes me a moment to realize just what Jessie means. The energy in the air around us begins to ebb and flow."
+    ""
+
+# game/script_jessie.rpy:5220
+translate russian ch3j_05_75abdbe9:
+
+    # "Stars blink in and out of view as the outline of her silhouette begins to change."
+    ""
+
+# game/script_jessie.rpy:5231
+translate russian ch3j_05_da35667c:
+
+    # "Her fur becomes thicker."
+    ""
+
+# game/script_jessie.rpy:5238
+translate russian ch3j_05_75b589bb:
+
+    # "Her back curves as the hackles on it straighten, pointing aggressively toward the night sky."
+    ""
+
+# game/script_jessie.rpy:5240
+translate russian ch3j_05_d44dc38f:
+
+    # "She bares her teeth as her snout grows. Huffs come out in great, damp clouds. Her body swelling with each breath."
+    ""
+
+# game/script_jessie.rpy:5241
+translate russian ch3j_05_6a7260b8:
+
+    # "As the familiar, somewhat terrifying form takes shape before me, I wonder if I shouldn't have curbed my encouragement. But there's no turning back now."
+    ""
+
+# game/script_jessie.rpy:5242
+translate russian ch3j_05_e328cd15:
+
+    # "Steady, Malcolm. This is still your Jessie, and there's nothing to fear."
+    ""
+
+# game/script_jessie.rpy:5252
+translate russian ch3j_05_8f461f4e:
+
+    # "...My pounding heart begs to differ."
+    ""
+
+# game/script_jessie.rpy:5254
+translate russian ch3j_05_c31999d7:
+
+    # c "...Jessie?"
+    c ""
+
+# game/script_jessie.rpy:5283
+translate russian ch3j_05_4fc2d0aa:
+
+    # "The great beast turns its glowing eyes towards me, and I instantly regret making a sound. {nw}"
+    ""
+
+# game/script_jessie.rpy:5285
+translate russian ch3j_05_e12fd9a5:
+
+    # extend "It lumbers toward me on its hefty paws."
+    extend ""
+
+# game/script_jessie.rpy:5287
+translate russian ch3j_05_70d95bc0:
+
+    # c "Eh... good lassie! Eeeeasy, lassie."
+    c ""
+
+# game/script_jessie.rpy:5292
+translate russian ch3j_05_e30b6d44:
+
+    # "It takes every ounce of discipline to not leap up and run away. I find myself eye to eye with the wolf. Again."
+    ""
+
+# game/script_jessie.rpy:5306
+translate russian ch3j_05_92a4f232:
+
+    # "I laugh as her coarse tongue laps against my cheek. Her tail is wagging, and she is most certainly happy to see me."
+    ""
+
+# game/script_jessie.rpy:5307
+translate russian ch3j_05_9d225a01:
+
+    # c "Aye, aye, I'm happy to see you, too!"
+    c ""
+
+# game/script_jessie.rpy:5313
+translate russian ch3j_05_9d754d76:
+
+    # "This form of Jessie's. Is it fearsome? Yes. But mindless? Anything but. I never had a doubt!"
+    ""
+
+# game/script_jessie.rpy:5314
+translate russian ch3j_05_a20cefa7:
+
+    # "..."
+    ""
+
+# game/script_jessie.rpy:5315
+translate russian ch3j_05_a221aaad:
+
+    # "At least, none that I will admit."
+    ""
+
+# game/script_jessie.rpy:5323
+translate russian ch3j_05_56877c91:
+
+    # "With only a little hesitation, I slowly and deliberately lift my hand, letting her sniff it before I reach back and stroke her fur."
+    ""
+
+# game/script_jessie.rpy:5334
+translate russian ch3j_05_82585a08:
+
+    # "She likes it. {i}A lot.{/i} Before I know it, she is on her back, practically begging to be pet. Anything menacing about her wolf form has long since evaporated."
+    ""
+
+# game/script_jessie.rpy:5340
+translate russian ch3j_05_de30aba4:
+
+    # "I scratch her belly vigorously, pressing my fingers deeply into her fur. Her hind leg begins to kick of its own accord."
+    ""
+
+# game/script_jessie.rpy:5350
+translate russian ch3j_05a_fcb5efa3:
+
+    # "It seems I have found \"the spot.\""
+    ""
+
+# game/script_jessie.rpy:5352
+translate russian ch3j_05a_f709c39b:
+
+    # "I'm reminded of our battalion mascot, a short-limbed corgi we called Sergeant Stumpy. Ah, how he enjoyed a good belly rub."
+    ""
+
+# game/script_jessie.rpy:5358
+translate russian ch3j_05a_7af52685:
+
+    # "An animal with a mettle to match his herding instincts, he could round up the men better than the Sergeant Major. A fine soldier, and a good dog, too."
+    ""
+
+# game/script_jessie.rpy:5360
+translate russian ch3j_05a_b61670b2:
+
+    # "Only I have to remind myself that this is no {i}dog{/i}. Nor a wolf, exactly, either. Somewhere, under all that fur... this is my {i}girlfriend.{/i}"
+    ""
+
+# game/script_jessie.rpy:5361
+translate russian ch3j_05a_5af7f2cd:
+
+    # c "Please forgive me, Jessie."
+    c ""
+
+# game/script_jessie.rpy:5365
+translate russian ch3j_05a_00abaed9:
+
+    # "Her wagging tail and blissful face reassures me that there is nothing to forgive."
+    ""
+
+# game/script_jessie.rpy:5371
+translate russian ch3j_05a_2ebffe31:
+
+    # "Her ears perk up. All at once, she jerks her body around, suddenly alert and looking out along the horizon."
+    ""
+
+# game/script_jessie.rpy:5372
+translate russian ch3j_05a_0f173ebb:
+
+    # c "What is it?"
+    c ""
+
+# game/script_jessie.rpy:5380
+translate russian ch3j_05a_94c4900a:
+
+    # "She gets up and begins tracing the crest of the hill, her nose to the ground, following a trail invisible to human eyes."
+    ""
+
+# game/script_jessie.rpy:5381
+translate russian ch3j_05a_c7c70454:
+
+    # "I scan the shadows, worried someone or something may have spotted us."
+    ""
+
+# game/script_jessie.rpy:5382
+translate russian ch3j_05a_f9558482:
+
+    # "Then, out of the corner of my eye, I see movement."
+    ""
+
+# game/script_jessie.rpy:5389
+translate russian ch3j_05a_ba9acd6c:
+
+    # "It's just Jessie. She is pawing at the ground, and sniffing around the area intensely."
+    ""
+
+# game/script_jessie.rpy:5396
+translate russian ch3j_05a_52c1e714:
+
+    # "A tiny shadow darts out from under her nose. A rabbit, rudely awakened by this uninvited guest."
+    ""
+
+# game/script_jessie.rpy:5405
+translate russian ch3j_05a_222c6f85:
+
+    # "I breathe a sigh of relief... only to suck it in again, when I see Jessie bolt after her quarry."
+    ""
+
+# game/script_jessie.rpy:5448
+translate russian ch3j_05b_da4bc65f:
+
+    # c "Jessie, wait for me!"
+    c ""
+
+# game/script_jessie.rpy:5449
+translate russian ch3j_05b_cd97fb5a:
+
+    # "I hastily grab her clothes and take off after the racing pair. I was outmatched before; but now, in this form, Jessie positively leaves me in the dust."
+    ""
+
+# game/script_jessie.rpy:5450
+translate russian ch3j_05b_bccfba70:
+
+    # "They barrel down the hill toward a stone wall—one that marks the bounds of a paddock full of Angus MacGriogair's sheep, including the ewe we used as bait just days ago."
+    ""
+
+# game/script_jessie.rpy:5451
+translate russian ch3j_05b_5b9ef038:
+
+    # "My mind races. Things could go badly very quickly if Jessie is found terrorizing Angus' flock. I need to get her to come back!"
+    ""
+
+# game/script_jessie.rpy:5456
+translate russian ch3j_05b_f58bd9e5:
+
+    # "Instinctually, I whistle to get her back. I feel like such a buffoon."
+    ""
+
+# game/script_jessie.rpy:5458
+translate russian ch3j_05b_f5ccf052:
+
+    # "I wave my arms and clap even harder than I did at the Stag & Nanny."
+    ""
+
+# game/script_jessie.rpy:5460
+translate russian ch3j_05b_64bb2ce5:
+
+    # c "Jessie? Jessie, come back!"
+    c ""
+
+# game/script_jessie.rpy:5478
+translate russian ch3j_05b_801e0971:
+
+    # "Jessie turns around to look at me, distracted just long enough for the rabbit to disappear into a thicket. The rustling recaptures her attention, and she goes back to sniffing the poor critter out."
+    ""
+
+# game/script_jessie.rpy:5479
+translate russian ch3j_05b_b53dc1fa:
+
+    # c "Jessie! Come!"
+    c ""
+
+# game/script_jessie.rpy:5480
+translate russian ch3j_05b_135683af:
+
+    # "I muster my most authoritative voice... and am completely ignored. It comes as no surprise; this is no household pet, nor has Jessie ever been the sort to take commands."
+    ""
+
+# game/script_jessie.rpy:5483
+translate russian ch3j_05b_eb4b64dd:
+
+    # "At least now that she has stopped running, I'm able to catch up."
+    ""
+
+# game/script_jessie.rpy:5484
+translate russian ch3j_05b_7982c93b:
+
+    # c "You win the race yet again, my dear. Now, how about we leave mister rabbit alone. That's enough excitement for one night, don't you think?"
+    c ""
+
+# game/script_jessie.rpy:5495
+translate russian ch3j_05b_932c05fd:
+
+    # "Wolf-Jessie makes a sound that I interpret to mean she has much more important things on her plate."
+    ""
+
+# game/script_jessie.rpy:5496
+translate russian ch3j_05b_6cdaef91:
+
+    # "I sigh. It seems no matter what form she takes, Jessie will do as Jessie will do."
+    ""
+
+# game/script_jessie.rpy:5497
+translate russian ch3j_05b_0dcae065:
+
+    # "But what will {i}I{/i} do? It's clear I can't leave her to her own devices; she's already shown a penchant for getting into trouble."
+    ""
+
+# game/script_jessie.rpy:5498
+translate russian ch3j_05b_6233f471:
+
+    # "I laugh to myself; if only I'd thought to bring a leash. Not that she'd take kindly to one even if I had. I imagine those jaws tearing clean through it."
+    ""
+
+# game/script_jessie.rpy:5500
+translate russian ch3j_05b_581a234c:
+
+    # "All that's left is to appeal to her, heart to heart."
+    ""
+
+# game/script_jessie.rpy:5502
+translate russian ch3j_05b_5396e9f4:
+
+    # c "You know what you really are, Jessie MacLeod? You're a sheep in wolf's clothing."
+    c ""
+
+# game/script_jessie.rpy:5503
+translate russian ch3j_05b_629a13a5:
+
+    # "It feels odd speaking to an animal like so. But I remind myself, Jessie is in there, somewhere."
+    ""
+
+# game/script_jessie.rpy:5504
+translate russian ch3j_05b_3c9bb2d9:
+
+    # c "This form of yours may look fierce, but inside, you're kind, sweet, loving, gentle. You're but a lamb..."
+    c ""
+
+# game/script_jessie.rpy:5508
+translate russian ch3j_05b_d3342b3b:
+
+    # "She finally turns her head, looking at me nonplussed."
+    ""
+
+# game/script_jessie.rpy:5509
+translate russian ch3j_05b_473dfe90:
+
+    # c "Well... most of the time. What I'm trying to say is, I admire every single thing about you. Even this... manifestation of all your confidence, resilience, courage. Your wild side."
+    c ""
+
+# game/script_jessie.rpy:5511
+translate russian ch3j_05b_6073eac7:
+
+    # "I take the fur coat from my shoulder and hold it out in front of me. She must recognize it... right? Her golden eyes scan the jacket up and down."
+    ""
+
+# game/script_jessie.rpy:5512
+translate russian ch3j_05b_cf8c0237:
+
+    # c "Wouldn't you like to slip into something more comfortable? Something a little less... frightening to small critters?"
+    c ""
+
+# game/script_jessie.rpy:5513
+translate russian ch3j_05b_76f9daed:
+
+    # c "I know you don't want to eat that silly rabbit. All that fur in your teeth? What a terrible nuisance that would be!"
+    c ""
+
+# game/script_jessie.rpy:5514
+translate russian ch3j_05b_70acfff0:
+
+    # c "That's right. Your makeup will come all off. Your hair will muss. Wouldn't you rather come back and nibble on {i}my{/i} ear instead?"
+    c ""
+
+# game/script_jessie.rpy:5520
+translate russian ch3j_05b_2d9c6466:
+
+    # "Her gaze lingers on me for a moment, then lifts to the moon. I wonder what is going through her head. Does she understand? Has she understood anything I've said?"
+    ""
+
+# game/script_jessie.rpy:5521
+translate russian ch3j_05b_ea0184e5:
+
+    # c "Please?"
+    c ""
+
+# game/script_jessie.rpy:5523
+translate russian ch3j_05b_cf546771:
+
+    # "It strikes me that, if I am responsible for any of this, my sheer will alone is not turning her back. No matter how hard I picture her human, it's just not working."
+    ""
+
+# game/script_jessie.rpy:5525
+translate russian ch3j_05b_679c9ead:
+
+    # c "Please, Jessie. For me?"
+    c ""
+
+# game/script_jessie.rpy:5542
+translate russian ch3j_05b_f1ae749d:
+
+    # "At last, Jessie comes over. She sniffs the jacket curiously, then spins several circles and lays down beside me in a tight ball. I drape the coat over her, partly relieved."
+    ""
+
+# game/script_jessie.rpy:5543
+translate russian ch3j_05b_af637fd9:
+
+    # "Partly, because now comes the hard part. No incantations. No potions. Just me, Jessie, and our will... {i}her will{/i} to make this work."
+    ""
+
+# game/script_jessie.rpy:5544
+translate russian ch3j_05b_52c9fe45:
+
+    # "Would whatever disrupted the process in Alana's house foil our attempt here, too? Much has changed since that night. I only hope our connection is strong enough now to overcome it."
+    ""
+
+# game/script_jessie.rpy:5545
+translate russian ch3j_05b_669319dd:
+
+    # "Jessie can't stay like this. She just can't."
+    ""
+
+# game/script_jessie.rpy:5551
+translate russian ch3j_05b_c76fb15f:
+
+    # "A wind whips up the grass, and I lean into the energy that begins to envelop Jessie."
+    ""
+
+# game/script_jessie.rpy:5554
+translate russian ch3j_05b_a2cc0b7c:
+
+    # "Mesmerizing patterns begin to ripple across the fur. Does it belong to her or her coat? It's hard to tell in the low light."
+    ""
+
+# game/script_jessie.rpy:5555
+translate russian ch3j_05b_f883eab4:
+
+    # "I try to focus on our connection, and my heart beats more rapidly. It's a shared energy now. Am I helping or hindering? It's impossible to know."
+    ""
+
+# game/script_jessie.rpy:5571
+translate russian ch3j_05b_744c025c:
+
+    # "Moments pass, or perhaps an eternity. The wind dies down, and a peace settles across the hillside."
+    ""
+
+# game/script_jessie.rpy:5573
+translate russian ch3j_05b_186d75d9:
+
+    # j "...Malcolm?"
+    j ""
+
+# game/script_jessie.rpy:5582
+translate russian ch3j_05b_8569d29d:
+
+    # "From under the folds of the fur coat, Jessie's head—her bonny, {i}human{/i} head—emerges. Even though they no longer glow, she gives me those big puppy dog eyes."
+    ""
+
+# game/script_jessie.rpy:5583
+translate russian ch3j_05b_c16dcdde:
+
+    # j "Malcolm, are you all right?"
+    j ""
+
+# game/script_jessie.rpy:5584
+translate russian ch3j_05b_016a7967:
+
+    # "I would laugh, if I weren't paralyzed by awe and relief. My mix of emotions must show."
+    ""
+
+# game/script_jessie.rpy:5585
+translate russian ch3j_05b_e507bed2:
+
+    # c "Am {i}I{/i} all right? You're the one who was recently walking about on all fours!"
+    c ""
+
+# game/script_jessie.rpy:5612
+translate russian ch3j_06_2f9831e9:
+
+    # "Jessie pulls the coat around her and sits up, seemingly more phased by the chill air than the whole affair. In fact, judging from her expression, she seems most concerned about me."
+    ""
+
+# game/script_jessie.rpy:5614
+translate russian ch3j_06_2822c529:
+
+    # j "I... I'm so sorry. I'm sorry for disappearing... for worrying you."
+    j ""
+
+# game/script_jessie.rpy:5615
+translate russian ch3j_06_7b7e87f8:
+
+    # c "Don't be sorry! Just, maybe tell me next time you're going to... leave me."
+    c ""
+
+# game/script_jessie.rpy:5617
+translate russian ch3j_06_f7cc7efd:
+
+    # j "Oh! But I'm not going anywhere. I'm allowing something in. It's a force. It takes over... and I let it."
+    j ""
+
+# game/script_jessie.rpy:5619
+translate russian ch3j_06_cd06e9c1:
+
+    # "Hearing her tell me of this power makes me even more curious."
+    ""
+
+# game/script_jessie.rpy:5620
+translate russian ch3j_06_30194be0:
+
+    # c "Why? Why would you want to lose yourself?"
+    c ""
+
+# game/script_jessie.rpy:5622
+translate russian ch3j_06_49219d42:
+
+    # "Jessie looks off towards the clouds gathering above the moon."
+    ""
+
+# game/script_jessie.rpy:5623
+translate russian ch3j_06_c4c0c734:
+
+    # j "This time was different. I wasn't confused or frightened like before. It's like slipping into a new dress, one that's terribly uncomfortable at first. But then... over time..."
+    j ""
+
+# game/script_jessie.rpy:5625
+translate russian ch3j_06_71ad4e2d:
+
+    # "She looks me in the eye."
+    ""
+
+# game/script_jessie.rpy:5626
+translate russian ch3j_06_4356e1bc:
+
+    # j "It's like you remember how everything is supposed to fit. It's exhilarating. From my head to my toes."
+    j ""
+
+# game/script_jessie.rpy:5628
+translate russian ch3j_06_9fea3e7f:
+
+    # c "What... what are you thinking? When you can't talk to me? When you don't answer me?"
+    c ""
+
+# game/script_jessie.rpy:5630
+translate russian ch3j_06_5af80dca:
+
+    # j "I have a hard time remembering everything exactly as it is. It's kind of a trance. A pleasant memory, but one you can't recall on command."
+    j ""
+
+# game/script_jessie.rpy:5631
+translate russian ch3j_06_9ab0dc1e:
+
+    # "I think back to every time I laughed in the trenches. A spark of joy in between all the madness. What did we ever find funny? Why did we ever laugh?"
+    ""
+
+# game/script_jessie.rpy:5632
+translate russian ch3j_06_51506ca6:
+
+    # "I realize I've put myself in a bit of a trance these past few days... years even. Just to survive. To be happy, to enjoy anything."
+    ""
+
+# game/script_jessie.rpy:5634
+translate russian ch3j_06_c7ad5f40:
+
+    # c "I think I understand. In a way."
+    c ""
+
+# game/script_jessie.rpy:5637
+translate russian ch3j_06_0586f2cb:
+
+    # j "Malcolm, when we made love... I remember so much of it. But there are seconds that passed that were nothing but a blur of kisses. It's like that... sort of. Oh, I hope I'm not saying it the wrong way."
+    j ""
+
+# game/script_jessie.rpy:5638
+translate russian ch3j_06_92893441:
+
+    # c "No, Jessie. I believe you. I've had those moments, too. Times when you think you'll remember every reason for bliss, but you only remember the emotion."
+    c ""
+
+# game/script_jessie.rpy:5640
+translate russian ch3j_06_92e74540:
+
+    # j "Yes! It's just like that. Thank you for helping me find the words. I truly can't believe how well you understand me."
+    j ""
+
+# game/script_jessie.rpy:5641
+translate russian ch3j_06_7e191b88:
+
+    # "I chuckle, certain that my \"understanding\" barely scratches the surface."
+    ""
+
+# game/script_jessie.rpy:5642
+translate russian ch3j_06_4d8613e3:
+
+    # c "Well I'll tell you who won't have any trouble remembering this encounter. The rabbit!"
+    c ""
+
+# game/script_jessie.rpy:5644
+translate russian ch3j_06_b2e0e91f:
+
+    # j "Oh, Malcolm, the poor thing! I wasn't going to kill the rabbit. I knew it. I just couldn't fight the instinct to go after it."
+    j ""
+
+# game/script_jessie.rpy:5645
+translate russian ch3j_06_6c2aa149:
+
+    # c "Were you going to catch it? Bite it? It did worry me."
+    c ""
+
+# game/script_jessie.rpy:5649
+translate russian ch3j_06_bdc1c573:
+
+    # j "It's one thing that still makes me scared, too. I'm not sure. It's as if I know I don't want to hunt, I simply crave the chase. But without you here... how would I get back? To myself? To you?"
+    j ""
+
+# game/script_jessie.rpy:5650
+translate russian ch3j_06_03f15cc2:
+
+    # c "We don't know yet. We only know it's possible."
+    c ""
+
+# game/script_jessie.rpy:5669
+translate russian ch3j_06_749368ef:
+
+    # "I kiss the top of her head, trying to continue to reassure her despite all my misgivings."
+    ""
+
+# game/script_jessie.rpy:5670
+translate russian ch3j_06_cb766570:
+
+    # "She may not have a violent streak, but there's something bottled up in her that's preventing her from gaining full control over her behaviors."
+    ""
+
+# game/script_jessie.rpy:5671
+translate russian ch3j_06_27a97101:
+
+    # "Neither of us know where that could lead. We only know what she's already had to endure."
+    ""
+
+# game/script_jessie.rpy:5678
+translate russian ch3j_06_f03012d8:
+
+    # j "I could hear you. Every word. I just... couldn't respond."
+    j ""
+
+# game/script_jessie.rpy:5681
+translate russian ch3j_06_7081eb5a:
+
+    # j "Hey! You... you called me a sheep in wolf's clothing. Why, whatever do you mean by that? D'ya think I'm weak? I'm not! I promise you that!"
+    j ""
+
+# game/script_jessie.rpy:5682
+translate russian ch3j_06_ae3773c9:
+
+    # c "Weak? No! Anything but."
+    c ""
+
+# game/script_jessie.rpy:5683
+translate russian ch3j_06_c4cbaeec:
+
+    # "This is the Jessie I miss when she's a wolf. I miss her spunk. I miss talking to her."
+    ""
+
+# game/script_jessie.rpy:5684
+translate russian ch3j_06_a1366e0d:
+
+    # c "I just meant that sometimes... you don an exterior that keeps others at bay. And I don't just mean your fur coat."
+    c ""
+
+# game/script_jessie.rpy:5685
+translate russian ch3j_06_fae66e63:
+
+    # c "Don't be afraid to let people in. To love you for you... not who you think you should be."
+    c ""
+
+# game/script_jessie.rpy:5687
+translate russian ch3j_06_ec5385df:
+
+    # j "It's no facade, Malcolm! And it's not my fault these village-types can't appreciate a modern woman."
+    j ""
+
+# game/script_jessie.rpy:5688
+translate russian ch3j_06_ff139fdc:
+
+    # c "Aye, there's a lot more to you than the Whist Club can wrap their heads around, that's for sure."
+    c ""
+
+# game/script_jessie.rpy:5692
+translate russian ch3j_06_d1efc1c7:
+
+    # j "Malcolm, that's why I don't know if I can stay here..."
+    j ""
+
+# game/script_jessie.rpy:5693
+translate russian ch3j_06_f657e70b:
+
+    # c "I don't believe you can... or will."
+    c ""
+
+# game/script_jessie.rpy:5695
+translate russian ch3j_06_d4e29eef:
+
+    # j "Fair enough. But, I'm willing to take it day by day. That's all either of us need to do for now."
+    j ""
+
+# game/script_jessie.rpy:5697
+translate russian ch3j_06_5ab99e7d:
+
+    # j "Besides, you can't promise me you'll join me in the city. Am I not allowed to ask for that? To want that?"
+    j ""
+
+# game/script_jessie.rpy:5698
+translate russian ch3j_06_a6f28bcf:
+
+    # c "You are. And I'll continue to tell you I'm flustered, confused, overwhelmed. I don't have an answer for you other than I want you to stay here, where you're as safe as possible. Where you're—"
+    c ""
+
+# game/script_jessie.rpy:5700
+translate russian ch3j_06_b398ea56:
+
+    # j "With you."
+    j ""
+
+# game/script_jessie.rpy:5701
+translate russian ch3j_06_c3643293:
+
+    # c "Yes. Is that so wrong?"
+    c ""
+
+# game/script_jessie.rpy:5703
+translate russian ch3j_06_e8cfd83b:
+
+    # j "No, Malcolm. It's entirely right."
+    j ""
+
+# game/script_jessie.rpy:5712
+translate russian ch3j_06_e73c0c06:
+
+    # "Atop the hill, we relax in the damp grass. I place my arm around her neck. Jessie slips her body around mine, and squeezes my shoulder."
+    ""
+
+# game/script_jessie.rpy:5726
+translate russian ch3j_06_e090db7e:
+
+    # "She kisses me assertively, and pulls away quickly."
+    ""
+
+# game/script_jessie.rpy:5727
+translate russian ch3j_06_3c05a8d2:
+
+    # j "I'm sorry. I know you're trying to have a serious conversation, to reassure me. Here I am just wanting to ignore it all... to be intimate."
+    j ""
+
+# game/script_jessie.rpy:5728
+translate russian ch3j_06_e560c39d:
+
+    # c "Don't {i}ever{/i} be sorry for a thing like that!"
+    c ""
+
+# game/script_jessie.rpy:5736
+translate russian ch3j_06_733884d2:
+
+    # "I reach forward and touch her face. Her cheek is so soft and flush with heat."
+    ""
+
+# game/script_jessie.rpy:5744
+translate russian ch3j_06_dfc9fff3:
+
+    # j "Don't you ever feel like life is just so short? No one knows what's to come. Life—"
+    j ""
+
+# game/script_jessie.rpy:5746
+translate russian ch3j_06_0ab9683e:
+
+    # "I agree more than she could ever know. We've both been through our share of horrors. She stops and looks at me, tears welling in her eyes."
+    ""
+
+# game/script_jessie.rpy:5747
+translate russian ch3j_06_2b212a8e:
+
+    # c "What, Jessie? What's wrong?"
+    c ""
+
+# game/script_jessie.rpy:5749
+translate russian ch3j_06_4cda616d:
+
+    # j "Life is just so goddamn unpredictable! I can't think straight. I can't even remember life before... this. Life before... {i}you{/i}."
+    j ""
+
+# game/script_jessie.rpy:5750
+translate russian ch3j_06_c10ea7e2:
+
+    # c "My grandfather would say, \"You can always bet on the fact that you can't bet on anything.\""
+    c ""
+
+# game/script_jessie.rpy:5752
+translate russian ch3j_06_e8d4aef0:
+
+    # j "It's true, isn't it?"
+    j ""
+
+# game/script_jessie.rpy:5765
+translate russian ch3j_06_a0cea19d:
+
+    # "We both laugh softly, and I pull her closer."
+    ""
+
+# game/script_jessie.rpy:5766
+translate russian ch3j_06_5a8568ab:
+
+    # "When our eyes meet again, I am lost. Lost in her embrace and the scent of her lingering jasmine perfume. Lost in the thought of holding her closer to me all night."
+    ""
+
+# game/script_jessie.rpy:5767
+translate russian ch3j_06_7f1f4edf:
+
+    # c "I know I haven't been back very long. In some ways, I feel like I've just met you, but I know you. I know your soul."
+    c ""
+
+# game/script_jessie.rpy:5769
+translate russian ch3j_06_8b5eca94:
+
+    # j "I feel the same way. Exactly."
+    j ""
+
+# game/script_jessie.rpy:5770
+translate russian ch3j_06_7c81d337:
+
+    # c "I know how my head and heart feel. You're in my thoughts every minute of the day. My heart aches for you when I'm not around you."
+    c ""
+
+# game/script_jessie.rpy:5772
+translate russian ch3j_06_e9b9a3a2:
+
+    # j "My heart aches for you, too, Malcolm. I haven't felt myself since you came to town. Or, quite honestly, I've felt more myself. More free to be who I am, if that makes any sense."
+    j ""
+
+# game/script_jessie.rpy:5781
+translate russian ch3j_06_5fa77556:
+
+    # "I reach out and stroke her cheek. As I gaze into her eyes, I feel my hand slide lower, across her cheekbone, down her neck, stopping at her shoulder."
+    ""
+
+# game/script_jessie.rpy:5782
+translate russian ch3j_06_0da8589c:
+
+    # "Beneath her open coat, her bare skin is exposed. I feel her shiver under my touch."
+    ""
+
+# game/script_jessie.rpy:5785
+translate russian ch3j_06_3bbd022d:
+
+    # j "Malcolm."
+    j ""
+
+# game/script_jessie.rpy:5789
+translate russian ch3j_06_6fd903ea:
+
+    # "Just hearing her speak my name sends me to the edge."
+    ""
+
+# game/script_jessie.rpy:5796
+translate russian ch3j_06_dbb5076d:
+
+    # "I immediately press my lips hard against hers."
+    ""
+
+# game/script_jessie.rpy:5799
+translate russian ch3j_06_faf7cc7e:
+
+    # "We kiss slowly, sensually for a while, taking our time, using our lips and tongues to explore."
+    ""
+
+# game/script_jessie.rpy:5829
+translate russian ch3j_06_a_4d7c59cd:
+
+    # "The night air is cold, but the temperature between us is fast rising. Jessie throws off her coat, and I don't try to hide my approval when she climbs on top of me."
+    ""
+
+# game/script_jessie.rpy:5830
+translate russian ch3j_06_a_54af34d3:
+
+    # "The pressure of her body on top of mine sends me reeling."
+    ""
+
+# game/script_jessie.rpy:5831
+translate russian ch3j_06_a_fa9a94a2:
+
+    # "She lets my hands travel over every inch of her I can reach, following every line and curve of her waist, hips, and thighs."
+    ""
+
+# game/script_jessie.rpy:5838
+translate russian ch3j_06_a_ca11b1b0:
+
+    # "When my fingers reach her lower back, I feel a protrusion. Something that does not belong atop a human posterior."
+    ""
+
+# game/script_jessie.rpy:5839
+translate russian ch3j_06_a_14b57d38:
+
+    # "I trace a circle around it, and judging from Jessie's reaction, it's quite sensitive."
+    ""
+
+# game/script_jessie.rpy:5840
+translate russian ch3j_06_a_2dd3590e:
+
+    # j "Ah! I-I'm sorry—"
+    j ""
+
+# game/script_jessie.rpy:5843
+translate russian ch3j_06_a_2c266b14:
+
+    # "I pause for a fraction of a second. Is it unusual? Yes. But it's something I'll just have to get used to, having a werewolf girlfriend."
+    ""
+
+# game/script_jessie.rpy:5852
+translate russian ch3j_06_a_ecbaf087:
+
+    # "With one easy rub, I coax out her lush tail, all the while stroking and petting it harder."
+    ""
+
+# game/script_jessie.rpy:5853
+translate russian ch3j_06_a_d1d4af8f:
+
+    # c "Jessie. It's all right. Don't hold back."
+    c ""
+
+# game/script_jessie.rpy:5866
+translate russian ch3j_06_a_5e037eee:
+
+    # "She smiles, and her grin becomes longer, toothier, more pronounced."
+    ""
+
+# game/script_jessie.rpy:5880
+translate russian ch3j_06_a_424b47c1:
+
+    # "Her entire body begins to shift, to alter itself as if by free will. The waves of fur that appear, swathing her limbs, feel like a comforting blanket. Every exposed part draws me in closer."
+    ""
+
+# game/script_jessie.rpy:5886
+translate russian ch3j_06_a_ad217dcf:
+
+    # "I glide my hands down her bare torso, now splendidly full of more than what I usually covet."
+    ""
+
+# game/script_jessie.rpy:5887
+translate russian ch3j_06_a_79664c9b:
+
+    # "As I brush against some of her most sensitive places, she makes a sound that can only be described as a \"yip.\""
+    ""
+
+# game/script_jessie.rpy:5895
+translate russian ch3j_06_a_ad0222e7:
+
+    # "Jessie grinds into me more forcefully now. She knows what she wants, and I concede, allowing her to unbutton my shirt and trousers."
+    ""
+
+# game/script_jessie.rpy:5896
+translate russian ch3j_06_a_425acaec:
+
+    # "While the heat of the moment feels so similar to our first time together, it is so, so indescribably different, new... animalistic. And not just because of her beastly traits."
+    ""
+
+# game/script_jessie.rpy:5907
+translate russian ch3j_06_a_29161f7a:
+
+    # "I break free just long enough to remove all my clothing, then wrestle her to the ground. She's pinned under me, and I hold her line of sight."
+    ""
+
+# game/script_jessie.rpy:5911
+translate russian ch3j_06_a_a7433cdb:
+
+    # "I want to tell her how strongly I feel, but I'm at a loss for words. It's not just her body, her energy, her sexuality. It's everything all at once. Is the time even right for words?"
+    ""
+
+# game/script_jessie.rpy:5913
+translate russian ch3j_06_a_cd26badc:
+
+    # j "Malcolm... I... I really want to tell you something... but I'm nervous."
+    j ""
+
+# game/script_jessie.rpy:5914
+translate russian ch3j_06_a_25b0360a:
+
+    # c "Nervous? You? Unheard of!"
+    c ""
+
+# game/script_jessie.rpy:5915
+translate russian ch3j_06_a_967970fb:
+
+    # j "I'm being serious. It's something I've never said before... to another man."
+    j ""
+
+# game/script_jessie.rpy:5923
+translate russian ch3j_06_a_d61144b9:
+
+    # "She closes her eyes tightly, and when she opens them, it's like seeing her for the first time in my life. No longer Jessie, the werewolf, nor Jessie, the lass next door. It's as if she's been reborn."
+    ""
+
+# game/script_jessie.rpy:5926
+translate russian ch3j_06_a_b4fa3fc0:
+
+    # j "..."
+    j ""
+
+# game/script_jessie.rpy:5927
+translate russian ch3j_06_a_c137f251:
+
+    # j "I love you."
+    j ""
+
+# game/script_jessie.rpy:5928
+translate russian ch3j_06_a_82e0e064:
+
+    # "I don't hesitate."
+    ""
+
+# game/script_jessie.rpy:5929
+translate russian ch3j_06_a_12dd3917:
+
+    # c "I love you, too, Jessie. Every part of you."
+    c ""
+
+# game/script_jessie.rpy:5932
+translate russian ch3j_06_a_1335ad2c:
+
+    # "An uncontrollable connection has formed between us, and it fuels the intensity of the moment."
+    ""
+
+# game/script_jessie.rpy:5940
+translate russian ch3j_06_a_d9d0b3b4:
+
+    # "I gasp as her legs wrap tightly around my hips. There is no more discussion. All at once, with a great strength, Jessie pulls me into her."
+    ""
+
+# game/script_jessie.rpy:5951
+translate russian ch3j_06_a_5a06e89e:
+
+    # "She holds me fast as our bodies move in harmony to a silent anthem. More than just dance partners, we move as one."
+    ""
+
+# game/script_jessie.rpy:5958
+translate russian ch3j_06_a_bc53e446:
+
+    # "My senses fade away as I become lost in our intimate choreography. All I know is I don't want this dance—this night—to end. Ever."
+    ""
+
+# game/script_jessie.rpy:5968
+translate russian ch3j_06_a_b6cd26ca:
+
+    # "Her grip is becoming tighter, her panting quicker. Every part of my soul throbs as tensely as my external being."
+    ""
+
+# game/script_jessie.rpy:5976
+translate russian ch3j_06_a_b2ab3058:
+
+    # "The stillness of the night is shattered by Jessie's piercing howl."
+    ""
+
+# game/script_jessie.rpy:5977
+translate russian ch3j_06_a_b9954150:
+
+    # "As she clamps down on me in the throes of ecstasy, I can no longer hold back."
+    ""
+
+# game/script_jessie.rpy:5986
+translate russian ch3j_06_a_c0c66fd1:
+
+    # "I fall onto her. We sigh together, a bundle of flesh and fur."
+    ""
+
+# game/script_jessie.rpy:5987
+translate russian ch3j_06_a_2c3e80cb:
+
+    # "We're both breathless, and overcome by bliss."
+    ""
+
+# game/script_jessie.rpy:6002
+translate russian ch3j_06_b_bbf7ce39:
+
+    # "As we drift off to sleep side by side, her warm body pressed into mine, I almost can't handle the feeling. My heart wants to burst from happiness, relief, excitement, and fear."
+    ""
+
+# game/script_jessie.rpy:6003
+translate russian ch3j_06_b_583e7425:
+
+    # "I can't lose this girl. I've let her know what she means to me. This is now much more than a one-night stand."
+    ""
+
+# game/script_jessie.rpy:6005
+translate russian ch3j_06_b_56c02522:
+
+    # "What if we're growing too close, too quickly? I don't think I could handle a separation. My heart would be crushed. I'm too dedicated."
+    ""
+
+# game/script_jessie.rpy:6007
+translate russian ch3j_06_b_4bdf5abb:
+
+    # "I replay her saying I love you in my head. Her cadence, her clarity, her fear."
+    ""
+
+# game/script_jessie.rpy:6008
+translate russian ch3j_06_b_afd6fb4f:
+
+    # "I whisper another \"I love you\" in her ear."
+    ""
+
+# game/script_jessie.rpy:6010
+translate russian ch3j_06_b_5b39d56b:
+
+    # "When I hear my words out loud, I feel at peace. I've never said those words to another woman."
+    ""
+
+# game/script_jessie.rpy:6011
+translate russian ch3j_06_b_64b9ff08:
+
+    # j "I love you, too."
+    j ""
+
+# game/script_jessie.rpy:6013
+translate russian ch3j_06_b_0ad1a2f9:
+
+    # "And now I've heard them said to me again."
+    ""
+
+# game/script_jessie.rpy:6014
+translate russian ch3j_06_b_03c660ca:
+
+    # "What an honor. A gift."
+    ""
+
+# game/script_jessie.rpy:6016
+translate russian ch3j_06_b_e7d38716:
+
+    # "It's a confirmation of something unknown. I don't know if either of us comprehend the meaning of the word, fully."
+    ""
+
+# game/script_jessie.rpy:6017
+translate russian ch3j_06_b_b597d4b6:
+
+    # "Is this a commitment? A promise? I don't need more reassurance right now. I'll think more on it in the morning, once I've had time to rest."
+    ""
+
+# game/script_jessie.rpy:6018
+translate russian ch3j_06_b_373ad9f2:
+
+    # "I watch Jessie's eye close, and see her drift off. Her chest rises and falls with each inhale and exhale. The breeze outside blows softly across her ears and muzzle."
+    ""
+
+# game/script_jessie.rpy:6019
+translate russian ch3j_06_b_c8858b03:
+
+    # "I want to kiss her once more, but refrain. There will be plenty more in the future. I am sure."
+    ""
+
+# game/script_jessie.rpy:6021
+translate russian ch3j_06_b_c23140b6:
+
+    # "Eventually, I let myself fall asleep, knowing that my heart, whether I try to stop it or not, now fully belongs to another soul."
+    ""
+
+# game/script_jessie.rpy:6053
+translate russian ch3j_07_99aa3a11:
+
+    # "There's a pep in my step the following morning. Gran stays mum, but she eyes me knowingly as I fill my plate with toast and oat hash."
+    ""
+
+# game/script_jessie.rpy:6054
+translate russian ch3j_07_c1c50d17:
+
+    # "She didn't catch me sneaking back into the house before sunrise, but the twigs in my hair and grass stains on my shirt aren't exactly subtle."
+    ""
+
+# game/script_jessie.rpy:6063
+translate russian ch3j_07_3366de51:
+
+    # "I had better say something before she does. Hopefully it's a subject that will be easier to discuss now that Gran has seen Jessie shine on stage."
+    ""
+
+# game/script_jessie.rpy:6064
+translate russian ch3j_07_bd86c379:
+
+    # c "So... how did you enjoy the show last night?"
+    c ""
+
+# game/script_jessie.rpy:6076
+translate russian ch3j_07_6a5e351a:
+
+    # "Gran smiles and opens her mouth to speak, but then stops, bites her tongue and sips her water."
+    ""
+
+# game/script_jessie.rpy:6077
+translate russian ch3j_07_144f0fb4:
+
+    # "Finally, after some awkward clinking of forks, knives, and glassware, Gran admits something I wasn't expecting to hear."
+    ""
+
+# game/script_jessie.rpy:6079
+translate russian ch3j_07_3d8bdefb:
+
+    # s "I had a very lovely time. It was nice to see Balgair, of course. And to get out in the evening. It's something I've not done in quite some time."
+    s ""
+
+# game/script_jessie.rpy:6080
+translate russian ch3j_07_24ca4eb8:
+
+    # "She plays with her food a bit, stalling for time, it seems."
+    ""
+
+# game/script_jessie.rpy:6082
+translate russian ch3j_07_f3c2460b:
+
+    # s "And yes. Yes, Jessie is certainly a star. Her voice is breathtaking. So is her... {i}physique{/i}."
+    s ""
+
+# game/script_jessie.rpy:6083
+translate russian ch3j_07_70fb719b:
+
+    # "I smile behind my napkin."
+    ""
+
+# game/script_jessie.rpy:6084
+translate russian ch3j_07_5a5228b7:
+
+    # c "I'm glad you went with us. I had a nice time, as well."
+    c ""
+
+# game/script_jessie.rpy:6087
+translate russian ch3j_07_d45f8a59:
+
+    # s "Yes... but... I still have reservations about you two... being together."
+    s ""
+
+# game/script_jessie.rpy:6088
+translate russian ch3j_07_aac35f8f:
+
+    # "I nearly choke on my hash."
+    ""
+
+# game/script_jessie.rpy:6089
+translate russian ch3j_07_e91d1c04:
+
+    # c "Wh— why?"
+    c ""
+
+# game/script_jessie.rpy:6090
+translate russian ch3j_07_114afefe:
+
+    # "Gran sets her silverware down, and I know she's going in for a speech. I steel myself."
+    ""
+
+# game/script_jessie.rpy:6092
+translate russian ch3j_07_910a3608:
+
+    # s "Malcolm... quite frankly. I am a selfish old woman. I see how you look at Jessie..."
+    s ""
+
+# game/script_jessie.rpy:6093
+translate russian ch3j_07_7e404c01:
+
+    # "Gran's voice cracks, and tears form."
+    ""
+
+# game/script_jessie.rpy:6094
+translate russian ch3j_07_470be560:
+
+    # c "Gran, what's wrong?"
+    c ""
+
+# game/script_jessie.rpy:6096
+translate russian ch3j_07_db7020ae:
+
+    # s "And I see how she looks at you... and I just know..."
+    s ""
+
+# game/script_jessie.rpy:6098
+translate russian ch3j_07_bf13510f:
+
+    # c "Know what?"
+    c ""
+
+# game/script_jessie.rpy:6099
+translate russian ch3j_07_08ea53ee:
+
+    # "But I believe I already know the answer."
+    ""
+
+# game/script_jessie.rpy:6101
+translate russian ch3j_07_ad1fe34d:
+
+    # s "You're going to leave... to leave {i}me{/i}."
+    s ""
+
+# game/script_jessie.rpy:6102
+translate russian ch3j_07_5d47bf68:
+
+    # "Her tears become brief sobs until she gains her composure, and wipes her face with her kerchief."
+    ""
+
+# game/script_jessie.rpy:6114
+translate russian ch3j_07_5453c3f0:
+
+    # "I quickly stand to give her comfort and a hug."
+    ""
+
+# game/script_jessie.rpy:6115
+translate russian ch3j_07_e69adf17:
+
+    # c "I won't leave you, Gran. I couldn't."
+    c ""
+
+# game/script_jessie.rpy:6125
+translate russian ch3j_07_4a7d558d:
+
+    # s "Sit, Malcolm. Eat your breakfast. Pay no mind to my outburst."
+    s ""
+
+# game/script_jessie.rpy:6135
+translate russian ch3j_07_9100423e:
+
+    # "I do as told, pulling my chair closer to my grandmother, just to place a hand on her arm."
+    ""
+
+# game/script_jessie.rpy:6145
+translate russian ch3j_07_bd089c5c:
+
+    # s "Jessie is a wonderful girl. You two make a pair for the ages. But I see... "
+    s ""
+
+# game/script_jessie.rpy:6146
+translate russian ch3j_07_18010228:
+
+    # c "You're worried we'll up and leave you?"
+    c ""
+
+# game/script_jessie.rpy:6148
+translate russian ch3j_07_8eab8e71:
+
+    # "Gran nods silently."
+    ""
+
+# game/script_jessie.rpy:6149
+translate russian ch3j_07_6bfecbfc:
+
+    # s "Yes. She is meant for bigger things, Malcolm. She dreams of a world with fame and fortune, and rightfully so. She's a feisty firecracker!"
+    s ""
+
+# game/script_jessie.rpy:6150
+translate russian ch3j_07_e3f3de9b:
+
+    # c "A real humdinger?"
+    c ""
+
+# game/script_jessie.rpy:6152
+translate russian ch3j_07_36e5282f:
+
+    # "Gran finally cracks another smile."
+    ""
+
+# game/script_jessie.rpy:6153
+translate russian ch3j_07_69ec872f:
+
+    # s "Yes, indeed. It makes me worried I'll lose you... again."
+    s ""
+
+# game/script_jessie.rpy:6156
+translate russian ch3j_07_961d6d2c:
+
+    # "Gran fiddles a bit with her kerchief before taking on a more serious visage, and locking eyes with me."
+    ""
+
+# game/script_jessie.rpy:6157
+translate russian ch3j_07_bd5a2e8c:
+
+    # s "She reminds me too much of your mother, Malcolm. Lord strike me down from shame, but that woman... she was always angling to escape."
+    s ""
+
+# game/script_jessie.rpy:6158
+translate russian ch3j_07_cac44388:
+
+    # "I nod along, now seeing where Gran is headed with this topic. I don't think I'm ready for it, but know it's now or never."
+    ""
+
+# game/script_jessie.rpy:6160
+translate russian ch3j_07_644a2124:
+
+    # s "She gave your father such love, compassion... hope. A little too much hope if you ask me. A pipe dreamer, that woman."
+    s ""
+
+# game/script_jessie.rpy:6161
+translate russian ch3j_07_7e2b5b3e:
+
+    # c "You know I won't disagree with you there, Gran."
+    c ""
+
+# game/script_jessie.rpy:6163
+translate russian ch3j_07_1dcd7f3d:
+
+    # s "But she also gave me you. And for that I am ever grateful."
+    s ""
+
+# game/script_jessie.rpy:6164
+translate russian ch3j_07_b297f1d7:
+
+    # c "But she took so much."
+    c ""
+
+# game/script_jessie.rpy:6166
+translate russian ch3j_07_97c67cbf:
+
+    # s "Everything, Malcolm."
+    s ""
+
+# game/script_jessie.rpy:6167
+translate russian ch3j_07_0f2fdf5c:
+
+    # "Gran sighs, as if relief has overtaken her by admitting my own mother's wrongdoings."
+    ""
+
+# game/script_jessie.rpy:6169
+translate russian ch3j_07_09710a3e:
+
+    # s "Almost everything. Your grandfather stood his ground. This home, this land, it all meant too much to him to abandon it for imagined riches in the city."
+    s ""
+
+# game/script_jessie.rpy:6171
+translate russian ch3j_07_daca798e:
+
+    # s "Malcolm, I miss your father every minute of every day. I knew I couldn't hold onto him forever, but having you back just makes me miss him that much more."
+    s ""
+
+# game/script_jessie.rpy:6173
+translate russian ch3j_07_2e73eaf5:
+
+    # s "It makes me want to cling harder to you."
+    s ""
+
+# game/script_jessie.rpy:6175
+translate russian ch3j_07_05803170:
+
+    # s "I love Jessie as I love you, but that thought... that one nagging thought is killing me."
+    s ""
+
+# game/script_jessie.rpy:6177
+translate russian ch3j_07_ec389ae0:
+
+    # c "I won't leave you, Gran. I promise."
+    c ""
+
+# game/script_jessie.rpy:6178
+translate russian ch3j_07_6d3494cb:
+
+    # "But even as I say the words, I fear I am lying."
+    ""
+
+# game/script_jessie.rpy:6180
+translate russian ch3j_07_084cc14a:
+
+    # s "A person can be independent to a fault, Malcolm. And as much as I saw that trait in your mother, I have to be honest with myself—and you—that I don't think Jessie would ever intentionally hurt you."
+    s ""
+
+# game/script_jessie.rpy:6182
+translate russian ch3j_07_38672346:
+
+    # s "She may put her needs first, but truly that may be what women ought to do these days. I can't say I know for certain."
+    s ""
+
+# game/script_jessie.rpy:6183
+translate russian ch3j_07_3380ca1a:
+
+    # c "Gran, I am taking every day, every hour, even every minute as it comes. I have no plans to up and leave the town I {i}just{/i} returned to. This is home."
+    c ""
+
+# game/script_jessie.rpy:6184
+translate russian ch3j_07_495e42c1:
+
+    # "Gran tears up again, and swallows hard."
+    ""
+
+# game/script_jessie.rpy:6186
+translate russian ch3j_07_07e08b25:
+
+    # s "I'm done now. My speech has concluded, and I wish to speak of lighter things."
+    s ""
+
+# game/script_jessie.rpy:6187
+translate russian ch3j_07_66cd1249:
+
+    # "I try to laugh, but my heart throbs in my chest. There is a ringing in my ears. The sound of all the anger and resentment I have towards my own mother."
+    ""
+
+# game/script_jessie.rpy:6188
+translate russian ch3j_07_5f57d61a:
+
+    # "And just like my conversation with Jessie, Gran and I leave much unspoken."
+    ""
+
+# game/script_jessie.rpy:6189
+translate russian ch3j_07_5826963b:
+
+    # c "So, have you any Gossip Guild news?"
+    c ""
+
+# game/script_jessie.rpy:6191
+translate russian ch3j_07_a79af7b2:
+
+    # s "Gossip Guild? Malcolm! The Whist Guild! Those are fine, upstanding ladies you speak of!"
+    s ""
+
+# game/script_jessie.rpy:6192
+translate russian ch3j_07_afd872db:
+
+    # c "Ladies who call my girlfriend a harlot?"
+    c ""
+
+# game/script_jessie.rpy:6194
+translate russian ch3j_07_affbd171:
+
+    # s "Well! That was only Mary McEvans! Shame on her. Her and her meddling ways. Can you imagine having something to say on everything, even when it doesn't involve you! That woman, I swear."
+    s ""
+
+# game/script_jessie.rpy:6195
+translate russian ch3j_07_c10ed542:
+
+    # c "No, Gran. I certainly can't imagine."
+    c ""
+
+# game/script_jessie.rpy:6197
+translate russian ch3j_07_18adf7f1:
+
+    # s "She still goes on about that wolf, even though she's ne'er seen the blasted thing. Won't let it go! A wolf? In this village? Can y'even imagine?"
+    s ""
+
+# game/script_jessie.rpy:6198
+translate russian ch3j_07_66d57915:
+
+    # c "No... certainly not. Not one bit."
+    c ""
+
+# game/script_jessie.rpy:6200
+translate russian ch3j_07_1b9ec306:
+
+    # c "Say... is that homemade cider ready yet?"
+    c ""
+
+# game/script_jessie.rpy:6225
+translate russian ch3j_08_e6a8352c:
+
+    # "Our days together, and apart, blend. A series of waking, working, and wanting her, all driving me to an unsustainable level of commitments and pleasure-seeking."
+    ""
+
+# game/script_jessie.rpy:6226
+translate russian ch3j_08_21d59450:
+
+    # "My fear of the unknown—any hidden ferocity—is always balanced with my obsession for her spirit, enthusiasm... her love for life."
+    ""
+
+# game/script_jessie.rpy:6227
+translate russian ch3j_08_db552a89:
+
+    # "Her love for me, as well."
+    ""
+
+# game/script_jessie.rpy:6229
+translate russian ch3j_08_b1aab7bf:
+
+    # "In private, Jessie displays equal parts hedonism and exhibitionism, and I certainly don't have complaints."
+    ""
+
+# game/script_jessie.rpy:6230
+translate russian ch3j_08_1df74057:
+
+    # "But I'm still hesitant about our declarations of love. That word is so laden with immensity, dedication... stability. I want to be sure that Jessie hasn't felt pressured into admitting these feelings."
+    ""
+
+# game/script_jessie.rpy:6231
+translate russian ch3j_08_bea3b60b:
+
+    # "I don't want her to be saddled with the task of needing to reciprocate my desire to settle down and make a quiet life for ourselves."
+    ""
+
+# game/script_jessie.rpy:6233
+translate russian ch3j_08_e5fd70c6:
+
+    # "Her dream still lies in the \"big city,\" as she calls it."
+    ""
+
+# game/script_jessie.rpy:6234
+translate russian ch3j_08_503e1ab5:
+
+    # "I overthink for hours on end, and need to give myself a break from worrying about it. If Jessie loves me, she will show me with actions. I need not fret so."
+    ""
+
+# game/script_jessie.rpy:6235
+translate russian ch3j_08_825c6d65:
+
+    # "But still the concern lingers."
+    ""
+
+# game/script_jessie.rpy:6236
+translate russian ch3j_08_862a5c3f:
+
+    # "At least she no longer seems to plan on abandoning us all in the middle of the night. That's some solace."
+    ""
+
+# game/script_jessie.rpy:6237
+translate russian ch3j_08_3c478ad9:
+
+    # "At any rate, I {i}hope{/i} that never happens."
+    ""
+
+# game/script_jessie.rpy:6239
+translate russian ch3j_08_9b539f4f:
+
+    # "It's in the quiet moments we steal, in between busy days and busier nights, that our romantic trysts often end in more difficult conversations."
+    ""
+
+# game/script_jessie.rpy:6240
+translate russian ch3j_08_9206eceb:
+
+    # "Those times she turns to me for comfort, and I don't believe I hold the response she needs or wants."
+    ""
+
+# game/script_jessie.rpy:6254
+translate russian ch3j_08_63a1466c:
+
+    # j "Malcolm, I don't know what I would do without you."
+    j ""
+
+# game/script_jessie.rpy:6255
+translate russian ch3j_08_112d5b81:
+
+    # "She's curled herself into a small ball of fluff, nearly atop my lap. We watch the clouds go by from our hilltop perch... our safe space."
+    ""
+
+# game/script_jessie.rpy:6256
+translate russian ch3j_08_0b29df51:
+
+    # c "You'd be fine, Jessie. You were before me..."
+    c ""
+
+# game/script_jessie.rpy:6264
+translate russian ch3j_08_bce9b9b1:
+
+    # j "And I will be after?"
+    j ""
+
+# game/script_jessie.rpy:6265
+translate russian ch3j_08_23a991f0:
+
+    # "She looks up at me, horrified."
+    ""
+
+# game/script_jessie.rpy:6266
+translate russian ch3j_08_3f4efd97:
+
+    # c "That's not what I was going to say. I only mean that you're stronger than you remember yourself being, perhaps. I'm not all there is for you."
+    c ""
+
+# game/script_jessie.rpy:6268
+translate russian ch3j_08_59d55b2b:
+
+    # j "I know. It's just that when I'm with you, I don't... no, I {i}can't{/i} imagine my world before you."
+    j ""
+
+# game/script_jessie.rpy:6269
+translate russian ch3j_08_070d523c:
+
+    # c "That I understand perfectly."
+    c ""
+
+# game/script_jessie.rpy:6276
+translate russian ch3j_08_b6e5324c:
+
+    # j "Malcolm, can I share something with you? Something I've not confided in you yet?"
+    j ""
+
+# game/script_jessie.rpy:6277
+translate russian ch3j_08_c8e3e0ff:
+
+    # c "Always. That's what I'm here for."
+    c ""
+
+# game/script_jessie.rpy:6278
+translate russian ch3j_08_6128c5fd:
+
+    # "My heart skips a beat."
+    ""
+
+# game/script_jessie.rpy:6279
+translate russian ch3j_08_5ab8303b:
+
+    # c "Should I be nervous or excited?"
+    c ""
+
+# game/script_jessie.rpy:6281
+translate russian ch3j_08_200866d8:
+
+    # j "Neither. Just... an open pair of ears, I guess."
+    j ""
+
+# game/script_jessie.rpy:6282
+translate russian ch3j_08_f466824b:
+
+    # c "That I can do."
+    c ""
+
+# game/script_jessie.rpy:6284
+translate russian ch3j_08_c40db445:
+
+    # j "I only wanted to share with you how it feels when I change."
+    j ""
+
+# game/script_jessie.rpy:6285
+translate russian ch3j_08_37ea79b8:
+
+    # "The tension in my chest releases. I can feel my heart beat normally again."
+    ""
+
+# game/script_jessie.rpy:6286
+translate russian ch3j_08_ad560dcf:
+
+    # c "You never talk about it. Of course, I'd like to hear more. I'm always here to listen."
+    c ""
+
+# game/script_jessie.rpy:6288
+translate russian ch3j_08_3bd23daa:
+
+    # j "It's indescribable, really, but..."
+    j ""
+
+# game/script_jessie.rpy:6292
+translate russian ch3j_08_a8b444dc:
+
+    # j "It's like a fire inside me. It burns so. But not in a bad way."
+    j ""
+
+# game/script_jessie.rpy:6293
+translate russian ch3j_08_c19e4643:
+
+    # "Just the thought of fire triggers the warnings given to me by my Gran. Not to mention Alana's constant nagging about Jessie's uncontrollable temper..."
+    ""
+
+# game/script_jessie.rpy:6295
+translate russian ch3j_08_6822de4e:
+
+    # j "It's... more like a heat. An energy that pulsates. And every time I push it to what I think are my own limits, the heat just explodes even more."
+    j ""
+
+# game/script_jessie.rpy:6296
+translate russian ch3j_08_ee8e8966:
+
+    # c "Honestly... it sounds..."
+    c ""
+
+# game/script_jessie.rpy:6298
+translate russian ch3j_08_19612121:
+
+    # "Jessie gives me a look that implores me to let her take the reins."
+    ""
+
+# game/script_jessie.rpy:6304
+translate russian ch3j_08_a7d59bea:
+
+    # "Her hand slides up my legs, and settles between my thighs. With her fingers inches from, well... where it probably ought not be in broad daylight. She squeezes softly, then progressively harder."
+    ""
+
+# game/script_jessie.rpy:6305
+translate russian ch3j_08_87781a24:
+
+    # "All of my extremities begin to throb."
+    ""
+
+# game/script_jessie.rpy:6307
+translate russian ch3j_08_b764d448:
+
+    # j "It's that sensation that builds right before..."
+    j ""
+
+# game/script_jessie.rpy:6312
+translate russian ch3j_08_7285e31b:
+
+    # "I interrupt before my own inner bomb detonates."
+    ""
+
+# game/script_jessie.rpy:6313
+translate russian ch3j_08_d303f98d:
+
+    # c "I— think I understand. It sounds marvelous... I'm kind of jealous."
+    c ""
+
+# game/script_jessie.rpy:6315
+translate russian ch3j_08_74cba315:
+
+    # j "I would tell you not to be, but it's insane! I wish I could share it with you!"
+    j ""
+
+# game/script_jessie.rpy:6316
+translate russian ch3j_08_81763646:
+
+    # c "In some ways you already have."
+    c ""
+
+# game/script_jessie.rpy:6318
+translate russian ch3j_08_21495b5a:
+
+    # "I kiss the top of her muzzle, and she blushes."
+    ""
+
+# game/script_jessie.rpy:6319
+translate russian ch3j_08_5544bf57:
+
+    # j "Was that too much? Did I say too much?"
+    j ""
+
+# game/script_jessie.rpy:6320
+translate russian ch3j_08_9d9843da:
+
+    # c "Never. I want to hear everything you have to share, as long as you're willing!"
+    c ""
+
+# game/script_jessie.rpy:6322
+translate russian ch3j_08_3b43da13:
+
+    # j "You're the greatest man I've ever met, Malcolm. The greatest person probably."
+    j ""
+
+# game/script_jessie.rpy:6323
+translate russian ch3j_08_01a2fcdf:
+
+    # c "I can't accept that much praise. But I do appreciate it."
+    c ""
+
+# game/script_jessie.rpy:6325
+translate russian ch3j_08_42b27ab8:
+
+    # c "You're right that I can't completely understand what all of that feels like. But... I know what it means to change."
+    c ""
+
+# game/script_jessie.rpy:6327
+translate russian ch3j_08_be38aa0b:
+
+    # j "You do, don't you? Tell me more, please."
+    j ""
+
+# game/script_jessie.rpy:6328
+translate russian ch3j_08_151f999c:
+
+    # "I look out at the horizon, seeing and hearing a million images at once."
+    ""
+
+# game/script_jessie.rpy:6329
+translate russian ch3j_08_2128f3a7:
+
+    # "Every fallen soldier, every laughing face during a midnight round of poker, every cry for help at dawn, and the immediate silence that always followed."
+    ""
+
+# game/script_jessie.rpy:6331
+translate russian ch3j_08_7466ce5d:
+
+    # "Anything I try to tell her would be met with shock. Best not to add to her concerns. Not today, if ever."
+    ""
+
+# game/script_jessie.rpy:6332
+translate russian ch3j_08_a3ef582d:
+
+    # c "I'm not even sure where to start. I left as one person, and I'm not sure I am that man anymore."
+    c ""
+
+# game/script_jessie.rpy:6334
+translate russian ch3j_08_f821405f:
+
+    # j "You are, though. You must be."
+    j ""
+
+# game/script_jessie.rpy:6336
+translate russian ch3j_08_79b011fe:
+
+    # "I fear her reaction, even mine, were I to try to describe, even delicately, what I've seen and experienced. It's not worth it. I can't. I won't."
+    ""
+
+# game/script_jessie.rpy:6338
+translate russian ch3j_08_a16f4a9a:
+
+    # c "I worry, Jessie. For both of us. I worry that my sanity is resting on a precipice, and I can't see what is on either side."
+    c ""
+
+# game/script_jessie.rpy:6339
+translate russian ch3j_08_1f64f8fd:
+
+    # c "I worry about these intense transformations of yours; they remind me of the worst in the world... that which is uncontrollable."
+    c ""
+
+# game/script_jessie.rpy:6341
+translate russian ch3j_08_393e4571:
+
+    # j "But I do have control!"
+    j ""
+
+# game/script_jessie.rpy:6342
+translate russian ch3j_08_08c762d9:
+
+    # c "Do you? What about what happened with Alana? With me?"
+    c ""
+
+# game/script_jessie.rpy:6344
+translate russian ch3j_08_dfb88985:
+
+    # j "Two times? That's hardly a problem, Malcolm! Besides, I've been practicing since then. Lots!"
+    j ""
+
+# game/script_jessie.rpy:6347
+translate russian ch3j_08_0e87dfa6:
+
+    # j "I don't know if any of that would be an issue were I to leave."
+    j ""
+
+# game/script_jessie.rpy:6348
+translate russian ch3j_08_c8b45efb:
+
+    # c "Leave? And what would happen? The city would embrace its new canine artist?"
+    c ""
+
+# game/script_jessie.rpy:6350
+translate russian ch3j_08_044c6ab7:
+
+    # j "Something like that..."
+    j ""
+
+# game/script_jessie.rpy:6351
+translate russian ch3j_08_bd6dffd6:
+
+    # "But her voice trails off. I know I've offended her."
+    ""
+
+# game/script_jessie.rpy:6352
+translate russian ch3j_08_10cfe0e4:
+
+    # c "I'm just worried. That's all it is. I need to push aside those fears and appreciate what's here, in front of me right now."
+    c ""
+
+# game/script_jessie.rpy:6353
+translate russian ch3j_08_83ec2914:
+
+    # c "Just know I appreciate you opening up to me. Always. Don't let my fears affect you. We both knew what we were getting into."
+    c ""
+
+# game/script_jessie.rpy:6355
+translate russian ch3j_08_46884596:
+
+    # j "Not {i}everything.{/i}"
+    j ""
+
+# game/script_jessie.rpy:6356
+translate russian ch3j_08_422b86cf:
+
+    # c "Not then. But we sure do now. And I'm not going anywhere. You and me. We're a team. I love you."
+    c ""
+
+# game/script_jessie.rpy:6358
+translate russian ch3j_08_38ec6422:
+
+    # j "Malcolm, please be patient with me. I've never been close to a man before. It's a gift. One I don't want to lose."
+    j ""
+
+# game/script_jessie.rpy:6359
+translate russian ch3j_08_3916fa7b:
+
+    # c "Anything you need. I'm here."
+    c ""
+
+# game/script_jessie.rpy:6362
+translate russian ch3j_08_a1343e93:
+
+    # "We embrace, and leave so much unsaid. Time will continue to pass, as it is ever doing. The right time will come. All of our secrets will come out eventually, whether we want them to, or not."
+    ""
+
+# game/script_jessie.rpy:6363
+translate russian ch3j_08_15a4cc07:
+
+    # "For now, we are side by side, and I make it my duty to dwell on nothing but the present."
+    ""
+
+# game/script_jessie.rpy:6394
+translate russian ch3j_09_3a9506b6:
+
+    # "The morning comes again, and with it another day of routine: feed and brush Hazel, muck the barn, and bleach the linens..."
+    ""
+
+# game/script_jessie.rpy:6395
+translate russian ch3j_09_6e2b9bbc:
+
+    # "By the time afternoon has rolled around, I find myself adding another layer of stone to the hog pen."
+    ""
+
+# game/script_jessie.rpy:6396
+translate russian ch3j_09_fa31dfe5:
+
+    # "My vow to focus on the present is being tested to the limit. Every block placed is an exercise in tedium."
+    ""
+
+# game/script_jessie.rpy:6398
+translate russian ch3j_09_bcbc5370:
+
+    # c "But once the pen's built and settled, this plot of land will start looking like a proper farm again! Eh, lass?"
+    c ""
+
+# game/script_jessie.rpy:6403
+translate russian ch3j_09_4fdd2f49:
+
+    # "Hazel, watching from her paddock, shakes her head, as if disagreeing with me. More likely she's shaking away some flies, but I humor her."
+    ""
+
+# game/script_jessie.rpy:6404
+translate russian ch3j_09_892f47e3:
+
+    # c "Well, I'll give you that the garden patch has seen better days."
+    c ""
+
+# game/script_jessie.rpy:6411
+translate russian ch3j_09_f4c4d37a:
+
+    # "I look toward the long-forgotten garden, which is now just a plot of weeds and overgrowth."
+    ""
+
+# game/script_jessie.rpy:6412
+translate russian ch3j_09_ae971a11:
+
+    # c "There's still time to get a few vegetables planted. What d'ya say? After this, are you up for a little tilling, girl?"
+    c ""
+
+# game/script_jessie.rpy:6421
+translate russian ch3j_09_8c67173a:
+
+    # "When I turn back to my mare, she is gone. The sound of wood clacking against wood comes from inside the stable. Has she shut herself in her own stall again? I holler after her."
+    ""
+
+# game/script_jessie.rpy:6422
+translate russian ch3j_09_8e38a361:
+
+    # c "Maybe tomorrow, then?"
+    c ""
+
+# game/script_jessie.rpy:6428
+translate russian ch3j_09_68ef13ce:
+
+    # "I laugh, and picture a lovely garden blooming just a few months out. Gran will be thrilled. There should be enough to share with the MacLeods, as well."
+    ""
+
+# game/script_jessie.rpy:6429
+translate russian ch3j_09_f05e97a3:
+
+    # "Although, Jessie's diet seems to be nothing but meat these days. And Grace only eats seafood, as far as I can tell. Maybe Marion will like a few vegetables to munch on!"
+    ""
+
+# game/script_jessie.rpy:6435
+translate russian ch3j_09_084c0e22:
+
+    # "The sun beats down on me long enough that sweat has darkened most of my attire. I consider removing my shirt when I see a shadow fast approaching."
+    ""
+
+# game/script_jessie.rpy:6436
+translate russian ch3j_09_fa0e1122:
+
+    # "I tuck my shirt tails back in, and squint to make out a face."
+    ""
+
+# game/script_jessie.rpy:6437
+translate russian ch3j_09_dd81a242:
+
+    # "Sure enough, it is my neighbor. She is smiling and flailing her arms."
+    ""
+
+# game/script_jessie.rpy:6438
+translate russian ch3j_09_0dc4f09f:
+
+    # c "Ahoy! Marion!"
+    c ""
+
+# game/script_jessie.rpy:6442
+translate russian ch3j_09_ee87d548:
+
+    # m "Malcolm!"
+    m ""
+
+# game/script_jessie.rpy:6450
+translate russian ch3j_09_2b947ca5:
+
+    # "Her smile turns to a frown and, lo and behold, she starts to cry."
+    ""
+
+# game/script_jessie.rpy:6451
+translate russian ch3j_09_0ca08826:
+
+    # "What could it be now? My thoughts jump to Jessie gnawing on the leg of that awful gossip monger. Lord help Mrs. McEvans."
+    ""
+
+# game/script_jessie.rpy:6452
+translate russian ch3j_09_cd614e96:
+
+    # m "Oh, Malcolm, I'm so glad you're here. I need help right away!"
+    m ""
+
+# game/script_jessie.rpy:6453
+translate russian ch3j_09_b99c8f7a:
+
+    # "I lay down my trowel, and wipe my brow."
+    ""
+
+# game/script_jessie.rpy:6454
+translate russian ch3j_09_382e705f:
+
+    # c "What's needed, Marion? Are you all right? Are your sisters okay?"
+    c ""
+
+# game/script_jessie.rpy:6456
+translate russian ch3j_09_6763cc99:
+
+    # m "It's my home! It's been invaded!"
+    m ""
+
+# game/script_jessie.rpy:6457
+translate russian ch3j_09_9e48fcbd:
+
+    # c "Invaded? What... robbed?"
+    c ""
+
+# game/script_jessie.rpy:6458
+translate russian ch3j_09_20805c2d:
+
+    # "That sort of thing never happens here. Ever."
+    ""
+
+# game/script_jessie.rpy:6460
+translate russian ch3j_09_a63831f4:
+
+    # m "It's an invasion of {i}bees!{/i} Please come! I don't know how to get them all out."
+    m ""
+
+# game/script_jessie.rpy:6461
+translate russian ch3j_09_3b4a0287:
+
+    # c "Bees?"
+    c ""
+
+# game/script_jessie.rpy:6463
+translate russian ch3j_09_e5b0869e:
+
+    # m "I stirred up a nest whilst cleaning the chimney flue. It's a nightmare!"
+    m ""
+
+# game/script_jessie.rpy:6464
+translate russian ch3j_09_79a2c28b:
+
+    # "I think on it. I've moved nested hives before with my grandfather. It's quite the task."
+    ""
+
+# game/script_jessie.rpy:6465
+translate russian ch3j_09_6a831522:
+
+    # c "It's certainly a two-man job. Are you up for the challenge?"
+    c ""
+
+# game/script_jessie.rpy:6467
+translate russian ch3j_09_5422be26:
+
+    # m "I can do it. I'm tougher than a hive of stingers!"
+    m ""
+
+# game/script_jessie.rpy:6468
+translate russian ch3j_09_4aae772c:
+
+    # "I chuckle, not doubting it."
+    ""
+
+# game/script_jessie.rpy:6469
+translate russian ch3j_09_fa84c954:
+
+    # c "All right. Let me grab some supplies. It's best to wait until this evening, when the workers have all returned to the hive. I'll pack up and head over after I eat."
+    c ""
+
+# game/script_jessie.rpy:6471
+translate russian ch3j_09_5b8422bb:
+
+    # m "Oh, thank you, Malcolm!"
+    m ""
+
+# game/script_jessie.rpy:6472
+translate russian ch3j_09_b1877f40:
+
+    # c "Our house is bee-free. Would you like to stay for dinner?"
+    c ""
+
+# game/script_jessie.rpy:6474
+translate russian ch3j_09_836c2985:
+
+    # m "No, no. I left all of my laundry outside. I need to return. Please come as soon as you can."
+    m ""
+
+# game/script_jessie.rpy:6478
+translate russian ch3j_09_e799a5fc:
+
+    # "Marion waves again, wiping her tears, and takes off towards home. Bees taking up residence in the chimney. What are the odds?"
+    ""
+
+# game/script_jessie.rpy:6479
+translate russian ch3j_09_2b09a387:
+
+    # "Not as slim as falling for a girl who happens to be a werewolf. I laugh to myself. We are truly blessed."
+    ""
+
+# game/script_jessie.rpy:6487
+translate russian ch3j_09_cbf88ea0:
+
+    # "I change my clothes, stuff three scones in my mouth, and fill Hazel's pack with some tools and a jug of water before letting Gran know I'm off to wrangle some bees."
+    ""
+
+# game/script_jessie.rpy:6492
+translate russian ch3j_09_4a4595a6:
+
+    # s "Do what you need, Malcolm. Just \"bee\" careful!"
+    s ""
+
+# game/script_jessie.rpy:6493
+translate russian ch3j_09_581e8219:
+
+    # "I roll my eyes, and start the ride next door."
+    ""
+
+# game/script_jessie.rpy:6509
+translate russian ch3j_09_831ce6d4:
+
+    # "I hear the bees before I see them. A swarm hovers over the home, pouring out of the chimney. I'd not thought of what to actually do, and now seeing them... I'm not sure how to smoke them out."
+    ""
+
+# game/script_jessie.rpy:6510
+translate russian ch3j_09_29a99dc9:
+
+    # "Most of me just wishes I were here to pay Jessie a visit. She's certainly been the bee in my bonnet."
+    ""
+
+# game/script_jessie.rpy:6530
+translate russian ch3j_09_3676cd64:
+
+    # "Marion steps out of the front door and waves. I suggest the obvious to her."
+    ""
+
+# game/script_jessie.rpy:6531
+translate russian ch3j_09_e0b7a981:
+
+    # c "Why don't you just start a fire in the hearth? It'll smoke them out!"
+    c ""
+
+# game/script_jessie.rpy:6533
+translate russian ch3j_09_7b546efe:
+
+    # "Marion looks mighty alarmed at my suggestion."
+    ""
+
+# game/script_jessie.rpy:6534
+translate russian ch3j_09_5d488bce:
+
+    # m "A fire? They could all die! I can't kill them! We need to keep them for the honey. I can sell it at market."
+    m ""
+
+# game/script_jessie.rpy:6535
+translate russian ch3j_09_caa7adc8:
+
+    # "I sigh internally. I want to argue but know she's right. Honey is money."
+    ""
+
+# game/script_jessie.rpy:6536
+translate russian ch3j_09_16f5d1ed:
+
+    # c "Okay, let me unpack, and I'll climb to the roof."
+    c ""
+
+# game/script_jessie.rpy:6538
+translate russian ch3j_09_9b0ea1c2:
+
+    # m "I'll join!"
+    m ""
+
+# game/script_jessie.rpy:6539
+translate russian ch3j_09_5892a33b:
+
+    # c "Did you block off the hearth?"
+    c ""
+
+# game/script_jessie.rpy:6541
+translate russian ch3j_09_0a7fb4a6:
+
+    # m "Yes. They can't get inside the house anymore. I'll grab something to calm them and be right there."
+    m ""
+
+# game/script_jessie.rpy:6550
+translate russian ch3j_09_445d546c:
+
+    # "Marion, our supplies, and I make a wobbly trek up the windowsills and eaves until we're adjacent on her rooftop."
+    ""
+
+# game/script_jessie.rpy:6551
+translate russian ch3j_09_d6e4a0f3:
+
+    # "She hands me a wad of netting taken out of a burlap sack, and we help each other wrap it around our heads."
+    ""
+
+# game/script_jessie.rpy:6552
+translate russian ch3j_09_0a7faffa:
+
+    # c "All right. Did you bring a smoker?"
+    c ""
+
+# game/script_jessie.rpy:6553
+translate russian ch3j_09_d8744d07:
+
+    # m "No, but I have the next best thing!"
+    m ""
+
+# game/script_jessie.rpy:6607
+translate russian ch3j_09_0f96d74a:
+
+    # "Marion produces an ornate bottle and begins spraying little puffs all around the chimney. I recognize the scent right away."
+    ""
+
+# game/script_jessie.rpy:6608
+translate russian ch3j_09_739c940d:
+
+    # c "I don't think that's what your sister had in mind for her {i}Saison de la Chaleur{/i}. Doesn't that cost a fortune?"
+    c ""
+
+# game/script_jessie.rpy:6609
+translate russian ch3j_09_37d45e0d:
+
+    # m "Yes, it does. I'll take it out of her \"rent.\""
+    m ""
+
+# game/script_jessie.rpy:6614
+translate russian ch3j_09_86afb881:
+
+    # "The eldest MacLeod sister seems to be enjoying this all too much. I can't argue, when the bees noticeably calm their angry hum."
+    ""
+
+# game/script_jessie.rpy:6615
+translate russian ch3j_09_d3929193:
+
+    # "As an added bonus, our workspace now smells of rose, jasmine, and lily of the valley."
+    ""
+
+# game/script_jessie.rpy:6626
+translate russian ch3j_09_6a2890e7:
+
+    # c "Here goes nothing."
+    c ""
+
+# game/script_jessie.rpy:6629
+translate russian ch3j_09_5705255f:
+
+    # "We silently begin dismantling the chimney stones."
+    ""
+
+# game/script_jessie.rpy:6630
+translate russian ch3j_09_b182a2bf:
+
+    # "There's really no need to be quiet on the bees' account, especially with the tinny rapping of the pick into the masonry. But I'm tired after a long day, and relish the peace."
+    ""
+
+# game/script_jessie.rpy:6637
+translate russian ch3j_09_0aafe68f:
+
+    # "Marion and I work well together, almost intuitively. For each stone I chip out of place, she takes it, places it in a pile, and soon the pile looks like a reconstructed chimney of its own."
+    ""
+
+# game/script_jessie.rpy:6638
+translate russian ch3j_09_411cf26c:
+
+    # "It will make reassembly miraculously easier."
+    ""
+
+# game/script_jessie.rpy:6642
+translate russian ch3j_09_e8420be6:
+
+    # "The sun slips below the horizon as we work, and the swarm's activity dies down. A few dozen bees hover, but they don't seem too disturbed by the process."
+    ""
+
+# game/script_jessie.rpy:6646
+translate russian ch3j_09_068a023c:
+
+    # "Eventually, I slip my gloved hands deep into the chimney cavity, place them on top of the main hive, and start to slowly twist."
+    ""
+
+# game/script_jessie.rpy:6652
+translate russian ch3j_09_4b28b2e9:
+
+    # "It pulls away from the interior wall easily, and Marion is waiting with an open sack when I lift the nest out in its entirety."
+    ""
+
+# game/script_jessie.rpy:6653
+translate russian ch3j_09_301432e7:
+
+    # "More bees swarm, but they seem more tired than bothered. Lazy buzzing hums around our netted heads."
+    ""
+
+# game/script_jessie.rpy:6658
+translate russian ch3j_09_569b5745:
+
+    # "I slip the hive in the sack, and Marion ties it with twine. My hands are sticky from pollen and honeycomb."
+    ""
+
+# game/script_jessie.rpy:6659
+translate russian ch3j_09_81765b48:
+
+    # m "And that's that."
+    m ""
+
+# game/script_jessie.rpy:6660
+translate russian ch3j_09_53675572:
+
+    # "The last latent bees float around us, and I hope they're able to find their way back to their new home."
+    ""
+
+# game/script_jessie.rpy:6661
+translate russian ch3j_09_2c159504:
+
+    # c "Where to?"
+    c ""
+
+# game/script_jessie.rpy:6662
+translate russian ch3j_09_ff2391f8:
+
+    # m "Behind the barn."
+    m ""
+
+# game/script_jessie.rpy:6676
+translate russian ch3j_09_7488f858:
+
+    # "She scrambles down the roof, and I tie a rope around the sack, lowering it to her."
+    ""
+
+# game/script_jessie.rpy:6677
+translate russian ch3j_09_cc7bbaff:
+
+    # "Once I get myself down to solid ground, I take the sack, and follow her to a dilapidated wooden hive near the barn."
+    ""
+
+# game/script_jessie.rpy:6688
+translate russian ch3j_09_047e613d:
+
+    # m "We haven't used it since father left... but it should still work fine."
+    m ""
+
+# game/script_jessie.rpy:6689
+translate russian ch3j_09_651bc91b:
+
+    # c "A fine home indeed, fit for a queen."
+    c ""
+
+# game/script_jessie.rpy:6691
+translate russian ch3j_09_769b1563:
+
+    # m "And her many attendants!"
+    m ""
+
+# game/script_jessie.rpy:6692
+translate russian ch3j_09_fe4c425b:
+
+    # "We fumble with the comb, sliding it in chunks into the slats of the wood hive."
+    ""
+
+# game/script_jessie.rpy:6701
+translate russian ch3j_09_a6ed10c5:
+
+    # "Soon the buzzing takes on a new sound, one I liken to a thousand little sighs of relief. We join in their sighs, and are finally able to take off our protective coverings."
+    ""
+
+# game/script_jessie.rpy:6706
+translate russian ch3j_09_7ea9dd93:
+
+    # m "We did it! {i}You{/i} did it! That's one less bee in my bonnet!"
+    m ""
+
+# game/script_jessie.rpy:6707
+translate russian ch3j_09_20d1046d:
+
+    # "Marion gives me such a look of joy that I almost reach out to give her a hug. I give her an odd smile and a thumbs up instead, and assume I've made everything wonderfully awkward."
+    ""
+
+# game/script_jessie.rpy:6708
+translate russian ch3j_09_19498b5d:
+
+    # c "All set then! I'll be back in the morning to get the chimney top back in working order. In the meantime, you should have honey through the season. You know how to maintain it?"
+    c ""
+
+# game/script_jessie.rpy:6710
+translate russian ch3j_09_0228fac8:
+
+    # m "For the most part. I can't imagine what father will say when he sees all that we've changed here. We're beekeepers now!"
+    m ""
+
+# game/script_jessie.rpy:6711
+translate russian ch3j_09_5957c635:
+
+    # "I also can't imagine what he'll say about having a werewolf daughter."
+    ""
+
+# game/script_jessie.rpy:6713
+translate russian ch3j_09_dd6e5291:
+
+    # m "I'm sure I can ask you for advice, should I need it."
+    m ""
+
+# game/script_jessie.rpy:6715
+translate russian ch3j_09_8ee185b5:
+
+    # "The moonlight catches Marion's face, and she is smiling."
+    ""
+
+# game/script_jessie.rpy:6717
+translate russian ch3j_09_1b71a683:
+
+    # m "Or I can send Jessie over to ask for help."
+    m ""
+
+# game/script_jessie.rpy:6718
+translate russian ch3j_09_586827d2:
+
+    # "I'm thankful for the darkness, as I know I'm blushing."
+    ""
+
+# game/script_jessie.rpy:6719
+translate russian ch3j_09_97074331:
+
+    # c "That you can."
+    c ""
+
+# game/script_jessie.rpy:6720
+translate russian ch3j_09_645fd7be:
+
+    # "Marion's guard appears to have gone down, and she freely teases me about my new relationship."
+    ""
+
+# game/script_jessie.rpy:6722
+translate russian ch3j_09_83a2a699:
+
+    # m "She's been seeming more chipper lately. Do I have you to thank for that?"
+    m ""
+
+# game/script_jessie.rpy:6723
+translate russian ch3j_09_9d9f99bb:
+
+    # c "Me? I doubt it, but I'll gladly take credit for it."
+    c ""
+
+# game/script_jessie.rpy:6725
+translate russian ch3j_09_42eb8067:
+
+    # m "I see. Jessie's got a fiery personality... and temper, you know. Be careful with her... and yourself."
+    m ""
+
+# game/script_jessie.rpy:6726
+translate russian ch3j_09_97cc4ea5:
+
+    # c "I assure you I have nothing but good intentions towards your sister."
+    c ""
+
+# game/script_jessie.rpy:6728
+translate russian ch3j_09_8341d6a1:
+
+    # m "Oh, I know, but... she's not unlike these bees. One second she's harmless, the next she's on a buzzing rampage."
+    m ""
+
+# game/script_jessie.rpy:6729
+translate russian ch3j_09_50dba4b3:
+
+    # "I furrow my brow. My face must give away my concern."
+    ""
+
+# game/script_jessie.rpy:6731
+translate russian ch3j_09_9c973821:
+
+    # m "She's not aggressive! Oh, I didn't mean it like that, just... well, maybe it's just me as her sister talking. She and I can be a bit combative at times."
+    m ""
+
+# game/script_jessie.rpy:6733
+translate russian ch3j_09_403cae72:
+
+    # m "But truth be told, I dare say she would call herself... trapped. In her own life, her own town... her own home."
+    m ""
+
+# game/script_jessie.rpy:6736
+translate russian ch3j_09_b91ca112:
+
+    # "Marion cracks a tiny smile."
+    ""
+
+# game/script_jessie.rpy:6737
+translate russian ch3j_09_16bd55e9:
+
+    # m "Malcolm, let me tell you something."
+    m ""
+
+# game/script_jessie.rpy:6739
+translate russian ch3j_09_5dc69e45:
+
+    # m "When Jessie was maybe eight or nine years old, she tried to bake a pie, all on her own. She picked all the currants, and refused any help."
+    m ""
+
+# game/script_jessie.rpy:6741
+translate russian ch3j_09_de31f1b6:
+
+    # m "Mind you, I stood watch in the doorway, because I didn't trust her near the fire."
+    m ""
+
+# game/script_jessie.rpy:6743
+translate russian ch3j_09_9011b725:
+
+    # m "Sure enough, she dropped a dish towel into the open flame, and thought she nearly burned the house down. She was running around like a mad hen."
+    m ""
+
+# game/script_jessie.rpy:6745
+translate russian ch3j_09_c9a3d692:
+
+    # m "I was awful for laughing at her so. But I put the small fire out with my skirt, and just kept teasing her. She was humiliated. I felt horrible."
+    m ""
+
+# game/script_jessie.rpy:6747
+translate russian ch3j_09_d57cbec2:
+
+    # m "She packed a bag in the middle of the night, and took off. Father was shook with fear when we awoke and she wasn't at breakfast. We ran around the homestead, calling out for her."
+    m ""
+
+# game/script_jessie.rpy:6750
+translate russian ch3j_09_888ce01e:
+
+    # m "Father found her sitting by the water's edge, all alone, crying. All she'd packed was a sack of sugar and two pots of butter."
+    m ""
+
+# game/script_jessie.rpy:6751
+translate russian ch3j_09_310e0a20:
+
+    # "I picture poor Jessie, alone and frightened as a child. I had no idea she ever doubted herself so, even if she was only a wee lass."
+    ""
+
+# game/script_jessie.rpy:6752
+translate russian ch3j_09_54664c79:
+
+    # c "I've never known Jessie to feel so insecure about anything, let alone her own abilities."
+    c ""
+
+# game/script_jessie.rpy:6754
+translate russian ch3j_09_12f838d4:
+
+    # m "That's not what it was exactly. She didn't care about the pie. She was worried she'd ruined her own home. That was all we had then, except each other. Home."
+    m ""
+
+# game/script_jessie.rpy:6757
+translate russian ch3j_09_994dd21a:
+
+    # m "My point is... Jessie still knows where her home is."
+    m ""
+
+# game/script_jessie.rpy:6759
+translate russian ch3j_09_0bca3cae:
+
+    # m "Often I think she believes it's changed so much that she needs to move away from it... that it's been disturbed somehow. That maybe she's responsible for those changes."
+    m ""
+
+# game/script_jessie.rpy:6760
+translate russian ch3j_09_c7a69161:
+
+    # "I wonder about how each of these girls are so tied to their home—tightly enough that none has dared leave. They've never had need to, I suppose."
+    ""
+
+# game/script_jessie.rpy:6761
+translate russian ch3j_09_dd981b42:
+
+    # "But now Jessie is threatening every ounce of Marion's domesticity, her ideal family. To lose Jessie would be like losing a piece of herself, the life and family she's built."
+    ""
+
+# game/script_jessie.rpy:6762
+translate russian ch3j_09_40d03549:
+
+    # "Marion glances over at the buzzing bees, trying to adapt to their new environment."
+    ""
+
+# game/script_jessie.rpy:6763
+translate russian ch3j_09_68f90044:
+
+    # c "She believes that she needs to follow a new path?"
+    c ""
+
+# game/script_jessie.rpy:6765
+translate russian ch3j_09_9edb41eb:
+
+    # m "Exactly."
+    m ""
+
+# game/script_jessie.rpy:6766
+translate russian ch3j_09_828ecb60:
+
+    # "Marion removes her sticky gloves, and helps me off with mine, tossing them into a barrel at the side of the barn."
+    ""
+
+# game/script_jessie.rpy:6767
+translate russian ch3j_09_483b4e65:
+
+    # c "And you worry about her leaving?"
+    c ""
+
+# game/script_jessie.rpy:6769
+translate russian ch3j_09_9b696cb8:
+
+    # m "All the time."
+    m ""
+
+# game/script_jessie.rpy:6770
+translate russian ch3j_09_add4a816:
+
+    # c "With only sugar and butter?"
+    c ""
+
+# game/script_jessie.rpy:6772
+translate russian ch3j_09_437b33f4:
+
+    # m "Something like that, yes."
+    m ""
+
+# game/script_jessie.rpy:6775
+translate russian ch3j_09_34feee51:
+
+    # m "And I worry... about what Father will think."
+    m ""
+
+# game/script_jessie.rpy:6776
+translate russian ch3j_09_88bcc49d:
+
+    # "I look into Marion's eyes, knowing that her father's opinion weighs heavily on her."
+    ""
+
+# game/script_jessie.rpy:6777
+translate russian ch3j_09_e759b745:
+
+    # c "If she leaves town?"
+    c ""
+
+# game/script_jessie.rpy:6779
+translate russian ch3j_09_961b173f:
+
+    # "Marion shakes her head lightly."
+    ""
+
+# game/script_jessie.rpy:6781
+translate russian ch3j_09_d713763a:
+
+    # m "Not only that. Her act, it's... unbecoming for this small village. He won't recognize his little girl in that sultry dress of hers."
+    m ""
+
+# game/script_jessie.rpy:6782
+translate russian ch3j_09_71c17235:
+
+    # "Neither did I when I returned."
+    ""
+
+# game/script_jessie.rpy:6784
+translate russian ch3j_09_6d704d03:
+
+    # c "Well, firstly. He's not here."
+    c ""
+
+# game/script_jessie.rpy:6786
+translate russian ch3j_09_c56f3967:
+
+    # m "But he will be, God willing."
+    m ""
+
+# game/script_jessie.rpy:6787
+translate russian ch3j_09_6f2b070d:
+
+    # c "And secondly, Jessie is no longer his little girl. Nor is she the little lass we grew up with."
+    c ""
+
+# game/script_jessie.rpy:6791
+translate russian ch3j_09_3403f3a8:
+
+    # c "Jessie's an adult now, Marion."
+    c ""
+
+# game/script_jessie.rpy:6793
+translate russian ch3j_09_e6cb228f:
+
+    # "As I say the words aloud, it hits me that I need to accept that, too. Jessie's choices have to be her own, whether I want them to be or not."
+    ""
+
+# game/script_jessie.rpy:6794
+translate russian ch3j_09_6eeeed20:
+
+    # "I have to trust her as much as I keep telling her I do. If I don't, I'll lose her."
+    ""
+
+# game/script_jessie.rpy:6796
+translate russian ch3j_09_46c812f7:
+
+    # c "Don't you want to come see her perform at the pub? That's her at her happiest, I know. I'm sure she'd love to have you there."
+    c ""
+
+# game/script_jessie.rpy:6798
+translate russian ch3j_09_835001f4:
+
+    # m "Maybe one day. I've seen her practice plenty at home. Always had a song and dance show ready for us to watch after dinner. She's always wanted to be the center of attention."
+    m ""
+
+# game/script_jessie.rpy:6801
+translate russian ch3j_09_850d94ed:
+
+    # m "I do worry about her lifestyle, yes. But, Malcolm, please know that I don't worry about you and her... as a couple... if that's where things are going with you. Not that it's any of my business."
+    m ""
+
+# game/script_jessie.rpy:6803
+translate russian ch3j_09_431e4381:
+
+    # "Marion fumbles with the strings on her dress."
+    ""
+
+# game/script_jessie.rpy:6804
+translate russian ch3j_09_6ee56f0d:
+
+    # c "But...?"
+    c ""
+
+# game/script_jessie.rpy:6806
+translate russian ch3j_09_136bb00c:
+
+    # m "I've noticed Jessie's personality... how much it's changed. Everything is becoming more dramatic, more emotional. Ha—that's always been {i}my{/i} role. I'm taken aback to see Jessie so overwhelmed."
+    m ""
+
+# game/script_jessie.rpy:6807
+translate russian ch3j_09_607eb801:
+
+    # "I hesitate to ask what she knows... or what she thinks she knows."
+    ""
+
+# game/script_jessie.rpy:6810
+translate russian ch3j_09_3f3a6f11:
+
+    # m "Oh, well... you must know now how Jessie used to have such a crush on you, Malcolm! She cried so hard when she heard you were going to war. She almost followed you out of town!"
+    m ""
+
+# game/script_jessie.rpy:6811
+translate russian ch3j_09_67779394:
+
+    # "My heart skips a beat. Jessie hadn't indicated her feelings were that strong."
+    ""
+
+# game/script_jessie.rpy:6812
+translate russian ch3j_09_558fea52:
+
+    # c "I may have heard something to that effect."
+    c ""
+
+# game/script_jessie.rpy:6814
+translate russian ch3j_09_d2d9b7af:
+
+    # m "Don't tell her I told you that! She'd kill me! But... I think that's one of the reasons she got into this whole... {i}flapper{/i} thing!"
+    m ""
+
+# game/script_jessie.rpy:6815
+translate russian ch3j_09_dacc9313:
+
+    # "Marion looks distraught again, and I only want to calm her."
+    ""
+
+# game/script_jessie.rpy:6816
+translate russian ch3j_09_bb181c64:
+
+    # c "Marion, it's all right. I already know. She's explained it to me. I don't believe I'm the reason, but I do believe her mind is often... elsewhere."
+    c ""
+
+# game/script_jessie.rpy:6818
+translate russian ch3j_09_9ee6741c:
+
+    # m "You have to forgive me. My thoughts just go off into the worst directions sometimes. I fret more about pain and tragedy than I do focusing on the positive things in front of my face."
+    m ""
+
+# game/script_jessie.rpy:6819
+translate russian ch3j_09_250b820f:
+
+    # "I stand awkwardly in the yard."
+    ""
+
+# game/script_jessie.rpy:6821
+translate russian ch3j_09_bef01baa:
+
+    # m "Jessie is here now, and I should be grateful."
+    m ""
+
+# game/script_jessie.rpy:6823
+translate russian ch3j_09_bde83077:
+
+    # c "I know she's always had a fire in her, determination in every bone... she's a fighter. She'll be all right. And she's your sister. That scrappy fighter is in you, too, Marion."
+    c ""
+
+# game/script_jessie.rpy:6825
+translate russian ch3j_09_80a8ccbb:
+
+    # m "Oh, dear! I hope not! It's gotten her into trouble before. Don't you remember when she beat on Michael McCallister after he made fun of my dress?"
+    m ""
+
+# game/script_jessie.rpy:6827
+translate russian ch3j_09_4d8248a5:
+
+    # m "I don't think another bully picked on any of us after that!"
+    m ""
+
+# game/script_jessie.rpy:6828
+translate russian ch3j_09_cc6ba2f6:
+
+    # c "She may look small, but that girl can pack quite the punch!"
+    c ""
+
+# game/script_jessie.rpy:6829
+translate russian ch3j_09_9a6c74d2:
+
+    # "I certainly don't mention the strength it takes to survive a bullet. Dear Lord, what have I gotten myself into with this girl?"
+    ""
+
+# game/script_jessie.rpy:6833
+translate russian ch3j_09_6e3c5e3c:
+
+    # m "Malcolm, I will tell you outright... something Jessie shared with me. Now, she didn't tell me {i}not{/i} to say anything to you, so I don't think she'd mind if I told you. She may have even told you this herself."
+    m ""
+
+# game/script_jessie.rpy:6834
+translate russian ch3j_09_deb11d57:
+
+    # c "I'm not one for gossip, Marion."
+    c ""
+
+# game/script_jessie.rpy:6836
+translate russian ch3j_09_1afa360a:
+
+    # m "It's not gossip if it's true, and Jessie doesn't lie... I just want, for your heart's sake, to know that she is sincere."
+    m ""
+
+# game/script_jessie.rpy:6839
+translate russian ch3j_09_2e0ee6c7:
+
+    # m "Jessie is very much in love with you, Malcolm."
+    m ""
+
+# game/script_jessie.rpy:6840
+translate russian ch3j_09_43bb00f9:
+
+    # "My heart skips again, for a different reason. Jessie is sharing these feelings with others, people important to her."
+    ""
+
+# game/script_jessie.rpy:6842
+translate russian ch3j_09_459becba:
+
+    # "I know both women to be sincere. But this is so reassuring, so spectacular to hear."
+    ""
+
+# game/script_jessie.rpy:6844
+translate russian ch3j_09_6e749789:
+
+    # m "She isn't stringing you along. I can honestly tell you she's likely as overwhelmed as you may be."
+    m ""
+
+# game/script_jessie.rpy:6845
+translate russian ch3j_09_c748a1e3:
+
+    # c "Thank you for telling me, Marion. I can, without being out of line, assure you that Jessie is loved by me, as well. I hope I'm able to reciprocate in kind."
+    c ""
+
+# game/script_jessie.rpy:6846
+translate russian ch3j_09_7f3de759:
+
+    # c "I am pleased, shocked, and honored all at once, to have her affections being directed my way."
+    c ""
+
+# game/script_jessie.rpy:6850
+translate russian ch3j_09_6e051203:
+
+    # m "But... that being said... I have one last fear."
+    m ""
+
+# game/script_jessie.rpy:6851
+translate russian ch3j_09_9e78b9bb:
+
+    # "Please, no, Marion. Let's end this evening on a high note, shall we?"
+    ""
+
+# game/script_jessie.rpy:6853
+translate russian ch3j_09_b7615885:
+
+    # m "These days, I worry about Jessie's decision-making. Not in matters of the heart, mind you, but..."
+    m ""
+
+# game/script_jessie.rpy:6856
+translate russian ch3j_09_fcde6086:
+
+    # m "Well, plainly stated, her body isn't going to look like that forever! Once she ages? She'll never have a career!"
+    m ""
+
+# game/script_jessie.rpy:6882
+translate russian ch3j_09_b5db2e6c:
+
+    # "I think I hear a faint huff, and look to my right. There is a form approaching in the shadows."
+    ""
+
+# game/script_jessie.rpy:6898
+translate russian ch3j_09_8dacb87e:
+
+    # "A distinctly Jessie-shaped form. She's fuming. Her anger is showing by way of a growing muzzle and bared teeth."
+    ""
+
+# game/script_jessie.rpy:6899
+translate russian ch3j_09_57dcc65b:
+
+    # "Marion is still talking, oblivious to her sister's surprise arrival."
+    ""
+
+# game/script_jessie.rpy:6900
+translate russian ch3j_09_dd8aa22c:
+
+    # c "Jessie... uh, well... she could always find other avenues, other careers."
+    c ""
+
+# game/script_jessie.rpy:6902
+translate russian ch3j_09_1364515c:
+
+    # m "Well, of course, but..."
+    m ""
+
+# game/script_jessie.rpy:6906
+translate russian ch3j_09_f02deebb:
+
+    # "Jessie is snarling. If she doesn't change back to human, she needs to hide. Fast. I make warning eyes her way, but she scowls at me."
+    ""
+
+# game/script_jessie.rpy:6908
+translate russian ch3j_09_3142a640:
+
+    # "She wouldn't attack her own sister... {i}would she?{/i}"
+    ""
+
+# game/script_jessie.rpy:6913
+translate russian ch3j_09_66ad03a4:
+
+    # c "Then tell me, Marion. What do you see your sister doing here? Settling down? Having a family? She would tell you she's not the domestic type. You've said as much yourself."
+    c ""
+
+# game/script_jessie.rpy:6914
+translate russian ch3j_09_86685706:
+
+    # "I think it to be the right thing, to speak up on behalf of Jessie. My, how the decision fails."
+    ""
+
+# game/script_jessie.rpy:6916
+translate russian ch3j_09_eefd2271:
+
+    # m "She ought to rethink those decisions as well, Malcolm. Romance and escapism are not proper ways to live your life!"
+    m ""
+
+# game/script_jessie.rpy:6917
+translate russian ch3j_09_5333210a:
+
+    # c "Are you now saying that her being with me is a poor decision?"
+    c ""
+
+# game/script_jessie.rpy:6924
+translate russian ch3j_09_e17fc745:
+
+    # "Jessie growls, and I want to join her. Marion has every right to be worried, but not to complain or plan Jessie's life for her. The elder sister only raises her voice."
+    ""
+
+# game/script_jessie.rpy:6926
+translate russian ch3j_09_1b9bd740:
+
+    # m "No, of course not! She just needs to..."
+    m ""
+
+# game/script_jessie.rpy:6928
+translate russian ch3j_09_2fb3b8e2:
+
+    # c "Well... uh... speaking of careers... did you hear that Mrs. Fairfowl is uh... looking for help down at the cheese shoppe? Maybe you, uh... would like to offer your services?"
+    c ""
+
+# game/script_jessie.rpy:6930
+translate russian ch3j_09_4c56bb9b:
+
+    # m "My services? What are you talking about? I'm overworked as it is! You see? Just another example of how Jessie has no clue how much I go through!"
+    m ""
+
+# game/script_jessie.rpy:6932
+translate russian ch3j_09_064eeb8e:
+
+    # m "She doesn't know what hard work is! While she's out there waggling her goods in front of drooling men, I do {i}real{/i} work nonstop! And I do it fully-clothed, thank you very much!"
+    m ""
+
+# game/script_jessie.rpy:6944
+translate russian ch3j_09_a9835346:
+
+    # "It's the final straw. Jessie is about to explode. I think on my feet."
+    ""
+
+# game/script_jessie.rpy:6945
+translate russian ch3j_09_dfd06d9d:
+
+    # c "Marion! I forgot something!"
+    c ""
+
+# game/script_jessie.rpy:6963
+translate russian ch3j_09_65d1676e:
+
+    # "I grab Marion, twirl her around, and push her into the barn. As the door closes, Jessie rams into me."
+    ""
+
+# game/script_jessie.rpy:6965
+translate russian ch3j_09_04e95090:
+
+    # c "What are you doing, Jessie! Calm down! Now!"
+    c ""
+
+# game/script_jessie.rpy:6967
+translate russian ch3j_09_efd65647:
+
+    # j "She has to stop telling me what to do!"
+    j ""
+
+# game/script_jessie.rpy:6968
+translate russian ch3j_09_ec7f681b:
+
+    # m "Malcolm! What's wrong! {i}Let me out of my own barn!{/i}"
+    m ""
+
+# game/script_jessie.rpy:6973
+translate russian ch3j_09_71feda68:
+
+    # "Marion bangs on the door, and I stay pressed against it, whispering in my angriest tone to Jessie."
+    ""
+
+# game/script_jessie.rpy:6974
+translate russian ch3j_09_a0ce7383:
+
+    # c "Get out of here, your sister can't see you like this right now! It won't help anything."
+    c ""
+
+# game/script_jessie.rpy:6977
+translate russian ch3j_09_bea94298:
+
+    # m "Malcolm! This is ridiculous! Let me out!"
+    m ""
+
+# game/script_jessie.rpy:6987
+translate russian ch3j_09_d142e783:
+
+    # "Jessie shoots a withering look, then takes off running."
+    ""
+
+# game/script_jessie.rpy:6994
+translate russian ch3j_09_68066607:
+
+    # "I open the door, and Marion bursts out."
+    ""
+
+# game/script_jessie.rpy:6995
+translate russian ch3j_09_7c5f48f3:
+
+    # m "What on earth?"
+    m ""
+
+# game/script_jessie.rpy:6996
+translate russian ch3j_09_d690be56:
+
+    # c "I forgot! I... uh... "
+    c ""
+
+# game/script_jessie.rpy:6997
+translate russian ch3j_09_00b4869a:
+
+    # "I look out into the field, and see a familiar sight."
+    ""
+
+# game/script_jessie.rpy:6998
+translate russian ch3j_09_df10ef23:
+
+    # c "Well... you see... I got you a surprise! There she is!"
+    c ""
+
+# game/script_jessie.rpy:7023
+translate russian ch3j_09_de5cda1c:
+
+    # m "Is that... a dog?"
+    m ""
+
+# game/script_jessie.rpy:7024
+translate russian ch3j_09_4ee400aa:
+
+    # c "Yes! It, um... belongs to Murdoch. I'm just... well... borrowing it for the night!"
+    c ""
+
+# game/script_jessie.rpy:7026
+translate russian ch3j_09_40a0395b:
+
+    # m "Borrowing it? I didn't know you could do that... how interesting!"
+    m ""
+
+# game/script_jessie.rpy:7028
+translate russian ch3j_09_a30b9b47:
+
+    # m "Look at how helpful she is! It's wrangling our herd!"
+    m ""
+
+# game/script_jessie.rpy:7029
+translate russian ch3j_09_8295f66b:
+
+    # c "That's the idea!"
+    c ""
+
+# game/script_jessie.rpy:7033
+translate russian ch3j_09_ebf52199:
+
+    # m "Is it... wearing a dress?"
+    m ""
+
+# game/script_jessie.rpy:7034
+translate russian ch3j_09_da3041cf:
+
+    # c "Oh! No, no. I think that's some type of neckerchief."
+    c ""
+
+# game/script_jessie.rpy:7083
+translate russian ch3j_09_1cbae4ea:
+
+    # "We watch the cows pour themselves into the paddock, under Jessie's lead. Marion walks over to lock the latch."
+    ""
+
+# game/script_jessie.rpy:7088
+translate russian ch3j_09_d56c7696:
+
+    # m "Here, doggie! What's her name, Malcolm?"
+    m ""
+
+# game/script_jessie.rpy:7090
+translate russian ch3j_09_105ffdba:
+
+    # c "Oh... um... Lady."
+    c ""
+
+# game/script_jessie.rpy:7091
+translate russian ch3j_09_b5578bf3:
+
+    # m "Lady! How sweet! C'mere, good dog!"
+    m ""
+
+# game/script_jessie.rpy:7108
+translate russian ch3j_09_50d60849:
+
+    # "Instead of obeying the command, though, \"Lady\" takes off running again."
+    ""
+
+# game/script_jessie.rpy:7109
+translate russian ch3j_09_6a1d6848:
+
+    # c "Oh, she's just heading home for the night. Good girl!"
+    c ""
+
+# game/script_jessie.rpy:7111
+translate russian ch3j_09_376df598:
+
+    # m "How odd! I didn't know they could be so well trained these days."
+    m ""
+
+# game/script_jessie.rpy:7112
+translate russian ch3j_09_84aa3883:
+
+    # c "Aye, aye! You can train a dog to do most anything."
+    c ""
+
+# game/script_jessie.rpy:7114
+translate russian ch3j_09_083cc92e:
+
+    # m "Well, what a lovely surprise, Malcolm! Thank you."
+    m ""
+
+# game/script_jessie.rpy:7115
+translate russian ch3j_09_f92a51c9:
+
+    # c "Any time. I imagine we can arrange for its services every now and then!"
+    c ""
+
+# game/script_jessie.rpy:7117
+translate russian ch3j_09_024e4dc4:
+
+    # m "Just marvelous. Well... it's getting very late. I imagine Jessie will be home soon, if you'd like to stay to say hello."
+    m ""
+
+# game/script_jessie.rpy:7118
+translate russian ch3j_09_81a33d04:
+
+    # c "I think I'll start my travels back home. I'm bound to run into her on the path."
+    c ""
+
+# game/script_jessie.rpy:7120
+translate russian ch3j_09_d4aff8c4:
+
+    # m "Very well, and I thank you immensely for the help today! You're welcome to as much honey as you can eat!"
+    m ""
+
+# game/script_jessie.rpy:7121
+translate russian ch3j_09_d2b3c8ad:
+
+    # c "Happy to \"bee\" of assistance!"
+    c ""
+
+# game/script_jessie.rpy:7136
+translate russian ch3j_09_de2ceb4e:
+
+    # "With Marion comfortably settled, a peace returns to the night. I load up Hazel and her pack in preparation to return home."
+    ""
+
+# game/script_jessie.rpy:7142
+translate russian ch3j_09_14b46251:
+
+    # "She starts to balk."
+    ""
+
+# game/script_jessie.rpy:7143
+translate russian ch3j_09_684b3205:
+
+    # c "What's gotten into you now?"
+    c ""
+
+# game/script_jessie.rpy:7145
+translate russian ch3j_09_15150730:
+
+    # "I smell it before I see it. Jessie comes back from the field, looking disheveled and smelling of manure."
+    ""
+
+# game/script_jessie.rpy:7154
+translate russian ch3j_09_a815bd90:
+
+    # c "Marion's not going to be happy when she finds out she'll be needing to repair those gloves again."
+    c ""
+
+# game/script_jessie.rpy:7156
+translate russian ch3j_09_f2221cab:
+
+    # j "Serves her right."
+    j ""
+
+# game/script_jessie.rpy:7157
+translate russian ch3j_09_f5931aaa:
+
+    # "I laugh, relieved that Jessie's gloves were the only thing torn to shreds tonight. Things could have gone so much worse—but they didn't."
+    ""
+
+# game/script_jessie.rpy:7158
+translate russian ch3j_09_9e61e82a:
+
+    # c "All that practice has been paying off. Great job out there."
+    c ""
+
+# game/script_jessie.rpy:7160
+translate russian ch3j_09_0058f62e:
+
+    # j "I thought it was a good save."
+    j ""
+
+# game/script_jessie.rpy:7161
+translate russian ch3j_09_24c9025e:
+
+    # c "I promised your sister you'd be back nightly to corral the cattle."
+    c ""
+
+# game/script_jessie.rpy:7163
+translate russian ch3j_09_9a27fbb0:
+
+    # j "What?! I can't do that!"
+    j ""
+
+# game/script_jessie.rpy:7164
+translate russian ch3j_09_378a584a:
+
+    # c "Then you owe your sister a herding dog."
+    c ""
+
+# game/script_jessie.rpy:7166
+translate russian ch3j_09_5f5131dc:
+
+    # j "Malcolm, you scoundrel! What are we going to do?"
+    j ""
+
+# game/script_jessie.rpy:7167
+translate russian ch3j_09_7d71afb4:
+
+    # c "Despite your horrid scent, Jessie, I am going to kiss you."
+    c ""
+
+# game/script_jessie.rpy:7181
+translate russian ch3j_09_4e136ca3:
+
+    # "I plant a hard kiss on her lips, which luckily still taste of honey. It reminds me of the bees."
+    ""
+
+# game/script_jessie.rpy:7184
+translate russian ch3j_09_2bb94e55:
+
+    # "She seems to use the energy of the moment to hide the last traces of her canine outburst."
+    ""
+
+# game/script_jessie.rpy:7185
+translate russian ch3j_09_035d3e8d:
+
+    # c "You need controlling, don't you? And I'm only half-joking."
+    c ""
+
+# game/script_jessie.rpy:7187
+translate russian ch3j_09_0e735d18:
+
+    # j "I don't! I'm fine! I just..."
+    j ""
+
+# game/script_jessie.rpy:7188
+translate russian ch3j_09_2a8a5621:
+
+    # c "You're fooling yourself. I saw the anger within you... and outside of you!"
+    c ""
+
+# game/script_jessie.rpy:7190
+translate russian ch3j_09_428e1871:
+
+    # j "I just have to take it easy... and not listen to the dumb things my sister says about me behind my back."
+    j ""
+
+# game/script_jessie.rpy:7191
+translate russian ch3j_09_31f534ed:
+
+    # c "She's only worried. As usual. That's not going to change."
+    c ""
+
+# game/script_jessie.rpy:7192
+translate russian ch3j_09_c330d42c:
+
+    # c "Even if I disagree with her, too, it's not worth getting so riled about. It's an opinion."
+    c ""
+
+# game/script_jessie.rpy:7194
+translate russian ch3j_09_7d736094:
+
+    # j "It's many opinions!"
+    j ""
+
+# game/script_jessie.rpy:7196
+translate russian ch3j_09_eace13f9:
+
+    # c "The point is... unless you want your family knowing about your new identity, or your sister to end up with stitches, you have to stay calm."
+    c ""
+
+# game/script_jessie.rpy:7197
+translate russian ch3j_09_14a99b61:
+
+    # "Jessie rolls her eyes at me."
+    ""
+
+# game/script_jessie.rpy:7199
+translate russian ch3j_09_dbadb4ed:
+
+    # j "It's only Marion I haven't told. Grace already knows—you can't hide anything from that girl."
+    j ""
+
+# game/script_jessie.rpy:7201
+translate russian ch3j_09_8e23bb86:
+
+    # j "Now she's been chasing me all over the farm trying to get me to bite her! Thinks it'll turn her into a werewolf, too."
+    j ""
+
+# game/script_jessie.rpy:7202
+translate russian ch3j_09_11e20d9e:
+
+    # "We burst out laughing. It's all too unreal at this point."
+    ""
+
+# game/script_jessie.rpy:7203
+translate russian ch3j_09_c27f902f:
+
+    # c "Then just tell Marion. It will ease her mind. At least in one respect."
+    c ""
+
+# game/script_jessie.rpy:7205
+translate russian ch3j_09_1da8e0a7:
+
+    # j "And give her one million more things to worry about!"
+    j ""
+
+# game/script_jessie.rpy:7206
+translate russian ch3j_09_cfaed9ff:
+
+    # c "No. She knows how tough you are now. She'll realize you're unstoppable."
+    c ""
+
+# game/script_jessie.rpy:7208
+translate russian ch3j_09_2d335032:
+
+    # j "Unstoppable, huh?"
+    j ""
+
+# game/script_jessie.rpy:7213
+translate russian ch3j_09_46694baf:
+
+    # "Jessie comes in close, and kisses me again."
+    ""
+
+# game/script_jessie.rpy:7215
+translate russian ch3j_09_47763f59:
+
+    # j "Are you going to stop me from doing this?"
+    j ""
+
+# game/script_jessie.rpy:7216
+translate russian ch3j_09_76d57103:
+
+    # "Her fingers reach the buttons of my shirt. By the second button, I place my hands on hers."
+    ""
+
+# game/script_jessie.rpy:7217
+translate russian ch3j_09_22a7aead:
+
+    # c "Yes. You smell terrible!"
+    c ""
+
+# game/script_jessie.rpy:7222
+translate russian ch3j_09_b314b74c:
+
+    # "Jessie snarls at me."
+    ""
+
+# game/script_jessie.rpy:7224
+translate russian ch3j_09_59b0b452:
+
+    # j "Then maybe someone needs to give me a bath?"
+    j ""
+
+# game/script_jessie.rpy:7226
+translate russian ch3j_09_b9e45652:
+
+    # "She has the uncanny ability to send me orbiting."
+    ""
+
+# game/script_jessie.rpy:7227
+translate russian ch3j_09_5763a7c6:
+
+    # c "I don't think we could get away with that tonight... could we?"
+    c ""
+
+# game/script_jessie.rpy:7228
+translate russian ch3j_09_59b8c2b3:
+
+    # "Suddenly, I'm ready to abandon Hazel and jump into the freezing loch with my girlfriend."
+    ""
+
+# game/script_jessie.rpy:7229
+translate russian ch3j_09_194edd2c:
+
+    # "Unfortunately, Jessie comes to her senses first."
+    ""
+
+# game/script_jessie.rpy:7231
+translate russian ch3j_09_e0d83b55:
+
+    # j "Probably not. But there's always tomorrow. First thing in the morning?"
+    j ""
+
+# game/script_jessie.rpy:7232
+translate russian ch3j_09_d57ef76b:
+
+    # c "Marion will be at church?"
+    c ""
+
+# game/script_jessie.rpy:7234
+translate russian ch3j_09_d7823941:
+
+    # j "Agnes will be with her. Grace will be fishing."
+    j ""
+
+# game/script_jessie.rpy:7235
+translate russian ch3j_09_b84002c7:
+
+    # c "And your boyfriend, the heathen, will draw you the hottest bath you've ever had."
+    c ""
+
+# game/script_jessie.rpy:7236
+translate russian ch3j_09_86141a26:
+
+    # "I get one more kiss before parting."
+    ""
+
+# game/script_jessie.rpy:7238
+translate russian ch3j_09_45ee3723:
+
+    # j "I can't wait."
+    j ""
+
+# game/script_jessie.rpy:7268
+translate russian ch3j_10_a42c02bf:
+
+    # "In the morning, I sprint to Jessie's house."
+    ""
+
+# game/script_jessie.rpy:7280
+translate russian ch3j_10_08c92ea4:
+
+    # "Before I can knock on the door, it swings open."
+    ""
+
+# game/script_jessie.rpy:7288
+translate russian ch3j_10_37e91a4c:
+
+    # c "It's like a miracle!"
+    c ""
+
+# game/script_jessie.rpy:7290
+translate russian ch3j_10_b1a8dba5:
+
+    # j "I can't get too close. My sisters mentioned how horrible I smell. I told them that dog tripped me on my walk home."
+    j ""
+
+# game/script_jessie.rpy:7291
+translate russian ch3j_10_ed4ac9d9:
+
+    # c "This poor imaginary dog! The most hated mongrel in the village."
+    c ""
+
+# game/script_jessie.rpy:7293
+translate russian ch3j_10_a83dee0e:
+
+    # j "Hmmm. My future?"
+    j ""
+
+# game/script_jessie.rpy:7294
+translate russian ch3j_10_b27acaf0:
+
+    # c "Hardly! You'd be the most beloved."
+    c ""
+
+# game/script_jessie.rpy:7296
+translate russian ch3j_10_e277ae15:
+
+    # j "Come inside! I told Marion I couldn't go to church because I broke a toe dancing. I'm officially the worst sister."
+    j ""
+
+# game/script_jessie.rpy:7297
+translate russian ch3j_10_669d51c7:
+
+    # c "She just told me you never lie!"
+    c ""
+
+# game/script_jessie.rpy:7299
+translate russian ch3j_10_27b7f259:
+
+    # j "Oh, Lord! If she only knew!"
+    j ""
+
+# game/script_jessie.rpy:7310
+translate russian ch3j_10_2e7e133d:
+
+    # "We step inside the auspiciously empty house."
+    ""
+
+# game/script_jessie.rpy:7315
+translate russian ch3j_10_3e78ef70:
+
+    # c "Say, just how many red dresses do you have? Or are you... still in last night's clothes?"
+    c ""
+
+# game/script_jessie.rpy:7317
+translate russian ch3j_10_a482df88:
+
+    # j "No sense spoiling another outfit. But I think it's high time I slip into something more comfortable."
+    j ""
+
+# game/script_jessie.rpy:7318
+translate russian ch3j_10_b41af4a8:
+
+    # "Jessie smirks mischievously."
+    ""
+
+# game/script_jessie.rpy:7320
+translate russian ch3j_10_77f2b1f5:
+
+    # j "Come on, quickly! While the water's still warm!"
+    j ""
+
+# game/script_jessie.rpy:7344
+translate russian ch3j_10_a7284af6:
+
+    # "She takes me by the hand into the lavvy, where the water in the bathtub steams and heats the room."
+    ""
+
+# game/script_jessie.rpy:7366
+translate russian ch3j_10_bc19176a:
+
+    # "Jessie unabashedly slips out of her dress and into her natural fur coat."
+    ""
+
+# game/script_jessie.rpy:7411
+translate russian ch3j_10_b987b4aa:
+
+    # "As the fog clears, she steps gingerly into the tub, scented of lavender and jasmine flower."
+    ""
+
+# game/script_jessie.rpy:7426
+translate russian ch3j_10_a7284af6_1:
+
+    # "She takes me by the hand into the lavvy, where the water in the bathtub steams and heats the room."
+    ""
+
+# game/script_jessie.rpy:7442
+translate russian ch3j_10_e050756b:
+
+    # "The mist obscures Jessie's form as she slips out of her dress and into her natural fur coat."
+    ""
+
+# game/script_jessie.rpy:7484
+translate russian ch3j_10_b987b4aa_1:
+
+    # "As the fog clears, she steps gingerly into the tub, scented of lavender and jasmine flower."
+    ""
+
+# game/script_jessie.rpy:7486
+translate russian ch3j_10_5d61d929:
+
+    # "Her tail floats lazily out from under the water, and she strokes it gently."
+    ""
+
+# game/script_jessie.rpy:7488
+translate russian ch3j_10_f263d502:
+
+    # j "So? Come help me lather up."
+    j ""
+
+# game/script_jessie.rpy:7489
+translate russian ch3j_10_ea8928a9:
+
+    # "Jessie waves a puffy wet bathing sponge my way."
+    ""
+
+# game/script_jessie.rpy:7526
+translate russian ch3j_10_66f2e727:
+
+    # "I eagerly accept my call to duty, and begin lathering her and the sponge. The floral scents fill the air along with the warm fog, and I begin to lose all sense of rationality."
+    ""
+
+# game/script_jessie.rpy:7527
+translate russian ch3j_10_4328d3ca:
+
+    # "I don't stop to think about what a terrible idea it is to fool around with my girlfriend with the risk of two people coming home and finding us."
+    ""
+
+# game/script_jessie.rpy:7528
+translate russian ch3j_10_37b656cd:
+
+    # "I just keep running my fingers through Jessie's soapy mane, dipping my hand below the surface of the bath water, and letting the sponge go wherever I deem necessary."
+    ""
+
+# game/script_jessie.rpy:7531
+translate russian ch3j_10_42435fa2:
+
+    # "She sighs and guides my hands this way and that, towards... every inch of her bare fur."
+    ""
+
+# game/script_jessie.rpy:7551
+translate russian ch3j_10_043edb39:
+
+    # "I pause longer than I should when she looks up and steals a kiss. Her nose feels wet against my cheek, and not from the bath."
+    ""
+
+# game/script_jessie.rpy:7552
+translate russian ch3j_10_ed32413c:
+
+    # c "Och, that's cold!"
+    c ""
+
+# game/script_jessie.rpy:7553
+translate russian ch3j_10_740629dd:
+
+    # j "The water's warm. Maybe you should join me and... warm up?"
+    j ""
+
+# game/script_jessie.rpy:7561
+translate russian ch3j_10_42bc358b:
+
+    # "The offer is tempting, albeit impractical. As I try to picture how the two of us could possibly fit in such a small tub, from the corner of my eye, I think I see a shadow through the window."
+    ""
+
+# game/script_jessie.rpy:7562
+translate russian ch3j_10_64f82e6c:
+
+    # "Oh, no. I don't need another surprise visitor. If I never saw Alana's scowl of judgment ever again, I'd live a happy life."
+    ""
+
+# game/script_jessie.rpy:7563
+translate russian ch3j_10_2b97e59b:
+
+    # c "Somebody's here."
+    c ""
+
+# game/script_jessie.rpy:7565
+translate russian ch3j_10_6907b3a4:
+
+    # j "No! Who could it be?"
+    j ""
+
+# game/script_jessie.rpy:7566
+translate russian ch3j_10_d01eb469:
+
+    # "When I look outside again, I don't see anyone. Maybe I'm mistaken. Or nervous... or paranoid. It could have been anything."
+    ""
+
+# game/script_jessie.rpy:7635
+translate russian ch3j_10_4592e2b7:
+
+    # "Jessie hops out of the tub, goes down on her paws, and shakes wildly back and forth. Water sprays from floor to ceiling, covering me from head to toe with suds and bubbles."
+    ""
+
+# game/script_jessie.rpy:7652
+translate russian ch3j_10_34d06508:
+
+    # "I close my eyes under the deluge. Sopping wet, I reach blindly for a towel."
+    ""
+
+# game/script_jessie.rpy:7686
+translate russian ch3j_10_a6f56e9a:
+
+    # "In the middle of drying off, I open my eyes to see Grace's mouth agape. In her hand is a metal bucket, overflowing with fish."
+    ""
+
+# game/script_jessie.rpy:7690
+translate russian ch3j_10_a82ce78d:
+
+    # g "Where am I going to put my mackerel?"
+    g ""
+
+# game/script_jessie.rpy:7692
+translate russian ch3j_10_63fbf464:
+
+    # "Jessie stands there, covered in sopping wet fur, and a snarl building."
+    ""
+
+# game/script_jessie.rpy:7693
+translate russian ch3j_10_b21c525c:
+
+    # c "Aren't you going to eat them?"
+    c ""
+
+# game/script_jessie.rpy:7695
+translate russian ch3j_10_3494cbaa:
+
+    # g "Can't eat 'em all at once!"
+    g ""
+
+# game/script_jessie.rpy:7696
+translate russian ch3j_10_45c93f39:
+
+    # j "Grace! Get out!"
+    j ""
+
+# game/script_jessie.rpy:7698
+translate russian ch3j_10_89cafdc3:
+
+    # g "Marion's going to love cleaning all of this up."
+    g ""
+
+# game/script_jessie.rpy:7700
+translate russian ch3j_10_06497459:
+
+    # j "Now, Grace! {i}Out!{/i}"
+    j ""
+
+# game/script_jessie.rpy:7722
+translate russian ch3j_10_338d9d10:
+
+    # "Instead, Grace saunters over to the bathtub, and empties her bucket into the tub before heading back to the open door."
+    ""
+
+# game/script_jessie.rpy:7724
+translate russian ch3j_10_042e6453:
+
+    # g "Well, don't throw the fish out with the bathwater!"
+    g ""
+
+# game/script_jessie.rpy:7779
+translate russian ch3j_11_dba5fbcf:
+
+    # "After our interruption, it takes a good while to calm Jessie's fury. I satiate her with some liver and cheese, and lots of scratches. We find a spot in the sun to relax and dry off."
+    ""
+
+# game/script_jessie.rpy:7780
+translate russian ch3j_11_cfda9653:
+
+    # "We pretend the surprise visit from her sister never happened. Grace has taken a shine to Jessie's new appearance—it's one of very few things that has made life easier during this... {i}transition{/i}."
+    ""
+
+# game/script_jessie.rpy:7783
+translate russian ch3j_11_9c9ab8f8:
+
+    # j "So, now that I'm fresh as a daisy, we need to head to Glenn's livery yard to fetch a mongrel."
+    j ""
+
+# game/script_jessie.rpy:7784
+translate russian ch3j_11_c97b0fdf:
+
+    # c "Glenn's? The stable?"
+    c ""
+
+# game/script_jessie.rpy:7786
+translate russian ch3j_11_9d084ad9:
+
+    # j "Aye. Glenn's been known to have a dog or two up for barter. I'll offer up one of Marion's spring hogs. We'll just hope ol' Glenn works in future payments."
+    j ""
+
+# game/script_jessie.rpy:7787
+translate russian ch3j_11_8b5863fb:
+
+    # c "A dog. You know I was joking last night?"
+    c ""
+
+# game/script_jessie.rpy:7789
+translate russian ch3j_11_99e64c7c:
+
+    # j "You... well, we... promised Marion the services of a sheepdog, and contrary to your white lies, I don't think Murdoch has a magically trained pup that can herd its neighbors' flock nightly."
+    j ""
+
+# game/script_jessie.rpy:7792
+translate russian ch3j_11_9583135a:
+
+    # j "Even though {i}I{/i} can be well trained."
+    j ""
+
+# game/script_jessie.rpy:7793
+translate russian ch3j_11_063e3a0a:
+
+    # c "I bet you can..."
+    c ""
+
+# game/script_jessie.rpy:7794
+translate russian ch3j_11_a8ba3090:
+
+    # "I hold her chin in my hand."
+    ""
+
+# game/script_jessie.rpy:7795
+translate russian ch3j_11_9af5d0a2:
+
+    # c "Then get my cap and boots. We're headed out."
+    c ""
+
+# game/script_jessie.rpy:7805
+translate russian ch3j_11_1e85b490:
+
+    # "Jessie gets on all fours, and runs into the house to gather my supplies."
+    ""
+
+# game/script_jessie.rpy:7814
+translate russian ch3j_11_95778578:
+
+    # "She returns with my tam in her mouth, and two boots on her front paws."
+    ""
+
+# game/script_jessie.rpy:7815
+translate russian ch3j_11_33c12e26:
+
+    # "She sits upright, panting, and begging for my attention."
+    ""
+
+# game/script_jessie.rpy:7834
+translate russian ch3j_11_51775988:
+
+    # "I take the hat from her mouth, and give her a loving tousle upon the head."
+    ""
+
+# game/script_jessie.rpy:7835
+translate russian ch3j_11_9696ccb2:
+
+    # c "Good girl."
+    c ""
+
+# game/script_jessie.rpy:7837
+translate russian ch3j_11_091dab4c:
+
+    # j "Thank you, master."
+    j ""
+
+# game/script_jessie.rpy:7839
+translate russian ch3j_11_f4b23fa3:
+
+    # "I nearly faint from attraction. I never knew role playing was this exciting."
+    ""
+
+# game/script_jessie.rpy:7840
+translate russian ch3j_11_1f5c27a8:
+
+    # c "Ahem. Well... uh... yes. Let's get going."
+    c ""
+
+# game/script_jessie.rpy:7843
+translate russian ch3j_11_31bf6917:
+
+    # j "So we can get home faster?"
+    j ""
+
+# game/script_jessie.rpy:7844
+translate russian ch3j_11_147d6009:
+
+    # c "Yes. Yes, indeed."
+    c ""
+
+# game/script_jessie.rpy:7846
+translate russian ch3j_11_df0be9b3:
+
+    # c "Um... aren't you forgetting something?"
+    c ""
+
+# game/script_jessie.rpy:7852
+translate russian ch3j_11_9ed614f1:
+
+    # "She tilts her head, and I can't tell if she is playing or has truly forgotten."
+    ""
+
+# game/script_jessie.rpy:7853
+translate russian ch3j_11_c76d99f5:
+
+    # c "Ought you wear something yourself?"
+    c ""
+
+# game/script_jessie.rpy:7855
+translate russian ch3j_11_45714c5f:
+
+    # j "Me? Aw. An' I thought ya liked me in my \"fur coat!\""
+    j ""
+
+# game/script_jessie.rpy:7881
+translate russian ch3j_11_c2359966:
+
+    # "Somehow, I gather my wits long enough to get Jessie on the road instead of into the bedroom."
+    ""
+
+# game/script_jessie.rpy:7882
+translate russian ch3j_11_34a2eaca:
+
+    # "She wears a proper outfit, and it feels unusual to see her out of her flashy red dress. I doubt it's self-consciousness at play; the dress simply still needs to be washed."
+    ""
+
+# game/script_jessie.rpy:7899
+translate russian ch3j_11_0db73e3e:
+
+    # "Jessie doesn't let the clothes stop her from leaning into the canine side of her hybrid form. The lines between her forms are blurring more all the time."
+    ""
+
+# game/script_jessie.rpy:7900
+translate russian ch3j_11_b8a92b10:
+
+    # "I hope it means she is becoming even more comfortable. It certainly is entertaining to watch. And to participate."
+    ""
+
+# game/script_jessie.rpy:7906
+translate russian ch3j_11_30ef373e:
+
+    # "She bounds all around me, picking up errant sticks, and making me toss them for her to chase."
+    ""
+
+# game/script_jessie.rpy:7907
+translate russian ch3j_11_60e3c877:
+
+    # "Is that drool on her chin? Oh, I don't even want to dwell on that."
+    ""
+
+# game/script_jessie.rpy:7908
+translate russian ch3j_11_8262cdb5:
+
+    # c "Where do you get all that energy? I'd love half of it!"
+    c ""
+
+# game/script_jessie.rpy:7909
+translate russian ch3j_11_d293b5b2:
+
+    # j "It's all inside me! I can hardly sit still anymore."
+    j ""
+
+# game/script_jessie.rpy:7911
+translate russian ch3j_11_84d3b031:
+
+    # "The only problem arises when she struggles to get back to human."
+    ""
+
+# game/script_jessie.rpy:7912
+translate russian ch3j_11_c051b644:
+
+    # c "Jessie, you need to bottle up your fangs. At least for a short while!"
+    c ""
+
+# game/script_jessie.rpy:7913
+translate russian ch3j_11_2f0a4bd4:
+
+    # j "They're not fangs! Those are my natural teeth. There's a reason they're called \"canine\" teeth, Malcolm!"
+    j ""
+
+# game/script_jessie.rpy:7914
+translate russian ch3j_11_3e3902c2:
+
+    # c "Well, they're not going to help us with our bargaining today, that's for sure."
+    c ""
+
+# game/script_jessie.rpy:7915
+translate russian ch3j_11_aad8ba52:
+
+    # j "Are you kidding? One flash of these babies, and we'll get whatever we want."
+    j ""
+
+# game/script_jessie.rpy:7925
+translate russian ch3j_11_06615f3b:
+
+    # "I take her by the hand, trying to calm her internal excitement. I don't believe it helps at all, though."
+    ""
+
+# game/script_jessie.rpy:7933
+translate russian ch3j_11_8a55b022:
+
+    # "Jessie taps her palm to her forehead."
+    ""
+
+# game/script_jessie.rpy:7934
+translate russian ch3j_11_e1b7e468:
+
+    # j "The sheep!"
+    j ""
+
+# game/script_jessie.rpy:7935
+translate russian ch3j_11_4f8f554d:
+
+    # c "The sheep?"
+    c ""
+
+# game/script_jessie.rpy:7936
+translate russian ch3j_11_2c706815:
+
+    # "I try to wrack my brain. I've seen so many sheep in my life."
+    ""
+
+# game/script_jessie.rpy:7938
+translate russian ch3j_11_07a7de42:
+
+    # j "It was at Glenn's farm, you silly goose!"
+    j ""
+
+# game/script_jessie.rpy:7940
+translate russian ch3j_11_a22f32d3:
+
+    # "Then it hits me. I can't believe it didn't trigger my childhood memories earlier, just saying the name."
+    ""
+
+# game/script_jessie.rpy:7941
+translate russian ch3j_11_7883fc46:
+
+    # c "You convinced me you could catch a sheep with your bare hands!"
+    c ""
+
+# game/script_jessie.rpy:7943
+translate russian ch3j_11_3b74481b:
+
+    # j "I was trying to impress you! I had no idea that sheep just sit there like napping lumps."
+    j ""
+
+# game/script_jessie.rpy:7944
+translate russian ch3j_11_de8651e5:
+
+    # c "Lo and behold, those sheep were not having it with our antics."
+    c ""
+
+# game/script_jessie.rpy:7946
+translate russian ch3j_11_28a95240:
+
+    # j "I chased them around the farm all afternoon until Farmer Glenn noticed and came out cursing and shouting. But I got that lamb, by gum!"
+    j ""
+
+# game/script_jessie.rpy:7947
+translate russian ch3j_11_dc129382:
+
+    # c "You stood there, frozen! Holding a bleating sheep, trying to catch your breath."
+    c ""
+
+# game/script_jessie.rpy:7949
+translate russian ch3j_11_435d002e:
+
+    # j "I was so proud of myself! I honestly can't believe you remember that!"
+    j ""
+
+# game/script_jessie.rpy:7950
+translate russian ch3j_11_0e373503:
+
+    # c "Of course I do! After you dropped the sheep, we took off running. I twisted my ankle something terrible during our madcap escape. Had to tell my parents we were out playing tag."
+    c ""
+
+# game/script_jessie.rpy:7953
+translate russian ch3j_11_ec434a7a:
+
+    # j "Sheep tag!"
+    j ""
+
+# game/script_jessie.rpy:7960
+translate russian ch3j_11_c21b4bcd:
+
+    # "Jessie just about doubles over from laughter."
+    ""
+
+# game/script_jessie.rpy:7961
+translate russian ch3j_11_d09e9da4:
+
+    # "Reminiscing like this... it's a wonderful feeling. It puts me at such ease. With her, with myself, with my own life."
+    ""
+
+# game/script_jessie.rpy:7962
+translate russian ch3j_11_4cc6fa9c:
+
+    # "These memories aren't just nostalgic. They are carefree times. Moments I want to relive; to bury the more recent past."
+    ""
+
+# game/script_jessie.rpy:7964
+translate russian ch3j_11_00e6e689:
+
+    # j "I can catch anything I want now!"
+    j ""
+
+# game/script_jessie.rpy:7965
+translate russian ch3j_11_1b2af967:
+
+    # c "That is a fact."
+    c ""
+
+# game/script_jessie.rpy:7980
+translate russian ch3j_11_484fe77e:
+
+    # "The timing is terrible."
+    ""
+
+# game/script_jessie.rpy:7981
+translate russian ch3j_11_625a56df:
+
+    # "Young Florrie Fairfowl comes soaring down the path to the livery, her barrel hoop and stick flying by her side."
+    ""
+
+# game/script_jessie.rpy:7989
+translate russian ch3j_11_e296ea89:
+
+    # "Unfortunately, Jessie's instincts kick in once again, and she starts to chase the little girl's toy. She tears off down the rocky pathway."
+    ""
+
+# game/script_jessie.rpy:7990
+translate russian ch3j_11_d2456c18:
+
+    # c "Jessie! Come back!"
+    c ""
+
+# game/script_jessie.rpy:7991
+translate russian ch3j_11_457ccd5c:
+
+    # "But she's at full speed. Her front paws are visible, stomping and leaping all around the child."
+    ""
+
+# game/script_jessie.rpy:7992
+translate russian ch3j_11_e1f339d9:
+
+    # f "Oh! Your toes are so pritty... and fluffy!"
+    f ""
+
+# game/script_jessie.rpy:8012
+translate russian ch3j_11_70727610:
+
+    # "By the time I catch up, Jessie finally looks embarrassed. She also appears to have come to her senses, crouching like a real person next to the girl and her fallen hoop."
+    ""
+
+# game/script_jessie.rpy:8014
+translate russian ch3j_11_dd270c65:
+
+    # j "Oh, they're simply gloves, Florrie!"
+    j ""
+
+# game/script_jessie.rpy:8016
+translate russian ch3j_11_dffb341e:
+
+    # f "I pet dem?"
+    f ""
+
+# game/script_jessie.rpy:8019
+translate russian ch3j_11_2d7f238a:
+
+    # j "Oh... well... yes, if you want!"
+    j ""
+
+# game/script_jessie.rpy:8044
+translate russian ch3j_11_f85ce0fd:
+
+    # "Jessie lets Florrie pet her paws, then stands, and retrieves the little girl's hoop."
+    ""
+
+# game/script_jessie.rpy:8046
+translate russian ch3j_11_30e4652e:
+
+    # j "I'm sorry for interrupting your game. I hope I didn't spoil anything."
+    j ""
+
+# game/script_jessie.rpy:8048
+translate russian ch3j_11_f80dff55:
+
+    # f "Nope. Jus' going to see my muffer at the bake-ree shoppe."
+    f ""
+
+# game/script_jessie.rpy:8049
+translate russian ch3j_11_b5226639:
+
+    # c "Muffer...? Ah... {i}mother{/i}!"
+    c ""
+
+# game/script_jessie.rpy:8052
+translate russian ch3j_11_ffb10c47:
+
+    # j "Tell her you deserve the biggest fern cake. You're such a sweetheart."
+    j ""
+
+# game/script_jessie.rpy:8056
+translate russian ch3j_11_f2be565f:
+
+    # f "Thank you, Miss Doggie! You deserve the biggest bithkit!"
+    f ""
+
+# game/script_jessie.rpy:8058
+translate russian ch3j_11_fba18929:
+
+    # j "Biscuit? Well, thank you! I will tell Mr. Malcolm here to fetch me the largest biscuit in the village!"
+    j ""
+
+# game/script_jessie.rpy:8060
+translate russian ch3j_11_80ab1cb3:
+
+    # f "G'bye!"
+    f ""
+
+# game/script_jessie.rpy:8072
+translate russian ch3j_11_5df57fb4:
+
+    # "Florrie gathers her toys and runs off down the path. I look to Jessie, wanting to chastise her for letting her guard down so... but can really only offer support."
+    ""
+
+# game/script_jessie.rpy:8073
+translate russian ch3j_11_65e32b2c:
+
+    # c "Are you all right?"
+    c ""
+
+# game/script_jessie.rpy:8075
+translate russian ch3j_11_a8046a31:
+
+    # j "I'm so sorry... I'm not sure what got into me."
+    j ""
+
+# game/script_jessie.rpy:8076
+translate russian ch3j_11_aa40c988:
+
+    # c "It's okay. Nothing bad happened."
+    c ""
+
+# game/script_jessie.rpy:8077
+translate russian ch3j_11_c0d1b2d6:
+
+    # "This time, I think to myself."
+    ""
+
+# game/script_jessie.rpy:8078
+translate russian ch3j_11_b209ff40:
+
+    # c "Let's go get you a bithkit!"
+    c ""
+
+# game/script_jessie.rpy:8081
+translate russian ch3j_11_e7b94314:
+
+    # "We try to laugh it off, but the mood has shifted. What was fun and playful now feels less than harmless. I'm not sure Mr. Glenn will believe paw pads are some type of expensive gloves."
+    ""
+
+# game/script_jessie.rpy:8098
+translate russian ch3j_11_dde9c544:
+
+    # "As we approach the livery, we both see a large bundle of wriggling puppies in a stone pen by the stables."
+    ""
+
+# game/script_jessie.rpy:8099
+translate russian ch3j_11_4e5e916d:
+
+    # "Not just any puppies; {i}Welsh Corgi{/i} puppies. I suppress the urge to laugh. It's like a dozen little Sergeant Stumpies."
+    ""
+
+# game/script_jessie.rpy:8100
+translate russian ch3j_11_dd9eb609:
+
+    # "The mother spots us and starts to bark."
+    ""
+
+# game/script_jessie.rpy:8101
+translate russian ch3j_11_c4b39e52:
+
+    # "Farmer Glenn is sitting by the barn doors, drinking out of a teacup. He looks up at the commotion."
+    ""
+
+# game/script_jessie.rpy:8107
+translate russian ch3j_11_49d4b396:
+
+    # "I wave to catch his attention, and he makes his way over to us. As if reading my thoughts, Jessie pulls her hands out of her pockets. She waves too, looking pointedly at me."
+    ""
+
+# game/script_jessie.rpy:8108
+translate russian ch3j_11_d3501a17:
+
+    # "Her paws are back to hands. Thank goodness."
+    ""
+
+# game/script_jessie.rpy:8117
+translate russian ch3j_11_5f9c6179:
+
+    # gl "Hullo, how goes! What brings you two out this way on such a glorious day?"
+    gl ""
+
+# game/script_jessie.rpy:8118
+translate russian ch3j_11_e11179ad:
+
+    # "I look up to the clouds. Is he seeing something we don't?"
+    ""
+
+# game/script_jessie.rpy:8121
+translate russian ch3j_11_aad0f409:
+
+    # j "We're here for a dog! We'd like to get a herding dog for my sister, Marion, and her cows."
+    j ""
+
+# game/script_jessie.rpy:8122
+translate russian ch3j_11_65d13a38:
+
+    # c "Yes... I noticed the corgis. Do you have anything, uh... more intelligent?"
+    c ""
+
+# game/script_jessie.rpy:8123
+translate russian ch3j_11_09b73b53:
+
+    # "Good old Sergeant Stumpy was a swell dog, courageous too... but none too bright."
+    ""
+
+# game/script_jessie.rpy:8124
+translate russian ch3j_11_35d1d818:
+
+    # "There was the time he mistook our coffee ration for a pile of his own scraps. I didn't think he'd ever stop zooming around chasing the trench rats. Fastest critter I'd ever seen... apart from Jessie."
+    ""
+
+# game/script_jessie.rpy:8125
+translate russian ch3j_11_e31a2d29:
+
+    # c "Er. I was picturing a border collie or sheltie. Something easily trained."
+    c ""
+
+# game/script_jessie.rpy:8126
+translate russian ch3j_11_79ed501c:
+
+    # gl "Intelligent? Why these little fellas are the smartest dogs in the animal kingdom! Look at 'em."
+    gl ""
+
+# game/script_jessie.rpy:8127
+translate russian ch3j_11_661570e8:
+
+    # "I do. Half are scratching their ears. The other half are asleep."
+    ""
+
+# game/script_jessie.rpy:8128
+translate russian ch3j_11_6ca1fd66:
+
+    # j "They're just precious!"
+    j ""
+
+# game/script_jessie.rpy:8129
+translate russian ch3j_11_ee48752b:
+
+    # "I can't argue that. And for me, they do bring to mind some of the brighter moments of a bleak time."
+    ""
+
+# game/script_jessie.rpy:8131
+translate russian ch3j_11_03f4da53:
+
+    # c "All right. I've got hogs coming this spring. What do you say? A pig for a dog?"
+    c ""
+
+# game/script_jessie.rpy:8132
+translate russian ch3j_11_6fd6d033:
+
+    # gl "A pig? Mr. Campbell, that's a lopsided deal. I'll have meals for weeks. All you'll have is trouble on your hands."
+    gl ""
+
+# game/script_jessie.rpy:8138
+translate russian ch3j_11_b413d00d:
+
+    # "As if on cue, the pups begin barking."
+    ""
+
+# game/script_jessie.rpy:8146
+translate russian ch3j_11_fa21d6d8:
+
+    # "Jessie heads to the pen and kneels down to pet them all one by one, no doubt checking for the brightest shining star."
+    ""
+
+# game/script_jessie.rpy:8147
+translate russian ch3j_11_eccf9c5b:
+
+    # gl "These pups need good homes. I'll take a side of rib chops when you're good and ready. No hurry at all. Go find your newest and hardest worker!"
+    gl ""
+
+# game/script_jessie.rpy:8148
+translate russian ch3j_11_6e1b5ec3:
+
+    # "The puppies are excitable and energetic. One takes a quick shine to Jessie, sniffing at her feet and nipping at her ankles."
+    ""
+
+# game/script_jessie.rpy:8149
+translate russian ch3j_11_ffa71826:
+
+    # c "Do they have names, yet?"
+    c ""
+
+# game/script_jessie.rpy:8150
+translate russian ch3j_11_25eb275d:
+
+    # gl "Nay. That task is left to the lucky owner."
+    gl ""
+
+# game/script_jessie.rpy:8157
+translate russian ch3j_11_b46f06d3:
+
+    # "Jessie holds the puppy aloft. With its fluffy, golden coat, it looks like a loaf of fur bread."
+    ""
+
+# game/script_jessie.rpy:8158
+translate russian ch3j_11_d63f1d09:
+
+    # j "This is the one!"
+    j ""
+
+# game/script_jessie.rpy:8160
+translate russian ch3j_11_c23c20af:
+
+    # gl "That one?"
+    gl ""
+
+# game/script_jessie.rpy:8161
+translate russian ch3j_11_60381b2a:
+
+    # c "The lady knows her canines. If she says that's the one, then that pup is the pick of the litter."
+    c ""
+
+# game/script_jessie.rpy:8162
+translate russian ch3j_11_3af2db88:
+
+    # gl "It's all yours. Should be easy to train! Set it up with the herd as soon as ye can. Its instincts will kick in in no time."
+    gl ""
+
+# game/script_jessie.rpy:8169
+translate russian ch3j_11_e87630bb:
+
+    # "Jessie sets the dog down, and it starts chasing its own... well... it doesn't have a tail. It spins, chasing its own nub."
+    ""
+
+# game/script_jessie.rpy:8170
+translate russian ch3j_11_1c9b3c14:
+
+    # c "A real genius!"
+    c ""
+
+# game/script_jessie.rpy:8171
+translate russian ch3j_11_1ca8f7a6:
+
+    # j "Oh, it's the cutest thing I've ever seen in my life!"
+    j ""
+
+# game/script_jessie.rpy:8178
+translate russian ch3j_11_eb1c88fc:
+
+    # "I step into the pen to get a closer look at the little ball of fuzz. All the while, the dog galumphs along, right under Jessie's feet."
+    ""
+
+# game/script_jessie.rpy:8179
+translate russian ch3j_11_3789b90a:
+
+    # c "You two seem to be quite the pair!"
+    c ""
+
+# game/script_jessie.rpy:8181
+translate russian ch3j_11_31777cd2:
+
+    # j "I hope it bonds with Marion as much as it seems to be bonding with my ankles."
+    j ""
+
+# game/script_jessie.rpy:8186
+translate russian ch3j_11_8106970f:
+
+    # "The pup nips at her lower legs, then seems to take interest in sniffing her posterior. A sight I try not to dwell on, until I notice..."
+    ""
+
+# game/script_jessie.rpy:8194
+translate russian ch3j_11_d8e117b5:
+
+    # c "{i}{size=24}Your tail, Jessie! Tuck it away!{/size}{/i}"
+    c ""
+
+# game/script_jessie.rpy:8201
+translate russian ch3j_11_3c19f8a8:
+
+    # "I watch the appendage shrink away in the blink of an eye. I'm left wondering just how much excitement will trigger the next accidental swoosh of a tail."
+    ""
+
+# game/script_jessie.rpy:8216
+translate russian ch3j_11_88b70a39:
+
+    # "Jessie gathers up the squirming dog, and we pay our thanks to Mr. Glenn."
+    ""
+
+# game/script_jessie.rpy:8217
+translate russian ch3j_11_0d5822f8:
+
+    # gl "'Tis no worries, Mr. Campbell and Miss MacLeod. Least I can do for a returning hero. Woulda served myself if it weren't for the leg."
+    gl ""
+
+# game/script_jessie.rpy:8218
+translate russian ch3j_11_4ce12b96:
+
+    # "He taps his left calf with his cane, and we hear the hollow sound of wood."
+    ""
+
+# game/script_jessie.rpy:8219
+translate russian ch3j_11_7872a4db:
+
+    # j "Oh, my. I'm so sorry, Mr. Glenn."
+    j ""
+
+# game/script_jessie.rpy:8220
+translate russian ch3j_11_44fbf634:
+
+    # "I'd forgotten he lost the leg as a child."
+    ""
+
+# game/script_jessie.rpy:8221
+translate russian ch3j_11_04abddf6:
+
+    # c "An honor, sir. No need to call anyone heroes 'round these parts. We've all been through enough to call each other heroes. On that, I swear."
+    c ""
+
+# game/script_jessie.rpy:8240
+translate russian ch3j_11_bb04e726:
+
+    # "I avoid further discussion of military service by taking Jessie by the arm, waving towards Glenn, and making our way back down the road towards our homes."
+    ""
+
+# game/script_jessie.rpy:8261
+translate russian ch3j_11_46910abb:
+
+    # "When we get back, we find Marion whistling while scrubbing dishes. The house is warm and smells like cinnamon."
+    ""
+
+# game/script_jessie.rpy:8267
+translate russian ch3j_11_aad35dcc:
+
+    # j "Marion!"
+    j ""
+
+# game/script_jessie.rpy:8275
+translate russian ch3j_11_86f91d2d:
+
+    # m "AHHH!"
+    m ""
+
+# game/script_jessie.rpy:8279
+translate russian ch3j_11_1f8089dd:
+
+    # m "Crivens, you scared me! Don't sneak up on me, Jessie!"
+    m ""
+
+# game/script_jessie.rpy:8281
+translate russian ch3j_11_c0c9a6e9:
+
+    # j "We have a surprise for you!"
+    j ""
+
+# game/script_jessie.rpy:8283
+translate russian ch3j_11_33bb7d3d:
+
+    # m "Me? What?"
+    m ""
+
+# game/script_jessie.rpy:8286
+translate russian ch3j_11_64f0f191:
+
+    # "Jessie takes the puppy from me, and holds it aloft in front of her sister."
+    ""
+
+# game/script_jessie.rpy:8287
+translate russian ch3j_11_c1c1384a:
+
+    # "The dog has gotten sleepy during the last few minutes of our journey. It looks like a fuzzy potato in Jessie's outstretched hands."
+    ""
+
+# game/script_jessie.rpy:8290
+translate russian ch3j_11_929f7769:
+
+    # m "Oh. My. Good. Lord!"
+    m ""
+
+# game/script_jessie.rpy:8292
+translate russian ch3j_11_440219cf:
+
+    # "For a moment, I worry that Marion may balk at having a new mouth to feed, and little soul to care for. But she wears her heart on her sleeve, and we can clearly see it melting from here."
+    ""
+
+# game/script_jessie.rpy:8293
+translate russian ch3j_11_f402ec6c:
+
+    # "Jessie and I laugh. Marion puts her hands out to take the dog, then pulls them back to her apron."
+    ""
+
+# game/script_jessie.rpy:8295
+translate russian ch3j_11_9c08e9e4:
+
+    # m "Really? For me? I... I don't understand."
+    m ""
+
+# game/script_jessie.rpy:8296
+translate russian ch3j_11_83376d40:
+
+    # j "For you! It's for herding your cattle. Well, not \"it\". He. He's a boy. You can name him whatever you want."
+    j ""
+
+# game/script_jessie.rpy:8298
+translate russian ch3j_11_91bc098a:
+
+    # m "I can't believe it!"
+    m ""
+
+# game/script_jessie.rpy:8299
+translate russian ch3j_11_2c235466:
+
+    # j "Here. Take him."
+    j ""
+
+# game/script_jessie.rpy:8312
+translate russian ch3j_11_10e06b03:
+
+    # "Marion accepts the wheezing potato, and cradles it in her arms. Like a scene out of a moving picture, Marion cries right on cue."
+    ""
+
+# game/script_jessie.rpy:8313
+translate russian ch3j_11_dd3248aa:
+
+    # m "I just... can't... believe..."
+    m ""
+
+# game/script_jessie.rpy:8314
+translate russian ch3j_11_1f8c700c:
+
+    # "She struggles to speak through her sobs."
+    ""
+
+# game/script_jessie.rpy:8316
+translate russian ch3j_11_f2753866:
+
+    # m "Oh, Jessie! Thank you so much! Malcolm, thank you! I don't know what to say."
+    m ""
+
+# game/script_jessie.rpy:8317
+translate russian ch3j_11_93ecbfa1:
+
+    # "Seeing her so thrilled warms my heart. The dog is more than a dog. It's her new friend and companion. The two of them are beyond adorable."
+    ""
+
+# game/script_jessie.rpy:8320
+translate russian ch3j_11_5ea4b3f3:
+
+    # m "What shall I call it?"
+    m ""
+
+# game/script_jessie.rpy:8322
+translate russian ch3j_11_eb39afba:
+
+    # j "Whatever you like!"
+    j ""
+
+# game/script_jessie.rpy:8324
+translate russian ch3j_11_80da03d4:
+
+    # m "It looks just like a loaf of bread."
+    m ""
+
+# game/script_jessie.rpy:8326
+translate russian ch3j_11_c18f5c56:
+
+    # j "Well, don't call it \"Bread.\" It'll get confused when you're baking."
+    j ""
+
+# game/script_jessie.rpy:8327
+translate russian ch3j_11_5f5fb688:
+
+    # c "Crusty?"
+    c ""
+
+# game/script_jessie.rpy:8329
+translate russian ch3j_11_651fd3df:
+
+    # j "Sourdough? Oatmeal?"
+    j ""
+
+# game/script_jessie.rpy:8331
+translate russian ch3j_11_12f193cd:
+
+    # "The pup yawns."
+    ""
+
+# game/script_jessie.rpy:8333
+translate russian ch3j_11_d19c907e:
+
+    # c "Flaky?"
+    c ""
+
+# game/script_jessie.rpy:8335
+translate russian ch3j_11_735289a0:
+
+    # j "Butter?"
+    j ""
+
+# game/script_jessie.rpy:8337
+translate russian ch3j_11_28687735:
+
+    # m "Toast!"
+    m ""
+
+# game/script_jessie.rpy:8339
+translate russian ch3j_11_0169058a:
+
+    # j "Toast?"
+    j ""
+
+# game/script_jessie.rpy:8343
+translate russian ch3j_11_2541e442:
+
+    # "The dog barks and starts to wriggle."
+    ""
+
+# game/script_jessie.rpy:8345
+translate russian ch3j_11_645e3884:
+
+    # m "Yes! Toast!"
+    m ""
+
+# game/script_jessie.rpy:8346
+translate russian ch3j_11_79435946:
+
+    # "The dog seems as dumb as rocks. But I can't get over how in love Marion has fallen with a fluffy animal. I know the feeling."
+    ""
+
+# game/script_jessie.rpy:8391
+translate russian ch3j_11_52bd2ebd:
+
+    # "Marion picks up Toast and we follow her outside. She sets him down near the herd."
+    ""
+
+# game/script_jessie.rpy:8392
+translate russian ch3j_11_df0b44d9:
+
+    # m "Let's see what he can do!"
+    m ""
+
+# game/script_jessie.rpy:8402
+translate russian ch3j_11_6f81ccf7:
+
+    # "Well, what he can do is mark his territory, chase his tail nub, and bark. A lot."
+    ""
+
+# game/script_jessie.rpy:8406
+translate russian ch3j_11_fbf98edb:
+
+    # j "C'mon, champ. I'll show you how it's done!"
+    j ""
+
+# game/script_jessie.rpy:8407
+translate russian ch3j_11_eab02531:
+
+    # "Wait. Now?"
+    ""
+
+# game/script_jessie.rpy:8415
+translate russian ch3j_11_159cb266:
+
+    # "Thankfully, Jessie stays human and proceeds to jog in circles around the cows, who remain nonplussed."
+    ""
+
+# game/script_jessie.rpy:8419
+translate russian ch3j_11_a41874d3:
+
+    # "Toast runs around following Jessie, taking breaks to sniff the grass and bark at nothing."
+    ""
+
+# game/script_jessie.rpy:8420
+translate russian ch3j_11_ce84f8c5:
+
+    # m "Oh, my! You two are so cute!"
+    m ""
+
+# game/script_jessie.rpy:8421
+translate russian ch3j_11_df17706f:
+
+    # "Unfortunately, after a few spins around the herd, the cows do take notice. Of Jessie. They begin to follow her lead."
+    ""
+
+# game/script_jessie.rpy:8422
+translate russian ch3j_11_72d3404a:
+
+    # "A couple more rounds, and Toast seems to be aware of his own instincts, too. He nips at the biggest cow's heel, which gets her moving towards the pen."
+    ""
+
+# game/script_jessie.rpy:8423
+translate russian ch3j_11_2290d252:
+
+    # m "Good boy, Toast!"
+    m ""
+
+# game/script_jessie.rpy:8424
+translate russian ch3j_11_f48f26e0:
+
+    # "It's a spectacle, all right. But it's also nice to see Jessie being so playful, so alive. I've been worrying about her safety, and mine, so much that I've had little time to think about us."
+    ""
+
+# game/script_jessie.rpy:8427
+translate russian ch3j_11_0fa1ec07:
+
+    # "This is what I love about her. Her joy. Her spirit. She is fearless. Brave."
+    ""
+
+# game/script_jessie.rpy:8428
+translate russian ch3j_11_509f042f:
+
+    # "Maybe everything I've forgotten how to be."
+    ""
+
+# game/script_jessie.rpy:8429
+translate russian ch3j_11_32a2c7f7:
+
+    # "Everything I need back in my life."
+    ""
+
+# game/script_jessie.rpy:8432
+translate russian ch3j_11_b225af2f:
+
+    # "Who knew having a werewolf for a girlfriend would force me to reexamine {i}my own{/i} choices? My own life..."
+    ""
+
+# game/script_jessie.rpy:8433
+translate russian ch3j_11_10cd0cb4:
+
+    # "I know who I am with her. Who am I without her?"
+    ""
+
+# game/script_jessie.rpy:8479
+translate russian ch3j_11_4acae592:
+
+    # "Toast has managed to wrangle the entire herd into the pen... with a little help. Jessie closes the latch, and Toast runs after her."
+    ""
+
+# game/script_jessie.rpy:8484
+translate russian ch3j_11_b9ec81f9:
+
+    # m "What a wonderful dog!"
+    m ""
+
+# game/script_jessie.rpy:8496
+translate russian ch3j_11_d1ace6d0:
+
+    # "Toast jumps back into Marion's arms, and the two of them share another cuddle session."
+    ""
+
+# game/script_jessie.rpy:8501
+translate russian ch3j_11_e03bb256:
+
+    # "Jessie sidles up to me, and I wrap my arm around her."
+    ""
+
+# game/script_jessie.rpy:8503
+translate russian ch3j_11_21a2ddc0:
+
+    # m "Thank you both, a million times over! It'll be nice to have some more help on the farm. And... a new friend."
+    m ""
+
+# game/script_jessie.rpy:8505
+translate russian ch3j_11_00921a16:
+
+    # "Both Marion and her dog make moon eyes toward each other."
+    ""
+
+# game/script_jessie.rpy:8507
+translate russian ch3j_11_65774134:
+
+    # j "You deserve it, Marion. Hopefully, it'll be one less thing to think about at the end of the day. Malcolm could even build him a pen if you like."
+    j ""
+
+# game/script_jessie.rpy:8508
+translate russian ch3j_11_6a41b8c5:
+
+    # c "Eh... pardon?"
+    c ""
+
+# game/script_jessie.rpy:8510
+translate russian ch3j_11_eacf9781:
+
+    # j "Couldn't you, Malcolm?"
+    j ""
+
+# game/script_jessie.rpy:8511
+translate russian ch3j_11_36a31ffa:
+
+    # m "Oh, no! He'll be sleeping in bed, right next to me. Won't you, fella?"
+    m ""
+
+# game/script_jessie.rpy:8517
+translate russian ch3j_11_1a43cc56:
+
+    # g "What's all the commotion?"
+    g ""
+
+# game/script_jessie.rpy:8519
+translate russian ch3j_11_04b007a4:
+
+    # m "Grace! We have a dog!"
+    m ""
+
+# game/script_jessie.rpy:8521
+translate russian ch3j_11_2dcb53c6:
+
+    # g "Oh, wow! Jessie, you told her?"
+    g ""
+
+# game/script_jessie.rpy:8523
+translate russian ch3j_11_bf3aeea6:
+
+    # "Jessie's eyes get huge."
+    ""
+
+# game/script_jessie.rpy:8524
+translate russian ch3j_11_5819044f:
+
+    # c "No, no. Grace. Uh... we.. um..."
+    c ""
+
+# game/script_jessie.rpy:8526
+translate russian ch3j_11_2372b811:
+
+    # m "Look!"
+    m ""
+
+# game/script_jessie.rpy:8533
+translate russian ch3j_11_267dc700:
+
+    # "Marion presents Toast, and Grace scrunches her nose."
+    ""
+
+# game/script_jessie.rpy:8535
+translate russian ch3j_11_d93b95db:
+
+    # g "Wait. A real dog?"
+    g ""
+
+# game/script_jessie.rpy:8537
+translate russian ch3j_11_538f5646:
+
+    # m "What other kind of dog is there, silly?"
+    m ""
+
+# game/script_jessie.rpy:8539
+translate russian ch3j_11_15734ae6:
+
+    # g "Well—"
+    g ""
+
+# game/script_jessie.rpy:8541
+translate russian ch3j_11_624bf1ad:
+
+    # c "Grace!"
+    c ""
+
+# game/script_jessie.rpy:8543
+translate russian ch3j_11_08a79ca8:
+
+    # g "What?"
+    g ""
+
+# game/script_jessie.rpy:8544
+translate russian ch3j_11_a74621c6:
+
+    # c "Let's focus on the dog at hand, shall we?"
+    c ""
+
+# game/script_jessie.rpy:8546
+translate russian ch3j_11_631e1219:
+
+    # g "Of course, Malcolm. I don't see any other dogs here!"
+    g ""
+
+# game/script_jessie.rpy:8549
+translate russian ch3j_11_b553e385:
+
+    # "While I've enjoyed our time together, it's getting to be high time to beat a hasty retreat. Thanks, Grace."
+    ""
+
+# game/script_jessie.rpy:8551
+translate russian ch3j_11_b35c87c4:
+
+    # j "Malcolm and I should get going. I need to help him... uh... feed the horse."
+    j ""
+
+# game/script_jessie.rpy:8552
+translate russian ch3j_11_2218cdfa:
+
+    # "Jessie must be reading my mind. Wait. That's not something werewolves can do, is it? I need to read Baird's again."
+    ""
+
+# game/script_jessie.rpy:8554
+translate russian ch3j_11_2aa5388c:
+
+    # m "I won't keep you two. I hear that feeding Hazel is a lengthy endeavor."
+    m ""
+
+# game/script_jessie.rpy:8556
+translate russian ch3j_11_b658a32b:
+
+    # g "Knowing Jessie, it'll take her all night to make sure she's satisfied."
+    g ""
+
+# game/script_jessie.rpy:8558
+translate russian ch3j_11_f8952ace:
+
+    # j "Grace!"
+    j ""
+
+# game/script_jessie.rpy:8560
+translate russian ch3j_11_456e435e:
+
+    # g "The horse! It takes a lot to please her. That's all I meant—hey! {i}Down, girl!{/i}"
+    g ""
+
+# game/script_jessie.rpy:8577
+translate russian ch3j_11_81c07845:
+
+    # "Jessie lunges at Grace, and tears off chasing her sister down the road. I didn't think anyone could match Jessie in a race, but apparently fleet feet run in the family."
+    ""
+
+# game/script_jessie.rpy:8578
+translate russian ch3j_11_1cb5e512:
+
+    # "Then again, Jessie {i}is{/i} holding back, using only two of her feet."
+    ""
+
+# game/script_jessie.rpy:8580
+translate russian ch3j_11_ed3e36be:
+
+    # "I shrug helplessly to Marion, who returns the gesture, as if to say, \"You see what I deal with every day?\""
+    ""
+
+# game/script_jessie.rpy:8581
+translate russian ch3j_11_eb724fcf:
+
+    # m "Go on... you'd best catch her before she's run halfway to Strathcarron."
+    m ""
+
+# game/script_jessie.rpy:8582
+translate russian ch3j_11_8bdf06a4:
+
+    # c "All right. Be seeing you—an' take good care of your new mama, Toast!"
+    c ""
+
+# game/script_jessie.rpy:8583
+translate russian ch3j_11_a0af0fa7:
+
+    # "I doff my cap, and run down the road to catch my runaway girl."
+    ""
+
+# game/script_jessie.rpy:8611
+translate russian ch3j_12_69ba5039:
+
+    # "I'm eventually able to talk Jessie into leaving Grace be and hustling along back to my house... that is, once I catch up to them."
+    ""
+
+# game/script_jessie.rpy:8612
+translate russian ch3j_12_b91f3b62:
+
+    # "The chase had gone a few furlongs down the road, until Jessie dropped to four legs and finally caught her little sister."
+    ""
+
+# game/script_jessie.rpy:8613
+translate russian ch3j_12_ae8029c9:
+
+    # "I found Jessie-the-wolf sitting atop Grace, pinning her to the ground. Her honor upheld."
+    ""
+
+# game/script_jessie.rpy:8615
+translate russian ch3j_12_e703cc7f:
+
+    # "Now Jessie sits across from me, having just shed her human trappings once again."
+    ""
+
+# game/script_jessie.rpy:8616
+translate russian ch3j_12_eba9191b:
+
+    # c "Are you going to keep doing that?"
+    c ""
+
+# game/script_jessie.rpy:8618
+translate russian ch3j_12_c28cbc19:
+
+    # j "If I can, sure. It feels natural, like changing out of your clothes. It's no big deal."
+    j ""
+
+# game/script_jessie.rpy:8619
+translate russian ch3j_12_d4036bf9:
+
+    # c "It's kind of a big deal."
+    c ""
+
+# game/script_jessie.rpy:8621
+translate russian ch3j_12_82634f94:
+
+    # j "Agnes is snoring louder than a locomotive. We're safe."
+    j ""
+
+# game/script_jessie.rpy:8622
+translate russian ch3j_12_e562317f:
+
+    # "I have to agree. Despite the sun still being visible on the horizon, Gran was sound asleep when we arrived. I'm relieved and pleased to have the alone time with Jessie."
+    ""
+
+# game/script_jessie.rpy:8623
+translate russian ch3j_12_6959a011:
+
+    # c "I'm just impressed by your confidence."
+    c ""
+
+# game/script_jessie.rpy:8625
+translate russian ch3j_12_aa37a453:
+
+    # j "Gee, thanks. I'm impressed by your patience dealing with my sisters... and that yappy dog!"
+    j ""
+
+# game/script_jessie.rpy:8628
+translate russian ch3j_12_2790559f:
+
+    # c "Wait. You or Toast?"
+    c ""
+
+# game/script_jessie.rpy:8630
+translate russian ch3j_12_97f7823d:
+
+    # j "Oh, stop!"
+    j ""
+
+# game/script_jessie.rpy:8640
+translate russian ch3j_12_ace9cdad:
+
+    # j "Speaking of toast, I am going to get myself a snack."
+    j ""
+
+# game/script_jessie.rpy:8654
+translate russian ch3j_12_0dc19899:
+
+    # "...I sincerely hope she is referring to browned bread and not the morsel-sized puppy. She may look the part of a predator, but she wouldn't hurt a fly. Right?"
+    ""
+
+# game/script_jessie.rpy:8656
+translate russian ch3j_12_7693a214:
+
+    # c "You know, I don't think I've seen Marion that pleased in many years. Getting the pup was a wonderful gesture, Jessie. Truly thoughtful."
+    c ""
+
+# game/script_jessie.rpy:8661
+translate russian ch3j_12_3c29585f:
+
+    # j "Everyone deserves a faithful and loving companion."
+    j ""
+
+# game/script_jessie.rpy:8670
+translate russian ch3j_12_bea0d93f:
+
+    # "Jessie comes over from the cabinets and nuzzles herself into me. I hold tightly to her, so thankful for her love."
+    ""
+
+# game/script_jessie.rpy:8681
+translate russian ch3j_12_55e1df88:
+
+    # "She then proceeds to rifle through some paper wrappings, and starts gnawing at a piece of beef."
+    ""
+
+# game/script_jessie.rpy:8682
+translate russian ch3j_12_e9d9aad0:
+
+    # c "Jessie! Gran just went to the butcher! That was for our dinner!"
+    c ""
+
+# game/script_jessie.rpy:8686
+translate russian ch3j_12_879412e4:
+
+    # "She looks at me and shrugs, then speaks with her mouth full."
+    ""
+
+# game/script_jessie.rpy:8687
+translate russian ch3j_12_5573560f:
+
+    # j "I'm hungry."
+    j ""
+
+# game/script_jessie.rpy:8688
+translate russian ch3j_12_a77edf7d:
+
+    # c "It's not even cooked!"
+    c ""
+
+# game/script_jessie.rpy:8690
+translate russian ch3j_12_ec744f55:
+
+    # j "Hey, a lot of people like their meat rare!"
+    j ""
+
+# game/script_jessie.rpy:8692
+translate russian ch3j_12_23450149:
+
+    # "I put my fingers to my temples and close my eyes. What have I gotten myself into? I've asked myself that so many times, I've lost track."
+    ""
+
+# game/script_jessie.rpy:8694
+translate russian ch3j_12_8bf366a5:
+
+    # j "You wouldn't love me without all of my quirks, Mr. Campbell."
+    j ""
+
+# game/script_jessie.rpy:8695
+translate russian ch3j_12_d0ae06d2:
+
+    # c "Is that so?"
+    c ""
+
+# game/script_jessie.rpy:8697
+translate russian ch3j_12_a3023841:
+
+    # j "It's factual, yes."
+    j ""
+
+# game/script_jessie.rpy:8698
+translate russian ch3j_12_1ef0dbc5:
+
+    # "Her unabashed manner brings up the conversation I had with Marion earlier."
+    ""
+
+# game/script_jessie.rpy:8699
+translate russian ch3j_12_a416febf:
+
+    # c "Marion reminded me of the time you knocked out the McCallister lad at school."
+    c ""
+
+# game/script_jessie.rpy:8701
+translate russian ch3j_12_8c53d897:
+
+    # j "Oh really? That was too funny. What a time!"
+    j ""
+
+# game/script_jessie.rpy:8711
+translate russian ch3j_12_8f6f2b65:
+
+    # "Jessie takes a seat at my feet, and rests her head on my legs."
+    ""
+
+# game/script_jessie.rpy:8712
+translate russian ch3j_12_b069310e:
+
+    # j "Those were the days, eh? He had it coming, ya know! No one messes with my sister and gets away with it."
+    j ""
+
+# game/script_jessie.rpy:8713
+translate russian ch3j_12_50930901:
+
+    # c "I think back to those times and it's such a hodgepodge of memories. It's hard to say what was real, and what I've now just imagined."
+    c ""
+
+# game/script_jessie.rpy:8715
+translate russian ch3j_12_3aaabe5f:
+
+    # j "Do you remember Grace bringing handfuls of shells to church, and setting them down in the pews? I'd never heard women scream louder! Your grandfather laughed for months over that!"
+    j ""
+
+# game/script_jessie.rpy:8716
+translate russian ch3j_12_c6d7c660:
+
+    # c "That was Grace's handiwork?"
+    c ""
+
+# game/script_jessie.rpy:8717
+translate russian ch3j_12_eac4bdf7:
+
+    # j "Of course! Who else?"
+    j ""
+
+# game/script_jessie.rpy:8718
+translate russian ch3j_12_ede501ec:
+
+    # "I remember the incident quite well. The terror on my mother's face was... quite a sight to behold."
+    ""
+
+# game/script_jessie.rpy:8719
+translate russian ch3j_12_f54e9343:
+
+    # "Grace couldn't have been older than five or six. Too young to hang around with us, and even then she kept to herself. I wrack my brain for other memories of the youngest MacLeod."
+    ""
+
+# game/script_jessie.rpy:8720
+translate russian ch3j_12_eb46760a:
+
+    # c "...And the time we had to rescue Grace!"
+    c ""
+
+# game/script_jessie.rpy:8722
+translate russian ch3j_12_1bdc439a:
+
+    # "Jessie eyes grow wide, as if replaying the scene."
+    ""
+
+# game/script_jessie.rpy:8723
+translate russian ch3j_12_a935396a:
+
+    # j "Oh, Malcolm! You don't even know! Marion still won't fill a bathtub to the top!"
+    j ""
+
+# game/script_jessie.rpy:8724
+translate russian ch3j_12_79475dd3:
+
+    # c "Why did Grace think she could swim the entire loch?"
+    c ""
+
+# game/script_jessie.rpy:8726
+translate russian ch3j_12_0ae98687:
+
+    # j "Heaven knows! She was so small. If you and I hadn't jumped into the water with Marion, she'd have floated halfway to China overnight."
+    j ""
+
+# game/script_jessie.rpy:8727
+translate russian ch3j_12_7a60344b:
+
+    # c "That scamp! Always has been."
+    c ""
+
+# game/script_jessie.rpy:8729
+translate russian ch3j_12_66f87ffc:
+
+    # j "Always will be. Oh!"
+    j ""
+
+# game/script_jessie.rpy:8731
+translate russian ch3j_12_696650a5:
+
+    # "Her face breaks into a different smile, perhaps a bit more sinister."
+    ""
+
+# game/script_jessie.rpy:8732
+translate russian ch3j_12_f0c60608:
+
+    # j "I also have very distinct memories of stealing father's whisky and taking it to the shore."
+    j ""
+
+# game/script_jessie.rpy:8733
+translate russian ch3j_12_d7b52f17:
+
+    # c "Was I there for that? I don't recall it... and it's something I definitely would."
+    c ""
+
+# game/script_jessie.rpy:8735
+translate russian ch3j_12_78ef0f57:
+
+    # "Jessie's face drops."
+    ""
+
+# game/script_jessie.rpy:8737
+translate russian ch3j_12_0dbd2ed1:
+
+    # j "Oh... I guess... you'd left town by then."
+    j ""
+
+# game/script_jessie.rpy:8739
+translate russian ch3j_12_da8d3845:
+
+    # "I don't know if she's about to drop the subject or continue."
+    ""
+
+# game/script_jessie.rpy:8741
+translate russian ch3j_12_403607b6:
+
+    # j "Just know that for every good time we all had while you were gone, they were many more that weren't as... tolerable."
+    j ""
+
+# game/script_jessie.rpy:8742
+translate russian ch3j_12_24366554:
+
+    # c "I understand."
+    c ""
+
+# game/script_jessie.rpy:8744
+translate russian ch3j_12_c39e913a:
+
+    # j "Truth be told, I drank back then to silence a lot of voices inside me. Ones telling me I'd never experience—"
+    j ""
+
+# game/script_jessie.rpy:8745
+translate russian ch3j_12_d73c186c:
+
+    # "Her voice cracks, and she holds tighter to my leg."
+    ""
+
+# game/script_jessie.rpy:8747
+translate russian ch3j_12_6d6c7c11:
+
+    # j "Experience all that I have now."
+    j ""
+
+# game/script_jessie.rpy:8758
+translate russian ch3j_12_9d972b00:
+
+    # "I expect tears, but none fall. She gathers herself, and stands. There's so much I want to say in return. So much I want to share."
+    ""
+
+# game/script_jessie.rpy:8761
+translate russian ch3j_12_26ec22e3:
+
+    # "All the while, I try to ignore the small patch of hair that has gathered on the rug. She, unfortunately, does spot it."
+    ""
+
+# game/script_jessie.rpy:8763
+translate russian ch3j_12_76d686b1:
+
+    # j "Ugh! I keep shedding! It's so embarrassing. I'm sorry. Let me grab a broom."
+    j ""
+
+# game/script_jessie.rpy:8764
+translate russian ch3j_12_ae26c614:
+
+    # c "No need. I can take care of it."
+    c ""
+
+# game/script_jessie.rpy:8766
+translate russian ch3j_12_7926f7d2:
+
+    # j "Cleaning up after your pet?"
+    j ""
+
+# game/script_jessie.rpy:8767
+translate russian ch3j_12_0b6764f6:
+
+    # c "Just make sure you don't start \"marking your territory.\""
+    c ""
+
+# game/script_jessie.rpy:8769
+translate russian ch3j_12_83692865:
+
+    # j "Oh, I'll mark any territory I want."
+    j ""
+
+# game/script_jessie.rpy:8773
+translate russian ch3j_12_3f7fbfea:
+
+    # "As soon as I feel her hands on me, I am a lost cause."
+    ""
+
+# game/script_jessie.rpy:8774
+translate russian ch3j_12_0ca9757a:
+
+    # j "How about it, soldier? Are all your men in rank?"
+    j ""
+
+# game/script_jessie.rpy:8775
+translate russian ch3j_12_893ac3c8:
+
+    # c "My dear, I am entirely at your command."
+    c ""
+
+# game/script_jessie.rpy:8776
+translate russian ch3j_12_8813d19a:
+
+    # j "Excellent. Now, how about a taste of that meat?"
+    j ""
+
+# game/script_jessie.rpy:8782
+translate russian ch3j_12_dc9744cd:
+
+    # "Jessie starts to slide her hand down the front of my shirt, stopping at the top button of my pants."
+    ""
+
+# game/script_jessie.rpy:8783
+translate russian ch3j_12_f45b604e:
+
+    # "My body heats through, and I grasp her shoulders."
+    ""
+
+# game/script_jessie.rpy:8790
+translate russian ch3j_12_605fd290:
+
+    # "We're caught off guard by a very soft voice."
+    ""
+
+# game/script_jessie.rpy:8791
+translate russian ch3j_12_4babcab5:
+
+    # s "{i}I knew it!{/i}"
+    s ""
+
+# game/script_jessie.rpy:8803
+translate russian ch3j_12_5aec2b59:
+
+    # "Jessie and I both gasp. I'm afraid Gran might scream or faint, but nothing of the sort happens."
+    ""
+
+# game/script_jessie.rpy:8804
+translate russian ch3j_12_ab05e9ca:
+
+    # "All three of us stand there in very awkward silence, as we all listen to Jessie pant. I expect her to change back to her human form, but it does not happen."
+    ""
+
+# game/script_jessie.rpy:8805
+translate russian ch3j_12_c5f5bcdb:
+
+    # s "Jessie... is that really you?"
+    s ""
+
+# game/script_jessie.rpy:8808
+translate russian ch3j_12_1e1f469a:
+
+    # j "Yes..."
+    j ""
+
+# game/script_jessie.rpy:8810
+translate russian ch3j_12_6f669666:
+
+    # j "I'm a werewolf, Agnes."
+    j ""
+
+# game/script_jessie.rpy:8813
+translate russian ch3j_12_04a9dd0f:
+
+    # s "No... no you're not."
+    s ""
+
+# game/script_jessie.rpy:8814
+translate russian ch3j_12_e37bbfbb:
+
+    # "My grandmother shakes her head, but it doesn't appear to be disbelief."
+    ""
+
+# game/script_jessie.rpy:8816
+translate russian ch3j_12_36b400a5:
+
+    # s "You're more than that."
+    s ""
+
+# game/script_jessie.rpy:8828
+translate russian ch3j_12_fe58ea0c:
+
+    # "Gran takes a step towards Jessie, who hangs her head in submission. Gran pets her head gently, and looks ready to cry."
+    ""
+
+# game/script_jessie.rpy:8829
+translate russian ch3j_12_e17d39f6:
+
+    # s "I knew there was something off about you! You marvelous creature, you!"
+    s ""
+
+# game/script_jessie.rpy:8833
+translate russian ch3j_12_1382e2b9:
+
+    # s "Malcolm! Are you looking at this? A wolf! Jessie!"
+    s ""
+
+# game/script_jessie.rpy:8834
+translate russian ch3j_12_23349b15:
+
+    # "Gran has a sparkle in her eye, and a giddiness to her tone that belies her age. I'm frozen in shock. It's the last reaction I would have expected."
+    ""
+
+# game/script_jessie.rpy:8836
+translate russian ch3j_12_d1bc20a4:
+
+    # s "Never at my age did I ever think I would live to see magic come to life here. It's a dream come true."
+    s ""
+
+# game/script_jessie.rpy:8838
+translate russian ch3j_12_7989783f:
+
+    # s "Malcolm, don't just stand there—put some tea on for our guest! I want the whole story... {i}all of it{/i}."
+    s ""
+
+# game/script_jessie.rpy:8856
+translate russian ch3j_12_629fcf10:
+
+    # s "You know... Maggie Tyte's good friend, Begonia Riley, had fresh fish delivered to her windowsill last week! We all joked about how a wulver must have visited her home!"
+    s ""
+
+# game/script_jessie.rpy:8857
+translate russian ch3j_12_df1c8a9b:
+
+    # "Even though Gran said she wanted the whole story, her frequent interruptions end up turning our story into her own."
+    ""
+
+# game/script_jessie.rpy:8858
+translate russian ch3j_12_b90a8be8:
+
+    # "It seems Gran will be Gran even under the most unusual circumstances, bless her soul."
+    ""
+
+# game/script_jessie.rpy:8859
+translate russian ch3j_12_eb6f6240:
+
+    # c "Pardon? Fish?"
+    c ""
+
+# game/script_jessie.rpy:8861
+translate russian ch3j_12_5c4a65f0:
+
+    # "Jessie tenses in my grip. She looks a bit sheepish."
+    ""
+
+# game/script_jessie.rpy:8863
+translate russian ch3j_12_26b633cb:
+
+    # s "It's what a wulver is {i}known{/i} for, Malcolm. Caring for others... in unconventional ways."
+    s ""
+
+# game/script_jessie.rpy:8865
+translate russian ch3j_12_2d1e62ee:
+
+    # j "I have to say that was probably Grace."
+    j ""
+
+# game/script_jessie.rpy:8867
+translate russian ch3j_12_8d7d4d8d:
+
+    # s "Oh, my! Grace is a wulver, too?"
+    s ""
+
+# game/script_jessie.rpy:8869
+translate russian ch3j_12_47f42331:
+
+    # j "No, no. She's definitely not. Just more the fisherwoman than I've ever been."
+    j ""
+
+# game/script_jessie.rpy:8870
+translate russian ch3j_12_1188d243:
+
+    # "I flashback to reading Baird's description of the common wulver. It was in there, wasn't it? This detail about wulvers. Gran must have the whole book memorized."
+    ""
+
+# game/script_jessie.rpy:8871
+translate russian ch3j_12_679ee94c:
+
+    # "Is that why she is so excited? These fairy tales of her childhood, finally proven true? Gran shifts in her seat, as if preparing for many questions."
+    ""
+
+# game/script_jessie.rpy:8873
+translate russian ch3j_12_27ac2d28:
+
+    # s "What about Marion?"
+    s ""
+
+# game/script_jessie.rpy:8875
+translate russian ch3j_12_83edf9b1:
+
+    # j "Nor her. It's just me, Agnes. I'm the lone wolf, I guess you could say."
+    j ""
+
+# game/script_jessie.rpy:8876
+translate russian ch3j_12_8b5dce50:
+
+    # c "Gran, I'm surprised you're taking this so well."
+    c ""
+
+# game/script_jessie.rpy:8878
+translate russian ch3j_12_bae7a1e4:
+
+    # s "I don't know whether to be shocked or proud! I'm both! 'Tis a great legacy to be part of, Jessie! Now tell me more. Don't skip a detail. Oh, I can't wait to tell Begonia! She won't believe it!"
+    s ""
+
+# game/script_jessie.rpy:8879
+translate russian ch3j_12_82263a6b:
+
+    # "I'm realizing that at this rate, Jessie won't need to reveal her secret identity. It will simply be brought up in casual conversation among the local gossip guild."
+    ""
+
+# game/script_jessie.rpy:8880
+translate russian ch3j_12_8455ca93:
+
+    # c "Gran! You can't share this with anyone! You just said yourself that Jessie can't be seen. Please... respect her privacy."
+    c ""
+
+# game/script_jessie.rpy:8882
+translate russian ch3j_12_e6e89d95:
+
+    # s "Oh... yes, yes, of course. I know... but someday. Someday you'll share the news, won't you? For now, at least tell me... tell me everything."
+    s ""
+
+# game/script_jessie.rpy:8892
+translate russian ch3j_12_447e038d:
+
+    # "And we do. With all of us curled up by the fireplace, it's like some odd reversal of the storytime we had as children. "
+    ""
+
+# game/script_jessie.rpy:8893
+translate russian ch3j_12_25a18c21:
+
+    # "We sip our tea and nibble on biscuits as Jessie tells the tale. She leaves out certain scandalous details, including our romantic excursions... and the trauma of horrific injury."
+    ""
+
+# game/script_jessie.rpy:8894
+translate russian ch3j_12_bd154e5c:
+
+    # "Gran nods, almost impatiently, as if waiting for the next part of the tale."
+    ""
+
+# game/script_jessie.rpy:8896
+translate russian ch3j_12_fbcca96e:
+
+    # "It's wonderful. Not just to have Jessie be seen and accepted, but to see {i}Gran{/i} so filled with such genuine awe."
+    ""
+
+# game/script_jessie.rpy:8897
+translate russian ch3j_12_54e4b39b:
+
+    # "After so many sleepless nights worrying about Jessie, her secret, and what it means for us... it's a reminder to step back and appreciate the hidden magic in this world for what it is."
+    ""
+
+# game/script_jessie.rpy:8899
+translate russian ch3j_12_746521c8:
+
+    # "From time to time, Gran punctuates the story with spontaneous outbursts."
+    ""
+
+# game/script_jessie.rpy:8905
+translate russian ch3j_12_d4fad9b8:
+
+    # s "I can't believe it! You're so brave! And you never knew, you say? Even as a child? That you possessed such power? Such magic?"
+    s ""
+
+# game/script_jessie.rpy:8907
+translate russian ch3j_12_6d56d312:
+
+    # j "No, Agnes. It's come as quite a shock... but a bit of a relief now. It's given me a renewed strength."
+    j ""
+
+# game/script_jessie.rpy:8910
+translate russian ch3j_12_f21a7829:
+
+    # s "Imagine that! Malcolm, did you hear that? A woman as remarkable as this, with even more strength!"
+    s ""
+
+# game/script_jessie.rpy:8911
+translate russian ch3j_12_764d90bc:
+
+    # "Gran makes a tsk-ing sound that echoes more of disbelief than disapproval."
+    ""
+
+# game/script_jessie.rpy:8914
+translate russian ch3j_12_73dbcd63:
+
+    # "Then her face goes white, as if realizing something."
+    ""
+
+# game/script_jessie.rpy:8915
+translate russian ch3j_12_626e48b0:
+
+    # s "The wolf! Balgair! They were all after you, the whole town! My dear, are you all right?"
+    s ""
+
+# game/script_jessie.rpy:8917
+translate russian ch3j_12_d71fe103:
+
+    # j "I... I'm fine so far, Agnes."
+    j ""
+
+# game/script_jessie.rpy:8918
+translate russian ch3j_12_239be7c2:
+
+    # c "That's why she needs to keep this a secret. At least until we decide how to handle it."
+    c ""
+
+# game/script_jessie.rpy:8920
+translate russian ch3j_12_a65fba4c:
+
+    # s "Well, you've nothing to fear in my book. Let them stare! Let them see the beauty and majesty of the fae, right in front of their eyes! What a sight to behold."
+    s ""
+
+# game/script_jessie.rpy:8922
+translate russian ch3j_12_14504957:
+
+    # j "That's extremely kind of you, Agnes."
+    j ""
+
+# game/script_jessie.rpy:8923
+translate russian ch3j_12_82e71b50:
+
+    # c "Gran, it's not as simple as being confident. There's still danger. People aren't used to seeing wolf women around here."
+    c ""
+
+# game/script_jessie.rpy:8925
+translate russian ch3j_12_92fec087:
+
+    # s "Not yet! But they had better get used to it."
+    s ""
+
+# game/script_jessie.rpy:8927
+translate russian ch3j_12_0a35358b:
+
+    # j "I do appreciate your enthusiasm, Miss Campbell."
+    j ""
+
+# game/script_jessie.rpy:8929
+translate russian ch3j_12_a3f93c08:
+
+    # s "So, who else knows about this? Your sisters, I presume? Balgair?"
+    s ""
+
+# game/script_jessie.rpy:8930
+translate russian ch3j_12_ed527ead:
+
+    # "I look to Jessie to choose her answer."
+    ""
+
+# game/script_jessie.rpy:8932
+translate russian ch3j_12_b3db30fc:
+
+    # j "Grace. Not Marion... not yet. Balgair? No."
+    j ""
+
+# game/script_jessie.rpy:8934
+translate russian ch3j_12_a567e9a1:
+
+    # s "Ach! They'll be in for quite the surprise—"
+    s ""
+
+# game/script_jessie.rpy:8935
+translate russian ch3j_12_2947b6a4:
+
+    # c "Gran!"
+    c ""
+
+# game/script_jessie.rpy:8937
+translate russian ch3j_12_06472ba7:
+
+    # s "—should {i}you{/i} choose to tell them, lass. Your secret is safe with me. You've done a fine job keeping it hidden thus far! Secrets don't usually last long in this village. Prying eyes, you see..."
+    s ""
+
+# game/script_jessie.rpy:8940
+translate russian ch3j_12_d6c96884:
+
+    # j "Alana. Miss Alana knows."
+    j ""
+
+# game/script_jessie.rpy:8943
+translate russian ch3j_12_4882de29:
+
+    # s "That odd bat? Whatever for? Unless... she is a werewolf, too!"
+    s ""
+
+# game/script_jessie.rpy:8944
+translate russian ch3j_12_b8366b43:
+
+    # c "Gran, she's a schoolteacher. Nothing more."
+    c ""
+
+# game/script_jessie.rpy:8946
+translate russian ch3j_12_12e5ec3e:
+
+    # s "Malarkey! She's a witch."
+    s ""
+
+# game/script_jessie.rpy:8947
+translate russian ch3j_12_4be0dd23:
+
+    # "I think back to Alana's knowledge. Her incantations. Gran may be more right than she knows. But best limit tonight to only one revelation at a time, lest it be too much for her poor heart."
+    ""
+
+# game/script_jessie.rpy:8948
+translate russian ch3j_12_44e99f4c:
+
+    # c "Gran, stop! Or we'll take away your tea and biscuits."
+    c ""
+
+# game/script_jessie.rpy:8952
+translate russian ch3j_12_f9a23d2b:
+
+    # j "Alana saved my life. No matter what she may or may not be. Agnes, you asked who knew. I'm telling you. Just two others beyond the walls of this room. Grace and Alana. As far as I know."
+    j ""
+
+# game/script_jessie.rpy:8953
+translate russian ch3j_12_4d488ad7:
+
+    # s "Hmph."
+    s ""
+
+# game/script_jessie.rpy:8956
+translate russian ch3j_12_b5c7d71b:
+
+    # "Gran sips from her cup, and puts on a mischievous grin."
+    ""
+
+# game/script_jessie.rpy:8957
+translate russian ch3j_12_be26dc51:
+
+    # s "Let me tell you some tales. The ones that kept me up at night as a wee lass."
+    s ""
+
+# game/script_jessie.rpy:8960
+translate russian ch3j_12_f00226d7:
+
+    # "Jessie and I exchange a knowing look, as we settle in for another round of Gran's stories. She spins yarns of werewolves in days of yore."
+    ""
+
+# game/script_jessie.rpy:8963
+translate russian ch3j_12_18fd2d93:
+
+    # s "...an' me uncle, he said they might steal your skeins of wool, but they'd return in the morn' with fresh-knit mittens, just for you!"
+    s ""
+
+# game/script_jessie.rpy:8965
+translate russian ch3j_12_e064ca2a:
+
+    # j "Fisherwomen {i}and{/i} seamstresses? If I'm to live up to these tales, I've got a lot to learn!"
+    j ""
+
+# game/script_jessie.rpy:8967
+translate russian ch3j_12_e2a807bc:
+
+    # s "Nonsense. Magnificent creatures, all! Performing good deeds and still lurking among the shadows. Or in your case, among the tables of the Stag & Nanny."
+    s ""
+
+# game/script_jessie.rpy:8969
+translate russian ch3j_12_32d8573c:
+
+    # "Gran winks."
+    ""
+
+# game/script_jessie.rpy:8970
+translate russian ch3j_12_5820f6cf:
+
+    # s "Aye, you're every bit the part. Y'know, my great-grandfather once told me he spotted a wolf back in the days of Bonnie Prince Charlie! And here I am... smack dab in front of one. My, oh, my!"
+    s ""
+
+# game/script_jessie.rpy:8972
+translate russian ch3j_12_2337bee7:
+
+    # j "Eating your biscuits, no less! Oh, Agnes. I can't tell you what a relief it is to finally let another person know my secret."
+    j ""
+
+# game/script_jessie.rpy:8973
+translate russian ch3j_12_59e50dd2:
+
+    # "Especially someone so understanding. We were fortunate, this time."
+    ""
+
+# game/script_jessie.rpy:8976
+translate russian ch3j_12_91dc0c84:
+
+    # s "Jessie, you possess a supernatural power. It transcends our world. If I were any younger, I'd have to be jealous of your beauty, your voice... and your tail!"
+    s ""
+
+# game/script_jessie.rpy:8978
+translate russian ch3j_12_6453e61f:
+
+    # s "Just think of all you're capable of!"
+    s ""
+
+# game/script_jessie.rpy:8981
+translate russian ch3j_12_3c2baad1:
+
+    # "Jessie puts her eyes on me, and I sense her wanting to tell my Gran about how I may be involved in all of this."
+    ""
+
+# game/script_jessie.rpy:8982
+translate russian ch3j_12_5072d9ca:
+
+    # "I shake my head ever so softly back and forth. Please don't. Gran doesn't need any more gossip fodder."
+    ""
+
+# game/script_jessie.rpy:8984
+translate russian ch3j_12_df2ff183:
+
+    # j "Ah... yes, well, I'm no \"masked avenger.\" I can't deny it's special, though."
+    j ""
+
+# game/script_jessie.rpy:8986
+translate russian ch3j_12_83c2c096:
+
+    # j "Every sensation is heightened. Higher than I can describe. I smell things so keenly, and so far away. I hear differently. A pin drop startles me, even."
+    j ""
+
+# game/script_jessie.rpy:8987
+translate russian ch3j_12_5900d7e1:
+
+    # j "Each time my paws touch something, it's as if I'm feeling it for the first time."
+    j ""
+
+# game/script_jessie.rpy:8989
+translate russian ch3j_12_0573f146:
+
+    # "She steals a demure look my way."
+    ""
+
+# game/script_jessie.rpy:8991
+translate russian ch3j_12_a15205e6:
+
+    # s "And you can simply change at will? From human to wolf? How very, very special indeed!"
+    s ""
+
+# game/script_jessie.rpy:8993
+translate russian ch3j_12_76df7b1e:
+
+    # j "Well... it's something like that. I tend to believe it's the energy of the... er... people around me, that's keeping me from staying... well, from being a full wolf."
+    j ""
+
+# game/script_jessie.rpy:8995
+translate russian ch3j_12_f250a7ea:
+
+    # s "Nonsense. You're a werewolf. All the power is firmly rooted in you. Whether or not you can harness it has nothing to do with us foolish mortals."
+    s ""
+
+# game/script_jessie.rpy:8997
+translate russian ch3j_12_a798aad8:
+
+    # c "Um... Gran... you know she's not {i}immortal{/i}, don't you?"
+    c ""
+
+# game/script_jessie.rpy:8999
+translate russian ch3j_12_ac41e6cc:
+
+    # "Gran shrugs."
+    ""
+
+# game/script_jessie.rpy:9000
+translate russian ch3j_12_e281afc0:
+
+    # s "We know nothing for certain, Malcolm. That's the history of the fae in a nutshell. You don't have to see something to know it to be true."
+    s ""
+
+# game/script_jessie.rpy:9001
+translate russian ch3j_12_e21eee44:
+
+    # "Gee, where have I heard that before."
+    ""
+
+# game/script_jessie.rpy:9003
+translate russian ch3j_12_89f5232e:
+
+    # j "You think I have all the power I need? Inside me?"
+    j ""
+
+# game/script_jessie.rpy:9005
+translate russian ch3j_12_d728452c:
+
+    # s "Naturally!"
+    s ""
+
+# game/script_jessie.rpy:9007
+translate russian ch3j_12_2a3689ab:
+
+    # j "I guess... you could be right. I've always had someone by my side, leading me back into my human form. Maybe... I don't need anyone."
+    j ""
+
+# game/script_jessie.rpy:9009
+translate russian ch3j_12_5b96a677:
+
+    # s "Oh, don't mishear me. Everyone needs someone."
+    s ""
+
+# game/script_jessie.rpy:9010
+translate russian ch3j_12_4973f3ea:
+
+    # "Gran looks pointedly at me."
+    ""
+
+# game/script_jessie.rpy:9012
+translate russian ch3j_12_5af5743c:
+
+    # s "It's good to have help now and again. But this spirit you have, Jessie. It's yours alone. Embrace it."
+    s ""
+
+# game/script_jessie.rpy:9015
+translate russian ch3j_12_2fc70376:
+
+    # "I do believe my grandmother is inadvertently tempting my girlfriend into trying her hand at transforming without me... or anyone else... around. I don't want to think about the consequences."
+    ""
+
+# game/script_jessie.rpy:9016
+translate russian ch3j_12_2a13445c:
+
+    # "I also don't dare tell Jessie what she can and can't do anymore. Love is confusing. Love mixed with transformation is something completely inexplicable."
+    ""
+
+# game/script_jessie.rpy:9018
+translate russian ch3j_12_4c48ff64:
+
+    # "No, I don't picture myself at the pub talking women problems with Balgair any time soon."
+    ""
+
+# game/script_jessie.rpy:9021
+translate russian ch3j_12_cd0b889b:
+
+    # "Meanwhile, a look of hope spreads across Jessie's canine features."
+    ""
+
+# game/script_jessie.rpy:9022
+translate russian ch3j_12_68aaa4e1:
+
+    # j "Agnes... if I'm able to control myself... I could live anywhere, right?"
+    j ""
+
+# game/script_jessie.rpy:9024
+translate russian ch3j_12_b570f69f:
+
+    # s "Oh, my dear. You're talking about the city, aren't you?"
+    s ""
+
+# game/script_jessie.rpy:9026
+translate russian ch3j_12_8641d2be:
+
+    # j "Everyone knows how desperately I want out of here. Please, take no disrespect. This town just..."
+    j ""
+
+# game/script_jessie.rpy:9028
+translate russian ch3j_12_2c5c44e0:
+
+    # s "Has little to offer a talented young woman?"
+    s ""
+
+# game/script_jessie.rpy:9030
+translate russian ch3j_12_131c2ccf:
+
+    # j "Something like that."
+    j ""
+
+# game/script_jessie.rpy:9033
+translate russian ch3j_12_e097bbaf:
+
+    # "Gran's look of sympathy turns to one of pity."
+    ""
+
+# game/script_jessie.rpy:9034
+translate russian ch3j_12_c0c2714a:
+
+    # s "You can't leave Ach-na-Creige now, Jessie. Don't you see? You're meant to be here... you're one of the fae. Returned after so many years."
+    s ""
+
+# game/script_jessie.rpy:9035
+translate russian ch3j_12_ff3fae83:
+
+    # "She speaks with the conviction of a preacher."
+    ""
+
+# game/script_jessie.rpy:9036
+translate russian ch3j_12_9a92d07a:
+
+    # c "Can't? Or shouldn't?"
+    c ""
+
+# game/script_jessie.rpy:9038
+translate russian ch3j_12_146726e3:
+
+    # s "Absolutely can't. None of your ability to change will work outside the village. An' that's a fact."
+    s ""
+
+# game/script_jessie.rpy:9039
+translate russian ch3j_12_2aef6f24:
+
+    # "It sounds like a \"Gran Fact\" to me, but I hold my tongue."
+    ""
+
+# game/script_jessie.rpy:9040
+translate russian ch3j_12_4efac5fd:
+
+    # "Jessie does not."
+    ""
+
+# game/script_jessie.rpy:9042
+translate russian ch3j_12_1f128dd6:
+
+    # j "What are you saying? That can't be. It can't! I won't be bound here!"
+    j ""
+
+# game/script_jessie.rpy:9044
+translate russian ch3j_12_27ebd50b:
+
+    # "I sense that this conversation is taking a turn for the worse."
+    ""
+
+# game/script_jessie.rpy:9049
+translate russian ch3j_12_2529f9e5:
+
+    # c "Jessie, let's focus on right now. Remember? We decided to take this day by day."
+    c ""
+
+# game/script_jessie.rpy:9051
+translate russian ch3j_12_407912ff:
+
+    # j "Day by day? What then? Month by month by year after year? Malcolm, this place isn't for me! It never will be!"
+    j ""
+
+# game/script_jessie.rpy:9053
+translate russian ch3j_12_f4957ebf:
+
+    # s "Stay calm, Jessie. Think about all you have now."
+    s ""
+
+# game/script_jessie.rpy:9055
+translate russian ch3j_12_e59ba5d4:
+
+    # j "I'm so sick and tired of people telling me to stay calm! Sick of being told what I should do! You especially, Malcolm! I thought you supported me!"
+    j ""
+
+# game/script_jessie.rpy:9056
+translate russian ch3j_12_9d9fb6df:
+
+    # c "I do."
+    c ""
+
+# game/script_jessie.rpy:9057
+translate russian ch3j_12_3a0601d5:
+
+    # "And I know better than to do anything but placate her. Now is not the time for arguments. Gran can't see us at our worst."
+    ""
+
+# game/script_jessie.rpy:9060
+translate russian ch3j_12_9098fab6:
+
+    # s "Jessie, dear, I'm sorry. Truly I am."
+    s ""
+
+# game/script_jessie.rpy:9061
+translate russian ch3j_12_748371b6:
+
+    # s "I've always been taught that our choices aren't always ours to decide. Sometimes we must accept that there's a plan, and a decision-maker above who guides us."
+    s ""
+
+# game/script_jessie.rpy:9062
+translate russian ch3j_12_eeeef737:
+
+    # "Jessie's expression screams that she must accept no such thing."
+    ""
+
+# game/script_jessie.rpy:9064
+translate russian ch3j_12_0dc7fbca:
+
+    # s "But don't fret, lass. You're a magical being! 'Tis the greatest gift in the Highlands!"
+    s ""
+
+# game/script_jessie.rpy:9066
+translate russian ch3j_12_85ac7a12:
+
+    # c "Gran, you know Ach-na-Creige better than any of us, but... well, when it comes to the supernatural, don't you think Jessie is the expert?"
+    c ""
+
+# game/script_jessie.rpy:9069
+translate russian ch3j_12_bcbb8adc:
+
+    # s "I know what I know. There's a magic to this village. My grandparents bore witness to it, my parents, too. And now, Malcolm, you and me."
+    s ""
+
+# game/script_jessie.rpy:9071
+translate russian ch3j_12_5901de91:
+
+    # s "Ach-na-Creige is special. {i}You{/i} are special, Jessie. Don't throw that all away."
+    s ""
+
+# game/script_jessie.rpy:9075
+translate russian ch3j_12_9098fab6_1:
+
+    # s "Jessie, dear, I'm sorry. Truly I am."
+    s ""
+
+# game/script_jessie.rpy:9076
+translate russian ch3j_12_748371b6_1:
+
+    # s "I've always been taught that our choices aren't always ours to decide. Sometimes we must accept that there's a plan, and a decision-maker above who guides us."
+    s ""
+
+# game/script_jessie.rpy:9078
+translate russian ch3j_12_eeeef737_1:
+
+    # "Jessie's expression screams that she must accept no such thing."
+    ""
+
+# game/script_jessie.rpy:9080
+translate russian ch3j_12_0dc7fbca_1:
+
+    # s "But don't fret, lass. You're a magical being! 'Tis the greatest gift in the Highlands!"
+    s ""
+
+# game/script_jessie.rpy:9083
+translate russian ch3j_12_5ab0e54a:
+
+    # j "It doesn't matter what I am if I'm not free to be who I want to be!"
+    j ""
+
+# game/script_jessie.rpy:9084
+translate russian ch3j_12_01850a2a:
+
+    # "She is being overdramatic, but it's also true. If you can't be free, what good is living your own life?"
+    ""
+
+# game/script_jessie.rpy:9085
+translate russian ch3j_12_b535980b:
+
+    # "I don't know what to say next."
+    ""
+
+# game/script_jessie.rpy:9089
+translate russian ch3j_12_62486e49:
+
+    # "Gran cuts through the tension in the room with her brutal honesty."
+    ""
+
+# game/script_jessie.rpy:9090
+translate russian ch3j_12_60421de2:
+
+    # s "You're right, Jessie. You need your freedom. And Malcolm needs a wife who will love him as much as she loves herself. Someone who puts his needs equal to her own!"
+    s ""
+
+# game/script_jessie.rpy:9091
+translate russian ch3j_12_3153b5b1:
+
+    # c "Gran, {i}this is not the time!{/i}"
+    c ""
+
+# game/script_jessie.rpy:9094
+translate russian ch3j_12_85631efc:
+
+    # j "Agnes, I don't know where that came from, or who you think I am. I love Malcolm. I cherish him. How I live my life has nothing to do with our relationship."
+    j ""
+
+# game/script_jessie.rpy:9096
+translate russian ch3j_12_fcfeca43:
+
+    # s "It has everything to do with it. I'm not judging you, Jessie. Though, no doubt it will sound that way."
+    s ""
+
+# game/script_jessie.rpy:9098
+translate russian ch3j_12_11bf9cc1:
+
+    # s "Your life is now even grander than it was before. How you choose to live it will determine everything. Until you see that, you will never be ready to be in love."
+    s ""
+
+# game/script_jessie.rpy:9101
+translate russian ch3j_12_bcbaaaa6:
+
+    # "Jessie's jaw nearly hits the floor."
+    ""
+
+# game/script_jessie.rpy:9106
+translate russian ch3j_12_792588b6:
+
+    # "I see Gran blink, as if awaiting Jessie's response. Jessie sits steadfast. Instead, I clear my throat, preparing once again to appease my Gran."
+    ""
+
+# game/script_jessie.rpy:9107
+translate russian ch3j_12_39930745:
+
+    # "There's no need. The auld mare has to have the last word."
+    ""
+
+# game/script_jessie.rpy:9109
+translate russian ch3j_12_d494962d:
+
+    # s "I've had a very eventful evening. I need to sleep."
+    s ""
+
+# game/script_jessie.rpy:9110
+translate russian ch3j_12_37315383:
+
+    # c "Yes, I think that's best."
+    c ""
+
+# game/script_jessie.rpy:9140
+translate russian ch3j_12_442fcbd5:
+
+    # "Gran offers us both gentle embraces, then totters toward bed."
+    ""
+
+# game/script_jessie.rpy:9145
+translate russian ch3j_12_8f639c91:
+
+    # s "Jessie, be yourself. Don't change for anyone else. But never believe in a false hope you've created for yourself. I love you."
+    s ""
+
+# game/script_jessie.rpy:9147
+translate russian ch3j_12_2c014916:
+
+    # "While my hackles are still up, Jessie appears to soften."
+    ""
+
+# game/script_jessie.rpy:9148
+translate russian ch3j_12_79181862:
+
+    # j "I... I'm sorry, Agnes. I didn't mean to be so rude."
+    j ""
+
+# game/script_jessie.rpy:9150
+translate russian ch3j_12_f0008a99:
+
+    # s "It is I who owes you the apology, Jessie. I've no right to speak out of turn. My emotions and my pride got the better of me. For that, I am truly sorry."
+    s ""
+
+# game/script_jessie.rpy:9152
+translate russian ch3j_12_62e90b56:
+
+    # j "Thank you. I do empathize with letting one's response getting... a little out of hand."
+    j ""
+
+# game/script_jessie.rpy:9154
+translate russian ch3j_12_61519ed2:
+
+    # "They share a look of understanding that is amiable, if not warm."
+    ""
+
+# game/script_jessie.rpy:9155
+translate russian ch3j_12_a36c7547:
+
+    # s "I'll see you two in the morning, I suppose, eh?"
+    s ""
+
+# game/script_jessie.rpy:9156
+translate russian ch3j_12_c19aaa61:
+
+    # c "Gran... we can..."
+    c ""
+
+# game/script_jessie.rpy:9158
+translate russian ch3j_12_18e3a3ec:
+
+    # s "Please have tea ready for me. And no sleeping past sunrise."
+    s ""
+
+# game/script_jessie.rpy:9160
+translate russian ch3j_12_873d3c84:
+
+    # "Jessie cracks a smile, and I know that she and Gran will work towards a mutual forgiveness over time."
+    ""
+
+# game/script_jessie.rpy:9168
+translate russian ch3j_12_80a31be8:
+
+    # c "Jessie... what just happened?"
+    c ""
+
+# game/script_jessie.rpy:9169
+translate russian ch3j_12_db054f64:
+
+    # "Jessie seems breathless. She clutches her chest."
+    ""
+
+# game/script_jessie.rpy:9171
+translate russian ch3j_12_ec48d587:
+
+    # j "I... I don't know exactly."
+    j ""
+
+# game/script_jessie.rpy:9172
+translate russian ch3j_12_403bef8c:
+
+    # "I'm just thankful Jessie did not go \"big bad wolf\" on my Gran. I say as much, in not so many words."
+    ""
+
+# game/script_jessie.rpy:9174
+translate russian ch3j_12_b429791c:
+
+    # j "Yes, well... I felt the anger bubbling. I don't even want to start with your grandmother's judgments of me."
+    j ""
+
+# game/script_jessie.rpy:9175
+translate russian ch3j_12_2ac6be38:
+
+    # c "Um... let's call them \"assessments.\""
+    c ""
+
+# game/script_jessie.rpy:9177
+translate russian ch3j_12_386dfdf7:
+
+    # j "The anger built and built. Like boiling lava in my veins. But then... I knew instinctively. It wasn't anger. It was shame."
+    j ""
+
+# game/script_jessie.rpy:9178
+translate russian ch3j_12_c02c6e2b:
+
+    # c "Jessie! You have nothing to be ashamed of!"
+    c ""
+
+# game/script_jessie.rpy:9180
+translate russian ch3j_12_f10f3313:
+
+    # j "I know. But she hit on some real fears of mine. I... don't want to talk about it."
+    j ""
+
+# game/script_jessie.rpy:9182
+translate russian ch3j_12_23a8f351:
+
+    # j "Either, way. I knew it wasn't worth it. I couldn't do it. My body and my mind knew to stay tame."
+    j ""
+
+# game/script_jessie.rpy:9183
+translate russian ch3j_12_be875979:
+
+    # "I'd not realized we'd come so close to the tipping point. She had let none of it show."
+    ""
+
+# game/script_jessie.rpy:9184
+translate russian ch3j_12_f4d5078f:
+
+    # c "That is a definite relief."
+    c ""
+
+# game/script_jessie.rpy:9186
+translate russian ch3j_12_8a477455:
+
+    # c "I suppose we ought to hold off talking about anything she mentioned?"
+    c ""
+
+# game/script_jessie.rpy:9188
+translate russian ch3j_12_7ac2ae36:
+
+    # j "For one more night... at least."
+    j ""
+
+# game/script_jessie.rpy:9222
+translate russian ch3j_13_1c4e5b5c:
+
+    # "Jessie's gone when I wake."
+    ""
+
+# game/script_jessie.rpy:9223
+translate russian ch3j_13_dcbe56c6:
+
+    # "A knot forms in my stomach. Luckily, instead of an abandoned dress on the floor, she's left a note behind on the pillow."
+    ""
+
+# game/script_jessie.rpy:9231
+translate russian ch3j_13_0a45841e:
+
+    # lettertext2mobile "Good morning, my love!\n\nI thought it best to head home early. I didn't want to wake you. Meet me after work? On our hill, as always.\n\nYours,{image=jessie.png}{alt}Jessie{/alt}{image=kiss.png}{alt}Kiss{/alt}"
+    lettertext2mobile ""
+
+# game/script_jessie.rpy:9233
+translate russian ch3j_13_ea373bfd:
+
+    # lettertext2 "Good morning, my love!\n\nI thought it best to head home early. I didn't want to wake you. Meet me after work? On our hill, as always.\n\nLove,{image=jessie.png}{alt}Jessie{/alt}{image=kiss.png}{alt}Kiss{/alt}"
+    lettertext2 ""
+
+# game/script_jessie.rpy:9240
+translate russian ch3j_13_fa1065fd:
+
+    # "I'll be there. I know I will, because I'm almost addicted to her presence. I need to be around her."
+    ""
+
+# game/script_jessie.rpy:9241
+translate russian ch3j_13_768b068c:
+
+    # "It's a craving I never want sated."
+    ""
+
+# game/script_jessie.rpy:9259
+translate russian ch3j_13_11cdf7de:
+
+    # "I dress, and make Gran's tea, as requested. The teapot is full of hot water and loose leaves when she comes out from her room."
+    ""
+
+# game/script_jessie.rpy:9266
+translate russian ch3j_13_3d178a0d:
+
+    # s "Did you make scones, as well?"
+    s ""
+
+# game/script_jessie.rpy:9267
+translate russian ch3j_13_52b438d9:
+
+    # c "Good morning, Gran. We have some muffins that Marion sent over with Jessie. I can heat and butter one for you."
+    c ""
+
+# game/script_jessie.rpy:9269
+translate russian ch3j_13_0b48fe6d:
+
+    # s "Oh, that Marion! Always thinking of others."
+    s ""
+
+# game/script_jessie.rpy:9270
+translate russian ch3j_13_4a690ca9:
+
+    # "Gran winks, and I roll my eyes directly at her."
+    ""
+
+# game/script_jessie.rpy:9271
+translate russian ch3j_13_a5d0b593:
+
+    # c "I have no words."
+    c ""
+
+# game/script_jessie.rpy:9273
+translate russian ch3j_13_50df32c7:
+
+    # s "Good thing I do. Sit down, Malcolm."
+    s ""
+
+# game/script_jessie.rpy:9279
+translate russian ch3j_13_bf95a657:
+
+    # "I oblige."
+    ""
+
+# game/script_jessie.rpy:9281
+translate russian ch3j_13_98a9a486:
+
+    # s "I do apologize again for last night. I won't speak of it again except to mention one thing."
+    s ""
+
+# game/script_jessie.rpy:9282
+translate russian ch3j_13_4eb2844a:
+
+    # c "And what is that?"
+    c ""
+
+# game/script_jessie.rpy:9284
+translate russian ch3j_13_fd391028:
+
+    # s "I keep hearing the last thing your father said before he left for good. It repeated in my head all night."
+    s ""
+
+# game/script_jessie.rpy:9286
+translate russian ch3j_13_6ef9672f:
+
+    # s "He held two suitcases in his hands. It was... well, truthfully, it was the same as seeing you off for service."
+    s ""
+
+# game/script_jessie.rpy:9288
+translate russian ch3j_13_40bf7639:
+
+    # s "Plainly stated, I didn't know if I'd see either of you ever again."
+    s ""
+
+# game/script_jessie.rpy:9293
+translate russian ch3j_13_4bd283a3:
+
+    # "I pour our tea, and blow into the hot liquid in my cup. My stomach is in knots over a lot of things, and I know this story will make it worse. Still... I'm anxious to hear what my father had to say."
+    ""
+
+# game/script_jessie.rpy:9296
+translate russian ch3j_13_652262c2:
+
+    # s "He said, \"I hope you understand one day.\" That's all."
+    s ""
+
+# game/script_jessie.rpy:9298
+translate russian ch3j_13_8a7b9a75:
+
+    # c "Understand their decision to leave?"
+    c ""
+
+# game/script_jessie.rpy:9300
+translate russian ch3j_13_d78bba19:
+
+    # s "I suppose so. I didn't ask. He followed your mother out the front door, and never looked back."
+    s ""
+
+# game/script_jessie.rpy:9301
+translate russian ch3j_13_bc48f327:
+
+    # c "How odd."
+    c ""
+
+# game/script_jessie.rpy:9304
+translate russian ch3j_13_e3b104ae:
+
+    # s "Do you remember what you said when you left to go overseas?"
+    s ""
+
+# game/script_jessie.rpy:9306
+translate russian ch3j_13_9d9fb6df:
+
+    # c "I do."
+    c ""
+
+# game/script_jessie.rpy:9307
+translate russian ch3j_13_94aaf4f8:
+
+    # "My heart sinks when I realize my grandmother's point."
+    ""
+
+# game/script_jessie.rpy:9308
+translate russian ch3j_13_bf712b38:
+
+    # c "I told you I would see you soon."
+    c ""
+
+# game/script_jessie.rpy:9310
+translate russian ch3j_13_5e4cf0d1:
+
+    # s "Then you told me \"I love you.\""
+    s ""
+
+# game/script_jessie.rpy:9312
+translate russian ch3j_13_aa724fac:
+
+    # "We sip our tea, and nibble on our breakfast."
+    ""
+
+# game/script_jessie.rpy:9314
+translate russian ch3j_13_7d58ecf2:
+
+    # c "You don't think they'll ever come back?"
+    c ""
+
+# game/script_jessie.rpy:9317
+translate russian ch3j_13_1aee566b:
+
+    # s "Never."
+    s ""
+
+# game/script_jessie.rpy:9318
+translate russian ch3j_13_701d3768:
+
+    # s "And I don't blame her or him. Neither one. Not anymore, at least."
+    s ""
+
+# game/script_jessie.rpy:9320
+translate russian ch3j_13_89eb2adf:
+
+    # s "It was a mutual decision. Just one that broke my heart. I held onto so many horrible feelings. Emotions I needed to let go of years and years ago."
+    s ""
+
+# game/script_jessie.rpy:9323
+translate russian ch3j_13_b4b73138:
+
+    # s "Now that you're here... I want to blame her."
+    s ""
+
+# game/script_jessie.rpy:9324
+translate russian ch3j_13_195a8ae0:
+
+    # c "My mother?"
+    c ""
+
+# game/script_jessie.rpy:9326
+translate russian ch3j_13_1868f392:
+
+    # s "Jessie."
+    s ""
+
+# game/script_jessie.rpy:9327
+translate russian ch3j_13_effc2aa8:
+
+    # c "Oh, Gran."
+    c ""
+
+# game/script_jessie.rpy:9329
+translate russian ch3j_13_65c98e09:
+
+    # s "And I can't. And I shan't anymore."
+    s ""
+
+# game/script_jessie.rpy:9330
+translate russian ch3j_13_7fe8e680:
+
+    # s "Because I know you love me. And I know you two love each other."
+    s ""
+
+# game/script_jessie.rpy:9331
+translate russian ch3j_13_f558b660:
+
+    # c "I stick to my promise to never abandon you."
+    c ""
+
+# game/script_jessie.rpy:9333
+translate russian ch3j_13_8d3262d8:
+
+    # s "Please don't. Do what you need to do, as a couple. I will understand. I've learned to understand... or rather, I'm in the process of learning. It's hard to teach an old dog new tricks!"
+    s ""
+
+# game/script_jessie.rpy:9335
+translate russian ch3j_13_49571c8b:
+
+    # c "Oh, Gran. It's hard to teach a new dog old tricks, for that matter!"
+    c ""
+
+# game/script_jessie.rpy:9339
+translate russian ch3j_13_8ae1e1b9:
+
+    # "I chuckle lightly, trying to restore some levity to the conversation as I clear our dishes. I don't want to appease Gran with platitudes. I want to show her with my actions that I'm here to stay."
+    ""
+
+# game/script_jessie.rpy:9341
+translate russian ch3j_13_f6e2356e:
+
+    # "But being honest with myself... here I am, preparing my grandmother for yet another goodbye."
+    ""
+
+# game/script_jessie.rpy:9342
+translate russian ch3j_13_cd416fae:
+
+    # "Even I can't reconcile what that must feel like."
+    ""
+
+# game/script_jessie.rpy:9343
+translate russian ch3j_13_9867b9fe:
+
+    # c "Jessie and I will always be here for you. Whether you like it or not!"
+    c ""
+
+# game/script_jessie.rpy:9345
+translate russian ch3j_13_32a820a7:
+
+    # "The teasing does nothing but upset her more."
+    ""
+
+# game/script_jessie.rpy:9347
+translate russian ch3j_13_1c4278d1:
+
+    # s "No lies, Malcolm. Please. Just assure me that I will be safe. Perhaps I can live with Marion? Maybe the pastor can find me suitable housing?"
+    s ""
+
+# game/script_jessie.rpy:9348
+translate russian ch3j_13_9ddb69b0:
+
+    # c "You're jumping the gun, Gran. Let me speak with Jessie. She and I still have a lot to figure out."
+    c ""
+
+# game/script_jessie.rpy:9351
+translate russian ch3j_13_43dad3d2:
+
+    # s "Like keeping her temper in check?"
+    s ""
+
+# game/script_jessie.rpy:9353
+translate russian ch3j_13_ccb92192:
+
+    # "Gran cracks a smile, but I cringe."
+    ""
+
+# game/script_jessie.rpy:9354
+translate russian ch3j_13_a24600fe:
+
+    # c "Well, that's one thing. I'm going to see her this evening. You and I can chat again tomorrow."
+    c ""
+
+# game/script_jessie.rpy:9356
+translate russian ch3j_13_9ba52e12:
+
+    # s "All right, let's. Today's a busy day, after all! Marion's taking me to the church picnic, and afterward I need to catch up on my serials."
+    s ""
+
+# game/script_jessie.rpy:9357
+translate russian ch3j_13_3f876840:
+
+    # c "Serials?"
+    c ""
+
+# game/script_jessie.rpy:9359
+translate russian ch3j_13_49b7a026:
+
+    # s "Yes! Jessie brought me some romance stories and magazines. I'm at least two months behind!"
+    s ""
+
+# game/script_jessie.rpy:9360
+translate russian ch3j_13_8b907d17:
+
+    # "I laugh. {i}That{/i} is some reading that's bound to teach Gran some new tricks."
+    ""
+
+# game/script_jessie.rpy:9361
+translate russian ch3j_13_39e60c48:
+
+    # c "I'll leave you to your cronies and your stories, then, and see you for dinner."
+    c ""
+
+# game/script_jessie.rpy:9363
+translate russian ch3j_13_28aae691:
+
+    # s "I got us a nice cut of beef from the butcher. Perhaps we can enjoy it, tonight."
+    s ""
+
+# game/script_jessie.rpy:9365
+translate russian ch3j_13_01066fe1:
+
+    # "I don't have the heart to tell Gran it's already been enjoyed. I hug her gently, and go outside to begin my day."
+    ""
+
+# game/script_jessie.rpy:9388
+translate russian ch3j_14_13717e2b:
+
+    # "It feels good to relax my muscles, as I sit on the grass waiting for Jessie to finish her shift."
+    ""
+
+# game/script_jessie.rpy:9389
+translate russian ch3j_14_9134da7c:
+
+    # "I made good progress today. The garden patch has been weeded, the animals tended, and to cap the day off, the hog pen is done and ready to receive its tenants."
+    ""
+
+# game/script_jessie.rpy:9390
+translate russian ch3j_14_2f1abbe5:
+
+    # "It's all starting to come together... but tonight more than ever, I'm beginning to wonder just what \"it\" is."
+    ""
+
+# game/script_jessie.rpy:9391
+translate russian ch3j_14_e72c2900:
+
+    # "Is it a labor of love to build a place I can finally call home?"
+    ""
+
+# game/script_jessie.rpy:9392
+translate russian ch3j_14_4542fef4:
+
+    # "Or is it just something to wile away the hours, a dim distraction in between bright moments with my shining star of a girl?"
+    ""
+
+# game/script_jessie.rpy:9394
+translate russian ch3j_14_40c31703:
+
+    # "I don't know. But perhaps the answer is running up the hill towards me."
+    ""
+
+# game/script_jessie.rpy:9396
+translate russian ch3j_14_afd5ef2c:
+
+    # "My muscles tense again. Last night didn't exactly end on a high note. How is Jessie handling it? As she gets closer, I can make out her face..."
+    ""
+
+# game/script_jessie.rpy:9398
+translate russian ch3j_14_50d41a34:
+
+    # "Her tail is wagging, and she's wearing a smile larger than I've ever seen."
+    ""
+
+# game/script_jessie.rpy:9399
+translate russian ch3j_14_3179101a:
+
+    # j "Malcolm! Malcolm, it's a miracle!"
+    j ""
+
+# game/script_jessie.rpy:9405
+translate russian ch3j_14_3b1bc793:
+
+    # c "What is it—{i}ooof!{/i}"
+    c ""
+
+# game/script_jessie.rpy:9406
+translate russian ch3j_14_4f8e0441:
+
+    # "Jessie almost knocks me flat on my back in her excitement. I'm at a loss to even guess what is happening."
+    ""
+
+# game/script_jessie.rpy:9407
+translate russian ch3j_14_4caa2c2d:
+
+    # c "Tell me!"
+    c ""
+
+# game/script_jessie.rpy:9409
+translate russian ch3j_14_6a7d0263:
+
+    # j "It's Walter! He's coming!"
+    j ""
+
+# game/script_jessie.rpy:9410
+translate russian ch3j_14_398e9057:
+
+    # c "Walter? Walter who?"
+    c ""
+
+# game/script_jessie.rpy:9412
+translate russian ch3j_14_338878c9:
+
+    # j "Wondrous Walter! The vaudevillian!"
+    j ""
+
+# game/script_jessie.rpy:9413
+translate russian ch3j_14_63ea50a8:
+
+    # c "That man with a monkey? I don't understand."
+    c ""
+
+# game/script_jessie.rpy:9414
+translate russian ch3j_14_9e2eb960:
+
+    # "The way he \"played\" his trumpet upon his penny-farthing screeches into my mind unbidden. Why would she care about that clown?"
+    ""
+
+# game/script_jessie.rpy:9416
+translate russian ch3j_14_1f939075:
+
+    # j "Not just a monkey, Malcolm! A traveling show! He brings in hundreds of people now. He's travelled to America! He performed for {i}the president!{/i}"
+    j ""
+
+# game/script_jessie.rpy:9417
+translate russian ch3j_14_b49eaf04:
+
+    # c "Wait. Are you sure we're talking about the same Walter?"
+    c ""
+
+# game/script_jessie.rpy:9419
+translate russian ch3j_14_09bca8bb:
+
+    # j "Yes! He was at the church picnic today! He spoke with Marion. Took quite a shine to her, Balgair told me. She told him... Walter, that is... about my act!"
+    j ""
+
+# game/script_jessie.rpy:9421
+translate russian ch3j_14_4f7f875f:
+
+    # c "And...?"
+    c ""
+
+# game/script_jessie.rpy:9423
+translate russian ch3j_14_586c8fc5:
+
+    # j "Walter's coming tomorrow to watch me perform. Balgair convinced him to stay the night at the Stag & Nanny, and see me sing! This could be my big break, Malcolm! This is it!"
+    j ""
+
+# game/script_jessie.rpy:9425
+translate russian ch3j_14_f9d10b8d:
+
+    # c "With the monkey?"
+    c ""
+
+# game/script_jessie.rpy:9427
+translate russian ch3j_14_433ea181:
+
+    # j "Silly! It's not about the monkey. Oh, isn't it marvelous?"
+    j ""
+
+# game/script_jessie.rpy:9428
+translate russian ch3j_14_4c454b25:
+
+    # "Jessie stares into my eyes as if lost in a moving picture fantasy."
+    ""
+
+# game/script_jessie.rpy:9429
+translate russian ch3j_14_983ab88e:
+
+    # j "Wondrous Walter!"
+    j ""
+
+# game/script_jessie.rpy:9430
+translate russian ch3j_14_58f27534:
+
+    # c "Wondrous, indeed."
+    c ""
+
+# game/script_jessie.rpy:9432
+translate russian ch3j_14_1254be89:
+
+    # j "You don't sound excited?"
+    j ""
+
+# game/script_jessie.rpy:9434
+translate russian ch3j_14_4c558061:
+
+    # c "I'm still taking it in. I... didn't know he was such a star."
+    c ""
+
+# game/script_jessie.rpy:9436
+translate russian ch3j_14_f9c44ef4:
+
+    # j "Oh, yes! This month's {i}Mystique{/i} magazine interviewed him, and he told all about his escapades. Did you know he's been to the Galapagos? How wild is that!?"
+    j ""
+
+# game/script_jessie.rpy:9437
+translate russian ch3j_14_21f78b6e:
+
+    # c "That is... quite wild. Can you even bring a monkey there?"
+    c ""
+
+# game/script_jessie.rpy:9439
+translate russian ch3j_14_73aaff6f:
+
+    # j "Malcolm! If he likes my act, I could be packed and living in Glasgow by the end of the month, maybe by the end of the week! Oh, glorious day! It's a sign."
+    j ""
+
+# game/script_jessie.rpy:9440
+translate russian ch3j_14_6bac606b:
+
+    # c "A sign from whom?"
+    c ""
+
+# game/script_jessie.rpy:9442
+translate russian ch3j_14_569da2cf:
+
+    # j "From the heavens! The stars are aligned. This is {i}it{/i}. My moment."
+    j ""
+
+# game/script_jessie.rpy:9443
+translate russian ch3j_14_de0e6fca:
+
+    # c "I... really want to share in your excitement. I do. This is just so fast, so sudden."
+    c ""
+
+# game/script_jessie.rpy:9447
+translate russian ch3j_14_43d181db:
+
+    # "Jessie stares at me, as if finding it hard to digest the truth in my hesitance."
+    ""
+
+# game/script_jessie.rpy:9452
+translate russian ch3j_14_c5e043f2:
+
+    # j "You don't want to come to the city with me, do you?"
+    j ""
+
+# game/script_jessie.rpy:9453
+translate russian ch3j_14_ed87e114:
+
+    # c "I thought we'd put that idea on the shelf, at least for a little while."
+    c ""
+
+# game/script_jessie.rpy:9455
+translate russian ch3j_14_d390692f:
+
+    # j "It's been a while. I need to seize this opportunity. It could be once in a lifetime!"
+    j ""
+
+# game/script_jessie.rpy:9456
+translate russian ch3j_14_12faba71:
+
+    # c "I'm sure if he likes you that you can move any time you want. He'll wait. It would be worth it for him."
+    c ""
+
+# game/script_jessie.rpy:9458
+translate russian ch3j_14_b67e1aa2:
+
+    # j "That's not the point. I don't want to wait. I've already waited. Years."
+    j ""
+
+# game/script_jessie.rpy:9459
+translate russian ch3j_14_933c72df:
+
+    # c "But..."
+    c ""
+
+# game/script_jessie.rpy:9461
+translate russian ch3j_14_ba78f78c:
+
+    # j "No. I want to make us happy. This will help! I know it will. And please don't chastise me like your grandmother did, Malcolm. This means too much to me."
+    j ""
+
+# game/script_jessie.rpy:9463
+translate russian ch3j_14_211a4258:
+
+    # "I want to. I really do. But what's the point? If I tell her she's being selfish, she already knows it anyway, and doesn't seem to care."
+    ""
+
+# game/script_jessie.rpy:9464
+translate russian ch3j_14_40c53442:
+
+    # "What voice do I have in the matter? And why do I want to use it?"
+    ""
+
+# game/script_jessie.rpy:9465
+translate russian ch3j_14_db5f950a:
+
+    # c "Jessie, you're entitled to chase your dreams, and put yourself first. But..."
+    c ""
+
+# game/script_jessie.rpy:9467
+translate russian ch3j_14_760ce894:
+
+    # j "No buts... I won't stand for it."
+    j ""
+
+# game/script_jessie.rpy:9468
+translate russian ch3j_14_85b17e67:
+
+    # c "It's going to put a lot of strain on us, on our families."
+    c ""
+
+# game/script_jessie.rpy:9470
+translate russian ch3j_14_58744a96:
+
+    # j "I'm thinking of both of us. All of us. You're talking about emotional strain. Just think. For one second. Think about all of their financial strains... gone. Gone in a matter of days."
+    j ""
+
+# game/script_jessie.rpy:9471
+translate russian ch3j_14_3b2caa16:
+
+    # "I do, and it's unfathomable."
+    ""
+
+# game/script_jessie.rpy:9472
+translate russian ch3j_14_94f24e36:
+
+    # c "You can't promise that."
+    c ""
+
+# game/script_jessie.rpy:9474
+translate russian ch3j_14_1624430f:
+
+    # j "But Walter can. I have him draw up a contract. Payment up front."
+    j ""
+
+# game/script_jessie.rpy:9475
+translate russian ch3j_14_36105a12:
+
+    # c "You've thought about this already, haven't you?"
+    c ""
+
+# game/script_jessie.rpy:9477
+translate russian ch3j_14_95735598:
+
+    # j "Not just thought, dreamed. Fantasized. You know it's not just about the money for me, but oh, the safety it would guarantee us. Just from singing and shaking myself about!"
+    j ""
+
+# game/script_jessie.rpy:9479
+translate russian ch3j_14_9b0a28a9:
+
+    # j "Can't you imagine that? Your Gran, my sisters, never pinching a penny again. Never worrying about losing their homes, or wanting for food."
+    j ""
+
+# game/script_jessie.rpy:9481
+translate russian ch3j_14_0083c9c3:
+
+    # j "Maybe Grace would even quit jumping into the loch to catch dinner!"
+    j ""
+
+# game/script_jessie.rpy:9482
+translate russian ch3j_14_02f35f5f:
+
+    # c "Well, I doubt that."
+    c ""
+
+# game/script_jessie.rpy:9484
+translate russian ch3j_14_1fe99010:
+
+    # j "Either way, it will be miraculous."
+    j ""
+
+# game/script_jessie.rpy:9486
+translate russian ch3j_14_d3e251c6:
+
+    # "Jessie's voice lowers, and she sounds so serene. Almost somber."
+    ""
+
+# game/script_jessie.rpy:9488
+translate russian ch3j_14_9149cc46:
+
+    # j "I want desperately to be with you. I just don't know how to explain that I want this nearly as much. Nothing is permanent. If we don't thrive together away from here, we can return."
+    j ""
+
+# game/script_jessie.rpy:9489
+translate russian ch3j_14_5e2f4c65:
+
+    # "I recall Gran's story of my parents leaving this small town. Can they return? Could Jessie and I truly do that? Would she abandon her dreams if everything goes downhill?"
+    ""
+
+# game/script_jessie.rpy:9490
+translate russian ch3j_14_2da6d021:
+
+    # "Truthfully, in my heart, I see that she shows love by opening herself up to me, by having made herself already so vulnerable."
+    ""
+
+# game/script_jessie.rpy:9491
+translate russian ch3j_14_6465dcf6:
+
+    # "I want to take this leap of faith with her. To be by her side and offer my support."
+    ""
+
+# game/script_jessie.rpy:9492
+translate russian ch3j_14_64c9670c:
+
+    # "What else is holding me back?"
+    ""
+
+# game/script_jessie.rpy:9494
+translate russian ch3j_14_640828d3:
+
+    # c "What about your..."
+    c ""
+
+# game/script_jessie.rpy:9508
+translate russian ch3j_14_2c83302e:
+
+    # "I boop her on the snout."
+    ""
+
+# game/script_jessie.rpy:9510
+translate russian ch3j_14_7b7bb90b:
+
+    # j "Not a problem. I know myself. I can control it. It's easy as changing clothes, now!"
+    j ""
+
+# game/script_jessie.rpy:9512
+translate russian ch3j_14_676a6f00:
+
+    # j "And your Gran's wrong. This magic isn't part of the village. It's part of {i}me.{/i} Everything will work out fine."
+    j ""
+
+# game/script_jessie.rpy:9514
+translate russian ch3j_14_9388ca58:
+
+    # "Who is she trying to convince? Me? Or herself?"
+    ""
+
+# game/script_jessie.rpy:9515
+translate russian ch3j_14_a20cefa7:
+
+    # "..."
+    ""
+
+# game/script_jessie.rpy:9516
+translate russian ch3j_14_b6ee99aa:
+
+    # "It doesn't matter. As Jessie holds me, I have to be honest with her, and myself. This isn't just about my fear of her losing control of herself."
+    ""
+
+# game/script_jessie.rpy:9518
+translate russian ch3j_14_8703bba2:
+
+    # c "I don't want you to go."
+    c ""
+
+# game/script_jessie.rpy:9521
+translate russian ch3j_14_8b069b01:
+
+    # j "I know, but I don't understand why."
+    j ""
+
+# game/script_jessie.rpy:9522
+translate russian ch3j_14_27f8c5ba:
+
+    # c "You do understand. You're just trying to convince me otherwise."
+    c ""
+
+# game/script_jessie.rpy:9524
+translate russian ch3j_14_941444cd:
+
+    # j "You would come with me and live the high life! Be my manager, carry my trunks, make love to me by firelight every evening, and join me for high tea every afternoon and cocktails all night long!!"
+    j ""
+
+# game/script_jessie.rpy:9525
+translate russian ch3j_14_0739313d:
+
+    # c "You're painting quite the picture."
+    c ""
+
+# game/script_jessie.rpy:9529
+translate russian ch3j_14_54de9552:
+
+    # j "There's a but, isn't there?"
+    j ""
+
+# game/script_jessie.rpy:9530
+translate russian ch3j_14_877faf06:
+
+    # "Jessie's created a perfect imaginary world for herself. A world she's concocted for years."
+    ""
+
+# game/script_jessie.rpy:9531
+translate russian ch3j_14_52edbb4b:
+
+    # "She's looking for romance and adventure. Dare I tell her what the world outside of this village bubble is really like?"
+    ""
+
+# game/script_jessie.rpy:9532
+translate russian ch3j_14_b8d1612a:
+
+    # "The unsavory riffraff, the filth, the poverty and disease?"
+    ""
+
+# game/script_jessie.rpy:9533
+translate russian ch3j_14_081726c3:
+
+    # c "You're dreaming of a fantasy life that might not exist! You're after adventure, but spinning a story of pure imagination!"
+    c ""
+
+# game/script_jessie.rpy:9536
+translate russian ch3j_14_d6811c4b:
+
+    # j "You're my adventure, too, Malcolm. You're part of my story! But why can't I have other fantasies, too?"
+    j ""
+
+# game/script_jessie.rpy:9537
+translate russian ch3j_14_c1e583a9:
+
+    # c "Life isn't about sex and fame!"
+    c ""
+
+# game/script_jessie.rpy:9539
+translate russian ch3j_14_17d5b9a0:
+
+    # j "Then tell me, what {i}is{/i} it about? Working on a farm? Slaving your life away? For what? Existence? Meager living? Tell me, Malcolm!"
+    j ""
+
+# game/script_jessie.rpy:9544
+translate russian ch3j_14_9f345a31:
+
+    # c "Family, Jessie! It's about family! Honor! Dedication. Caring for others. Not. Being. Selfish. The big city can't give you anything more that you need! You have everything right here."
+    c ""
+
+# game/script_jessie.rpy:9546
+translate russian ch3j_14_8991ffe6:
+
+    # "Jessie's scowl indicates that she's not in agreement. At all."
+    ""
+
+# game/script_jessie.rpy:9547
+translate russian ch3j_14_8b456129:
+
+    # c "Besides... aren't you a pack animal now?"
+    c ""
+
+# game/script_jessie.rpy:9549
+translate russian ch3j_14_366a372b:
+
+    # "The joke doesn't go over well."
+    ""
+
+# game/script_jessie.rpy:9551
+translate russian ch3j_14_dab63634:
+
+    # c "You're right. I shouldn't have said that. Life shouldn't just be about toil. Not anymore."
+    c ""
+
+# game/script_jessie.rpy:9553
+translate russian ch3j_14_51477228:
+
+    # "I open my hands placatingly, and try to help Jessie understand my perspective."
+    ""
+
+# game/script_jessie.rpy:9554
+translate russian ch3j_14_633441ba:
+
+    # c "I've only just come home. The thought of leaving again is overwhelming."
+    c ""
+
+# game/script_jessie.rpy:9555
+translate russian ch3j_14_6b886983:
+
+    # c "I don't expect you to be thinking of my needs all the time, but just this once, maybe you could take a breath and consider my reservations."
+    c ""
+
+# game/script_jessie.rpy:9558
+translate russian ch3j_14_57f9e3f0:
+
+    # j "So you think I'm selfish, too?"
+    j ""
+
+# game/script_jessie.rpy:9559
+translate russian ch3j_14_b7f3aa38:
+
+    # c "I think that's how you're behaving right now. Yes. Even though you have every right to be."
+    c ""
+
+# game/script_jessie.rpy:9560
+translate russian ch3j_14_b28c25a3:
+
+    # c "I know I'm new to your picture, but you're no longer seeing the whole of it. You—for all your open-mindedness—are acting so narrow-minded right now. I wish you could see what I see."
+    c ""
+
+# game/script_jessie.rpy:9562
+translate russian ch3j_14_ac1ea15a:
+
+    # "Jessie opens her mouth to protest, but I continue."
+    ""
+
+# game/script_jessie.rpy:9563
+translate russian ch3j_14_30de96d0:
+
+    # c "However, I also know that living here must feel like a punishment. I don't want to hold you back."
+    c ""
+
+# game/script_jessie.rpy:9567
+translate russian ch3j_14_c0187830:
+
+    # "She shakes her head, looking around exasperated before once again locking her gaze on me."
+    ""
+
+# game/script_jessie.rpy:9568
+translate russian ch3j_14_82abbf62:
+
+    # j "Malcolm, I have to get out of here. I've been stifled for entirely too long. I've heard the rumors! What the women in town say about me. Harlot. Scandalous. Tramp!"
+    j ""
+
+# game/script_jessie.rpy:9570
+translate russian ch3j_14_85c07266:
+
+    # j "Do you think I want to be in a town that sees me that way? I won't stand for it."
+    j ""
+
+# game/script_jessie.rpy:9572
+translate russian ch3j_14_2e40fd52:
+
+    # c "A couple of aging biddies don't make up a whole town. Think of everyone who cheers you on every night!"
+    c ""
+
+# game/script_jessie.rpy:9573
+translate russian ch3j_14_62407c82:
+
+    # "Even I know my arguments are weak. I'm not about to use myself as a pawn. There's no sense in hurting her further."
+    ""
+
+# game/script_jessie.rpy:9574
+translate russian ch3j_14_c7050e91:
+
+    # "A great deal of me empathizes with her need to run and keep running."
+    ""
+
+# game/script_jessie.rpy:9576
+translate russian ch3j_14_a849e93a:
+
+    # j "Every drunk fellow, you mean?"
+    j ""
+
+# game/script_jessie.rpy:9577
+translate russian ch3j_14_b74a03d5:
+
+    # c "They're good to you. So is Balgair. You've said so yourself."
+    c ""
+
+# game/script_jessie.rpy:9579
+translate russian ch3j_14_37920122:
+
+    # j "I've also said time and again... I want a fresh start."
+    j ""
+
+# game/script_jessie.rpy:9581
+translate russian ch3j_14_2b982f24:
+
+    # j "If you stopped and thought about it for one more second, Malcolm, you would agree. There's something better for you. For us. I know that you want to leave, too!"
+    j ""
+
+# game/script_jessie.rpy:9583
+translate russian ch3j_14_9d6b47c0:
+
+    # c "I... don't."
+    c ""
+
+# game/script_jessie.rpy:9585
+translate russian ch3j_14_18dd8959:
+
+    # "But part of me doesn't know that... or anything... anymore."
+    ""
+
+# game/script_jessie.rpy:9586
+translate russian ch3j_14_e1dd34d8:
+
+    # "I've never been this unsure of my own thoughts."
+    ""
+
+# game/script_jessie.rpy:9589
+translate russian ch3j_14_e50ea2d8:
+
+    # j "Then what do you want?"
+    j ""
+
+# game/script_jessie.rpy:9591
+translate russian ch3j_14_3c09424f:
+
+    # "My ears start ringing."
+    ""
+
+# game/script_jessie.rpy:9592
+translate russian ch3j_14_fe9f01cb:
+
+    # "What {i}do{/i} I want?"
+    ""
+
+# game/script_jessie.rpy:9594
+translate russian ch3j_14_67e9d65d:
+
+    # "Do I not know? How could I?"
+    ""
+
+# game/script_jessie.rpy:9595
+translate russian ch3j_14_14211485:
+
+    # "I was a child. Then a soldier. An immediate transition."
+    ""
+
+# game/script_jessie.rpy:9596
+translate russian ch3j_14_feee066b:
+
+    # "But I'm an adult now. Free to follow my heart's desires."
+    ""
+
+# game/script_jessie.rpy:9598
+translate russian ch3j_14_479ef969:
+
+    # "Gran's words echo in my mind. \"I've always been taught that our choices weren't ours to decide. That there's a plan, and a decision-maker above who guides us.\""
+    ""
+
+# game/script_jessie.rpy:9599
+translate russian ch3j_14_18441d56:
+
+    # "I made it through battle, and I'm just happy to be alive. That's it. Or that {i}was{/i} it. Until Jessie."
+    ""
+
+# game/script_jessie.rpy:9600
+translate russian ch3j_14_da0e6c5a:
+
+    # "Now, given all the freedom in the world... I can only think of one thing."
+    ""
+
+# game/script_jessie.rpy:9602
+translate russian ch3j_14_ff6028ed:
+
+    # c "I want to be with you."
+    c ""
+
+# game/script_jessie.rpy:9613
+translate russian ch3j_14_16930e74:
+
+    # "Jessie puts her head to my chest."
+    ""
+
+# game/script_jessie.rpy:9614
+translate russian ch3j_14_12b407a0:
+
+    # j "I know. I want to be with you, too."
+    j ""
+
+# game/script_jessie.rpy:9615
+translate russian ch3j_14_807e0f28:
+
+    # j "But... think of us in a better place. We can escape the monotony... the back-breaking work."
+    j ""
+
+# game/script_jessie.rpy:9616
+translate russian ch3j_14_03070465:
+
+    # c "I want Gran to be happy."
+    c ""
+
+# game/script_jessie.rpy:9617
+translate russian ch3j_14_e2fa60c9:
+
+    # j "I could make us so much money my family, your grandmother, would never want for anything again."
+    j ""
+
+# game/script_jessie.rpy:9618
+translate russian ch3j_14_15da6001:
+
+    # c "Believe me, I would want that for all of us."
+    c ""
+
+# game/script_jessie.rpy:9619
+translate russian ch3j_14_479bc60b:
+
+    # j "I'm sick of living a double life, or retreating home every night like a commoner. I'm tired of needing to be saved. I want to take care of myself!"
+    j ""
+
+# game/script_jessie.rpy:9620
+translate russian ch3j_14_3f10ee55:
+
+    # c "The world doesn't always let us do that. I've been saved as many times over as anyone else. You need other people by your side. You just do."
+    c ""
+
+# game/script_jessie.rpy:9621
+translate russian ch3j_14_f21d4ee7:
+
+    # j "Maybe {i}you{/i} do, but I don't."
+    j ""
+
+# game/script_jessie.rpy:9622
+translate russian ch3j_14_708bf3ee:
+
+    # c "Is that really what this is about? Striking out on your own to make a name for yourself?"
+    c ""
+
+# game/script_jessie.rpy:9623
+translate russian ch3j_14_43e34c44:
+
+    # j "Of course that's part of it. I've earned the spotlight!"
+    j ""
+
+# game/script_jessie.rpy:9624
+translate russian ch3j_14_2b41c2c3:
+
+    # c "You have it here! Jessie, do you want to be a big fish in a small pond or a small fish in a big pond?"
+    c ""
+
+# game/script_jessie.rpy:9625
+translate russian ch3j_14_9d0737ed:
+
+    # j "What makes you think I can't be a big fish anywhere?"
+    j ""
+
+# game/script_jessie.rpy:9626
+translate russian ch3j_14_d5937410:
+
+    # c "Because I've seen Glasgow. Paris. London. The glamour and the grime. I think they're all beautiful, but filthy, ponds."
+    c ""
+
+# game/script_jessie.rpy:9627
+translate russian ch3j_14_f7b6d352:
+
+    # j "I'd rather be in a big pond than this stagnant loch. Nothing changes... at least for the better."
+    j ""
+
+# game/script_jessie.rpy:9628
+translate russian ch3j_14_0f0fa425:
+
+    # c "We fell in love! You're a {i}werewolf!{/i} Those are big changes!"
+    c ""
+
+# game/script_jessie.rpy:9629
+translate russian ch3j_14_df177c3a:
+
+    # "She doesn't even pause."
+    ""
+
+# game/script_jessie.rpy:9630
+translate russian ch3j_14_0420adb9:
+
+    # j "I don't have friends. There's nothing to do! No one else understands me except you!"
+    j ""
+
+# game/script_jessie.rpy:9632
+translate russian ch3j_14_62bd1280:
+
+    # c "I'm talking to a brick wall, aren't I?"
+    c ""
+
+# game/script_jessie.rpy:9633
+translate russian ch3j_14_85bc6456:
+
+    # j "Joke all you want. My mind is made up. And it's not like you have to worry about my safety. I've already been shot!"
+    j ""
+
+# game/script_jessie.rpy:9634
+translate russian ch3j_14_d3c595cb:
+
+    # c "My Lord, now who's joking? Please don't remind me."
+    c ""
+
+# game/script_jessie.rpy:9635
+translate russian ch3j_14_46d4a9f0:
+
+    # "Nor do I remind her that without Alana, neither of us know whether she would have survived."
+    ""
+
+# game/script_jessie.rpy:9636
+translate russian ch3j_14_3c636de6:
+
+    # j "Malcolm, that night... it's not that I want to bring it up again, but..."
+    j ""
+
+# game/script_jessie.rpy:9637
+translate russian ch3j_14_51d89979:
+
+    # "I don't want her to bring it up, either, but I let her say her peace."
+    ""
+
+# game/script_jessie.rpy:9638
+translate russian ch3j_14_3a9d46ca:
+
+    # j "Right before I hit the ground... I had such a vivid moment of clarity. All I could see was your face, and how much I wanted to live... I {i}had{/i} to live, not just for myself... but for you."
+    j ""
+
+# game/script_jessie.rpy:9639
+translate russian ch3j_14_09a6b954:
+
+    # "I cling to her tighter, rubbing her back, letting her know I am close. Always. Just like I keep saying."
+    ""
+
+# game/script_jessie.rpy:9641
+translate russian ch3j_14_c964af28:
+
+    # "If I meant it, wouldn't I just agree with her decisions?"
+    ""
+
+# game/script_jessie.rpy:9642
+translate russian ch3j_14_9bf08283:
+
+    # "Instead, I'm simply disappointed that she won't drop this subject, at least for the time being."
+    ""
+
+# game/script_jessie.rpy:9643
+translate russian ch3j_14_119b4b76:
+
+    # "But... until when? When will I ever be ready to commit to another life change like this?"
+    ""
+
+# game/script_jessie.rpy:9645
+translate russian ch3j_14_20fa9534:
+
+    # "As much as I want to keep arguing the point, I keep my mouth shut. Not for fear of her changing form, but in fear of her words."
+    ""
+
+# game/script_jessie.rpy:9647
+translate russian ch3j_14_da5cb5ee:
+
+    # "I don't want her to say that her life will go forward without me."
+    ""
+
+# game/script_jessie.rpy:9648
+translate russian ch3j_14_e410c382:
+
+    # "Jessie always takes the lead. I should expect it. Perhaps even be fed up, ready to move on. Find someone who is physically and emotionally here for me."
+    ""
+
+# game/script_jessie.rpy:9649
+translate russian ch3j_14_0f1725d0:
+
+    # "Someone with no goals? No aspirations? What a terrific mess that would be. An indifferent couple whose only dreams would be to be boring homebodies."
+    ""
+
+# game/script_jessie.rpy:9651
+translate russian ch3j_14_7ddafb78:
+
+    # "I've never felt so stuck between a rock and a hard place. Give up on true love for the sake of protecting myself? Or follow a wildfire blindly into the forest? Or city, rather."
+    ""
+
+# game/script_jessie.rpy:9653
+translate russian ch3j_14_328cdf64:
+
+    # "I don't know if there's any perfect relationship. I only know I want to forge ahead with the bond I've formed, the wildfire I struck a match to."
+    ""
+
+# game/script_jessie.rpy:9654
+translate russian ch3j_14_c3e5bc99:
+
+    # "Jessie. This defiant, stubborn, gorgeous, and strong-willed wolf-woman."
+    ""
+
+# game/script_jessie.rpy:9655
+translate russian ch3j_14_f293dc25:
+
+    # "Both of us unwilling to give up control."
+    ""
+
+# game/script_jessie.rpy:9656
+translate russian ch3j_14_2c103a8c:
+
+    # "Me, trying to control my own life when I don't even know what I want to do anymore."
+    ""
+
+# game/script_jessie.rpy:9658
+translate russian ch3j_14_caa5956e:
+
+    # j "Come watch me perform tomorrow. Please."
+    j ""
+
+# game/script_jessie.rpy:9668
+translate russian ch3j_14_2ff2435f:
+
+    # "I unwrap myself from her, and hold her by the hands, at arm's length."
+    ""
+
+# game/script_jessie.rpy:9669
+translate russian ch3j_14_b842889b:
+
+    # "I steel myself, and look into those puppy dog eyes, full of hope and determination."
+    ""
+
+# game/script_jessie.rpy:9670
+translate russian ch3j_14_c75c666a:
+
+    # c "I'll try to be there."
+    c ""
+
+# game/script_jessie.rpy:9700
+translate russian ch3j_15_601e6f5e:
+
+    # "Of course I go."
+    ""
+
+# game/script_jessie.rpy:9701
+translate russian ch3j_15_4f4925b8:
+
+    # "To make amends. To offer support and watch her shine. To cheer her on... and see what all the fuss is about with this Walter fellow."
+    ""
+
+# game/script_jessie.rpy:9702
+translate russian ch3j_15_9029323a:
+
+    # "I have to admit, I'm also very interested in seeing this monkey."
+    ""
+
+# game/script_jessie.rpy:9718
+translate russian ch3j_15_1571905d:
+
+    # "The pub is already mobbed. I'm glad Gran wanted to stay home to finish her serial, \"Female Fury;\" she'd not have stood for standing-room-only."
+    ""
+
+# game/script_jessie.rpy:9719
+translate russian ch3j_15_a9f0feb8:
+
+    # "She'd also have been a furious femme to have seen her Whist Guild crony, Mary McEvans, outside protesting the evils of \"flip-floppers.\""
+    ""
+
+# game/script_jessie.rpy:9720
+translate russian ch3j_15_5111bbbe:
+
+    # "I'd have given her a piece of my mind myself, if only I could have stopped laughing."
+    ""
+
+# game/script_jessie.rpy:9722
+translate russian ch3j_15_dbaa46f0:
+
+    # "Fortunately, inside the Stag & Nanny are Jessie's biggest fans: pub regulars, friends, and family."
+    ""
+
+# game/script_jessie.rpy:9723
+translate russian ch3j_15_0f84e51c:
+
+    # "I see Grace near the stage, and a table filled with Murdoch and his clan from the market, smoking cigars and laughing loudly."
+    ""
+
+# game/script_jessie.rpy:9724
+translate russian ch3j_15_3ca601f3:
+
+    # "Even Alana is here, tucked away in a shadowy corner. I would be actively avoiding her, but it doesn't seem as though she wants to be seen, either."
+    ""
+
+# game/script_jessie.rpy:9725
+translate russian ch3j_15_e186e38c:
+
+    # "Word must have spread quickly that a city entertainer is here for the night, wanting to see Jessie. I know immediately who is responsible for the word-of-mouth advertisement."
+    ""
+
+# game/script_jessie.rpy:9736
+translate russian ch3j_15_ceb73908:
+
+    # b "Ahoy, Malcolm! Ready for the big show?"
+    b ""
+
+# game/script_jessie.rpy:9737
+translate russian ch3j_15_4c7199d3:
+
+    # c "I am!"
+    c ""
+
+# game/script_jessie.rpy:9738
+translate russian ch3j_15_ebbfac87:
+
+    # "Ready as I'll ever be."
+    ""
+
+# game/script_jessie.rpy:9740
+translate russian ch3j_15_d546d0be:
+
+    # "Balgair sets two pints on the table beside me."
+    ""
+
+# game/script_jessie.rpy:9747
+translate russian ch3j_15_602d4710:
+
+    # b "Both for you! Have your fill now. I'll be onstage with your lady love, tickling the ivories."
+    b ""
+
+# game/script_jessie.rpy:9748
+translate russian ch3j_15_c3f588a2:
+
+    # c "Angling for your big break, too, sir?"
+    c ""
+
+# game/script_jessie.rpy:9750
+translate russian ch3j_15_20660ff3:
+
+    # b "Nay!"
+    b ""
+
+# game/script_jessie.rpy:9756
+translate russian ch3j_15_deaa548c:
+
+    # "He leans into me."
+    ""
+
+# game/script_jessie.rpy:9757
+translate russian ch3j_15_60f4f960:
+
+    # b "Though if this Walter really does recognize good talent, I'd be happy to get a large tip in my jar."
+    b ""
+
+# game/script_jessie.rpy:9758
+translate russian ch3j_15_350d068a:
+
+    # "Balgair pinches his fingers together right under my chin."
+    ""
+
+# game/script_jessie.rpy:9760
+translate russian ch3j_15_0f68413b:
+
+    # b "I'm {i}this close{/i} to saving up enough for a neon sign to hang over the door."
+    b ""
+
+# game/script_jessie.rpy:9761
+translate russian ch3j_15_b289b7a3:
+
+    # "I just about spit out my sip of ale. A neon sign? Town center would never look the same!"
+    ""
+
+# game/script_jessie.rpy:9767
+translate russian ch3j_15_a122c499:
+
+    # "But... how exactly would he turn it on?"
+    ""
+
+# game/script_jessie.rpy:9769
+translate russian ch3j_15_a942b5ad:
+
+    # "When it comes to Balgair's elaborate plans, sometimes it's best to simply smile and nod."
+    ""
+
+# game/script_jessie.rpy:9770
+translate russian ch3j_15_4dc394d9:
+
+    # c "Best of luck to you, my good man!"
+    c ""
+
+# game/script_jessie.rpy:9790
+translate russian ch3j_15_763cf0a3:
+
+    # "The crowd hushes to a series of low murmurs, and I follow their collective gaze to the door."
+    ""
+
+# game/script_jessie.rpy:9812
+translate russian ch3j_15_6b7a9af3:
+
+    # "A rakish gentleman in a gaudy sporran and an oversized tam has just entered the pub. A high-ranked monkey sits proudly on his shoulder."
+    ""
+
+# game/script_jessie.rpy:9814
+translate russian ch3j_15_9166c633:
+
+    # "Wondrous Walter. He looks as smarmy as I remember him, but now with the unmistakable poise and veneer of someone who made it big."
+    ""
+
+# game/script_jessie.rpy:9815
+translate russian ch3j_15_2c882880:
+
+    # c "I can't believe it. So he's a real Vaudevillian now? What on earth brings him back to our back o'beyond?"
+    c ""
+
+# game/script_jessie.rpy:9817
+translate russian ch3j_15_9d1b991d:
+
+    # b "Can't say, lad. All I know is, after we'd had a few cups, he told me something right peculiar. He said, \"Performing all those years ago here at Ach-na-Creige, that was my big break.\""
+    b ""
+
+# game/script_jessie.rpy:9818
+translate russian ch3j_15_43d29556:
+
+    # "I stare at Balgair in disbelief. He shrugs, apparently sharing the sentiment."
+    ""
+
+# game/script_jessie.rpy:9820
+translate russian ch3j_15_fe9579fb:
+
+    # b "Life here's full of wee mysteries, eh, m'boy? Now, if you'll excuse me..."
+    b ""
+
+# game/script_jessie.rpy:9837
+translate russian ch3j_15_9e8cd318:
+
+    # "Balgair tips his cap to me, and ushers the showman to a reserved seat in front of the stage."
+    ""
+
+# game/script_jessie.rpy:9850
+translate russian ch3j_15_6e646a58:
+
+    # "I expect Balgair to have some sort of speech prepared to welcome Walter and his monkey, but it doesn't come."
+    ""
+
+# game/script_jessie.rpy:9863
+translate russian ch3j_15_0d1bb6c7:
+
+    # "The show simply begins."
+    ""
+
+# game/script_jessie.rpy:9874
+translate russian ch3j_15_d0d72406:
+
+    # "Jessie walks purposefully out from the backroom, looking dazzling in her red dress, and the space erupts in cheers. I doubt she's ever performed for such a large and spirited audience."
+    ""
+
+# game/script_jessie.rpy:9882
+translate russian ch3j_15_700257b7:
+
+    # "She looks out over the crowd, smiling. Her eyes scan from left to right, pausing briefly to linger on the man with the monkey. Then our eyes connect."
+    ""
+
+# game/script_jessie.rpy:9884
+translate russian ch3j_15_6d40e11b:
+
+    # "Her whole face brightens, and I know at that moment that tonight she isn't singing for Walter. She's singing for me."
+    ""
+
+# game/script_jessie.rpy:9898
+translate russian ch3j_15_27f19153:
+
+    # "She dives right into her first number, the song about the Orient. The one I heard that first night I returned home after so many years away."
+    ""
+
+# game/script_jessie.rpy:9899
+translate russian ch3j_15_eb98c2a9:
+
+    # "It's no coincidence. What a welcome that was. {i}What a welcome every moment since has been.{/i}"
+    ""
+
+# game/script_jessie.rpy:9902
+translate russian ch3j_15_d9bc2840:
+
+    # "Her voice slides out like hot honey pouring out of a comb in July."
+    ""
+
+# game/script_jessie.rpy:9903
+translate russian ch3j_15_164a132b:
+
+    # "I can't see Walter's face, but judging from the monkey's rhythmic sways, she has us all under her spell."
+    ""
+
+# game/script_jessie.rpy:9904
+translate russian ch3j_15_5a8d6873:
+
+    # "As I watch her, she doesn't seem to revel in the power. She simply relishes the act of performing. Of being herself, in the spotlight. And being accepted for it."
+    ""
+
+# game/script_jessie.rpy:9905
+translate russian ch3j_15_a73bc332:
+
+    # "I know her to be a good soul. Not just a sultry siren, but full of heart, love, and healthy backbone. But..."
+    ""
+
+# game/script_jessie.rpy:9906
+translate russian ch3j_15_4e9f7f55:
+
+    # "She comes to a line about two lovers in the moonlight, and I down the rest of my first drink."
+    ""
+
+# game/script_jessie.rpy:9907
+translate russian ch3j_15_cb544345:
+
+    # "What do I expect of her? For us? Can there ever be an \"us?\" Just the two of us. No opinions, no rules, no judgements. No bursting into a werewolf when she doesn't get her way?"
+    ""
+
+# game/script_jessie.rpy:9908
+translate russian ch3j_15_73cc15d6:
+
+    # "I want the world the two of us build to be one of mutual love, respect, and compassion. A world that also has room for her... {i}big personality{/i}."
+    ""
+
+# game/script_jessie.rpy:9909
+translate russian ch3j_15_ca7d06a8:
+
+    # "The image of her up on stage, surrounded by lights and praise, cheers and adoration, that is what is steeped in my mind. Nothing makes her happier."
+    ""
+
+# game/script_jessie.rpy:9910
+translate russian ch3j_15_a261ba13:
+
+    # "Or am I overthinking? Maybe inside her there's as much love for me as there is for her career. There must be."
+    ""
+
+# game/script_jessie.rpy:9911
+translate russian ch3j_15_6abb3cef:
+
+    # "I hope."
+    ""
+
+# game/script_jessie.rpy:9921
+translate russian ch3j_15_6502d571:
+
+    # "The next three songs blend into one another."
+    ""
+
+# game/script_jessie.rpy:9922
+translate russian ch3j_15_1cfc8a58:
+
+    # "Each reminds of the peace, the sense of home, that I felt the last time I listened to her sing. That night with Gran and Grace in tow seems years past. Was it just days ago?"
+    ""
+
+# game/script_jessie.rpy:9923
+translate russian ch3j_15_e7698871:
+
+    # "Her voice still resonates with longing, punctuated with deep, low notes that ring in my ears, telling me there's more to life than worrying about what is to come."
+    ""
+
+# game/script_jessie.rpy:9926
+translate russian ch3j_15_5150ba4c:
+
+    # "Be still, these lyrics say... Jessie's soothing voice chants."
+    ""
+
+# game/script_jessie.rpy:9929
+translate russian ch3j_15_b91a6595:
+
+    # "Be still, Malcolm. There's nothing beyond absorbing this single moment."
+    ""
+
+# game/script_jessie.rpy:9945
+translate russian ch3j_15_c99df81d:
+
+    # "As I do, I keep drinking, close my eyes, and picture nothing but my girlfriend's warm body next to me, laying in the cool grass side by side. Me relishing the sparkle of her golden eyes."
+    ""
+
+# game/script_jessie.rpy:9946
+translate russian ch3j_15_aee3275f:
+
+    # "My whole body heats, from head to toe, pulsing beneath my clothes. A calm takes over that soothes me through, if only for a few seconds."
+    ""
+
+# game/script_jessie.rpy:9966
+translate russian ch3j_15_9ff87387:
+
+    # "A shout awakens me from my dream."
+    ""
+
+# game/script_jessie.rpy:9967
+translate russian ch3j_15_2dbab9f8:
+
+    # oo "What is the meaning of this!"
+    oo ""
+
+# game/script_jessie.rpy:9969
+translate russian ch3j_15_622616a4:
+
+    # "Balgair is still tapping away at the keys, but Jessie stops singing. The crowd begins to murmur."
+    ""
+
+# game/script_jessie.rpy:9976
+translate russian ch3j_15_409ef8d1:
+
+    # oo "{i}What are you doing?{/i}"
+    oo ""
+
+# game/script_jessie.rpy:9977
+translate russian ch3j_15_02ace2c9:
+
+    # "The voice shouts again. All I can make out through the shadows in the pub is a tall man in uniform, of muscular build. He's pushed his way to the stage, and is disrupting the show."
+    ""
+
+# game/script_jessie.rpy:9997
+translate russian ch3j_15_89c3605a:
+
+    # "I stand and walk towards him, willing to wrestle him to the ground if need be."
+    ""
+
+# game/script_jessie.rpy:10017
+translate russian ch3j_15_2db2f53d:
+
+    # oo "Jessie! Get off this stage! Now!"
+    oo ""
+
+# game/script_jessie.rpy:10025
+translate russian ch3j_15_fd3d3688:
+
+    # "The piano stops, and the crowd rumbles. I can hear Jessie's voice, but I can't make out what she is saying."
+    ""
+
+# game/script_jessie.rpy:10031
+translate russian ch3j_15_20d12271:
+
+    # "Other people are standing, too, defending Jessie, and I can no longer see her. Just throngs of bodies."
+    ""
+
+# game/script_jessie.rpy:10032
+translate russian ch3j_15_e8bed8d9:
+
+    # "Murdoch's voice rings out over the others."
+    ""
+
+# game/script_jessie.rpy:10033
+translate russian ch3j_15_ff0bc038:
+
+    # u "Leave her be! Let her sing!"
+    u ""
+
+# game/script_jessie.rpy:10037
+translate russian ch3j_15_bcb8061f:
+
+    # "A chorus of agreement rises up out of the group. Muffled yelling continues and I shove my way closer to Jessie. If only I had sat by the stage!"
+    ""
+
+# game/script_jessie.rpy:10038
+translate russian ch3j_15_e0b07020:
+
+    # "I make it a few feet into the fray before I hear another shout."
+    ""
+
+# game/script_jessie.rpy:10039
+translate russian ch3j_15_fd53d970:
+
+    # g "Stop it! Please!"
+    g ""
+
+# game/script_jessie.rpy:10060
+translate russian ch3j_15_1aa57d8a:
+
+    # "I look up and the man has Jessie by the arm, trying to drag her from the stage."
+    ""
+
+# game/script_jessie.rpy:10061
+translate russian ch3j_15_b6254f80:
+
+    # c "Stop! Now!"
+    c ""
+
+# game/script_jessie.rpy:10062
+translate russian ch3j_15_3975e15d:
+
+    # "I cry out, but my voice is lost among the clamor."
+    ""
+
+# game/script_jessie.rpy:10063
+translate russian ch3j_15_fd51ca84:
+
+    # "Sounds of outrage ring out, demanding that she be allowed to sing. The monkey screeches. I can hardly make out how to reach the stage."
+    ""
+
+# game/script_jessie.rpy:10095
+translate russian ch3j_15_16ce77fe:
+
+    # "Alana forces her way over to me, and we plow through the mob as a team."
+    ""
+
+# game/script_jessie.rpy:10096
+translate russian ch3j_15_a114a45e:
+
+    # "I hear the voice again."
+    ""
+
+# game/script_jessie.rpy:10097
+translate russian ch3j_15_24f2cdcd:
+
+    # oo "What have you done? Balgair, what kind o'coarse scheme is this?"
+    oo ""
+
+# game/script_jessie.rpy:10098
+translate russian ch3j_15_c0ddd9c5:
+
+    # b "Sir, ye can take yer protests outside! {i}An' settle down, everyone!{/i}"
+    b ""
+
+# game/script_jessie.rpy:10099
+translate russian ch3j_15_d59411df:
+
+    # "Balgair can't reason with the crowd. It's gotten out of hand."
+    ""
+
+# game/script_jessie.rpy:10105
+translate russian ch3j_15_6df7f37c:
+
+    # "The noise of arguing and turmoil is deafening. Glasses shatter. Grace is sobbing. The monkey is screeching. People are making drunken, preposterous threats."
+    ""
+
+# game/script_jessie.rpy:10108
+translate russian ch3j_15_aea42c71:
+
+    # "I try to steer Jessie away from the man accosting her. She stands frozen as he demands that she leave with him. Her eyes are filled with tears."
+    ""
+
+# game/script_jessie.rpy:10109
+translate russian ch3j_15_aa94e979:
+
+    # c "Jessie, come with me!"
+    c ""
+
+# game/script_jessie.rpy:10111
+translate russian ch3j_15_bcd66440:
+
+    # "She doesn't budge, and the man locks eyes with me."
+    ""
+
+# game/script_jessie.rpy:10112
+translate russian ch3j_15_5000eef1:
+
+    # "Alana's voice rises above the others."
+    ""
+
+# game/script_jessie.rpy:10119
+translate russian ch3j_15_34d7c4c7:
+
+    # a "Owen! Leave her alone!"
+    a ""
+
+# game/script_jessie.rpy:10123
+translate russian ch3j_15_8086fa1c:
+
+    # "The man lets go of Jessie long enough to raise his hand to Alana. I move to intervene and—"
+    ""
+
+# game/script_jessie.rpy:10126
+translate russian ch3j_15_4a00aad9:
+
+    # "Jessie erupts."
+    ""
+
+# game/script_jessie.rpy:10143
+translate russian ch3j_15_58b5224e:
+
+    # "Her beastly form is exposed as she postures in defense. The sound of her growl and her dress tearing quashes the commotion."
+    ""
+
+# game/script_jessie.rpy:10144
+translate russian ch3j_15_db9bdc1f:
+
+    # o "...Jessie?"
+    o ""
+
+# game/script_jessie.rpy:10145
+translate russian ch3j_15_4c885a1f:
+
+    # b "Lass!?"
+    b ""
+
+# game/script_jessie.rpy:10146
+translate russian ch3j_15_2ac0d700:
+
+    # a "No!"
+    a ""
+
+# game/script_jessie.rpy:10156
+translate russian ch3j_15_1a4c5370:
+
+    # "The she-wolf bares her teeth, and claws at the man just as he takes hold of Alana's arm."
+    ""
+
+# game/script_jessie.rpy:10157
+translate russian ch3j_15_e2c8bc65:
+
+    # "She misses him, but I feel a tear at my sleeve."
+    ""
+
+# game/script_jessie.rpy:10161
+translate russian ch3j_15_e034e240:
+
+    # "The man is stunned into silence. However, the attack has the opposite effect on the crowd."
+    ""
+
+# game/script_jessie.rpy:10172
+translate russian ch3j_15_7bc374e8:
+
+    # "The pub explodes into panic."
+    ""
+
+# game/script_jessie.rpy:10173
+translate russian ch3j_15_f8f9bd81:
+
+    # "Screams fill the room, and a mass of people rush toward the exits. A brave, drunken few stand against the beast. They come towards the stage, wielding chairs like some kind of lion tamers."
+    ""
+
+# game/script_jessie.rpy:10174
+translate russian ch3j_15_2b317ef4:
+
+    # "There is fear in her eyes. I see it as she raises her hackles."
+    ""
+
+# game/script_jessie.rpy:10175
+translate russian ch3j_15_beda55b6:
+
+    # c "All of you, get back! Jessie, {i}go!{/i}"
+    c ""
+
+# game/script_jessie.rpy:10188
+translate russian ch3j_15_7a7081c5:
+
+    # "She lets out a defensive snarl and most of the attackers step away. Down on all fours, she leaps onto the pub floor and the crowd parts, leaving her to run through the open back door."
+    ""
+
+# game/script_jessie.rpy:10214
+translate russian ch3j_tbc_10b6ca55:
+
+    # "Those who remain are drunk, shaken and confused. I watch as a few men follow her out, slurring their words and still holding onto their chairs."
+    ""
+
+# game/script_jessie.rpy:10215
+translate russian ch3j_tbc_cf2bc6f8:
+
+    # "They'll never catch her. Never."
+    ""
+
+# game/script_jessie.rpy:10221
+translate russian ch3j_tbc_08c52207:
+
+    # "The man who instigated the outburst stands dumbfounded. Alana appears to be soothing him, whispering in his ear, and stroking his arm."
+    ""
+
+# game/script_jessie.rpy:10222
+translate russian ch3j_tbc_c40e32e0:
+
+    # "Walter is long gone. Most of the crowd has disappeared and stumbled out into the night air. This was not the spectacle they were expecting to see."
+    ""
+
+# game/script_jessie.rpy:10229
+translate russian ch3j_tbc_1383b74e:
+
+    # "The fray dims. As do the lights."
+    ""
+
+# game/script_jessie.rpy:10230
+translate russian ch3j_tbc_54db0ae4:
+
+    # "I'm slumped against a table, barely conscious, unaware if it is the alcohol, the attack, or paralyzing fear."
+    ""
+
+# game/script_jessie.rpy:10235
+translate russian ch3j_tbc_47191105:
+
+    # "I see a shadow over me."
+    ""
+
+# game/script_jessie.rpy:10236
+translate russian ch3j_tbc_165e5146:
+
+    # b "Malcolm! Y'alright, m'boy?"
+    b ""
+
+# game/script_jessie.rpy:10237
+translate russian ch3j_tbc_b24689c4:
+
+    # "I start to nod, though my head throbs with pain."
+    ""
+
+# game/script_jessie.rpy:10242
+translate russian ch3j_tbc_555b6389:
+
+    # "When I look down at my arm, sleeve bloodied from Jessie's claw, I see something that makes my stomach turn."
+    ""
+
+# game/script_jessie.rpy:10243
+translate russian ch3j_tbc_809d2060:
+
+    # "Right before I pass out, I hear Balgair's voice shouting."
+    ""
+
+# game/script_jessie.rpy:10245
+translate russian ch3j_tbc_619c18ce:
+
+    # b "Come help him! Now!"
+    b ""
+
+# game/script_jessie.rpy:10251
+translate russian ch3j_tbc_4ad11c19:
+
+    # "And I see what Jessie has left behind."
+    ""
+
+# game/script_jessie.rpy:10316
+translate russian ch4j_01_6b5cedb2:
+
+    # c "Jessie!"
+    c ""
+
+# game/script_jessie.rpy:10317
+translate russian ch4j_01_36f62faf:
+
+    # c "Jessie, where are you?"
+    c ""
+
+# game/script_jessie.rpy:10319
+translate russian ch4j_01_c6f3bfb7:
+
+    # "My voice echoes in the lonely stillness of the forest, so far away from civilization."
+    ""
+
+# game/script_jessie.rpy:10320
+translate russian ch4j_01_46d421d6:
+
+    # "Beyond quiet. It's hard to believe any animals lie within. But the canine tracks at my feet do not lie. Jessie must be here. Somewhere."
+    ""
+
+# game/script_jessie.rpy:10325
+translate russian ch4j_01_dce376e1:
+
+    # "I continue to follow the tracks for some time. The trees stand like silent sentinels, looming in the mist."
+    ""
+
+# game/script_jessie.rpy:10326
+translate russian ch4j_01_c079bca4:
+
+    # "I am not welcome here. I can sense it."
+    ""
+
+# game/script_jessie.rpy:10331
+translate russian ch4j_01_4d5e99e8:
+
+    # "Anxiety fills my veins. I turn on my heel but the path from whence I came is nowhere to be found. Vanished among the infinite trees of the forest."
+    ""
+
+# game/script_jessie.rpy:10332
+translate russian ch4j_01_b2132117:
+
+    # "The trees, so tall, so... imposing. It's as if they are leaning in toward me."
+    ""
+
+# game/script_jessie.rpy:10338
+translate russian ch4j_01_ed090a5e:
+
+    # "My pace quickens. The space between the branches is getting narrower, seemingly corralling me down a track that leads yet deeper into the woods."
+    ""
+
+# game/script_jessie.rpy:10346
+translate russian ch4j_01_5345a2fe:
+
+    # c "Jessie?"
+    c ""
+
+# game/script_jessie.rpy:10350
+translate russian ch4j_01_9085ccd7:
+
+    # "The sound is coming from ahead. I break out into a run, eager to find my mate, and even moreso to escape this frightful place."
+    ""
+
+# game/script_jessie.rpy:10351
+translate russian ch4j_01_8b94774a:
+
+    # "The branches have become tangles, reaching out toward me, ripping at my clothes as I bound ahead."
+    ""
+
+# game/script_jessie.rpy:10359
+translate russian ch4j_01_5108c294:
+
+    # "A clearing. I reach the center and stop to catch my breath, then call out once more."
+    ""
+
+# game/script_jessie.rpy:10360
+translate russian ch4j_01_74704bf4:
+
+    # c "Jessie! Can you hear me? Please... come home."
+    c ""
+
+# game/script_jessie.rpy:10371
+translate russian ch4j_01_1cbe0ef2:
+
+    # "My heart skips a beat. A canine form stalks out from the forest, but it is most definitely not Jessie. The wolf's coat shines unnaturally white in the dim wood, as if from within."
+    ""
+
+# game/script_jessie.rpy:10372
+translate russian ch4j_01_e69b4bfa:
+
+    # "I try to back away, only to find my feet stuck firmly to the ground. Only then do I look down and see the odd circle of mushrooms that surround me."
+    ""
+
+# game/script_jessie.rpy:10373
+translate russian ch4j_01_2cc769d0:
+
+    # c "Is this... are you... {i}magic?{/i} What do you want from me? {i}Where is Jessie?{/i}"
+    c ""
+
+# game/script_jessie.rpy:10375
+translate russian ch4j_01_bbc7ae03:
+
+    # "The wolf gazes through me with its noble yellow eyes. I plead with the animal, the spirit, the vision before me."
+    ""
+
+# game/script_jessie.rpy:10378
+translate russian ch4j_01_8efca733:
+
+    # c "Please. I only wish to find the woman I love. One of your kind. Can you help me?"
+    c ""
+
+# game/script_jessie.rpy:10380
+translate russian ch4j_01_9b73585f:
+
+    # c "Please. I don't belong here. I only wish to find the woman I love. One of your kind. Can you help me?"
+    c ""
+
+# game/script_jessie.rpy:10418
+translate russian ch4j_01_5e466f86:
+
+    # "The white wolf lunges at me, {i}into me,{/i} then suddenly disappears—as does the ground beneath my feet."
+    ""
+
+# game/script_jessie.rpy:10419
+translate russian ch4j_01_4de41b36:
+
+    # "I scream."
+    ""
+
+# game/script_jessie.rpy:10421
+translate russian ch4j_01_ab90463b:
+
+    # "Black. Murky. Dirt. Debris and detritus fall alongside me, making it harder to see as I grasp at anything to cling to, to hold, to gain ballast."
+    ""
+
+# game/script_jessie.rpy:10422
+translate russian ch4j_01_52caff75:
+
+    # "But my fingers have no purchase. My arms flail, my legs are immobile as I spin, falling blindly."
+    ""
+
+# game/script_jessie.rpy:10423
+translate russian ch4j_01_6d783a35:
+
+    # "This is how I will die. The realization hits me with terrible certainty. When I hit the bottom, I will snap like a twig, I know it."
+    ""
+
+# game/script_jessie.rpy:10424
+translate russian ch4j_01_88781a3f:
+
+    # "I close my eyes and swallow. The sound of my heavy breathing and rapid heartbeat echo in my head. Rapid and still all at once. I am going to die."
+    ""
+
+# game/script_jessie.rpy:10425
+translate russian ch4j_01_db8b5e4e:
+
+    # "Down to the tips of my toes goes a feverish chill. Why must I be tortured before I go? Why is this happening?"
+    ""
+
+# game/script_jessie.rpy:10426
+translate russian ch4j_01_c439fa04:
+
+    # "Through countless bombardments and hails of gunfire, all I'd ever wanted was to leave the Earth peacefully. Not all men are so blessed."
+    ""
+
+# game/script_jessie.rpy:10427
+translate russian ch4j_01_16f86451:
+
+    # "It seems fate would have me meet my end at the bottom of an abyss. To tear me apart from the one woman who'd finally shown me, joy, magic... {i}purpose.{/i}"
+    ""
+
+# game/script_jessie.rpy:10429
+translate russian ch4j_01_bcf6dd4d:
+
+    # "No."
+    ""
+
+# game/script_jessie.rpy:10430
+translate russian ch4j_01_0936856d:
+
+    # "{i}Fate brought us together.{/i} Years of hardship, a war, and even a goddamned change in species hadn't torn us apart. We won't be thwarted by some infernal pit!"
+    ""
+
+# game/script_jessie.rpy:10432
+translate russian ch4j_01_c76cdc20:
+
+    # "I open my eyes and stab my claws into the sodden walls."
+    ""
+
+# game/script_jessie.rpy:10433
+translate russian ch4j_01_8e137445:
+
+    # "My legs and arms become rigid, trying to combat an inevitable collapse. My elbows and heels glide like stones through my limbs in the oddest way,"
+    ""
+
+# game/script_jessie.rpy:10434
+translate russian ch4j_01_5e53ca57:
+
+    # "I feel my back arch, hunching forward, as if making my body into a parachute."
+    ""
+
+# game/script_jessie.rpy:10435
+translate russian ch4j_01_5521820e:
+
+    # "My heart beats faster as my panic changes to exhilaration. My descent has slowed."
+    ""
+
+# game/script_jessie.rpy:10436
+translate russian ch4j_01_a994e74e:
+
+    # "But I can sense the bottom of the pit fast approaching. Hard as a rock, I will land. There's no happy end to this."
+    ""
+
+# game/script_jessie.rpy:10437
+translate russian ch4j_01_a2832b2b:
+
+    # "I close my eyes and focus, imagining the ground as a soft haven. My limbs tense, spread out to land on all fours. One more breath and—"
+    ""
+
+# game/script_jessie.rpy:10471
+translate russian ch4j_01_53b42dc5:
+
+    # c "Ungh... my head..."
+    c ""
+
+# game/script_jessie.rpy:10479
+translate russian ch4j_01_06ecc2b3:
+
+    # g "You're awake!"
+    g ""
+
+# game/script_jessie.rpy:10480
+translate russian ch4j_01_2b1e8e71:
+
+    # "Barely. The dream has left me feeling utterly drained. It's a struggle not to slip back out of consciousness."
+    ""
+
+# game/script_jessie.rpy:10481
+translate russian ch4j_01_3b248887:
+
+    # c "Grace... what are you doing here?"
+    c ""
+
+# game/script_jessie.rpy:10483
+translate russian ch4j_01_444a4f5f:
+
+    # g "You took a nasty hit from my sister. Balgair had me heft you into the backroom and asked me to look after you while he clears out the pub."
+    g ""
+
+# game/script_jessie.rpy:10485
+translate russian ch4j_01_0f8b6570:
+
+    # g "You should have seen him, acting like he could singlehandedly calm down an entire mob. That's a tall order even for him."
+    g ""
+
+# game/script_jessie.rpy:10486
+translate russian ch4j_01_8025ef4d:
+
+    # "I fight against the fog in my mind. Grace... lifted me all by herself? While Balgair calms..."
+    ""
+
+# game/script_jessie.rpy:10487
+translate russian ch4j_01_19be386d:
+
+    # c "A {i}what?{/i}"
+    c ""
+
+# game/script_jessie.rpy:10489
+translate russian ch4j_01_0090e63c:
+
+    # "Grace looks visibly shaken."
+    ""
+
+# game/script_jessie.rpy:10491
+translate russian ch4j_01_b0025c94:
+
+    # g "It's not good. A mess, really. The townsfolk got a real fright out of Jessie's sudden turn. Father, he... riled them up even further. They're up in arms, looking for Jessie now."
+    g ""
+
+# game/script_jessie.rpy:10500
+translate russian ch4j_01_6b5cedb2_1:
+
+    # c "Jessie!"
+    c ""
+
+# game/script_jessie.rpy:10511
+translate russian ch4j_01_46048a4e:
+
+    # "I sit up quickly and immediately regret it. My head spins, sending me back down flat onto the makeshift table."
+    ""
+
+# game/script_jessie.rpy:10512
+translate russian ch4j_01_3e8a2917:
+
+    # g "Hey, not so hasty! You don't look so good."
+    g ""
+
+# game/script_jessie.rpy:10513
+translate russian ch4j_01_de597425:
+
+    # c "She's in danger!"
+    c ""
+
+# game/script_jessie.rpy:10515
+translate russian ch4j_01_abdcac8b:
+
+    # g "Sis' is a strong lass, quick on her feet. Don't worry, Malcolm. They don't stand a chance."
+    g ""
+
+# game/script_jessie.rpy:10518
+translate russian ch4j_01_ce070285:
+
+    # "The way her voice cracks exposes her own uncertainty."
+    ""
+
+# game/script_jessie.rpy:10520
+translate russian ch4j_01_27507c90:
+
+    # g "Anyway... crivens, Malcolm, you're pale as a jellyfish! I'm going to go fetch Alana. Don't go anywhere!"
+    g ""
+
+# game/script_jessie.rpy:10537
+translate russian ch4j_01_3dbe3f8e:
+
+    # "Grace's command falls on deaf ears. As soon as she leaves the room, I gingerly stand on two wobbly feet."
+    ""
+
+# game/script_jessie.rpy:10549
+translate russian ch4j_01_92adc00d:
+
+    # c "Oh!"
+    c ""
+
+# game/script_jessie.rpy:10550
+translate russian ch4j_01_cfc945d1:
+
+    # "My head swims. My legs feel like jelly, barely able to take my weight. Just how hard a hit had I taken?"
+    ""
+
+# game/script_jessie.rpy:10591
+translate russian ch4j_01_449f08d7:
+
+    # "It takes all my concentration to stumble toward the exit, one step at a time, each harder than the last. The fog in my mind is becoming all consuming."
+    ""
+
+# game/script_jessie.rpy:10592
+translate russian ch4j_01_ae360a84:
+
+    # c "Hang in... just a little longer, Jessie... I won't let them... hurt... you..."
+    c ""
+
+# game/script_jessie.rpy:10637
+translate russian ch4j_01_3e16f02f:
+
+    # "My knees give away as I exit the door. This is no longer a dream, I tell myself. I will my eyes to stay open. My head hurts, but I've felt worse."
+    ""
+
+# game/script_jessie.rpy:10655
+translate russian ch4j_01_463e7063:
+
+    # "I lift myself up and begin to bumble to and fro. Malcolm, you can do this. You've got to find her."
+    ""
+
+# game/script_jessie.rpy:10680
+translate russian ch4j_01_6cd980f0:
+
+    # "Shadows dart. Darkness overtakes the space around me."
+    ""
+
+# game/script_jessie.rpy:10715
+translate russian ch4j_01_43104312:
+
+    # "Yet I can still see. Very clearly. Somehow, it's all different. More... vibrant."
+    ""
+
+# game/script_jessie.rpy:10727
+translate russian ch4j_01_56dba201:
+
+    # "I try to focus my line of sight, squinting to sharpen the blurry outlines into rectangular shapes. Buildings: at once both familiar and alien. I shamble down a dimly lit lane, half-walking, half-erect."
+    ""
+
+# game/script_jessie.rpy:10728
+translate russian ch4j_01_5bdfa97e:
+
+    # "An innate knowledge I've never experienced takes over. Compels me."
+    ""
+
+# game/script_jessie.rpy:10731
+translate russian ch4j_01_5febdf73:
+
+    # "Everything in my periphery has become a blur, a fuzzy mess of distorted dark colors. A palette of blues and purples and blacks like a painted swamp."
+    ""
+
+# game/script_jessie.rpy:10732
+translate russian ch4j_01_d2ad9c7e:
+
+    # "My head spins. But I am alert."
+    ""
+
+# game/script_jessie.rpy:10733
+translate russian ch4j_01_9fa58cc6:
+
+    # "Very alert."
+    ""
+
+# game/script_jessie.rpy:10739
+translate russian ch4j_01_4124a251:
+
+    # "My ears stand at attention. The wind blows, whipping through my fur, echoing in my skull. There is a clamor in the distance. Shouting."
+    ""
+
+# game/script_jessie.rpy:10740
+translate russian ch4j_01_1635fec4:
+
+    # "They're after her. There is fear in the air. I can smell it. I can smell {i}everything.{/i}"
+    ""
+
+# game/script_jessie.rpy:10749
+translate russian ch4j_01_3c790b6c:
+
+    # "My nose twitches, processing everything that wafts by. The salty breeze coming off the loch. The compost rotting behind the Stag & Nanny. The alcohol upon my own breath. And..."
+    ""
+
+# game/script_jessie.rpy:10750
+translate russian ch4j_01_a47f20ac:
+
+    # "I feel it burn down my throat. A strong smell. Musky. Tempting. I follow blindly, yet aware. Aware that my senses are in control now."
+    ""
+
+# game/script_jessie.rpy:10758
+translate russian ch4j_01_f453155c:
+
+    # "There. Something skulking in the shadows. Quarry."
+    ""
+
+# game/script_jessie.rpy:10767
+translate russian ch4j_01_dec602af:
+
+    # "All four of my feet hit the earth, and I barely feel the dirt as I push off, chasing something black and feline. It's fast, but I am faster."
+    ""
+
+# game/script_jessie.rpy:10768
+translate russian ch4j_01_70d1d2d7:
+
+    # "Scurrying, dodging, leaping, I close the distance. Over rocks, their sharpness stabbing and scraping at my toes. Over gravel, my claws skidding in the loose stones."
+    ""
+
+# game/script_jessie.rpy:10769
+translate russian ch4j_01_e3edd93d:
+
+    # "My muscles are inflamed, taut and prepared to lunge at anything."
+    ""
+
+# game/script_jessie.rpy:10770
+translate russian ch4j_01_c2d8012e:
+
+    # "Faster. More agile. I steady my shoulders and hips. My spine aligns with the dirt below me."
+    ""
+
+# game/script_jessie.rpy:10771
+translate russian ch4j_01_c96d22b0:
+
+    # "The night sky offers no guidance, but the moon acts as a flame to light my path. I run with abandon. Never have I appreciated my body's strength more."
+    ""
+
+# game/script_jessie.rpy:10785
+translate russian ch4j_01_79e338c7:
+
+    # "The cat turns a corner and darts between a pair of legs. A wall of legs. A crowd, which sends me skidding to a halt."
+    ""
+
+# game/script_jessie.rpy:10787
+translate russian ch4j_01_774271b1:
+
+    # "A scream. The face of fear. {i}I am the danger.{/i}"
+    ""
+
+# game/script_jessie.rpy:10793
+translate russian ch4j_01_a59f046d:
+
+    # "The mob closes in. From behind, something hard strikes my back. I yelp, turn, and bare my teeth."
+    ""
+
+# game/script_jessie.rpy:10794
+translate russian ch4j_01_ba0a231d:
+
+    # "The snarl causes the board that hit me to lower. And so I snarl again."
+    ""
+
+# game/script_jessie.rpy:10795
+translate russian ch4j_01_edd3f3a0:
+
+    # "They are afraid. These faces around me fall. They stand back as I twist my neck and growl, spilling drool and foam. They cower."
+    ""
+
+# game/script_jessie.rpy:10796
+translate russian ch4j_01_c69e9a02:
+
+    # "I am their fear. I am rogue."
+    ""
+
+# game/script_jessie.rpy:10826
+translate russian ch4j_01_ac086fc1:
+
+    # "{i}But I am alive.{/i} And the blood boils under my skin. I growl once more, forcing open their pack, and tear off running again."
+    ""
+
+# game/script_jessie.rpy:10840
+translate russian ch4j_01_e645e086:
+
+    # "Brambles strike my muzzle. I hack and pant through my open mouth, the exhaustion finally setting in."
+    ""
+
+# game/script_jessie.rpy:10841
+translate russian ch4j_01_af5816d4:
+
+    # "All night I've been scrambling over rocks and debris, moving across the highlands, aimless yet determined. My legs finally slow to a stop."
+    ""
+
+# game/script_jessie.rpy:10843
+translate russian ch4j_01_0fe8665a:
+
+    # "I sit back on my haunches and sniff the air. The smells are... unfamiliar. Just how far did I run?"
+    ""
+
+# game/script_jessie.rpy:10844
+translate russian ch4j_01_6a6a30b5:
+
+    # "My heartbeat begins to race again, this time more from worry than exertion. I feel lost in more ways than one."
+    ""
+
+# game/script_jessie.rpy:10845
+translate russian ch4j_01_38403db5:
+
+    # "Something is missing. A memory just out of focus. It gnaws at the edge of my consciousness, and I reach out, trying to recall..."
+    ""
+
+# game/script_jessie.rpy:10847
+translate russian ch4j_01_76415220:
+
+    # "...Nothing. I lie down with a sigh. My mind is as foggy as the forest around me. It muddles my senses, stifling my thoughts."
+    ""
+
+# game/script_jessie.rpy:10849
+translate russian ch4j_01_ad459c3f:
+
+    # "All I know is that I've had too much excitement for one day. Perhaps... things will feel clearer... after a nap."
+    ""
+
+# game/script_jessie.rpy:10851
+translate russian ch4j_01_4011cc64:
+
+    # "The cool blanket of mist closes in around me, and I close my heavy eyes, ready to let go..."
+    ""
+
+# game/script_jessie.rpy:10865
+translate russian ch4j_01_0dddb02a:
+
+    # "Something is watching me. I can sense it."
+    ""
+
+# game/script_jessie.rpy:10887
+translate russian ch4j_01_7b152279:
+
+    # "Instinct forces my eyes back open. There—movement."
+    ""
+
+# game/script_jessie.rpy:10896
+translate russian ch4j_01_a20cefa7:
+
+    # "..."
+    ""
+
+# game/script_jessie.rpy:10897
+translate russian ch4j_01_166ec23b:
+
+    # "The bunny is lucky I'm so tired. Come morning, if it's unwise enough to still be here, I shall give chase."
+    ""
+
+# game/script_jessie.rpy:10910
+translate russian ch4j_01_effie_a20cefa7:
+
+    # "..."
+    ""
+
+# game/script_jessie.rpy:10911
+translate russian ch4j_01_effie_166ec23b:
+
+    # "The bunny is lucky I'm so tired. Come morning, if it's unwise enough to still be here, I shall give chase."
+    ""
+
+# game/script_jessie.rpy:10935
+translate russian ch4j_01_effie_90a8f1b8:
+
+    # "I blink my eyes. For a moment, I could have sworn that rabbit was... wearing a scarf? I must be hallucinating. We animals don't wear clothes."
+    ""
+
+# game/script_jessie.rpy:10937
+translate russian ch4j_01_effie_c5c3320f:
+
+    # "...But why then is a jacket clinging to my fur? I shelve these confounding thoughts and return to my slumber."
+    ""
+
+# game/script_jessie.rpy:10967
+translate russian ch4j_01b_b34a0508:
+
+    # "Gah!"
+    ""
+
+# game/script_jessie.rpy:10968
+translate russian ch4j_01b_2ec81c2e:
+
+    # "The confounded critter is now just inches from my nose. The nerve! I growl out a warning: know your place, you foolish ball of fluff."
+    ""
+
+# game/script_jessie.rpy:10987
+translate russian ch4j_01b_8bba85bb:
+
+    # "Fatigue be damned! I lunge at the rabbit, narrowly missing as it launches off into the forest. The chase is on!"
+    ""
+
+# game/script_jessie.rpy:11018
+translate russian ch4j_02_2a20d35b:
+
+    # "I jump and cascade down into thick brush and hard earth. Dirt sprays, getting in my nostrils and eyes."
+    ""
+
+# game/script_jessie.rpy:11019
+translate russian ch4j_02_864c467c:
+
+    # "My tongue lolls, my every muscle aches. I stand and shake from head to toes. Dust and debris fly as my body trembles."
+    ""
+
+# game/script_jessie.rpy:11021
+translate russian ch4j_02_f5889d89:
+
+    # "I blink. Where did that fiery critter go?"
+    ""
+
+# game/script_jessie.rpy:11022
+translate russian ch4j_02_831b918d:
+
+    # "It led me over hills and through woods, taunting me the whole way, always one hop ahead. Then it dove down into this ravine, and... and..."
+    ""
+
+# game/script_jessie.rpy:11024
+translate russian ch4j_02_955bac65:
+
+    # "...Disappeared."
+    ""
+
+# game/script_jessie.rpy:11037
+translate russian ch4j_02_638b6afc:
+
+    # "My nose lowers to the ground, snuffling to pick back up the trail. Not that the rabbit had had much of a scent to begin with."
+    ""
+
+# game/script_jessie.rpy:11041
+translate russian ch4j_02_75f20832:
+
+    # "An unexpected smell hits my throat, causing me to jerk back."
+    ""
+
+# game/script_jessie.rpy:11042
+translate russian ch4j_02_0daa3a0d:
+
+    # "I know this scent. It's familiar. Potent."
+    ""
+
+# game/script_jessie.rpy:11043
+translate russian ch4j_02_d9b4ea69:
+
+    # "{i}It's female.{/i}"
+    ""
+
+# game/script_jessie.rpy:11047
+translate russian ch4j_02_daddec3b:
+
+    # "I inhale the scent again, deeply. It's dizzying. There are flashes in my mind, memories. Faces, screams, a girl dancing, her voice followed by shouts."
+    ""
+
+# game/script_jessie.rpy:11048
+translate russian ch4j_02_fb85438d:
+
+    # "Fear. Shame. Hatred. Rage."
+    ""
+
+# game/script_jessie.rpy:11049
+translate russian ch4j_02_b9b06e73:
+
+    # "The emotions build and build, overcoming me, bubbling up and out as I tilt my head back into {nw}"
+    ""
+
+# game/script_jessie.rpy:11051
+translate russian ch4j_02_24cca453:
+
+    # extend "a long, desperate howl."
+    extend ""
+
+# game/script_jessie.rpy:11058
+translate russian ch4j_02_ae17d308:
+
+    # "A mournful bay answers my own. My ears perk up."
+    ""
+
+# game/script_jessie.rpy:11059
+translate russian ch4j_02_9a2467ce:
+
+    # "It's her."
+    ""
+
+# game/script_jessie.rpy:11070
+translate russian ch4j_02_b3dc8b0d:
+
+    # "Blindly I follow the scent until I am taken to an open field. Large boulders line the grass and I watch as a figure my size and shape darts from rock to rock."
+    ""
+
+# game/script_jessie.rpy:11108
+translate russian ch4j_02_52c5a062:
+
+    # "I race towards the wolf and tackle her to the ground. As I stand over her, she gives me a playful swat and we begin to tussle."
+    ""
+
+# game/script_jessie.rpy:11109
+translate russian ch4j_02_9f1c1345:
+
+    # "Oh, how I missed her! We roll about on the grass, two balls of furry energy."
+    ""
+
+# game/script_jessie.rpy:11111
+translate russian ch4j_02_eb27ddf8:
+
+    # "I catch a strong floral whiff and sneeze. My nose can smell the lingering perfume on her body, the musk on her breath... even her emotions."
+    ""
+
+# game/script_jessie.rpy:11112
+translate russian ch4j_02_45d811b6:
+
+    # "She's exuberant, but also... disoriented. Confused. I sense restraint as we play."
+    ""
+
+# game/script_jessie.rpy:11113
+translate russian ch4j_02_826017e3:
+
+    # "Why? We've known each other since we were pups! We're best friends. She's my... she's..."
+    ""
+
+# game/script_jessie.rpy:11115
+translate russian ch4j_02_0c067cd0:
+
+    # "Why can't I remember?"
+    ""
+
+# game/script_jessie.rpy:11116
+translate russian ch4j_02_dd2ba031:
+
+    # "My head aches, and part of me wants nothing more than to let this faint feeling, the source of my anguish, go."
+    ""
+
+# game/script_jessie.rpy:11121
+translate russian ch4j_02_09dd63cc:
+
+    # butterfly_effect "{image=butterflysprite}" nointeract
+    butterfly_effect "" nointeract
+
+# game/script_jessie.rpy:11129
+translate russian ch4j_02a_f84a35a8:
+
+    # "I shake off the confusion by committing to the tussle. In the fray, her claws tear off the last scraps of cloth clinging to my body. Finally, I am free."
+    ""
+
+# game/script_jessie.rpy:11130
+translate russian ch4j_02a_1b243eb3:
+
+    # "Our swings and bats grow stronger, more powerful. She knocks me down and claws at my face, missing my muzzle by a mere inch."
+    ""
+
+# game/script_jessie.rpy:11131
+translate russian ch4j_02a_d2c0138c:
+
+    # "I yelp and she knows to stop. A small grin forms at the corners of her long mouth as if she is asking if she's too much to handle."
+    ""
+
+# game/script_jessie.rpy:11132
+translate russian ch4j_02a_af000250:
+
+    # "In fact, she is not. I smirk back at her. The sensation of my lips strikes me hard. That tug, that pull. It's wild."
+    ""
+
+# game/script_jessie.rpy:11133
+translate russian ch4j_02a_a9f75adc:
+
+    # "{i}And I love it.{/i}"
+    ""
+
+# game/script_jessie.rpy:11134
+translate russian ch4j_02a_e8d68974:
+
+    # "What feels like a craving throbs through my heart and stomach. A desire I know we both share. An insatiable bond."
+    ""
+
+# game/script_jessie.rpy:11135
+translate russian ch4j_02a_9b87f02c:
+
+    # "She is my home. And wherever we both left is not a place to which we can return. Ever."
+    ""
+
+# game/script_jessie.rpy:11141
+translate russian ch4j_02a_98379f88:
+
+    # "I blink and scenes appear. {nw}"
+    ""
+
+# game/script_jessie.rpy:11145
+translate russian ch4j_02a_d5aa4644:
+
+    # extend "Snarls, dresses, singing, {nw}"
+    extend ""
+
+# game/script_jessie.rpy:11149
+translate russian ch4j_02a_a20b0cc7:
+
+    # extend "screams, chairs flying, and {nw}"
+    extend ""
+
+# game/script_jessie.rpy:11152
+translate russian ch4j_02a_58176f07:
+
+    # extend "a slash on my arm."
+    extend ""
+
+# game/script_jessie.rpy:11154
+translate russian ch4j_02a_f9298090:
+
+    # "Whatever happened has passed. Gone. We are to be alone, but together. Forever."
+    ""
+
+# game/script_jessie.rpy:11166
+translate russian ch4j_02a_c99c350b:
+
+    # "I stare into her eyes as they welcome me home. When I blink and momentarily lose sight of her, I feel like I've lost guidance."
+    ""
+
+# game/script_jessie.rpy:11173
+translate russian ch4j_02a_9b922339:
+
+    # "She leaps up and nudges her head off to the distance. In an instant, she teaches me how to properly run."
+    ""
+
+# game/script_jessie.rpy:11174
+translate russian ch4j_02a_ae3cf48f:
+
+    # "My muscles' aches are forgotten. We go side by side trying to top the speed of our own selves and one another. She always wins."
+    ""
+
+# game/script_jessie.rpy:11175
+translate russian ch4j_02a_c8b8d9f2:
+
+    # "We chase, we turn, we collide. How long this continues, I don't know. Time passes by the darkness becoming light."
+    ""
+
+# game/script_jessie.rpy:11185
+translate russian ch4j_02a_f745fc10:
+
+    # "Eventually, she finds us a crevice in the large boulders, one where we can curl up and hide in its shadows."
+    ""
+
+# game/script_jessie.rpy:11186
+translate russian ch4j_02a_eefd9bd5:
+
+    # "She spins and spins until her paws find the right spot where she turns herself into a fluffy ball. I spin as well, trying to mimic her, trying to claim my territory."
+    ""
+
+# game/script_jessie.rpy:11187
+translate russian ch4j_02a_e591b8f7:
+
+    # "As I slide down onto the earth, I make sure I envelop her, contorting my frame until it surrounds hers, keeping us both warm in the chill morning air."
+    ""
+
+# game/script_jessie.rpy:11188
+translate russian ch4j_02a_1b4c7fe6:
+
+    # "We are each other's family now, an unspoken union. We can't—we must not—think of what used to be... those arms that held us tight, those warm fingers that wiped our tears dry."
+    ""
+
+# game/script_jessie.rpy:11189
+translate russian ch4j_02a_abd5a916:
+
+    # "Our thoughts are only on ourselves. I lick her neck and nuzzle my nose into her warm fur. Her heady scent lulls me to sleep."
+    ""
+
+# game/script_jessie.rpy:11210
+translate russian ch4j_feral_f02eccc8:
+
+    # "What I am is no longer human. It is more. The wind, the moon, the scent of the earth, they give me peace, comfort, and purpose."
+    ""
+
+# game/script_jessie.rpy:11211
+translate russian ch4j_feral_7c61a7da:
+
+    # "It's a simple and divine life, one where we are the hunters, free and uncaged. An inescapable joy and rush of blood to the system take over me nightly."
+    ""
+
+# game/script_jessie.rpy:11212
+translate russian ch4j_feral_3cc6fb29:
+
+    # "We move forward, into a realm never imagined, at least by me. The partner by my side knows the ropes and guides me."
+    ""
+
+# game/script_jessie.rpy:11213
+translate russian ch4j_feral_49efd25d:
+
+    # "So, I follow. My life now is following this female's lead, and where her heart and body takes me."
+    ""
+
+# game/script_jessie.rpy:11214
+translate russian ch4j_feral_e3e64056:
+
+    # "She is keenly aware of time, of when to rise and when to hide away. Days become nights, which blend into a timeless loop. Daylight and dusk cap either end of our dark night hunts."
+    ""
+
+# game/script_jessie.rpy:11216
+translate russian ch4j_feral_cf8bf529:
+
+    # "Huddled under a ledge one rainy morning, we are found sleeping by a young woman. She does not scream, even as we snarl."
+    ""
+
+# game/script_jessie.rpy:11217
+translate russian ch4j_feral_657a99e2:
+
+    # "Somehow we know enough not to bite. Her scent is that of the sea."
+    ""
+
+# game/script_jessie.rpy:11218
+translate russian ch4j_feral_3ecc06ae:
+
+    # "At first the woman babbles and gestures. My partner's head tilts quizzically. Can she understand?"
+    ""
+
+# game/script_jessie.rpy:11219
+translate russian ch4j_feral_0381f775:
+
+    # "Eventually the woman gives up, laughing and reaching out to give our heads pats, and quick tickles behind the ears."
+    ""
+
+# game/script_jessie.rpy:11220
+translate russian ch4j_feral_9974bf04:
+
+    # "When the rain lifts, she goes, wistfully, leaving us again. Lone wolves. Our perfect pack of two."
+    ""
+
+# game/script_jessie.rpy:11221
+translate russian ch4j_feral_037112da:
+
+    # "We delve farther into the wilderness. Gone is fear. Buried deep is the notion that any world exists beyond our own. Worries are allayed, ignored. The world is ours to live off of, and with."
+    ""
+
+# game/script_jessie.rpy:11222
+translate russian ch4j_feral_27c9e441:
+
+    # "The water runs for us to drink, to bathe, to jump and splash."
+    ""
+
+# game/script_jessie.rpy:11223
+translate russian ch4j_feral_ea2c28ab:
+
+    # "The air is for us alone to breathe. The wind caresses us to cool us and deliver scents."
+    ""
+
+# game/script_jessie.rpy:11224
+translate russian ch4j_feral_f6a5a908:
+
+    # "Creatures exist for us to hunt, eat."
+    ""
+
+# game/script_jessie.rpy:11225
+translate russian ch4j_feral_fa5b88cc:
+
+    # "Our communication is through body language and marking our scents. We bark, growl, and howl when safe, or to warn each other."
+    ""
+
+# game/script_jessie.rpy:11226
+translate russian ch4j_feral_a28f6ffd:
+
+    # "The social hierarchy puts her on top. I know from her aggression that I am to submit when she commands."
+    ""
+
+# game/script_jessie.rpy:11227
+translate russian ch4j_feral_18ae3185:
+
+    # "She is the leader of our pack. When chastised, I crouch or whimper, knowing to tuck in my tail."
+    ""
+
+# game/script_jessie.rpy:11228
+translate russian ch4j_feral_3521baef:
+
+    # "When I lick her mouth or roll over on my back, she dances, bows, and licks back."
+    ""
+
+# game/script_jessie.rpy:11229
+translate russian ch4j_feral_4e9e54de:
+
+    # "Our mating comes at her bequest only. I delight knowing her demands are voracious and frequent."
+    ""
+
+# game/script_jessie.rpy:11234
+translate russian ch4j_feral_5bd7efa4:
+
+    # "Seasons pass. Heat passes. Cold arrives. We survive together."
+    ""
+
+# game/script_jessie.rpy:11240
+translate russian ch4j_feral_ea86f21d:
+
+    # "And every night when the moon rises, we play."
+    ""
+
+# game/script_jessie.rpy:11281
+translate russian ch4j_02b_f61a2358:
+
+    # "I press my snout into her fur and take another deep breath. My head swims as more sensations flood in. Echoes of another time."
+    ""
+
+# game/script_jessie.rpy:11282
+translate russian ch4j_02b_437596b8:
+
+    # "The fog begins to clear, replaced by a force. A presence. {i}Her presence.{/i}"
+    ""
+
+# game/script_jessie.rpy:11283
+translate russian ch4j_02b_5afd3ae2:
+
+    # "I reach toward it and feel her guide me. Or perhaps we are guiding each other."
+    ""
+
+# game/script_jessie.rpy:11284
+translate russian ch4j_02b_642c4f30:
+
+    # "She envelops me, nuzzling my body. Inducing the memory from within."
+    ""
+
+# game/script_jessie.rpy:11292
+translate russian ch4j_02b_d43529a9:
+
+    # "My entire being begins to open up and calm down. Our energy builds but softens my interior. My blood settles, no longer wildly thrashing about in my veins."
+    ""
+
+# game/script_jessie.rpy:11293
+translate russian ch4j_02b_b9b946fe:
+
+    # "Slowly, she takes hold of me, as if from inside, and coaxes me gently back to another version of myself. A version I now remember... yet have never experienced."
+    ""
+
+# game/script_jessie.rpy:11301
+translate russian ch4j_02b_d7aa47ed:
+
+    # "The sensation is much like stepping into a hot bath: jarring but welcoming. Eventually, I settle into the heat of the moment, and surrender myself to the change."
+    ""
+
+# game/script_jessie.rpy:11309
+translate russian ch4j_02b_42920f77:
+
+    # j "M... Malcolm?"
+    j ""
+
+# game/script_jessie.rpy:11332
+translate russian ch4j_02b_b33146ee:
+
+    # "Dazed, I blink open my eyes. It feels like I've just awoken from a long nap."
+    ""
+
+# game/script_jessie.rpy:11334
+translate russian ch4j_02b_c1dc5432:
+
+    # "Dazed, I blink open my eyes. It feels like I've just awoken from a long nightmare."
+    ""
+
+# game/script_jessie.rpy:11340
+translate russian ch4j_02b_ee8f5d86:
+
+    # c "Jessie... you won't believe... I had the wildest dream..."
+    c ""
+
+# game/script_jessie.rpy:11341
+translate russian ch4j_02b_ba70c6d6:
+
+    # "I'm slurring my words. My mouth feels funny."
+    ""
+
+# game/script_jessie.rpy:11342
+translate russian ch4j_02b_6bcb91e2:
+
+    # j "{i}Oh God.{/i} Malcolm... what have I done?"
+    j ""
+
+# game/script_jessie.rpy:11345
+translate russian ch4j_02b_5499c95f:
+
+    # "Jessie whips her head away, tears welling at her eyes."
+    ""
+
+# game/script_jessie.rpy:11346
+translate russian ch4j_02b_c8e12116:
+
+    # c "You've... stolen my heart, is what."
+    c ""
+
+# game/script_jessie.rpy:11349
+translate russian ch4j_02b_076b66b8:
+
+    # "I smile, trying to lift her spirits, unsure what has her in such a mood. My memories are still foggy. Oh, no. Has she misplaced her dress again?"
+    ""
+
+# game/script_jessie.rpy:11362
+translate russian ch4j_02b_848ae9cd:
+
+    # "My own jacket is tight around my arms. I tug it off and offer it to Jessie. She reluctantly accepts, but won't face me. So I scoot closer and wrap the warm fabric around her shoulders."
+    ""
+
+# game/script_jessie.rpy:11373
+translate russian ch4j_02b_c533efb9:
+
+    # "That's when I see my claws."
+    ""
+
+# game/script_jessie.rpy:11384
+translate russian ch4j_02b_09dd63cc:
+
+    # butterfly_effect "{image=butterflysprite}" nointeract
+    butterfly_effect "" nointeract
+
+# game/script_jessie.rpy:11395
+translate russian ch4j_02b_09dd63cc_1:
+
+    # butterfly_effect "{image=butterflysprite}" nointeract
+    butterfly_effect "" nointeract
+
+# game/script_jessie.rpy:11405
+translate russian ch4j_02d_d9a510db:
+
+    # "And I can't believe my eyes."
+    ""
+
+# game/script_jessie.rpy:11406
+translate russian ch4j_02d_f0b78c3a:
+
+    # "I am me again. But also... {i}not me.{/i}"
+    ""
+
+# game/script_jessie.rpy:11407
+translate russian ch4j_02d_813dbbf5:
+
+    # "Something wild lives within me, just beneath the surface. I can sense it. The feeling makes my hair stand on end. Hair that now covers my entire body."
+    ""
+
+# game/script_jessie.rpy:11409
+translate russian ch4j_02d_cd729042:
+
+    # "Bottled up energy. Alien instincts. A rainbow of senses that make my human perception seem as monotone as a moving picture."
+    ""
+
+# game/script_jessie.rpy:11411
+translate russian ch4j_02d_0b8d6d96:
+
+    # c "So this is what it feels like."
+    c ""
+
+# game/script_jessie.rpy:11421
+translate russian ch4j_02d_cb7c2c11:
+
+    # "The breath Jessie was holding finally comes out as a solemn sigh."
+    ""
+
+# game/script_jessie.rpy:11423
+translate russian ch4j_02d_47fb1fd3:
+
+    # j "Yes... it takes some getting used to. Malcolm, I'm so sorry!"
+    j ""
+
+# game/script_jessie.rpy:11424
+translate russian ch4j_02d_384af683:
+
+    # "With some effort, I stay the strange feelings and focus. Dim memories of the scrum resurface. I wonder if I should be angry. The truth is, I don't have it in me."
+    ""
+
+# game/script_jessie.rpy:11426
+translate russian ch4j_02d_96e6755c:
+
+    # c "There's nothing to forgive. It wasn't your fault—what happened tonight was out of our control."
+    c ""
+
+# game/script_jessie.rpy:11427
+translate russian ch4j_02d_e30e8481:
+
+    # "Jessie's lip trembles."
+    ""
+
+# game/script_jessie.rpy:11429
+translate russian ch4j_02d_9318b5c0:
+
+    # j "{i}I{/i} was out of control. I brought this upon us. Malcolm, I only have myself to blame."
+    j ""
+
+# game/script_jessie.rpy:11431
+translate russian ch4j_02d_cdab7d00:
+
+    # c "Don't be unfair to yourself. How long have you mastered your instincts without a hitch?"
+    c ""
+
+# game/script_jessie.rpy:11432
+translate russian ch4j_02d_56ab8dfa:
+
+    # "Powerful instincts that I now have as well, bubbling below. Begging to be released. Part of me is containing them, subconsciously. What would happen if I set them free?"
+    ""
+
+# game/script_jessie.rpy:11434
+translate russian ch4j_02d_7010fe98:
+
+    # j "All it takes is one misstep."
+    j ""
+
+# game/script_jessie.rpy:11436
+translate russian ch4j_02d_65a366f0:
+
+    # c "What happened at the pub wasn't a misstep. Had it not been for that awful old man—"
+    c ""
+
+# game/script_jessie.rpy:11438
+translate russian ch4j_02d_00c4182e:
+
+    # "Jessie grimaces, and I realize it might be better to look forward than to linger on the past."
+    ""
+
+# game/script_jessie.rpy:11439
+translate russian ch4j_02d_3dc69ad4:
+
+    # c "...everything would have been fine. Everything {i}will{/i} be fine. We'll get through this."
+    c ""
+
+# game/script_jessie.rpy:11441
+translate russian ch4j_02d_510e73b7:
+
+    # "I sound confident, even though I have no basis to be. It simply needs to be said."
+    ""
+
+# game/script_jessie.rpy:11442
+translate russian ch4j_02d_5a888d29:
+
+    # "Through four bleak, desperate years, it was the only thing that kept me going. The belief that things will get better, even when they seem hopeless."
+    ""
+
+# game/script_jessie.rpy:11445
+translate russian ch4j_02d_10b46a3d:
+
+    # j "It's not safe to go back, is it? What if we're found? I can't get shot again. I don't know how to find Alana. My head is spinning, Malcolm!"
+    j ""
+
+# game/script_jessie.rpy:11447
+translate russian ch4j_02d_6184c8fd:
+
+    # "I have yet to wrap my head around everything as well. But she's right. After such a violent outburst, how do we reassure the townsfolk that Jessie is not a monster?"
+    ""
+
+# game/script_jessie.rpy:11448
+translate russian ch4j_02d_30a97076:
+
+    # "I look out over my snout and realize how much we both look the part."
+    ""
+
+# game/script_jessie.rpy:11452
+translate russian ch4j_02d_6a1a6c13:
+
+    # "My spirits drop. Home is no longer safe. Bridges were burned. Nothing will be the same."
+    ""
+
+# game/script_jessie.rpy:11453
+translate russian ch4j_02d_ae87907f:
+
+    # c "Jessie... I'm scared too. But we still have our wits, and we have each other. We'll figure something out."
+    c ""
+
+# game/script_jessie.rpy:11454
+translate russian ch4j_02d_b8ffc059:
+
+    # "My words might be an empty promise, and I fear Jessie knows it. There's one other thing to suggest, though for Gran's sake, I am reluctant to say it."
+    ""
+
+# game/script_jessie.rpy:11456
+translate russian ch4j_02d_137b5cc3:
+
+    # c "Or... we leave."
+    c ""
+
+# game/script_jessie.rpy:11458
+translate russian ch4j_02d_53506134:
+
+    # "Jessie looks up at me despondently."
+    ""
+
+# game/script_jessie.rpy:11459
+translate russian ch4j_02d_ba27a969:
+
+    # j "And go where?"
+    j ""
+
+# game/script_jessie.rpy:11460
+translate russian ch4j_02d_0b89c1a5:
+
+    # c "The city, just like you'd planned. A fresh start. Somewhere no one knows your secret. We'll be safe, and you'll be able to follow your dream."
+    c ""
+
+# game/script_jessie.rpy:11463
+translate russian ch4j_02d_6a35332c:
+
+    # j "I can't."
+    j ""
+
+# game/script_jessie.rpy:11464
+translate russian ch4j_02d_73473812:
+
+    # "Her objection catches me off balance."
+    ""
+
+# game/script_jessie.rpy:11465
+translate russian ch4j_02d_f0329f9e:
+
+    # c "Pardon? I thought—"
+    c ""
+
+# game/script_jessie.rpy:11467
+translate russian ch4j_02d_7acd0673:
+
+    # j "I can't go back to where the people are, Malcolm. I blew up here, in my own home town... my safe place."
+    j ""
+
+# game/script_jessie.rpy:11469
+translate russian ch4j_02d_d38f994e:
+
+    # j "Imagine if that had happened in the city! In a nightclub? There'd be a riot! Police!"
+    j ""
+
+# game/script_jessie.rpy:11471
+translate russian ch4j_02d_c6d07744:
+
+    # j "And look at yourself. {i}I did this to you.{/i} If the man I love isn't safe from me, then who is?"
+    j ""
+
+# game/script_jessie.rpy:11473
+translate russian ch4j_02d_8a6db0fc:
+
+    # "She lowers her head, and I worry she's ashamed."
+    ""
+
+# game/script_jessie.rpy:11475
+translate russian ch4j_02d_37222218:
+
+    # c "Jessie, you haven't hurt me. I may be a bit furrier, but I'm no worse for wear."
+    c ""
+
+# game/script_jessie.rpy:11477
+translate russian ch4j_02d_b395bb97:
+
+    # "Shyly, she meets my eye."
+    ""
+
+# game/script_jessie.rpy:11478
+translate russian ch4j_02d_b9f77521:
+
+    # j "You do wear it well."
+    j ""
+
+# game/script_jessie.rpy:11479
+translate russian ch4j_02d_98b7f687:
+
+    # "I feel myself blush. Can she see it underneath the fur on my cheeks?"
+    ""
+
+# game/script_jessie.rpy:11480
+translate russian ch4j_02d_465c9119:
+
+    # c "You've given me your gift. It may take some getting used to, but I'm grateful for it nonetheless."
+    c ""
+
+# game/script_jessie.rpy:11482
+translate russian ch4j_02d_0b97d465:
+
+    # j "You don't have to be. You didn't ask for any of this."
+    j ""
+
+# game/script_jessie.rpy:11483
+translate russian ch4j_02d_5acbaafb:
+
+    # c "True. But ever since you changed, I've felt like I've been on the outside looking in. I finally have a chance to understand what it's like."
+    c ""
+
+# game/script_jessie.rpy:11487
+translate russian ch4j_02d_4d75ba15:
+
+    # j "Well take care. It's a wild ride."
+    j ""
+
+# game/script_jessie.rpy:11488
+translate russian ch4j_02d_273d47f5:
+
+    # "I can't tell if Jessie's statement is a word of caution or a seal of approval. Perhaps it is both."
+    ""
+
+# game/script_jessie.rpy:11489
+translate russian ch4j_02d_cb7d7622:
+
+    # "Intense energy flows through me, at once terrifying and exciting. Part of me wants to tap into it. Another part of me insists on tamping it deep down, lest we be found like this."
+    ""
+
+# game/script_jessie.rpy:11494
+translate russian ch4j_02d_9e433349:
+
+    # "Better to be prudent for now. There will be other nights—ones less fraught with danger."
+    ""
+
+# game/script_jessie.rpy:11495
+translate russian ch4j_02d_c681c4ee:
+
+    # c "It's been a wild ride all right. We should get back to our normal selves before any roving mobs catch up to us."
+    c ""
+
+# game/script_jessie.rpy:11499
+translate russian ch4j_02d_c31e59b3:
+
+    # "The opportunity to experience the world through Jessie's eyes is one I'm loathe to pass up so soon. I'm not ready to get off this wild ride just yet."
+    ""
+
+# game/script_jessie.rpy:11501
+translate russian ch4j_02d_ab3c9781:
+
+    # "Anyway, instinct tells me it won't do either of us any good to linger on our predicament. I wiggle my toes and paws playfully."
+    ""
+
+# game/script_jessie.rpy:11563
+translate russian ch4j_02c_076447a5:
+
+    # "And I am awestruck."
+    ""
+
+# game/script_jessie.rpy:11564
+translate russian ch4j_02c_d90d62f2:
+
+    # "My heartbeat quickens. A marvelous power reenergizes me. The world looks and feels more vibrant than ever before."
+    ""
+
+# game/script_jessie.rpy:11566
+translate russian ch4j_02c_7c029347:
+
+    # c "{i}I feel alive.{/i}"
+    c ""
+
+# game/script_jessie.rpy:11568
+translate russian ch4j_02c_e6e2b7f6:
+
+    # "Jessie's features soften, the concern fading away."
+    ""
+
+# game/script_jessie.rpy:11569
+translate russian ch4j_02c_c559c62e:
+
+    # j "It's really something, isn't it?"
+    j ""
+
+# game/script_jessie.rpy:11570
+translate russian ch4j_02c_72988590:
+
+    # "I flex my digits and marvel at the sensation of my claws pressing into my paw pads."
+    ""
+
+# game/script_jessie.rpy:11571
+translate russian ch4j_02c_d4d6da0d:
+
+    # c "How did...?"
+    c ""
+
+# game/script_jessie.rpy:11581
+translate russian ch4j_02c_5dd74721:
+
+    # j "I don't know. I didn't know this could... {i}och, I've bungled everything!{/i} Malcolm, I'm so sorry. Please forgive me."
+    j ""
+
+# game/script_jessie.rpy:11582
+translate russian ch4j_02c_42cad1ea:
+
+    # "Dim memories of the scrum resurface. I wonder if I should be angry. The truth is, I don't have it in me. And seeing Jessie on the verge of tears, all I want is to reassure her."
+    ""
+
+# game/script_jessie.rpy:11583
+translate russian ch4j_02c_af29b159:
+
+    # c "There's nothing to forgive. Never stop being the firecracker I fell in love with! Even when you explode—"
+    c ""
+
+# game/script_jessie.rpy:11585
+translate russian ch4j_02c_cb139dd9:
+
+    # "I bite my lip, wondering if I chose the right word."
+    ""
+
+# game/script_jessie.rpy:11586
+translate russian ch4j_02c_8b756d83:
+
+    # c "The explosion... it's built from your passion, your drive to protect loved ones. It's a beautiful spectacle that shines with your colours. You can illuminate the world with your spirit."
+    c ""
+
+# game/script_jessie.rpy:11590
+translate russian ch4j_02c_064065dc:
+
+    # "Jessie laughs forlornly."
+    ""
+
+# game/script_jessie.rpy:11591
+translate russian ch4j_02c_ee707190:
+
+    # j "Never has anyone more eloquently described a wild beast let loose in a pub."
+    j ""
+
+# game/script_jessie.rpy:11593
+translate russian ch4j_02c_fd48180b:
+
+    # c "When you put it that way, I suppose it does sound a lot worse, doesn't it?"
+    c ""
+
+# game/script_jessie.rpy:11595
+translate russian ch4j_02c_29ca7067:
+
+    # "I join in with her laughter, but part of me knows I ought to be concerned. I haven't yet processed the result of Jessie's audition."
+    ""
+
+# game/script_jessie.rpy:11596
+translate russian ch4j_02c_577c4710:
+
+    # "What does her outburst, not to mention my transformation, mean for our lives? Our futures?"
+    ""
+
+# game/script_jessie.rpy:11597
+translate russian ch4j_02c_70e8a18c:
+
+    # "Everything has changed."
+    ""
+
+# game/script_jessie.rpy:11599
+translate russian ch4j_02c_2fc22c4b:
+
+    # "But I don't want to think about it. This form, it fills me with hope, vigor, purpose... truthfully, I've never felt so {i}excited.{/i}"
+    ""
+
+# game/script_jessie.rpy:11601
+translate russian ch4j_02c_0348f522:
+
+    # c "I'm not sure I want to go back."
+    c ""
+
+# game/script_jessie.rpy:11603
+translate russian ch4j_02c_ffc81b0f:
+
+    # "This catches her attention. I didn't mean to say it aloud, but... there it is. Never have I spoken truer words, except when I told Jessie that I love her."
+    ""
+
+# game/script_jessie.rpy:11604
+translate russian ch4j_02c_d97fa0ba:
+
+    # j "Oh, Malcolm. You don't mean that. You can go back to normal. I'm sure of it!"
+    j ""
+
+# game/script_jessie.rpy:11605
+translate russian ch4j_02c_399dd8e9:
+
+    # c "\"Normal?\" It's too late to turn back the clock, don't you think? Even were we to shed our fur coats, there's no putting the cat—or rather the dog—back in the bag!"
+    c ""
+
+# game/script_jessie.rpy:11606
+translate russian ch4j_02c_29378cce:
+
+    # "I smirk, trying hard to keep the mood light. We're both keenly aware of the turmoil she caused, and what we just escaped."
+    ""
+
+# game/script_jessie.rpy:11610
+translate russian ch4j_02c_a7be6ece:
+
+    # j "It's not safe to go back, is it?"
+    j ""
+
+# game/script_jessie.rpy:11611
+translate russian ch4j_02c_89e30d1c:
+
+    # "Her eyes reflect the moonlight, her pupils grow. Tears begin forming again. I sigh, conceding to the seriousness of the situation."
+    ""
+
+# game/script_jessie.rpy:11612
+translate russian ch4j_02c_a0f2ba0e:
+
+    # c "I don't think so. Not like this."
+    c ""
+
+# game/script_jessie.rpy:11614
+translate russian ch4j_02c_3c619b47:
+
+    # "Jessie closes her eyes tightly and whispers."
+    ""
+
+# game/script_jessie.rpy:11615
+translate russian ch4j_02c_cdf8ad34:
+
+    # j "I lost control. And now I have no home."
+    j ""
+
+# game/script_jessie.rpy:11617
+translate russian ch4j_02c_bd6df2e4:
+
+    # "As I watch her bottom lip tremble, it begins to sink in that she might be right."
+    ""
+
+# game/script_jessie.rpy:11618
+translate russian ch4j_02c_ff268485:
+
+    # c "You still have your sisters. You have me. If we return in our familiar forms, tell them everything we know, the townsfolk must realize we're not..."
+    c ""
+
+# game/script_jessie.rpy:11620
+translate russian ch4j_02c_ab9ffedc:
+
+    # j "Monsters?"
+    j ""
+
+# game/script_jessie.rpy:11623
+translate russian ch4j_02c_57f55e1c:
+
+    # "Her look tells me I should know better. Perhaps I am grasping at straws."
+    ""
+
+# game/script_jessie.rpy:11624
+translate russian ch4j_02c_444048c7:
+
+    # "There's one more possibility, though for Gran's sake, I hesitate to suggest it."
+    ""
+
+# game/script_jessie.rpy:11626
+translate russian ch4j_02c_d7a5094f:
+
+    # c "Or... we leave. You wanted to escape? We finally have a clear-cut reason to go. We leave Ach-na-Creige and start anew."
+    c ""
+
+# game/script_jessie.rpy:11629
+translate russian ch4j_02c_6a35332c:
+
+    # j "I can't."
+    j ""
+
+# game/script_jessie.rpy:11630
+translate russian ch4j_02c_73473812:
+
+    # "Her objection catches me off balance."
+    ""
+
+# game/script_jessie.rpy:11631
+translate russian ch4j_02c_f0329f9e:
+
+    # c "Pardon? I thought—"
+    c ""
+
+# game/script_jessie.rpy:11633
+translate russian ch4j_02c_7acd0673:
+
+    # j "I can't go back to where the people are, Malcolm. I blew up here, in my own home town... my safe place."
+    j ""
+
+# game/script_jessie.rpy:11635
+translate russian ch4j_02c_d38f994e:
+
+    # j "Imagine if that had happened in the city! In a nightclub? There'd be a riot! Police!"
+    j ""
+
+# game/script_jessie.rpy:11637
+translate russian ch4j_02c_c6d07744:
+
+    # j "And look at yourself. {i}I did this to you.{/i} If the man I love isn't safe from me, then who is?"
+    j ""
+
+# game/script_jessie.rpy:11639
+translate russian ch4j_02c_8a6db0fc:
+
+    # "She lowers her head, and I worry she's ashamed."
+    ""
+
+# game/script_jessie.rpy:11641
+translate russian ch4j_02c_cbc51608:
+
+    # c "Jessie, I understand how you must feel, but for me... this is a gift."
+    c ""
+
+# game/script_jessie.rpy:11642
+translate russian ch4j_02c_eb928d4c:
+
+    # "For a moment, I let myself revel in the wild energy flowing through me once more. The wound up excitement, just begging to be released."
+    ""
+
+# game/script_jessie.rpy:11644
+translate russian ch4j_02c_a9efac44:
+
+    # "Instinct tells me it won't do either of us any good to linger on our predicament. I wiggle my toes and paws playfully."
+    ""
+
+# game/script_jessie.rpy:11650
+translate russian ch4j_02race_7b704250:
+
+    # c "I want a rematch."
+    c ""
+
+# game/script_jessie.rpy:11653
+translate russian ch4j_02race_c0f9b6af:
+
+    # j "Eh?"
+    j ""
+
+# game/script_jessie.rpy:11655
+translate russian ch4j_02race_03910ab2:
+
+    # c "You said I could have a rematch anytime. Com'on! Race you to the top of the ridge?"
+    c ""
+
+# game/script_jessie.rpy:11657
+translate russian ch4j_02race_3b213705:
+
+    # "She looks at me like I'm out of my mind."
+    ""
+
+# game/script_jessie.rpy:11659
+translate russian ch4j_02race_92cddf7b:
+
+    # j "After all that's happened? Malcolm, we can't be found like this. We both need to get back to our human forms and... figure out what next."
+    j ""
+
+# game/script_jessie.rpy:11661
+translate russian ch4j_02race_64a08d66:
+
+    # "I'm surprised to hear Jessie being so cautious. Now it's my turn to throw caution to the wind."
+    ""
+
+# game/script_jessie.rpy:11663
+translate russian ch4j_02race_7929763a:
+
+    # c "Sounds to me like you're worried I might win... now that we're on an even playing field."
+    c ""
+
+# game/script_jessie.rpy:11665
+translate russian ch4j_02race_694e16de:
+
+    # "Jessie's eyes narrow, and I know my challenge has been accepted."
+    ""
+
+# game/script_jessie.rpy:11667
+translate russian ch4j_02race_c1a7f3aa:
+
+    # j "{i}I'm worried that you'll break a leg.{/i} Have you seen how rocky the ground is? Have you even run on two paws yet?"
+    j ""
+
+# game/script_jessie.rpy:11668
+translate russian ch4j_02race_5d1a2371:
+
+    # c "Good. Then you won't mind giving me a head start!"
+    c ""
+
+# game/script_jessie.rpy:11678
+translate russian ch4j_02race_d0a81762:
+
+    # "I take off with a lunge—and promptly lose my balance, falling face first into the dirt."
+    ""
+
+# game/script_jessie.rpy:11691
+translate russian ch4j_02race_96bfb369:
+
+    # "Jessie graciously pulls me back up onto my feet."
+    ""
+
+# game/script_jessie.rpy:11692
+translate russian ch4j_02race_1ef14258:
+
+    # j "Not so simple is it, champ? Here. I'll show you how it's done."
+    j ""
+
+# game/script_jessie.rpy:11700
+translate russian ch4j_02race_ff39d9c3:
+
+    # "Jessie shoots up the hillside, kicking up pebbles as she weaves between boulders and bushes. The power of her haunches nearly shakes the ground under my feet."
+    ""
+
+# game/script_jessie.rpy:11701
+translate russian ch4j_02race_1e98df7e:
+
+    # c "Oi! No fair!"
+    c ""
+
+# game/script_jessie.rpy:11719
+translate russian ch4j_02race_5632afff:
+
+    # "I start again, focusing harder on my balance. My legs keep me upright, but my feet still startle me with how huge and unwieldy they are."
+    ""
+
+# game/script_jessie.rpy:11721
+translate russian ch4j_02race_043841ce:
+
+    # "It's as if I bounce as I go, like standing on springs. My confidence grows with each stride. I can actually feel each follicle on my body as the wind rushes past."
+    ""
+
+# game/script_jessie.rpy:11722
+translate russian ch4j_02race_c5d62aa0:
+
+    # "The sensation motivates me, pushing me even faster, higher with each bound, collecting speed while losing my breath."
+    ""
+
+# game/script_jessie.rpy:11723
+translate russian ch4j_02race_10eea835:
+
+    # "Instead of weaving between the rocks, I start to hop from one to the next, closing the distance between me and Jessie."
+    ""
+
+# game/script_jessie.rpy:11724
+translate russian ch4j_02race_a4ca4f2d:
+
+    # "This is nothing like a run around the schoolyard, or a game of tag behind our homes. It's low level flying. A race among the clouds."
+    ""
+
+# game/script_jessie.rpy:11725
+translate russian ch4j_02race_21ddbb64:
+
+    # "A chase with deeper inhales, louder exhales, and a heartbeat that pounds from excitement instead of exhaustion."
+    ""
+
+# game/script_jessie.rpy:11728
+translate russian ch4j_02race_52c506b6:
+
+    # "I glance up and see Jessie looking back. She winks and seems surprised."
+    ""
+
+# game/script_jessie.rpy:11729
+translate russian ch4j_02race_6fa547b4:
+
+    # j "Not bad! You're faster than I thought you'd be!"
+    j ""
+
+# game/script_jessie.rpy:11730
+translate russian ch4j_02race_9f1c1e98:
+
+    # "When she turns back to face the hilltop, she kicks off a rock—and stumbles. At first I think she's teasing me, letting me outpace her."
+    ""
+
+# game/script_jessie.rpy:11731
+translate russian ch4j_02race_d23039cf:
+
+    # "But no—it was a misstep! She mutters a curse and scrambles to get her stride back. I pass her, tongue wagging, and smile as she falls behind."
+    ""
+
+# game/script_jessie.rpy:11733
+translate russian ch4j_02race_4f551f6e:
+
+    # "The top of the ridge is in sight. My heart leaps! For the first time in my life, might I actually beat Jessie in a race?"
+    ""
+
+# game/script_jessie.rpy:11740
+translate russian ch4j_02race_d02bed2c:
+
+    # "A shadow passes overhead. It's a stick, flying through the air in front of my face."
+    ""
+
+# game/script_jessie.rpy:11741
+translate russian ch4j_02race_3c4edf92:
+
+    # "A sudden urge strikes."
+    ""
+
+# game/script_jessie.rpy:11743
+translate russian ch4j_02race_4db58b16:
+
+    # "I launch myself into the sky with all four paws. Teeth bared, my maw gapes, seeking the target."
+    ""
+
+# game/script_jessie.rpy:11751
+translate russian ch4j_02race_957c1ac0:
+
+    # "When I come back down with the stick in my jaws, I'm dumbstruck with the joy of success. I got it!"
+    ""
+
+# game/script_jessie.rpy:11757
+translate russian ch4j_02race_ded5fdd2:
+
+    # "Wait... what's so important about this stick?"
+    ""
+
+# game/script_jessie.rpy:11759
+translate russian ch4j_02race_45bfe8b2:
+
+    # "I sit with my prize hanging out of my jaw while Jessie runs past, a smug grin on her face."
+    ""
+
+# game/script_jessie.rpy:11781
+translate russian ch4j_02race_dade9bd6:
+
+    # "I reach the top just seconds behind her, and we're both panting and giggling like schoolchildren."
+    ""
+
+# game/script_jessie.rpy:11782
+translate russian ch4j_02race_6ea4d908:
+
+    # c "You cheated!"
+    c ""
+
+# game/script_jessie.rpy:11789
+translate russian ch4j_02race_0f0d3fec:
+
+    # j "I just evened the odds."
+    j ""
+
+# game/script_jessie.rpy:11801
+translate russian ch4j_02race_140d4fd7:
+
+    # "She laughs, petting my head."
+    ""
+
+# game/script_jessie.rpy:11804
+translate russian ch4j_02race_7bd94275:
+
+    # j "You still have a lot to learn. But a job well done, Malcolm!"
+    j ""
+
+# game/script_jessie.rpy:11805
+translate russian ch4j_02race_e9877743:
+
+    # "I have to agree. I went from human to racing dog in one night. I feel like a new foal, clumsy on my feet the first minute... embracing my wobbly legs the next."
+    ""
+
+# game/script_jessie.rpy:11806
+translate russian ch4j_02race_05a2fa39:
+
+    # "There's a lot to be said about the innate intelligence of the animal kingdom. Of course, I was distracted by a stick, so... there's a lot to be said in other ways, too, I suppose."
+    ""
+
+# game/script_jessie.rpy:11810
+translate russian ch4j_02race_6feb1b88:
+
+    # "It was such a rush, such a blissfully ignorant event to take my mind away from other things. I can understand Jessie's kinship to her wolf spirit and body."
+    ""
+
+# game/script_jessie.rpy:11812
+translate russian ch4j_02race_58ef0a8e:
+
+    # c "That felt amazing. Rejuvenating!"
+    c ""
+
+# game/script_jessie.rpy:11814
+translate russian ch4j_02race_9eff2083:
+
+    # j "I know. That perfectly sums it up."
+    j ""
+
+# game/script_jessie.rpy:11816
+translate russian ch4j_02race_6c6cad2d:
+
+    # c "It feels so odd to be pulled in two directions, human and wolf. How do you learn to reconcile the two sides?"
+    c ""
+
+# game/script_jessie.rpy:11818
+translate russian ch4j_02race_3744ac2a:
+
+    # j "You're asking the wrong wolf. I struggle. Obviously."
+    j ""
+
+# game/script_jessie.rpy:11819
+translate russian ch4j_02race_61027a6f:
+
+    # "I wince, and try to change to a less sensitive topic."
+    ""
+
+# game/script_jessie.rpy:11821
+translate russian ch4j_02race_86185271:
+
+    # c "You say there's lots more to learn. Tell me more about what to expect!"
+    c ""
+
+# game/script_jessie.rpy:11825
+translate russian ch4j_02race_8424f0ad:
+
+    # j "Please don't think that way. You can't stay like this forever."
+    j ""
+
+# game/script_jessie.rpy:11826
+translate russian ch4j_02race_d678a751:
+
+    # c "But I'll be like this... tonight."
+    c ""
+
+# game/script_jessie.rpy:11830
+translate russian ch4j_02race_16b7db3f:
+
+    # "Something is swishing behind me, and it takes me a moment to realize it's my own tail. I must look like an eager pet awaiting instruction."
+    ""
+
+# game/script_jessie.rpy:11833
+translate russian ch4j_02race_13d27c26:
+
+    # j "Then first of all, you need to slow down with all the tail wagging. Your fur is flying everywhere!"
+    j ""
+
+# game/script_jessie.rpy:11834
+translate russian ch4j_02race_0f786cfc:
+
+    # "She swats the air between us and, sure enough, catches a tuft of hair floating there."
+    ""
+
+# game/script_jessie.rpy:11836
+translate russian ch4j_02race_d9d2f200:
+
+    # c "All right, I'll try to calm down. That's always a struggle when I'm around you!"
+    c ""
+
+# game/script_jessie.rpy:11838
+translate russian ch4j_02race_e2b3588d:
+
+    # "Jessie sticks her tongue out at me."
+    ""
+
+# game/script_jessie.rpy:11840
+translate russian ch4j_02race_38dbb491:
+
+    # j "You'll learn that shedding is good for keeping a clean coat, though. As you groom yourself, you'll feel less itchy. Plus, the hair helps birds build their nests!"
+    j ""
+
+# game/script_jessie.rpy:11842
+translate russian ch4j_02race_403cde99:
+
+    # j "...At least, that's what I tell myself. Can't say the same for Marion. At home, she has a broom out in the blink of an eye. I always blame the shedding on Toast."
+    j ""
+
+# game/script_jessie.rpy:11844
+translate russian ch4j_02race_1a90f602:
+
+    # "Jessie winks conspiratorially, and it makes me wonder how Gran would react to hair everywhere. Gran wouldn't make me sleep outside... would she?"
+    ""
+
+# game/script_jessie.rpy:11846
+translate russian ch4j_02race_a70d1141:
+
+    # j "Oh! And your appetite. You're going to become voracious! Very soon, in fact. I don't know how we'll get you fed enough."
+    j ""
+
+# game/script_jessie.rpy:11847
+translate russian ch4j_02race_ec516b7c:
+
+    # c "I'll survive. I've done without before."
+    c ""
+
+# game/script_jessie.rpy:11849
+translate russian ch4j_02race_4745ee8c:
+
+    # j "You'll just need to keep your energy up, should we need to keep moving... or racing."
+    j ""
+
+# game/script_jessie.rpy:11857
+translate russian ch4j_02race_cc661702:
+
+    # "She winks again and my heart jumps. This evening is quickly becoming my favorite to date. To share this is..."
+    ""
+
+# game/script_jessie.rpy:11860
+translate russian ch4j_02race_4f5d3c43:
+
+    # c "Jessie, I can't believe I get to share this with you!"
+    c ""
+
+# game/script_jessie.rpy:11862
+translate russian ch4j_02race_d51006e0:
+
+    # "My voice cracks a bit from excitement."
+    ""
+
+# game/script_jessie.rpy:11871
+translate russian ch4j_02race_94e395ef:
+
+    # "She throws her arms around me."
+    ""
+
+# game/script_jessie.rpy:11872
+translate russian ch4j_02race_e457c577:
+
+    # j "Oh, Malcolm, I want to be scared... I want this to feel wrong. But it doesn't! It makes me so happy."
+    j ""
+
+# game/script_jessie.rpy:11874
+translate russian ch4j_02race_5da06c51:
+
+    # "She winks again and my heart jumps. Maybe I could get used to this after all."
+    ""
+
+# game/script_jessie.rpy:11877
+translate russian ch4j_02race_1b4e0435:
+
+    # c "Jessie... thank you for sharing your gift with me. I feel closer to you than ever before."
+    c ""
+
+# game/script_jessie.rpy:11887
+translate russian ch4j_02race_36350b49:
+
+    # "She places her arms around me."
+    ""
+
+# game/script_jessie.rpy:11888
+translate russian ch4j_02race_d003682f:
+
+    # j "Same. I want to be scared... I want this to feel wrong. But knowing you're willing to be like me... it makes me so happy!"
+    j ""
+
+# game/script_jessie.rpy:11896
+translate russian ch4j_02race_577d331d:
+
+    # "She reaches for my neck, giving me scratches at the base of my head."
+    ""
+
+# game/script_jessie.rpy:11897
+translate russian ch4j_02race_d30a4350:
+
+    # c "That feels so nice."
+    c ""
+
+# game/script_jessie.rpy:11899
+translate russian ch4j_02race_b40e60c8:
+
+    # "Her claws gently make their way up to my scalp, and I smile, nuzzling deeper into her neck. I inhale her musk, relishing the scent and the way it makes me feel so safe, so uninhibited."
+    ""
+
+# game/script_jessie.rpy:11900
+translate russian ch4j_02race_508f5504:
+
+    # "As she keeps holding me and rolling her nails up and across my head, I look at her. Her eyes closed, her lips curled into a smile..."
+    ""
+
+# game/script_jessie.rpy:11917
+translate russian ch4j_02_dance_836f599e:
+
+    # "With vivid detail I can remember our first slow dance. Here we are again. This time surrounded by the glow of fireflies instead of pub lights."
+    ""
+
+# game/script_jessie.rpy:11918
+translate russian ch4j_02_dance_0f6c646e:
+
+    # "It's our very own outdoor dancehall, where we're the last two stragglers, the lovers who won't leave."
+    ""
+
+# game/script_jessie.rpy:11919
+translate russian ch4j_02_dance_09a75092:
+
+    # "Upon this small island in a sea of uncertainty, we share this moment. Each movement we make is a sip of quiet intimacy, and we're desperate to drink to the last drop."
+    ""
+
+# game/script_jessie.rpy:11921
+translate russian ch4j_02_dance_517c8561:
+
+    # "I let her scent fill my mind, trying to keep this memory whole, lest I ever forget the most real seconds of my own life."
+    ""
+
+# game/script_jessie.rpy:11924
+translate russian ch4j_02_dance_b8700a3d:
+
+    # "I am here. Now. Alive and wild, having broken free from the captivity of my human skin. That skin keeping me hostage in a world that tried to kill me, that still tries to kill me."
+    ""
+
+# game/script_jessie.rpy:11925
+translate russian ch4j_02_dance_33c5ddab:
+
+    # "Perhaps I'm not meant to be of that world after all. Not anymore. I am here. Now. Reborn."
+    ""
+
+# game/script_jessie.rpy:11927
+translate russian ch4j_02_dance_cadaa406:
+
+    # "I am here. Now. Alive and wild, in a way I'd never imagined."
+    ""
+
+# game/script_jessie.rpy:11928
+translate russian ch4j_02_dance_032b16eb:
+
+    # "Jessie, leading once again in a dance I'd never thought I would experience."
+    ""
+
+# game/script_jessie.rpy:11931
+translate russian ch4j_02_dance_68f03626:
+
+    # "We rock and sway, just as we've done before. But this time, like every new adventure we share, is different."
+    ""
+
+# game/script_jessie.rpy:11933
+translate russian ch4j_02_dance_edb980c2:
+
+    # "I run my own paw along her shoulder, giving her the same light scratches she offered me."
+    ""
+
+# game/script_jessie.rpy:11934
+translate russian ch4j_02_dance_728bac15:
+
+    # "We dance, in rhythm with nothing but the sound of crickets and the constant and fluid beat of our own hearts."
+    ""
+
+# game/script_jessie.rpy:11936
+translate russian ch4j_02_dance_2b619f98:
+
+    # "We are at ease. Even as we move, we are still. Still within ourselves and each other's souls."
+    ""
+
+# game/script_jessie.rpy:11938
+translate russian ch4j_02_dance_d09592dd:
+
+    # j "Malcolm... I love you so much."
+    j ""
+
+# game/script_jessie.rpy:11940
+translate russian ch4j_02_dance_969c2b30:
+
+    # c "I love you too."
+    c ""
+
+# game/script_jessie.rpy:11942
+translate russian ch4j_02_dance_3e1ce0d7:
+
+    # "Our voices are soft. Neither of us wish to disturb this fleeting peace, snatched from tonight's mayhem."
+    ""
+
+# game/script_jessie.rpy:11943
+translate russian ch4j_02_dance_9ba397b9:
+
+    # "A moment of peace that we know cannot last."
+    ""
+
+# game/script_jessie.rpy:11945
+translate russian ch4j_02_dance_7ee77755:
+
+    # j "...There will be other evenings. Other full moons. We should return to human, Malcolm."
+    j ""
+
+# game/script_jessie.rpy:11948
+translate russian ch4j_02_dance_d1ec2957:
+
+    # "I sense reluctance in her words, something I feel too."
+    ""
+
+# game/script_jessie.rpy:11950
+translate russian ch4j_02_dance_cc3c3ad8:
+
+    # "I sense reluctance in her words."
+    ""
+
+# game/script_jessie.rpy:11951
+translate russian ch4j_02_dance_c7c13a1f:
+
+    # c "...But?"
+    c ""
+
+# game/script_jessie.rpy:11953
+translate russian ch4j_02_dance_4a783607:
+
+    # "Jessie smiles wistfully, her voice dropping to a mere whisper. The heat of her breath on my shoulder makes my hair stand on end."
+    ""
+
+# game/script_jessie.rpy:11954
+translate russian ch4j_02_dance_ea54b519:
+
+    # j "But... know that I love feeling your fur against mine. It makes me feel less..."
+    j ""
+
+# game/script_jessie.rpy:11956
+translate russian ch4j_02_dance_10eb2e18:
+
+    # c "Alone?"
+    c ""
+
+# game/script_jessie.rpy:11957
+translate russian ch4j_02_dance_9f64a2bd:
+
+    # j "Yes."
+    j ""
+
+# game/script_jessie.rpy:11959
+translate russian ch4j_02_dance_66cfd695:
+
+    # "Her arms hold me tighter, running up the length of my back. Blood rushes to my head and elsewhere."
+    ""
+
+# game/script_jessie.rpy:11960
+translate russian ch4j_02_dance_44b9b76e:
+
+    # "This night. The moon above. It's all too much. Too consuming."
+    ""
+
+# game/script_jessie.rpy:11961
+translate russian ch4j_02_dance_8d52fa66:
+
+    # "I want her to never let go. I want {i}more.{/i}"
+    ""
+
+# game/script_jessie.rpy:11963
+translate russian ch4j_02_dance_3205d4b9:
+
+    # c "Jessie... there's one more thing I'd like to share with you tonight."
+    c ""
+
+# game/script_jessie.rpy:11965
+translate russian ch4j_02_dance_31583ff8:
+
+    # j "Something you want me to teach you?"
+    j ""
+
+# game/script_jessie.rpy:11966
+translate russian ch4j_02_dance_5eafb6f2:
+
+    # "I can almost feel her lip curl into a seductive snarl. She grazes one fang across the nape of my neck and I nearly lose my self-control."
+    ""
+
+# game/script_jessie.rpy:11967
+translate russian ch4j_02_dance_0cbf831a:
+
+    # "I don't need to say more. She can sense it."
+    ""
+
+# game/script_jessie.rpy:11975
+translate russian ch4j_02_dance_f5799f76:
+
+    # "Once more, Jessie takes the lead. She kneels and slides her paws down my hip. The slight tickles of her rigid palms make the blood rush from my head."
+    ""
+
+# game/script_jessie.rpy:11976
+translate russian ch4j_02_dance_b3a609e2:
+
+    # "Her eyes catch mine as she opens her mouth, inching closer towards my fuzzy knackers. Her fingers stop to cradle them gently on either side, suddenly taking both onto her tongue."
+    ""
+
+# game/script_jessie.rpy:11982
+translate russian ch4j_02_dance_69cfbe21:
+
+    # "Like a morning sunrise, I start to emerge. Although I hardly recognize myself, it feels... natural. I lean my body into where she welcomes it, wet and warm."
+    ""
+
+# game/script_jessie.rpy:11988
+translate russian ch4j_02_dance_ada152d3:
+
+    # "I'm made weak with hardness. All that she gives to me she takes away, over and again with each dip of her head, each caress of her tongue."
+    ""
+
+# game/script_jessie.rpy:11998
+translate russian ch4j_02_dance_2b7aefaa:
+
+    # "Her paws won't stop moving, gliding swiftly up and down my hard tadger, inching up and under all of me. She gently pushes me down until I rest upon a hard stone."
+    ""
+
+# game/script_jessie.rpy:11999
+translate russian ch4j_02_dance_5a13dea7:
+
+    # "I know what's to come and I want to savor every second. My mind and body have never felt more alive, more present, more demanding of... well, just more. So much more."
+    ""
+
+# game/script_jessie.rpy:12007
+translate russian ch4j_02_dance_706f6d3a:
+
+    # "Jessie has me aching, at full attention. She gives me a little kiss, then at last closes her lips around me."
+    ""
+
+# game/script_jessie.rpy:12013
+translate russian ch4j_02_dance_69ee9d92:
+
+    # "Lower into her throat she takes me. With voracious fervor she swallows me down."
+    ""
+
+# game/script_jessie.rpy:12021
+translate russian ch4j_02_dance_484d0428:
+
+    # "I close my eyes, unconsciously tipping my head back. With upward motions and downward falls I am enveloped."
+    ""
+
+# game/script_jessie.rpy:12027
+translate russian ch4j_02_dance_353f8813:
+
+    # "To show my appreciation, I reach to her head as it moves, place my nails behind her ears and start to scratch."
+    ""
+
+# game/script_jessie.rpy:12035
+translate russian ch4j_02_dance_eec26ba7:
+
+    # "More tickles, pets, tousles atop her head. Anything to let her know that, yes, it's perfect. Keep going, and never let it end."
+    ""
+
+# game/script_jessie.rpy:12037
+translate russian ch4j_02_dance_85bfdd6e:
+
+    # "But I do feel the end. My end. My rubbing motions slow as I struggle to hold back."
+    ""
+
+# game/script_jessie.rpy:12045
+translate russian ch4j_02_dance_5da24f2a:
+
+    # "She responds by slipping me deep into her muzzle. When the tip of her nose wiggles across my low belly, I can't control myself any longer."
+    ""
+
+# game/script_jessie.rpy:12056
+translate russian ch4j_02_dance_5835d522:
+
+    # "With great force, I finish. My soul pours from my body and she accepts it. All of it."
+    ""
+
+# game/script_jessie.rpy:12064
+translate russian ch4j_02_dance_f6ab2e0e:
+
+    # j "What. No howl?"
+    j ""
+
+# game/script_jessie.rpy:12065
+translate russian ch4j_02_dance_d20e35c1:
+
+    # c "If I'd let it out, all Scotland would have heard it!"
+    c ""
+
+# game/script_jessie.rpy:12067
+translate russian ch4j_02_dance_645f72c0:
+
+    # j "We definitely don't want that. It wouldn't do to be interrupted... not when there's more to come."
+    j ""
+
+# game/script_jessie.rpy:12075
+translate russian ch4j_02_dance_c2e99099:
+
+    # "She begins to unbutton the coat she's wearing. My coat. I reach forward to help her slide it off, exposing all of her to me."
+    ""
+
+# game/script_jessie.rpy:12085
+translate russian ch4j_02_dance_15bfaa01:
+
+    # "As she leans back, she sees that I'm still prepared for anything she wants tonight. She licks her lips and smiles."
+    ""
+
+# game/script_jessie.rpy:12087
+translate russian ch4j_02_dance_073b92c4:
+
+    # j "Mine."
+    j ""
+
+# game/script_jessie.rpy:12093
+translate russian ch4j_02_dance_bfada042:
+
+    # "Without another word, she flips herself around onto her hands and knees, presenting herself at just the right angle. I've never been more eager."
+    ""
+
+# game/script_jessie.rpy:12101
+translate russian ch4j_02_dance_8a902a04:
+
+    # "Jessie looks back at me, her tongue hanging out, panting. Needy."
+    ""
+
+# game/script_jessie.rpy:12111
+translate russian ch4j_02_dance_ec926b35:
+
+    # j "I'm ready for my turn."
+    j ""
+
+# game/script_jessie.rpy:12118
+translate russian ch4j_02_dance_ac32856b:
+
+    # "I can see stars in my eyes from longing... and my racing heart. This long night is about to get even longer."
+    ""
+
+# game/script_jessie.rpy:12119
+translate russian ch4j_02_dance_cb37d49f:
+
+    # "What have I done to deserve this kind of passion?"
+    ""
+
+# game/script_jessie.rpy:12127
+translate russian ch4j_02_dance_aef2b077:
+
+    # "My hands instinctively go to what is in front of me. That's why it's called a present, right?"
+    ""
+
+# game/script_jessie.rpy:12129
+translate russian ch4j_02_dance_ae6ed4a0:
+
+    # "I squeeze and toy with the ample fur around my prize... but I can't stay apart for long."
+    ""
+
+# game/script_jessie.rpy:12137
+translate russian ch4j_02_dance_f8952a1f:
+
+    # "My lips grab for hers, and I devour hungrily but tenderly, listening to her whimpers and hushed growls."
+    ""
+
+# game/script_jessie.rpy:12138
+translate russian ch4j_02_dance_1c844f49:
+
+    # "I try to move my tongue as deftly as hers, and only hope I'm achieving half as much pleasure as she gave me."
+    ""
+
+# game/script_jessie.rpy:12140
+translate russian ch4j_02_dance_3de02241:
+
+    # "Meanwhile, my mind drinks in her potent musk, dazzling my enhanced senses. It's like discovering the softness and wetness of her luscious figure all over again."
+    ""
+
+# game/script_jessie.rpy:12148
+translate russian ch4j_02_dance_27bd6907:
+
+    # "When I stop to take a breath, I can't wait any longer."
+    ""
+
+# game/script_jessie.rpy:12157
+translate russian ch4j_02_dance_ff4ba84c:
+
+    # "We're both too needy. She's twitching her hips in anticipation, and I have to oblige."
+    ""
+
+# game/script_jessie.rpy:12177
+translate russian ch4j_02_dance_73b49dad:
+
+    # "I pull her toward me. She wriggles expectantly."
+    ""
+
+# game/script_jessie.rpy:12189
+translate russian ch4j_02_dance_ea47cec1:
+
+    # "As I slide in, we both release an excited moan."
+    ""
+
+# game/script_jessie.rpy:12199
+translate russian ch4j_02_dance_6aafc081:
+
+    # "I move slowly at first, treasuring each second, each movement, each new feeling. So many new feelings!"
+    ""
+
+# game/script_jessie.rpy:12200
+translate russian ch4j_02_dance_868d8540:
+
+    # "At once, our intimate dance feels so familiar but so different. So {i}heightened.{/i} My senses are overwhelmed at first, but instinct kicks in. My body picks up the pace of its own accord."
+    ""
+
+# game/script_jessie.rpy:12205
+translate russian ch4j_02_dance_47d1361b:
+
+    # "I read her cues, her motions, latch on and attack with pure intensity."
+    ""
+
+# game/script_jessie.rpy:12206
+translate russian ch4j_02_dance_082b7aa5:
+
+    # "We writhe together, biting our tongues to hide ourselves away, but nipping playfully at one another out of impulse and wild desire."
+    ""
+
+# game/script_jessie.rpy:12216
+translate russian ch4j_02_dance_0e7d650e:
+
+    # "I can't contain myself. My whole body tenses, and my nip turns into a bite, my teeth clamping down into her thick fur."
+    ""
+
+# game/script_jessie.rpy:12222
+translate russian ch4j_02_dance_110ac168:
+
+    # "Mutual surprise sends us both over the edge, neither of us able to contain our low howls as we convulse in sheer delight."
+    ""
+
+# game/script_jessie.rpy:12231
+translate russian ch4j_02_dance_72fd91b5:
+
+    # "My hands are still all over her as she collapses atop me, our bodies shaking."
+    ""
+
+# game/script_jessie.rpy:12233
+translate russian ch4j_02_dance_a6532020:
+
+    # "My heart races faster than my legs even did earlier. She'll be the death of me even before anyone finds us. Oh, how worth it that will be!"
+    ""
+
+# game/script_jessie.rpy:12235
+translate russian ch4j_02_dance_b12400c8:
+
+    # c "I... I hope that wasn't too rough!"
+    c ""
+
+# game/script_jessie.rpy:12236
+translate russian ch4j_02_dance_b0d6883a:
+
+    # j "Don't be ridiculous! I can't live without that... without you... in my life!"
+    j ""
+
+# game/script_jessie.rpy:12237
+translate russian ch4j_02_dance_f96a7a76:
+
+    # c "Oh, I feel the same. I don't think I could find someone like you, even if I tried."
+    c ""
+
+# game/script_jessie.rpy:12238
+translate russian ch4j_02_dance_eb6b9587:
+
+    # j "You won't! And you ought not dare!"
+    j ""
+
+# game/script_jessie.rpy:12247
+translate russian ch4j_02_dance_591aaa2b:
+
+    # "Laughing, I lazily help Jessie roll off me—only for a gentle tug to stop us mid-motion."
+    ""
+
+# game/script_jessie.rpy:12255
+translate russian ch4j_02_dance_df209802:
+
+    # "We both look down to discover we are intimately attached, in more ways than one."
+    ""
+
+# game/script_jessie.rpy:12261
+translate russian ch4j_02_dance_984f1dca:
+
+    # c "I um... guess you're truly stuck with me now."
+    c ""
+
+# game/script_jessie.rpy:12262
+translate russian ch4j_02_dance_7931627c:
+
+    # j "Why, Malcolm Campbell. You do know how to make a girl feel special."
+    j ""
+
+# game/script_jessie.rpy:12294
+translate russian ch4j_02_dance_d169e20c:
+
+    # "Atop the ridge, I bask in the moonshine, licking my limbs in absentminded bliss."
+    ""
+
+# game/script_jessie.rpy:12295
+translate russian ch4j_02_dance_576e4f60:
+
+    # "Probably best not to think about how unsanitary that is."
+    ""
+
+# game/script_jessie.rpy:12297
+translate russian ch4j_02_dance_322c1317:
+
+    # "Jessie is less at ease. She looks off in the direction of town, watching worriedly as twinkling lights scatter into the countryside."
+    ""
+
+# game/script_jessie.rpy:12298
+translate russian ch4j_02_dance_56ffa8c5:
+
+    # "Torch-bearers. Are they finally going home? Or looking for us?"
+    ""
+
+# game/script_jessie.rpy:12300
+translate russian ch4j_02_dance_47b68be7:
+
+    # c "Hey Jessie? You know, after everything... in spite of everything... I ended up having a wonderful night."
+    c ""
+
+# game/script_jessie.rpy:12303
+translate russian ch4j_02_dance_8de48a5c:
+
+    # "She sighs and smiles."
+    ""
+
+# game/script_jessie.rpy:12304
+translate russian ch4j_02_dance_53bb040d:
+
+    # j "It's one for the history books. I don't know if I'm disappointed or relieved that the night's almost over."
+    j ""
+
+# game/script_jessie.rpy:12306
+translate russian ch4j_02_dance_b0f1387f:
+
+    # "She's right. The faintest hint of light peeks over the horizon."
+    ""
+
+# game/script_jessie.rpy:12307
+translate russian ch4j_02_dance_5ef054b6:
+
+    # c "I've had some long days, but this takes the biscuit. Box and all."
+    c ""
+
+# game/script_jessie.rpy:12313
+translate russian ch4j_02_dance_f6be302b:
+
+    # "Jessie turns to me sympathetically."
+    ""
+
+# game/script_jessie.rpy:12314
+translate russian ch4j_02_dance_f4de8ca2:
+
+    # j "I'm sorry Malcolm, but it's time."
+    j ""
+
+# game/script_jessie.rpy:12315
+translate russian ch4j_02_dance_b99c48f0:
+
+    # "I nod, taking my tail in my paws, stroking it. Hoping it's not the last time I'll see it."
+    ""
+
+# game/script_jessie.rpy:12316
+translate russian ch4j_02_dance_abc07da2:
+
+    # c "Thanks for the wild ride."
+    c ""
+
+# game/script_jessie.rpy:12318
+translate russian ch4j_02_dance_3a650cfc:
+
+    # "Heaven forbid this be the norm from now on. I may not be cut out to be a werewolf after all—I don't know if my heart could take it."
+    ""
+
+# game/script_jessie.rpy:12319
+translate russian ch4j_02_dance_a2aa0782:
+
+    # c "We should probably be getting back to..."
+    c ""
+
+# game/script_jessie.rpy:12323
+translate russian ch4j_02_dance_49908d50:
+
+    # "Jessie nods sympathetically."
+    ""
+
+# game/script_jessie.rpy:12324
+translate russian ch4j_02_dance_fae1e47d:
+
+    # j "Yes. But there will be other nights. Maybe we can dance as wolves again... someday?"
+    j ""
+
+# game/script_jessie.rpy:12325
+translate russian ch4j_02_dance_fd3b00db:
+
+    # "I'd be lying if I said I didn't look forward to getting back to my old self. But this form does have certain... advantages."
+    ""
+
+# game/script_jessie.rpy:12326
+translate russian ch4j_02_dance_1305122e:
+
+    # c "It would be my pleasure."
+    c ""
+
+# game/script_jessie.rpy:12337
+translate russian ch4j_02_dance_0356257e:
+
+    # "I stand and take her paws into mine, a little nervous."
+    ""
+
+# game/script_jessie.rpy:12338
+translate russian ch4j_02_dance_85f52f03:
+
+    # c "So... how does it work?"
+    c ""
+
+# game/script_jessie.rpy:12340
+translate russian ch4j_02_dance_d4adb601:
+
+    # j "There's nothing to it!"
+    j ""
+
+# game/script_jessie.rpy:12353
+translate russian ch4j_02_dance_5df78e14:
+
+    # j "Try to center yourself, Malcolm, and focus on our grasp."
+    j ""
+
+# game/script_jessie.rpy:12355
+translate russian ch4j_02_dance_f51d620f:
+
+    # "With a little effort, I steady my nerve. I know I'm in good hands. The magic that governs us may still be a mystery, but I do understand the power of our bond."
+    ""
+
+# game/script_jessie.rpy:12357
+translate russian ch4j_02_dance_9eca8d40:
+
+    # c "I... I can feel it..."
+    c ""
+
+# game/script_jessie.rpy:12359
+translate russian ch4j_02_dance_73cd1f6e:
+
+    # "Perhaps it's my heightened senses, or I've become tuned to magic. Whatever the case, the energy swirling around us is not only easier to detect—it feels more alive than ever between us."
+    ""
+
+# game/script_jessie.rpy:12361
+translate russian ch4j_02_dance_5487c858:
+
+    # j "That's the ticket. Now find the {i}real you{/i} deep inside. Tap into it, Malcolm. Set it free!"
+    j ""
+
+# game/script_jessie.rpy:12363
+translate russian ch4j_02_dance_e3a27095:
+
+    # "The \"real me?\" I search myself, trying to find an instinct, a memory, anything to grab hold."
+    ""
+
+# game/script_jessie.rpy:12368
+translate russian ch4j_02_dance_b744e52d:
+
+    # "Standing here, holding my companion's paws, I can only think of one thing: {i}her.{/i} How since I came home, Jessie has filled every moment with freedom and excitement."
+    ""
+
+# game/script_jessie.rpy:12369
+translate russian ch4j_02_dance_cdbbfa81:
+
+    # "More than anything else, I want to be able to live happily with her. To this unfathomable magic I make my wish known."
+    ""
+
+# game/script_jessie.rpy:12375
+translate russian ch4j_02_dance_3da59695:
+
+    # "The peace and comfort of our crackling fireplace comes to mind. The simple life and the responsibilities I'd leave behind should I be unable to go back home."
+    ""
+
+# game/script_jessie.rpy:12376
+translate russian ch4j_02_dance_6cd03a2f:
+
+    # "I can't let Gran down. To this wild magic I make my wish known."
+    ""
+
+# game/script_jessie.rpy:12382
+translate russian ch4j_02_dance_782caf9e:
+
+    # "The \"real me\" could only be the \"me\" I grew up as. The form the situation demands I take now. {i}I need to be back in my own skin.{/i} To this strange magic I make my wish known."
+    ""
+
+# game/script_jessie.rpy:12390
+translate russian ch4j_02e_aae30058:
+
+    # "And I'm frightened."
+    ""
+
+# game/script_jessie.rpy:12391
+translate russian ch4j_02e_3e5f8f52:
+
+    # c "I'm not... human."
+    c ""
+
+# game/script_jessie.rpy:12393
+translate russian ch4j_02e_3aa13547:
+
+    # "Jessie looks at me, startled."
+    ""
+
+# game/script_jessie.rpy:12394
+translate russian ch4j_02e_2034dab8:
+
+    # j "You are! You are, Malcolm. Don't forget that!"
+    j ""
+
+# game/script_jessie.rpy:12395
+translate russian ch4j_02e_d6955ab3:
+
+    # "But as I look down at my naked body, all I see are the differences. The fur and big snout taking up much of my view. My bizarrely large hands, the unfamiliar pads lining my palm and fingertips."
+    ""
+
+# game/script_jessie.rpy:12397
+translate russian ch4j_02e_8f64101c:
+
+    # c "We're... not safe."
+    c ""
+
+# game/script_jessie.rpy:12409
+translate russian ch4j_02e_62264e40:
+
+    # "Jessie clings to my forearms and begs for my attention."
+    ""
+
+# game/script_jessie.rpy:12410
+translate russian ch4j_02e_e70ef545:
+
+    # j "Look at me, Malcolm. I'm sorry. Please forgive me."
+    j ""
+
+# game/script_jessie.rpy:12411
+translate russian ch4j_02e_326e3267:
+
+    # "I shake my head, jarring myself out of a stupor. Dim memories of the scrum resurface. I wonder if I should be angry. The truth is, I don't have it in me."
+    ""
+
+# game/script_jessie.rpy:12412
+translate russian ch4j_02e_7603a6f6:
+
+    # c "There's nothing to forgive. I know it wasn't your fault. That awful man. Everything. It just... was a mess."
+    c ""
+
+# game/script_jessie.rpy:12414
+translate russian ch4j_02e_32033e55:
+
+    # j "A disaster."
+    j ""
+
+# game/script_jessie.rpy:12416
+translate russian ch4j_02e_0f68701a:
+
+    # "I want to say not to worry. That everything will blow over, and tomorrow we'll walk into the Stag & Nanny and laugh the day's chaos off as a drunken fantasy."
+    ""
+
+# game/script_jessie.rpy:12417
+translate russian ch4j_02e_32092976:
+
+    # "But I know better. There's no putting a lid on what's been freed from this box."
+    ""
+
+# game/script_jessie.rpy:12419
+translate russian ch4j_02e_72f0995e:
+
+    # "Perhaps if I come clean, explain {i}everything,{/i} at least what I understand... perhaps the town will see reason. Maybe there's a chance they won't see her... us... as monsters."
+    ""
+
+# game/script_jessie.rpy:12420
+translate russian ch4j_02e_fa6ffae3:
+
+    # c "Jessie, listen. We'll make things right."
+    c ""
+
+# game/script_jessie.rpy:12425
+translate russian ch4j_02e_9394e949:
+
+    # "She looks at me with pleading eyes."
+    ""
+
+# game/script_jessie.rpy:12426
+translate russian ch4j_02e_0b6b27e0:
+
+    # j "I blew up, Malcolm. I exploded. And I couldn't control myself. I don't know when this nightmare will end."
+    j ""
+
+# game/script_jessie.rpy:12427
+translate russian ch4j_02e_7a5f254c:
+
+    # c "It's not a nightmare. It's... life. It's uncontrollable, and we have to go with it. Otherwise, we're going nowhere."
+    c ""
+
+# game/script_jessie.rpy:12429
+translate russian ch4j_02e_a201ff0f:
+
+    # j "Well I'm not going back there, Malcolm. {i}I can't.{/i}"
+    j ""
+
+# game/script_jessie.rpy:12433
+translate russian ch4j_02e_c13c79be:
+
+    # "There is one other option, though it pains me to say it. I offer a silent apology to Gran before I continue."
+    ""
+
+# game/script_jessie.rpy:12435
+translate russian ch4j_02e_e268294d:
+
+    # c "Then we can leave. It's what you wanted. We go to the city, and leave this whole mess behind us."
+    c ""
+
+# game/script_jessie.rpy:12439
+translate russian ch4j_02e_503a68ad:
+
+    # "Jessie surprises me when she shakes her head."
+    ""
+
+# game/script_jessie.rpy:12441
+translate russian ch4j_02e_17144e42:
+
+    # j "No. Malcolm, you don't understand. I lost control, here, in my own home town... my safe place."
+    j ""
+
+# game/script_jessie.rpy:12443
+translate russian ch4j_02e_d38f994e:
+
+    # j "Imagine if that had happened in the city! In a nightclub? There'd be a riot! Police!"
+    j ""
+
+# game/script_jessie.rpy:12445
+translate russian ch4j_02e_1596a6a0:
+
+    # j "And look at yourself! {i}I did this to you.{/i} If the man I love isn't safe from me, then who is?"
+    j ""
+
+# game/script_jessie.rpy:12447
+translate russian ch4j_02e_bc2cd85f:
+
+    # "My heart sinks as she reminds me of my condition. I can see it eats at her too, so I try to move past both our fears."
+    ""
+
+# game/script_jessie.rpy:12449
+translate russian ch4j_02e_1cf44d35:
+
+    # c "Darling, if your performances caused just anyone to transform, your whole audience would be a pack of hungry wolves by now."
+    c ""
+
+# game/script_jessie.rpy:12451
+translate russian ch4j_02e_fd195186:
+
+    # "She breaks a smile."
+    ""
+
+# game/script_jessie.rpy:12452
+translate russian ch4j_02e_76fcdae5:
+
+    # j "Aren't they? That'd explain all the wolfish howls and whistles I get."
+    j ""
+
+# game/script_jessie.rpy:12453
+translate russian ch4j_02e_cdb059d7:
+
+    # c "{i}Awoo!{/i}"
+    c ""
+
+# game/script_jessie.rpy:12455
+translate russian ch4j_02e_8f00c624:
+
+    # "It comes out so easily, it even startles myself. We both burst into timid laughter."
+    ""
+
+# game/script_jessie.rpy:12457
+translate russian ch4j_02e_8a6aae38:
+
+    # j "You're a natural!"
+    j ""
+
+# game/script_jessie.rpy:12459
+translate russian ch4j_02e_1aa2757e:
+
+    # c "Well I'd rather not make a habit of it. First thing's first: it won't do either of us any good if we're found like this."
+    c ""
+
+# game/script_jessie.rpy:12465
+translate russian ch4j_02revert_9fae9c20:
+
+    # j "Yes... yes."
+    j ""
+
+# game/script_jessie.rpy:12466
+translate russian ch4j_02revert_5d1c9d9c:
+
+    # "She seems to collect herself."
+    ""
+
+# game/script_jessie.rpy:12468
+translate russian ch4j_02revert_2085bdd6:
+
+    # j "All right then. Don't fret! We'll get you back to normal, I'm sure of it."
+    j ""
+
+# game/script_jessie.rpy:12469
+translate russian ch4j_02revert_c485774c:
+
+    # c "Can you... teach me?"
+    c ""
+
+# game/script_jessie.rpy:12478
+translate russian ch4j_02revert_1a41aaa2:
+
+    # "She looks at me the same way she did in the Stag & Nanny's back room, all those weeks ago. Hope glimmers in her eyes as she takes my paws into hers."
+    ""
+
+# game/script_jessie.rpy:12479
+translate russian ch4j_02revert_c8acf25c:
+
+    # j "Yes. I'll show you what you showed me."
+    j ""
+
+# game/script_jessie.rpy:12488
+translate russian ch4j_02revert_5df78e14:
+
+    # j "Try to center yourself, Malcolm, and focus on our grasp."
+    j ""
+
+# game/script_jessie.rpy:12490
+translate russian ch4j_02revert_f51d620f:
+
+    # "With a little effort, I steady my nerve. I know I'm in good hands. The magic that governs us may still be a mystery, but I do understand the power of our bond."
+    ""
+
+# game/script_jessie.rpy:12492
+translate russian ch4j_02revert_9eca8d40:
+
+    # c "I... I can feel it..."
+    c ""
+
+# game/script_jessie.rpy:12494
+translate russian ch4j_02revert_73cd1f6e:
+
+    # "Perhaps it's my heightened senses, or I've become tuned to magic. Whatever the case, the energy swirling around us is not only easier to detect—it feels more alive than ever between us."
+    ""
+
+# game/script_jessie.rpy:12496
+translate russian ch4j_02revert_5487c858:
+
+    # j "That's the ticket. Now find the {i}real you{/i} deep inside. Tap into it, Malcolm. Set it free!"
+    j ""
+
+# game/script_jessie.rpy:12498
+translate russian ch4j_02revert_e3a27095:
+
+    # "The \"real me?\" I search myself, trying to find an instinct, a memory, anything to grab hold."
+    ""
+
+# game/script_jessie.rpy:12503
+translate russian ch4j_02revert_b744e52d:
+
+    # "Standing here, holding my companion's paws, I can only think of one thing: {i}her.{/i} How since I came home, Jessie has filled every moment with freedom and excitement."
+    ""
+
+# game/script_jessie.rpy:12504
+translate russian ch4j_02revert_cdbbfa81:
+
+    # "More than anything else, I want to be able to live happily with her. To this unfathomable magic I make my wish known."
+    ""
+
+# game/script_jessie.rpy:12510
+translate russian ch4j_02revert_3da59695:
+
+    # "The peace and comfort of our crackling fireplace comes to mind. The simple life and the responsibilities I'd leave behind should I be unable to go back home."
+    ""
+
+# game/script_jessie.rpy:12511
+translate russian ch4j_02revert_6cd03a2f:
+
+    # "I can't let Gran down. To this wild magic I make my wish known."
+    ""
+
+# game/script_jessie.rpy:12517
+translate russian ch4j_02revert_fcea49b7:
+
+    # "There is only one thing on my mind. {i}I just want to be back in my own skin.{/i} To this confounded magic I make my wish known."
+    ""
+
+# game/script_jessie.rpy:12538
+translate russian ch4j_02tfsuccess_ddbe68b7:
+
+    # "Force reverberates through me, and I'm relieved to feel the fur receding where our hands meet."
+    ""
+
+# game/script_jessie.rpy:12539
+translate russian ch4j_02tfsuccess_5d11cf49:
+
+    # "I knew it! When Jessie and I are a team, nothing is impossible."
+    ""
+
+# game/script_jessie.rpy:12551
+translate russian ch4j_02tfsuccess_2bdc95c8:
+
+    # "But... the ethereal winds that surround us are turning into a tempest. The reverberations grow into the same powerful tremors that shook Alana's house."
+    ""
+
+# game/script_jessie.rpy:12552
+translate russian ch4j_02tfsuccess_01fba54d:
+
+    # "Is it because of me? Am I part of the solution or part of the problem?"
+    ""
+
+# game/script_jessie.rpy:12559
+translate russian ch4j_02tfsuccess_48d538de:
+
+    # "Our control is slipping. Our forms are snapping back like an elastic band."
+    ""
+
+# game/script_jessie.rpy:12562
+translate russian ch4j_02tfsuccess_38464739:
+
+    # "I'm afraid. And I don't know what to do."
+    ""
+
+# game/script_jessie.rpy:12565
+translate russian ch4j_02tfsuccess_39ac3b08:
+
+    # "I feel powerless. And I don't know what to do."
+    ""
+
+# game/script_jessie.rpy:12568
+translate russian ch4j_02tfsuccess_6d47ecbf:
+
+    # "I feel conflicted. And I don't know what to do."
+    ""
+
+# game/script_jessie.rpy:12577
+translate russian ch4j_02tffailure_761b8c95:
+
+    # "Force reverberates through us. Something feels... off. I try to concentrate, to fan the flame of my desire, but the magic has other ideas."
+    ""
+
+# game/script_jessie.rpy:12590
+translate russian ch4j_02tffailure_314b88ad:
+
+    # "The ethereal winds that surround us are turning into a tempest. The reverberations grow into the same powerful tremors that shook Alana's house."
+    ""
+
+# game/script_jessie.rpy:12592
+translate russian ch4j_02tffailure_089200d4:
+
+    # "Is this because of me? Am I part of the solution or part of the problem?"
+    ""
+
+# game/script_jessie.rpy:12593
+translate russian ch4j_02tffailure_7d327caf:
+
+    # "What control we had is slipping."
+    ""
+
+# game/script_jessie.rpy:12597
+translate russian ch4j_02tffailure_38464739:
+
+    # "I'm afraid. And I don't know what to do."
+    ""
+
+# game/script_jessie.rpy:12600
+translate russian ch4j_02tffailure_39ac3b08:
+
+    # "I feel powerless. And I don't know what to do."
+    ""
+
+# game/script_jessie.rpy:12603
+translate russian ch4j_02tffailure_6d47ecbf:
+
+    # "I feel conflicted. And I don't know what to do."
+    ""
+
+# game/script_jessie.rpy:12628
+translate russian ch4j_02_continued_eb98f778:
+
+    # "Jessie pulls her paws from mine, and the tempest subsides; still present, but at the edge of perception."
+    ""
+
+# game/script_jessie.rpy:12630
+translate russian ch4j_02_continued_a73b1f4e:
+
+    # "Maybe it was hubris to think we could ever bend this power to our whim."
+    ""
+
+# game/script_jessie.rpy:12632
+translate russian ch4j_02_continued_3a0cf2a0:
+
+    # j "I don't understand. I... I can't will myself back."
+    j ""
+
+# game/script_jessie.rpy:12634
+translate russian ch4j_02_continued_e99bec41:
+
+    # c "I'm sorry. I must need more practice—"
+    c ""
+
+# game/script_jessie.rpy:12636
+translate russian ch4j_02_continued_92232d51:
+
+    # j "No! It's not—I just... I don't understand! I can't will myself back."
+    j ""
+
+# game/script_jessie.rpy:12638
+translate russian ch4j_02_continued_bb00a52c:
+
+    # c "What do you mean?"
+    c ""
+
+# game/script_jessie.rpy:12640
+translate russian ch4j_02_continued_ba36c3fd:
+
+    # j "Whatever I used to grasp hold of to return to human, that piece of me within... I can't find it anymore."
+    j ""
+
+# game/script_jessie.rpy:12644
+translate russian ch4j_02_continued_8b6289eb:
+
+    # j "It's gone."
+    j ""
+
+# game/script_jessie.rpy:12646
+translate russian ch4j_02_continued_f514cf34:
+
+    # "Her words carry a terrible finality to them."
+    ""
+
+# game/script_jessie.rpy:12647
+translate russian ch4j_02_continued_a4c48059:
+
+    # c "Don't say that. Remember, you're still you!"
+    c ""
+
+# game/script_jessie.rpy:12649
+translate russian ch4j_02_continued_ec2bee8c:
+
+    # j "I don't know what I am anymore. I think something changed when I... when I saw Father."
+    j ""
+
+# game/script_jessie.rpy:12651
+translate russian ch4j_02_continued_5282fe7a:
+
+    # c "So it really was him."
+    c ""
+
+# game/script_jessie.rpy:12652
+translate russian ch4j_02_continued_05168758:
+
+    # "The MacLeod patriarch. My childhood memories of Owen are of a grizzled elder—stern, cold... every bit the opposite of my grandfather."
+    ""
+
+# game/script_jessie.rpy:12653
+translate russian ch4j_02_continued_e687505e:
+
+    # "But that ragged man at the pub, his face twisted by fury... he looked more ghoul than man."
+    ""
+
+# game/script_jessie.rpy:12657
+translate russian ch4j_02_continued_ed08277a:
+
+    # j "Aye. Alive and... not well, so it would seem."
+    j ""
+
+# game/script_jessie.rpy:12660
+translate russian ch4j_02_continued_0574a6cc:
+
+    # "She looks back up to me, defeated."
+    ""
+
+# game/script_jessie.rpy:12661
+translate russian ch4j_02_continued_cd6f8964:
+
+    # j "I'm sorry Malcolm. It's no use. And if I can't transform myself... I can't help you."
+    j ""
+
+# game/script_jessie.rpy:12676
+translate russian ch4j_02longend_e513bfa2:
+
+    # "A shiver runs from my neck to the tip of my tail. It's sinking in for the first time that there may actually be no going back to..."
+    ""
+
+# game/script_jessie.rpy:12678
+translate russian ch4j_02longend_6aab2ba3:
+
+    # "To what, Malcolm? To normal? You have no normal anymore. Life is something you've lost all control over. Quite literally."
+    ""
+
+# game/script_jessie.rpy:12681
+translate russian ch4j_02longend_9c1876b0:
+
+    # "Jessie took that from you. Even if it was an accident. It's gone. Your skin, your hands, your teeth, your scent, and hair. Gone."
+    ""
+
+# game/script_jessie.rpy:12683
+translate russian ch4j_02longend_78af0d23:
+
+    # "I'm stuck in this form I don't understand, for now. Maybe forever. How will I adapt? How will I ever have a pint again at the pub? Will I have to hunt for food?"
+    ""
+
+# game/script_jessie.rpy:12686
+translate russian ch4j_02longend_8f6c2c87:
+
+    # "I politely tell my restless brain to stop talking. Right now I don't even want to think. I want my thoughts to be empty and present."
+    ""
+
+# game/script_jessie.rpy:12694
+translate russian ch4j_02longend_0bea43f3:
+
+    # "We're silent for a few moments as Jessie lies down on the grass, looking up at the moon. Eventually I lie beside her to do the same."
+    ""
+
+# game/script_jessie.rpy:12696
+translate russian ch4j_02longend_31d4b34c:
+
+    # "The moon's brilliance is a lantern in the night sky, dispassionate but alluring all the same. With no stars to surround it, its glow is alone up in the darkness. As solitary as any one of us on Earth."
+    ""
+
+# game/script_jessie.rpy:12697
+translate russian ch4j_02longend_c25c2ccc:
+
+    # "I'm mesmerized by its brilliance and understand now why Jessie is drawn to it. That small, distant, guiding light carries a mystique that borders on the supernatural."
+    ""
+
+# game/script_jessie.rpy:12698
+translate russian ch4j_02longend_0fc26e67:
+
+    # "As small as a dinner plate to the naked eye, but able to light endless paths. It's a beacon to the creatures of the night."
+    ""
+
+# game/script_jessie.rpy:12699
+translate russian ch4j_02longend_893ed112:
+
+    # "The two of us. Not fully human. Not quite... animals. Where are we to look—beyond each other—for inspiration? For guidance? The moon may just be our only ally."
+    ""
+
+# game/script_jessie.rpy:12701
+translate russian ch4j_02longend_54997d07:
+
+    # j "I don't think we're safe here at all. In the open."
+    j ""
+
+# game/script_jessie.rpy:12702
+translate russian ch4j_02longend_9148f79f:
+
+    # "I want to argue, but know she's right."
+    ""
+
+# game/script_jessie.rpy:12703
+translate russian ch4j_02longend_4dcd8886:
+
+    # c "Where do we go from here?"
+    c ""
+
+# game/script_jessie.rpy:12705
+translate russian ch4j_02longend_292ea9d5:
+
+    # j "I can't go back to human. I can't hide."
+    j ""
+
+# game/script_jessie.rpy:12706
+translate russian ch4j_02longend_dfbdd9ca:
+
+    # "An idea strikes."
+    ""
+
+# game/script_jessie.rpy:12707
+translate russian ch4j_02longend_d8ce9dc8:
+
+    # c "Your dress! You need it."
+    c ""
+
+# game/script_jessie.rpy:12708
+translate russian ch4j_02longend_31bad1eb:
+
+    # j "I've thought of that. I don't think it would do any good. Even if it did, I can't very well march back into town to get it, can I?"
+    j ""
+
+# game/script_jessie.rpy:12709
+translate russian ch4j_02longend_2637731e:
+
+    # c "I... I guess not."
+    c ""
+
+# game/script_jessie.rpy:12711
+translate russian ch4j_02longend_54bd2380:
+
+    # "She stares upward, lost in painful memories."
+    ""
+
+# game/script_jessie.rpy:12712
+translate russian ch4j_02longend_6e70a4b3:
+
+    # j "Malcolm, did I... hurt anyone?"
+    j ""
+
+# game/script_jessie.rpy:12714
+translate russian ch4j_02longend_2828943f:
+
+    # "For her sake, I choose to omit the scratch on my arm that seems to have precipitated my furriness."
+    ""
+
+# game/script_jessie.rpy:12715
+translate russian ch4j_02longend_39db8e11:
+
+    # c "No. Just your father's pride, and Balgair's wallet, when he has to replace all the broken furniture."
+    c ""
+
+# game/script_jessie.rpy:12717
+translate russian ch4j_02longend_e38efb21:
+
+    # "Jessie smiles wanly at my attempted joke. I work harder to buoy her spirits."
+    ""
+
+# game/script_jessie.rpy:12718
+translate russian ch4j_02longend_b764e7cd:
+
+    # c "So... what else do I need to know?"
+    c ""
+
+# game/script_jessie.rpy:12719
+translate russian ch4j_02longend_58351d1e:
+
+    # j "About... being a wolf?"
+    j ""
+
+# game/script_jessie.rpy:12720
+translate russian ch4j_02longend_26eefe0a:
+
+    # c "Yes."
+    c ""
+
+# game/script_jessie.rpy:12721
+translate russian ch4j_02longend_402c15da:
+
+    # "Jessie takes a moment to think as she looks off into the night sky. The moonlight twinkles in her eyes."
+    ""
+
+# game/script_jessie.rpy:12723
+translate russian ch4j_02longend_342ac3e2:
+
+    # j "It's being reborn. It's knowing yourself, and having the energy and momentum to tackle anything."
+    j ""
+
+# game/script_jessie.rpy:12724
+translate russian ch4j_02longend_ddc13278:
+
+    # j "It's movement and agility and cunning and wherewithal. A ferocity inside that tames itself just enough to let you acclimate and settle into your own body."
+    j ""
+
+# game/script_jessie.rpy:12726
+translate russian ch4j_02longend_3ef67424:
+
+    # j "It's strength and power. Ferocity and passion. Endurance. Stability. Just... everything that I can't put into words."
+    j ""
+
+# game/script_jessie.rpy:12727
+translate russian ch4j_02longend_06b0454f:
+
+    # c "You're doing a great job."
+    c ""
+
+# game/script_jessie.rpy:12728
+translate russian ch4j_02longend_a695aece:
+
+    # j "At least... I hope that's what it is for you. Is it?"
+    j ""
+
+# game/script_jessie.rpy:12730
+translate russian ch4j_02longend_803ebfc6:
+
+    # "I sit with the question and look inward, trying to determine what my body is telling me. Before, it was simply saying if I was hungry or tired, safe or happy."
+    ""
+
+# game/script_jessie.rpy:12731
+translate russian ch4j_02longend_6bebd4d3:
+
+    # "Now... it's a new dialogue."
+    ""
+
+# game/script_jessie.rpy:12733
+translate russian ch4j_02longend_58cc5196:
+
+    # c "I feel the energy. It speaks within. Like a pulse, but... warmer? More noticeable."
+    c ""
+
+# game/script_jessie.rpy:12734
+translate russian ch4j_02longend_ef5bdc25:
+
+    # c "You're right, it feels like ferocity, but I'm containing it somehow. Do you think it will come out?"
+    c ""
+
+# game/script_jessie.rpy:12735
+translate russian ch4j_02longend_3744ac2a:
+
+    # j "You're asking the wrong wolf. I struggle. Obviously."
+    j ""
+
+# game/script_jessie.rpy:12737
+translate russian ch4j_02longend_a0574ff5:
+
+    # c "I won't hurt you, will I?"
+    c ""
+
+# game/script_jessie.rpy:12738
+translate russian ch4j_02longend_a522e544:
+
+    # j "I don't think that can happen unless one of us does something hurtful to the other."
+    j ""
+
+# game/script_jessie.rpy:12739
+translate russian ch4j_02longend_78ea413e:
+
+    # c "I don't see that happening."
+    c ""
+
+# game/script_jessie.rpy:12740
+translate russian ch4j_02longend_4e438cdb:
+
+    # j "Neither do I, Malcolm. Not intentionally. Again, I'm sorry. I'm responsible for this. For you. Changing."
+    j ""
+
+# game/script_jessie.rpy:12742
+translate russian ch4j_02longend_e0e7d181:
+
+    # c "I can't see the future anymore. I don't know what anything looks like. I thought we would get married and have wee bairns. Now—"
+    c ""
+
+# game/script_jessie.rpy:12743
+translate russian ch4j_02longend_7f9e0a84:
+
+    # j "You did?"
+    j ""
+
+# game/script_jessie.rpy:12744
+translate russian ch4j_02longend_b4b829ae:
+
+    # "Jessie smiles at me, and I'm not sure what to say next."
+    ""
+
+# game/script_jessie.rpy:12746
+translate russian ch4j_02longend_920cd99e:
+
+    # c "I mean... yes. I saw us as a family. I still see us that way. I don't care if we have children, if that's not something you want."
+    c ""
+
+# game/script_jessie.rpy:12747
+translate russian ch4j_02longend_a5ce3044:
+
+    # c "But... us together? Forever, and never to part? That's what I've wanted for some time now."
+    c ""
+
+# game/script_jessie.rpy:12748
+translate russian ch4j_02longend_83230676:
+
+    # "She finally turns, studying me with a look of... pride? Pity? It's difficult to tell."
+    ""
+
+# game/script_jessie.rpy:12749
+translate russian ch4j_02longend_d3ad605d:
+
+    # j "Jings, Malcolm! You truly are the cat's pajamas."
+    j ""
+
+# game/script_jessie.rpy:12750
+translate russian ch4j_02longend_8a364987:
+
+    # c "I may be many things, but {i}feline{/i} is not one of them."
+    c ""
+
+# game/script_jessie.rpy:12751
+translate russian ch4j_02longend_97bccdf0:
+
+    # j "My point exactly! Malcolm, look at us. We're wolves!"
+    j ""
+
+# game/script_jessie.rpy:12752
+translate russian ch4j_02longend_4e2d59f3:
+
+    # c "Just so."
+    c ""
+
+# game/script_jessie.rpy:12753
+translate russian ch4j_02longend_2fd0aaf7:
+
+    # j "I know it's not how you pictured it, but think about it. We're together! We can do anything. We'll understand each other. I have someone like me!"
+    j ""
+
+# game/script_jessie.rpy:12757
+translate russian ch4j_02longend_f8c85a04:
+
+    # "But I know inside that I'm not ready to be someone like her. I wonder at her enthusiasm, and wish I could feel the same way."
+    ""
+
+# game/script_jessie.rpy:12758
+translate russian ch4j_02longend_3d53d82f:
+
+    # c "Aye... I guess I just need some time to adapt. To learn."
+    c ""
+
+# game/script_jessie.rpy:12760
+translate russian ch4j_02longend_36f1a692:
+
+    # "I wonder at her enthusiasm, and hope she is right."
+    ""
+
+# game/script_jessie.rpy:12761
+translate russian ch4j_02longend_ddab94f6:
+
+    # c "Aye. We'll be an unstoppable team... just as soon as I get the hang of all this. If I ever do."
+    c ""
+
+# game/script_jessie.rpy:12763
+translate russian ch4j_02longend_4ac1d613:
+
+    # j "You will! I'm sure of it."
+    j ""
+
+# game/script_jessie.rpy:12764
+translate russian ch4j_02longend_51ac4c03:
+
+    # "Her eyes search mine, and I wonder how she can be so certain."
+    ""
+
+# game/script_jessie.rpy:12765
+translate russian ch4j_02longend_d68131c8:
+
+    # j "I know it's... a lot to take in all at once. We need rest, to think things over. Come with me."
+    j ""
+
+# game/script_jessie.rpy:12773
+translate russian ch4j_02longend_dc3d3312:
+
+    # "Jessie takes me up a craggy hill dotted with rocks and large boulders. We crawl into a space even darker than the night sky."
+    ""
+
+# game/script_jessie.rpy:12775
+translate russian ch4j_02longend_7c64df09:
+
+    # "Holding onto me, she curls up on the dirt ground of this makeshift bed space. I join her and close my eyes."
+    ""
+
+# game/script_jessie.rpy:12776
+translate russian ch4j_02longend_16c7872e:
+
+    # j "I love you, Malcolm."
+    j ""
+
+# game/script_jessie.rpy:12777
+translate russian ch4j_02longend_f710fb99:
+
+    # c "I love you, too."
+    c ""
+
+# game/script_jessie.rpy:12779
+translate russian ch4j_02longend_bf70f978:
+
+    # "I try to sleep, but it never comes. Our fur coats shield us from the cold night air, but I still feel exposed."
+    ""
+
+# game/script_jessie.rpy:12780
+translate russian ch4j_02longend_3f9b79ef:
+
+    # "When the opposite ridge becomes silhouetted by the approaching dawn's light, I make a decision."
+    ""
+
+# game/script_jessie.rpy:12781
+translate russian ch4j_02longend_9547b87b:
+
+    # "I have work to do. A problem to solve."
+    ""
+
+# game/script_jessie.rpy:12794
+translate russian ch4j_02shortend_572f1601:
+
+    # c "Well that's a relief."
+    c ""
+
+# game/script_jessie.rpy:12796
+translate russian ch4j_02shortend_a475dd4c:
+
+    # j "What?"
+    j ""
+
+# game/script_jessie.rpy:12797
+translate russian ch4j_02shortend_331fc054:
+
+    # c "I wasn't ready to give this form up just yet anyway. It's too much fun."
+    c ""
+
+# game/script_jessie.rpy:12800
+translate russian ch4j_02shortend_7ebb3574:
+
+    # "We both know the strong front I'm putting up for Jessie is just a show. The truth is sinking in for both of us that... {i}there may actually be no going back.{/i}"
+    ""
+
+# game/script_jessie.rpy:12802
+translate russian ch4j_02shortend_73f0e100:
+
+    # c "Well, it could be worse."
+    c ""
+
+# game/script_jessie.rpy:12804
+translate russian ch4j_02shortend_c6ed431b:
+
+    # j "Oh really?"
+    j ""
+
+# game/script_jessie.rpy:12805
+translate russian ch4j_02shortend_2d3e8d1b:
+
+    # c "We could still be stuck in our wolf forms, romping around the Highlands like feral creatures."
+    c ""
+
+# game/script_jessie.rpy:12808
+translate russian ch4j_02shortend_b7e962b9:
+
+    # "We're still stuck, of course—only in this in-between state. A small consolation. It's sinking in for both of us that... {i}there may actually be no returning to human.{/i}"
+    ""
+
+# game/script_jessie.rpy:12811
+translate russian ch4j_02shortend_dfbdd9ca:
+
+    # "An idea strikes."
+    ""
+
+# game/script_jessie.rpy:12812
+translate russian ch4j_02shortend_d8ce9dc8:
+
+    # c "Your dress! You need it."
+    c ""
+
+# game/script_jessie.rpy:12816
+translate russian ch4j_02shortend_31bad1eb:
+
+    # j "I've thought of that. I don't think it would do any good. Even if it did, I can't very well march back into town to get it, can I?"
+    j ""
+
+# game/script_jessie.rpy:12817
+translate russian ch4j_02shortend_2637731e:
+
+    # c "I... I guess not."
+    c ""
+
+# game/script_jessie.rpy:12820
+translate russian ch4j_02shortend_9eadd30e:
+
+    # "She stares off, lost in painful memories."
+    ""
+
+# game/script_jessie.rpy:12821
+translate russian ch4j_02shortend_6e70a4b3:
+
+    # j "Malcolm, did I... hurt anyone?"
+    j ""
+
+# game/script_jessie.rpy:12823
+translate russian ch4j_02shortend_1f9e104c:
+
+    # "For her sake, I choose to omit the scratch on my arm that seems to have precipitated all of this."
+    ""
+
+# game/script_jessie.rpy:12824
+translate russian ch4j_02shortend_39db8e11:
+
+    # c "No. Just your father's pride, and Balgair's wallet, when he has to replace all the broken furniture."
+    c ""
+
+# game/script_jessie.rpy:12827
+translate russian ch4j_02shortend_e38efb21:
+
+    # "Jessie smiles wanly at my attempted joke. I work harder to buoy her spirits."
+    ""
+
+# game/script_jessie.rpy:12828
+translate russian ch4j_02shortend_cfd5f82b:
+
+    # c "We'll figure something out, I'm sure of it. And till then, we'll be wolves together! I'll finally be able to understand what it's like, and {i}you'll{/i} finally have someone like you!"
+    c ""
+
+# game/script_jessie.rpy:12829
+translate russian ch4j_02shortend_20f86a01:
+
+    # j "A pack of two?"
+    j ""
+
+# game/script_jessie.rpy:12830
+translate russian ch4j_02shortend_75fdf0d8:
+
+    # c "Exactly!"
+    c ""
+
+# game/script_jessie.rpy:12833
+translate russian ch4j_02shortend_58cb615c:
+
+    # j "Sounds like the cat's meow, Malcolm."
+    j ""
+
+# game/script_jessie.rpy:12834
+translate russian ch4j_02shortend_0ac0ac0a:
+
+    # c "Or the wolf's howl! {i}Ah, ah...{/i}"
+    c ""
+
+# game/script_jessie.rpy:12836
+translate russian ch4j_02shortend_60d17acd:
+
+    # "Jessie's ears perk up, and she joins in."
+    ""
+
+# game/script_jessie.rpy:12845
+translate russian ch4j_02shortend_56ae823e:
+
+    # c "Awoo!" (multiple=2)
+    c "" (multiple=2)
+
+# game/script_jessie.rpy:12846
+translate russian ch4j_02shortend_cfd20fd8:
+
+    # j "Awoo!" (multiple=2)
+    j "" (multiple=2)
+
+# game/script_jessie.rpy:12848
+translate russian ch4j_02shortend_a0c562fe:
+
+    # "We both lift our heads to the sky and sing our praises to the night. Our little pack of two."
+    ""
+
+# game/script_jessie.rpy:12851
+translate russian ch4j_02shortend_954afb0d:
+
+    # j "It feels natural, doesn't it?"
+    j ""
+
+# game/script_jessie.rpy:12854
+translate russian ch4j_02shortend_25bcfad5:
+
+    # c "Aye. It feels good."
+    c ""
+
+# game/script_jessie.rpy:12856
+translate russian ch4j_02shortend_54ddc011:
+
+    # c "I'm starting to get the hang of it."
+    c ""
+
+# game/script_jessie.rpy:12858
+translate russian ch4j_02shortend_619f9183:
+
+    # "Jessie laughs."
+    ""
+
+# game/script_jessie.rpy:12859
+translate russian ch4j_02shortend_8610c7db:
+
+    # j "It's bound to put half the town on edge, too. Come, let's find somewhere we can properly hide and rest."
+    j ""
+
+# game/script_jessie.rpy:12867
+translate russian ch4j_02shortend_5f83f655:
+
+    # "Jessie takes me further out to a clearing dotted with rocks and large boulders. We crawl into a space even darker than the night sky."
+    ""
+
+# game/script_jessie.rpy:12869
+translate russian ch4j_02shortend_52410c97:
+
+    # "Holding onto me, she curls up on the dirt ground of this makeshift bed space. I join her and look into her eyes."
+    ""
+
+# game/script_jessie.rpy:12870
+translate russian ch4j_02shortend_82ad5877:
+
+    # c "I love you, Jessie."
+    c ""
+
+# game/script_jessie.rpy:12871
+translate russian ch4j_02shortend_64b9ff08:
+
+    # j "I love you, too."
+    j ""
+
+# game/script_jessie.rpy:12873
+translate russian ch4j_02shortend_986622fb:
+
+    # "Her eyes close, but the pain in them was plain to see. A pain I'd feel too, if I let myself."
+    ""
+
+# game/script_jessie.rpy:12875
+translate russian ch4j_02shortend_e9798d22:
+
+    # "Everything has happened so fast. A lost dream. A lost home. What good is this gift she's given me if we must spend it huddled under a boulder in exile?"
+    ""
+
+# game/script_jessie.rpy:12877
+translate russian ch4j_02shortend_d64a9b56:
+
+    # "Everything has happened so fast. A lost dream. A lost home. Last night I slept under a cozy blanket; now we huddle in our fur coats under a boulder in exile."
+    ""
+
+# game/script_jessie.rpy:12879
+translate russian ch4j_02shortend_29c82f63:
+
+    # "I listen to Jessie's breath steady into the rhythm of slumber. Sleep taps at my back as well, but I don't pay attention. My mind has other plans."
+    ""
+
+# game/script_jessie.rpy:12880
+translate russian ch4j_02shortend_248d35f4:
+
+    # "I'm not tired. I have work to do. A problem to solve."
+    ""
+
+# game/script_jessie.rpy:12909
+translate russian ch4j_03_bc155341:
+
+    # "Part of me wishes I were back with Jessie, dozing away in our rock shelter."
+    ""
+
+# game/script_jessie.rpy:12910
+translate russian ch4j_03_c60bb9c1:
+
+    # "I certainly am not thinking clearly. But I'm a man—rather, a wolf—on a mission, out to save the woman I love. Out to recover the body I need back, and the safety we both need so badly."
+    ""
+
+# game/script_jessie.rpy:12921
+translate russian ch4j_03_51aae778:
+
+    # "Jessie was right. It was dangerous to come here."
+    ""
+
+# game/script_jessie.rpy:12922
+translate russian ch4j_03_22db40b7:
+
+    # "I crouch behind some bushes at the edge of town and watch two figures leaning against the market cross. Lookouts."
+    ""
+
+# game/script_jessie.rpy:12923
+translate russian ch4j_03_9d453b48:
+
+    # "Tension fills the air. There are monsters on the loose."
+    ""
+
+# game/script_jessie.rpy:12924
+translate russian ch4j_03_3feae011:
+
+    # "On my way here, I slipped past several bands of armed men fanning out into the countryside. Searching for great, fearsome beasts."
+    ""
+
+# game/script_jessie.rpy:12925
+translate russian ch4j_03_98773fd0:
+
+    # "Hunting Jessie and me."
+    ""
+
+# game/script_jessie.rpy:12927
+translate russian ch4j_03_ccf717e5:
+
+    # "I can't blame them. It wasn't that long ago that I was the one holding the gun, on the hunt. The sound of Balgair's rifle's report is seared into my memory."
+    ""
+
+# game/script_jessie.rpy:12928
+translate russian ch4j_03_22329240:
+
+    # "That cannot happen again. For Jessie's—{i}for our{/i}—sake, I have to somehow, some way, make things right again. Make them normal. Or as normal as is humanly... or animally... possible."
+    ""
+
+# game/script_jessie.rpy:12929
+translate russian ch4j_03_ba1a4242:
+
+    # "Retrieving her dress, my clothes. Finding Alana. I don't know the answer, but my search for a solution starts here."
+    ""
+
+# game/script_jessie.rpy:12930
+translate russian ch4j_03_8975d2c7:
+
+    # "I just need to get past these sentries."
+    ""
+
+# game/script_jessie.rpy:12936
+translate russian ch4j_03_a8dddb06:
+
+    # "Fortunately the lookouts are old men, and it is well past their bedtime. My senses tell me their breathing is slow and regular. They are nodding off."
+    ""
+
+# game/script_jessie.rpy:12945
+translate russian ch4j_03_49d3a0ef:
+
+    # "I leave my cover and keep to the shadows, slinking around the edge of the buildings as quietly as I can."
+    ""
+
+# game/script_jessie.rpy:12947
+translate russian ch4j_03_8f9fb107:
+
+    # "It's not quiet enough. My claws click against the ground stones like an old typewriter."
+    ""
+
+# game/script_jessie.rpy:12959
+translate russian ch4j_03_0d27d76a:
+
+    # v1 "Eh? Did ye hear that? Angus, wake up!"
+    v1 ""
+
+# game/script_jessie.rpy:12960
+translate russian ch4j_03_0b1dafcd:
+
+    # "I freeze in my tracks, still out in the open but cloaked by darkness. Can they see me?"
+    ""
+
+# game/script_jessie.rpy:12961
+translate russian ch4j_03_bca7b452:
+
+    # v2 "Snrk-hm... eh? ...what?"
+    v2 ""
+
+# game/script_jessie.rpy:12962
+translate russian ch4j_03_d0bbed92:
+
+    # v1 "Sounded like an animal."
+    v1 ""
+
+# game/script_jessie.rpy:12963
+translate russian ch4j_03_d4bd96ac:
+
+    # v2 "Beggin' yer pardon, but I d'nae snore that bad!"
+    v2 ""
+
+# game/script_jessie.rpy:12964
+translate russian ch4j_03_0d944276:
+
+    # v1 "Not you, Angus! {i}Out there!{/i}"
+    v1 ""
+
+# game/script_jessie.rpy:12965
+translate russian ch4j_03_c173cdfa:
+
+    # v2 "Ah. Could it be the... ah... hmmm, now what kind'a beastie was it that went wild in the pub, again?"
+    v2 ""
+
+# game/script_jessie.rpy:12966
+translate russian ch4j_03_efff9313:
+
+    # v1 "..."
+    v1 ""
+
+# game/script_jessie.rpy:12967
+translate russian ch4j_03_54368d80:
+
+    # v1 "...A wolf."
+    v1 ""
+
+# game/script_jessie.rpy:12968
+translate russian ch4j_03_d47f7169:
+
+    # v2 "{i}Aye, that's right!{/i} 'Twas wolves after all, just like auld Angus has been sayin' all along! Who's the \"bampot\" now, eh? Ha ha!"
+    v2 ""
+
+# game/script_jessie.rpy:12980
+translate russian ch4j_03_d026cf25:
+
+    # "Their argument is my opportunity. It covers up my noise as I dash to a hiding place behind some barrels."
+    ""
+
+# game/script_jessie.rpy:12981
+translate russian ch4j_03_e659b113:
+
+    # v1 "{i}Angus shut yer trap!{/i} Didye see that? There be something lurkin' in the shadows, sure as the stars shinin' above!"
+    v1 ""
+
+# game/script_jessie.rpy:12983
+translate russian ch4j_03_67581ab6:
+
+    # "The banter abruptly ends. Both smell of fear."
+    ""
+
+# game/script_jessie.rpy:12984
+translate russian ch4j_03_2fcc5594:
+
+    # v2 "W-who goes there?"
+    v2 ""
+
+# game/script_jessie.rpy:12986
+translate russian ch4j_03_0da9e230:
+
+    # c "Meow...?"
+    c ""
+
+# game/script_jessie.rpy:12988
+translate russian ch4j_03_478bcb70:
+
+    # v1 "Is that... a cat?"
+    v1 ""
+
+# game/script_jessie.rpy:12989
+translate russian ch4j_03_efd734b3:
+
+    # v2 "More like a lad tryin' to {i}sound{/i} like a cat."
+    v2 ""
+
+# game/script_jessie.rpy:12990
+translate russian ch4j_03_dd80d33f:
+
+    # v1 "Oi! Who's there, an' why are ye tryin' t'sound like a cat?"
+    v1 ""
+
+# game/script_jessie.rpy:12992
+translate russian ch4j_03_97354f3d:
+
+    # v2 "D'ye think it's the beastie tryin' to befuddle us?"
+    v2 ""
+
+# game/script_jessie.rpy:12993
+translate russian ch4j_03_2533f61c:
+
+    # v1 "You're off yer head! Why would a beastie sound like a man tryin' a sound like a cat?"
+    v1 ""
+
+# game/script_jessie.rpy:12994
+translate russian ch4j_03_9450ce1c:
+
+    # v2 "Maybe it's Douglas Crannach. I heard when he's right sloshed, he sometimes makes sounds like a cat."
+    v2 ""
+
+# game/script_jessie.rpy:12995
+translate russian ch4j_03_47eba83b:
+
+    # v1 "Angus, that's pure nonsense!"
+    v1 ""
+
+# game/script_jessie.rpy:12996
+translate russian ch4j_03_efff9313_1:
+
+    # v1 "..."
+    v1 ""
+
+# game/script_jessie.rpy:12997
+translate russian ch4j_03_76868204:
+
+    # v1 "...That you, Douglas?"
+    v1 ""
+
+# game/script_jessie.rpy:12998
+translate russian ch4j_03_440f67a5:
+
+    # v2 "I s'pose it d'nae matter. Be it cat or man, neither be the beastie we're keepin' a weather eye for..."
+    v2 ""
+
+# game/script_jessie.rpy:12999
+translate russian ch4j_03_74b3ceec:
+
+    # v1 "Spoken like a true ne' er-do-well."
+    v1 ""
+
+# game/script_jessie.rpy:13011
+translate russian ch4j_03_e7aff0de:
+
+    # "Their argument begins anew. Before they can change their minds, I claw my way up and wriggle through the window of the Stag & Nanny's supply room."
+    ""
+
+# game/script_jessie.rpy:13014
+translate russian ch4j_03_fe0ca71b:
+
+    # "It won't do me any good to try to search the town with these two here. I have to carefully consider my next move."
+    ""
+
+# game/script_jessie.rpy:13021
+translate russian ch4j_03_724e340f:
+
+    # "Wait. These scents wafting my way... the smell of sheep and... {i}cream biscuits?{/i} These men could only be..."
+    ""
+
+# game/script_jessie.rpy:13022
+translate russian ch4j_03_aac868ba:
+
+    # c "Ahoy! Callum, Angus!"
+    c ""
+
+# game/script_jessie.rpy:13024
+translate russian ch4j_03_2c5479fc:
+
+    # v1 "Eh? Aye, 'tis we. Who goes there?"
+    v1 ""
+
+# game/script_jessie.rpy:13025
+translate russian ch4j_03_53c91c92:
+
+    # "For once, Gran's ceaseless gossip proves useful."
+    ""
+
+# game/script_jessie.rpy:13026
+translate russian ch4j_03_6f51ab4f:
+
+    # c "Miss Fairfowl sent me! She stayed up to bake treats for all of us out tonight keeping the peace. What a woman! Says she made a fresh batch of biscuits just for you two."
+    c ""
+
+# game/script_jessie.rpy:13028
+translate russian ch4j_03_37e3db25:
+
+    # v2 "Did she now?"
+    v2 ""
+
+# game/script_jessie.rpy:13029
+translate russian ch4j_03_6c30a770:
+
+    # v1 "That's me Flora. No sweeter soul in all Ross-shire. An' not a sweeter treat t'be had than her cream biscuits, neither."
+    v1 ""
+
+# game/script_jessie.rpy:13033
+translate russian ch4j_03_c08a7921:
+
+    # "Even though it's a fib, the mere thought of Miss Fairfowl's fresh-baked pastries makes my mouth water, too. My empty stomach roars in protest."
+    ""
+
+# game/script_jessie.rpy:13034
+translate russian ch4j_03_05704e66:
+
+    # v2 "Good lord, lad! Did her cooking not settle with ye?"
+    v2 ""
+
+# game/script_jessie.rpy:13035
+translate russian ch4j_03_f8b00b2e:
+
+    # c "I'm... I'm fine! My gut's been feeling a bit... peculiar of late, is all."
+    c ""
+
+# game/script_jessie.rpy:13036
+translate russian ch4j_03_f70c4fe4:
+
+    # v1 "Sounds to me like y'need to go back for some of Flora's Feel Better Fig Cake. Sure to settle a nervous stomach!"
+    v1 ""
+
+# game/script_jessie.rpy:13037
+translate russian ch4j_03_b195c3a4:
+
+    # c "No no! I've, ah... already had my share. Why don't I keep watch here while you two partake of those treats? Best go quick before they're all eaten up by the others!"
+    c ""
+
+# game/script_jessie.rpy:13038
+translate russian ch4j_03_a6aa6354:
+
+    # v1 "Proper kind of ye... what did y'say your name was again?"
+    v1 ""
+
+# game/script_jessie.rpy:13039
+translate russian ch4j_03_3e3a86a1:
+
+    # v2 "Come on, Callum! Ye heard the lad, they're goin' like hot cakes!"
+    v2 ""
+
+# game/script_jessie.rpy:13040
+translate russian ch4j_03_9afb2123:
+
+    # v1 "Nay, they're {i}biscuits,{/i} Angus. Flora only makes hot cakes on Sundays."
+    v1 ""
+
+# game/script_jessie.rpy:13041
+translate russian ch4j_03_e1686394:
+
+    # v2 "They're {i}gone{/i} is what they'll be if I get there 'afore ye!"
+    v2 ""
+
+# game/script_jessie.rpy:13042
+translate russian ch4j_03_241219f8:
+
+    # v1 "Don't ye dare!"
+    v1 ""
+
+# game/script_jessie.rpy:13049
+translate russian ch4j_03_12275746:
+
+    # "The two race off to the imaginary feast. My belly rumbles again in disappointment, as if I'd fooled it too."
+    ""
+
+# game/script_jessie.rpy:13050
+translate russian ch4j_03_e5d94cd8:
+
+    # c "Aye, I'll find you some food... just as soon as I find our attire."
+    c ""
+
+# game/script_jessie.rpy:13061
+translate russian ch4j_03_82c0d830:
+
+    # "A quick search confirms that the town square and alleyways are free of any discarded clothes. Perhaps they fell off in the Stag & Nanny?"
+    ""
+
+# game/script_jessie.rpy:13068
+translate russian ch4j_03_f555eac7:
+
+    # "The lights are on, but I find it difficult to believe the pub is still open at this hour. I wrap my paw around the handle and pull. Sure enough, the door is locked."
+    ""
+
+# game/script_jessie.rpy:13070
+translate russian ch4j_03_8a3a55b9:
+
+    # "Looking as I do, I'm loathe to knock. There must be another way in."
+    ""
+
+# game/script_jessie.rpy:13076
+translate russian ch4j_03_acccf84b:
+
+    # "There. The backroom window. I claw my way up and wriggle through into the Stag & Nanny's supply room."
+    ""
+
+# game/script_jessie.rpy:13079
+translate russian ch4j_03_db7c041c:
+
+    # "I flex my paws and wonder why I'm being so cautious. The men by the market cross are elderly and unarmed. Their reinforcements are deep in the countryside."
+    ""
+
+# game/script_jessie.rpy:13080
+translate russian ch4j_03_9e612457:
+
+    # "They are no match for me. Not before, and certainly not now. If fate saw fit to give me such a beastly mien, why not use it to my advantage?"
+    ""
+
+# game/script_jessie.rpy:13082
+translate russian ch4j_03_2622914e:
+
+    # "I stand up and puff out my chest, making myself as big as possible. If it's a monster they want, it's a monster they'll get."
+    ""
+
+# game/script_jessie.rpy:13089
+translate russian ch4j_03_80e5f627:
+
+    # v1 "Angus, on your toes. Look yonder!"
+    v1 ""
+
+# game/script_jessie.rpy:13091
+translate russian ch4j_03_3cb3c032:
+
+    # v2 "Crivens... what {i}is{/i} that?"
+    v2 ""
+
+# game/script_jessie.rpy:13102
+translate russian ch4j_03_b3ad376d:
+
+    # c "It's the big. Bad. Wolf."
+    c ""
+
+# game/script_jessie.rpy:13112
+translate russian ch4j_03_7967996f:
+
+    # "I expect them to panic, to flee. Instead, my words fall on deaf ears. Both have fainted."
+    ""
+
+# game/script_jessie.rpy:13113
+translate russian ch4j_03_2b4ff297:
+
+    # "A shame. I was quite proud of my line."
+    ""
+
+# game/script_jessie.rpy:13120
+translate russian ch4j_03_8e46266f:
+
+    # "I look around, growling, ready to take on any witnesses. It occurs to me how unfazed I am. How utterly at ease I am being... this way."
+    ""
+
+# game/script_jessie.rpy:13123
+translate russian ch4j_03_599721c7:
+
+    # "No new challengers approach. I stand victorious in town square, two hapless victims at my feet. That's when I learn that unconscious people can snore."
+    ""
+
+# game/script_jessie.rpy:13126
+translate russian ch4j_03_6bc82110:
+
+    # "As I gently prop their limp forms up against the market cross, I feel more like a doting parent tucking his children into bed than an intimidating beast."
+    ""
+
+# game/script_jessie.rpy:13127
+translate russian ch4j_03_c492fdda:
+
+    # "I extinguish their lamp for safety, and carry on about my business with a weather eye out for interlopers."
+    ""
+
+# game/script_jessie.rpy:13139
+translate russian ch4j_03_65ca5f28:
+
+    # "The town square and alleyways seem to be free of any discarded clothing. Perhaps they fell off in the Stag & Nanny?"
+    ""
+
+# game/script_jessie.rpy:13146
+translate russian ch4j_03_f555eac7_1:
+
+    # "The lights are on, but I find it difficult to believe the pub is still open at this hour. I wrap my paw around the handle and pull. Sure enough, the door is locked."
+    ""
+
+# game/script_jessie.rpy:13147
+translate russian ch4j_03_9fd7889a:
+
+    # "After my last encounter, I'm loathe to knock. Surely there's another way in."
+    ""
+
+# game/script_jessie.rpy:13153
+translate russian ch4j_03_5df0f9bf:
+
+    # "There. The backroom window. I claw my way up and wriggle through it into the Stag & Nanny's supply room."
+    ""
+
+# game/script_jessie.rpy:13157
+translate russian ch4j_03_e9cfc01e:
+
+    # "What am I doing? This isn't some raid behind enemy lines. I'm not on some foreign battlefield. {i}This is my home.{/i}"
+    ""
+
+# game/script_jessie.rpy:13158
+translate russian ch4j_03_79953141:
+
+    # "And by God, I am Malcolm Campbell, son of Bruce. Fellow resident of Ach-na-Creige, who has every right to walk through town square, should I so choose."
+    ""
+
+# game/script_jessie.rpy:13159
+translate russian ch4j_03_92249c24:
+
+    # "I'm just... hairier. Fluffier. That's all! I'm no monster. Perhaps showing that to these sentries is the first step to reconciliation."
+    ""
+
+# game/script_jessie.rpy:13161
+translate russian ch4j_03_08661ed6:
+
+    # "I stand up straight and find my courage."
+    ""
+
+# game/script_jessie.rpy:13162
+translate russian ch4j_03_7e6c436c:
+
+    # "It helps that these men are unarmed. And several degrees smaller than me."
+    ""
+
+# game/script_jessie.rpy:13164
+translate russian ch4j_03_b72b5328:
+
+    # c "Ahoy!"
+    c ""
+
+# game/script_jessie.rpy:13165
+translate russian ch4j_03_24c372b5:
+
+    # v1 "Eh? Who goes there?"
+    v1 ""
+
+# game/script_jessie.rpy:13167
+translate russian ch4j_03_0989b6f4:
+
+    # "With a deep swallow, I start striding straight toward them."
+    ""
+
+# game/script_jessie.rpy:13168
+translate russian ch4j_03_eb8a7fd0:
+
+    # c "It's Malcolm! Malcolm Campbell. Lovely night for a stroll, eh?"
+    c ""
+
+# game/script_jessie.rpy:13169
+translate russian ch4j_03_4ff2a80f:
+
+    # v1 "{i}Malcolm?{/i} I thought ye—"
+    v1 ""
+
+# game/script_jessie.rpy:13170
+translate russian ch4j_03_135306cf:
+
+    # v2 "{i}A dangerous night for a stroll, lad.{/i} Didn'ya hear? There be monsters on..."
+    v2 ""
+
+# game/script_jessie.rpy:13184
+translate russian ch4j_03_1e5313a7:
+
+    # "Their faces pale as I step out of the shadows."
+    ""
+
+# game/script_jessie.rpy:13185
+translate russian ch4j_03_397abb26:
+
+    # v2 "...the loose."
+    v2 ""
+
+# game/script_jessie.rpy:13186
+translate russian ch4j_03_cd3ab2b7:
+
+    # "My hulking form must look terrifying in the dim light. I'm quick to reassure them."
+    ""
+
+# game/script_jessie.rpy:13187
+translate russian ch4j_03_d7c82cad:
+
+    # c "No no! Not monsters. We're still your friendly neighbors! We just look a little... different."
+    c ""
+
+# game/script_jessie.rpy:13188
+translate russian ch4j_03_acc15fed:
+
+    # "Both men stare, dumbfounded. The smell of fresh urine taints the air."
+    ""
+
+# game/script_jessie.rpy:13189
+translate russian ch4j_03_e893af2f:
+
+    # v1 "{size=26}Angus! {i}It's talking at us!{/i}{/size}"
+    v1 ""
+
+# game/script_jessie.rpy:13190
+translate russian ch4j_03_3da344da:
+
+    # v2 "{size=26}{i}Crivens...{/i}{/size}"
+    v2 ""
+
+# game/script_jessie.rpy:13192
+translate russian ch4j_03_cf2adb0a:
+
+    # c "Er... I'm sure you have many questions."
+    c ""
+
+# game/script_jessie.rpy:13194
+translate russian ch4j_03_59d7612c:
+
+    # v2 "{size=26}Stay still. I've heard wolves' sight is based on {i}movement.{/i}{/size}"
+    v2 ""
+
+# game/script_jessie.rpy:13195
+translate russian ch4j_03_b88ef662:
+
+    # v1 "{size=26}Angus you bampot, {i}it's looking right us!{/i}{/size}"
+    v1 ""
+
+# game/script_jessie.rpy:13196
+translate russian ch4j_03_9917959e:
+
+    # c "Um... yes. My eyesight's just fine."
+    c ""
+
+# game/script_jessie.rpy:13198
+translate russian ch4j_03_0d42eed0:
+
+    # "Their own eyes scan me up and down in horror. At that moment, I become acutely aware of my lack of conventional clothing. The best I can do is doff my imaginary cap."
+    ""
+
+# game/script_jessie.rpy:13199
+translate russian ch4j_03_04c39432:
+
+    # c "So, ah... as you can see, my lady friend and I seem to have lost our attire. I don't suppose you've seen a dress or jacket lying around town anywhere?"
+    c ""
+
+# game/script_jessie.rpy:13200
+translate russian ch4j_03_8e42090c:
+
+    # v1 "{size=26}Bloody hell, Angus, now it's making me scared {i}an'{/i} uncomfortable!{/size}"
+    v1 ""
+
+# game/script_jessie.rpy:13201
+translate russian ch4j_03_a13a327d:
+
+    # v2 "{size=26}Should we call for help?{/size}"
+    v2 ""
+
+# game/script_jessie.rpy:13202
+translate russian ch4j_03_26bd552a:
+
+    # c "No! No. That won't be necessary..."
+    c ""
+
+# game/script_jessie.rpy:13203
+translate russian ch4j_03_a276a9b2:
+
+    # "It becomes clear that nothing I say will placate these two pitiful souls."
+    ""
+
+# game/script_jessie.rpy:13204
+translate russian ch4j_03_1332882c:
+
+    # c "How about you two just... run along. {nw}"
+    c ""
+
+# game/script_jessie.rpy:13212
+translate russian ch4j_03_3b16048a:
+
+    # extend "Perhaps another night we can—"
+    extend ""
+
+# game/script_jessie.rpy:13213
+translate russian ch4j_03_d4dcf152:
+
+    # "They're already gone."
+    ""
+
+# game/script_jessie.rpy:13214
+translate russian ch4j_03_1d93bbb2:
+
+    # c "...Share a pint."
+    c ""
+
+# game/script_jessie.rpy:13226
+translate russian ch4j_03_47d4b427:
+
+    # "So much for reconciliation. I sigh, and carry on about my business with a weather eye out for interlopers."
+    ""
+
+# game/script_jessie.rpy:13237
+translate russian ch4j_03_65ca5f28_1:
+
+    # "The town square and alleyways seem to be free of any discarded clothing. Perhaps they fell off in the Stag & Nanny?"
+    ""
+
+# game/script_jessie.rpy:13245
+translate russian ch4j_03_f555eac7_2:
+
+    # "The lights are on, but I find it difficult to believe the pub is still open at this hour. I wrap my paw around the handle and pull. Sure enough, the door is locked."
+    ""
+
+# game/script_jessie.rpy:13246
+translate russian ch4j_03_9fd7889a_1:
+
+    # "After my last encounter, I'm loathe to knock. Surely there's another way in."
+    ""
+
+# game/script_jessie.rpy:13252
+translate russian ch4j_03_5df0f9bf_1:
+
+    # "There. The backroom window. I claw my way up and wriggle through it into the Stag & Nanny's supply room."
+    ""
+
+# game/script_jessie.rpy:13284
+translate russian ch4j_04_c9c65314:
+
+    # "My body may have grown, but it's become lither too. I squeeze through the window with ease and a few bottles rattle as I land on my feet. I'm getting the hang of this!"
+    ""
+
+# game/script_jessie.rpy:13287
+translate russian ch4j_04_16617c12:
+
+    # "Now what?"
+    ""
+
+# game/script_jessie.rpy:13288
+translate russian ch4j_04_48194f0a:
+
+    # "Did Jessie lose her dress in the pub? For all I know it's been taken away or left in tatters from the transformation."
+    ""
+
+# game/script_jessie.rpy:13295
+translate russian ch4j_04_daf2748c:
+
+    # "I turn on the lamps and look around. Perhaps she has a spare somewhere here in her dressing room? Or does it need to be that {i}specific{/i} red dress to work?"
+    ""
+
+# game/script_jessie.rpy:13296
+translate russian ch4j_04_501f138f:
+
+    # "I scratch my chin, as if any man in thought, but get my nails caught in my beard."
+    ""
+
+# game/script_jessie.rpy:13297
+translate russian ch4j_04_59e6d694:
+
+    # "Beard? I just shaved last night."
+    ""
+
+# game/script_jessie.rpy:13298
+translate russian ch4j_04_a2d14fe8:
+
+    # "Ah, the hair is everywhere, Malcolm. And your face. You need to see your face."
+    ""
+
+# game/script_jessie.rpy:13308
+translate russian ch4j_04_49f12755:
+
+    # "For the first time, I lay eyes upon my full appearance."
+    ""
+
+# game/script_jessie.rpy:13310
+translate russian ch4j_04_c4f521a8:
+
+    # "Goodness."
+    ""
+
+# game/script_jessie.rpy:13313
+translate russian ch4j_04_db201f43:
+
+    # "I look like a mangy cur."
+    ""
+
+# game/script_jessie.rpy:13314
+translate russian ch4j_04_de27dbc3:
+
+    # "My haunting, amber eyes. Long, invasive muzzle. I lift one lip and reveal unsettlingly big canine teeth."
+    ""
+
+# game/script_jessie.rpy:13315
+translate russian ch4j_04_b2af2089:
+
+    # "Even my nose, so dark and spongy. I press it and it bounces back. How unnatural."
+    ""
+
+# game/script_jessie.rpy:13316
+translate russian ch4j_04_eba133dd:
+
+    # "My hand runs down across my front, over coarse hair and alien muscles. My body shudders at the sensation."
+    ""
+
+# game/script_jessie.rpy:13317
+translate russian ch4j_04_b383ea34:
+
+    # "I have to remind myself, it's still me under all this fur."
+    ""
+
+# game/script_jessie.rpy:13318
+translate russian ch4j_04_66bb480b:
+
+    # "Yet here I am. Deeply shaken by this view, despite seeing Jessie so many times this way."
+    ""
+
+# game/script_jessie.rpy:13320
+translate russian ch4j_04_8093ccfa:
+
+    # "I look imposing."
+    ""
+
+# game/script_jessie.rpy:13321
+translate russian ch4j_04_6598664a:
+
+    # "My eyes glow faintly. My muzzle is long and fierce. I lift one lip and reveal huge canine teeth."
+    ""
+
+# game/script_jessie.rpy:13322
+translate russian ch4j_04_ca5e89b4:
+
+    # "Even my nose, so dark and spongy. I press it and it bounces back. How odd."
+    ""
+
+# game/script_jessie.rpy:13323
+translate russian ch4j_04_323b9a5d:
+
+    # "My hand runs down across my front, over taut muscles barely concealed beneath a sleek pelt. A bewildered farmboy stuck in a predator's body."
+    ""
+
+# game/script_jessie.rpy:13324
+translate russian ch4j_04_b383ea34_1:
+
+    # "I have to remind myself, it's still me under all this fur."
+    ""
+
+# game/script_jessie.rpy:13325
+translate russian ch4j_04_22877180:
+
+    # "Yet here I am. Nearly unshaken by this view. How familiar it looks after seeing Jessie so many times this way."
+    ""
+
+# game/script_jessie.rpy:13327
+translate russian ch4j_04_36ab2ff5:
+
+    # "My golden eyes. Long, whiskered muzzle. I lift one lip and reveal perfect canine teeth."
+    ""
+
+# game/script_jessie.rpy:13328
+translate russian ch4j_04_95fa3d69:
+
+    # "Even my nose, so dark and spongy. I press it and it bounces back. Entirely too fun."
+    ""
+
+# game/script_jessie.rpy:13329
+translate russian ch4j_04_a1c594ef:
+
+    # "These canine features notwithstanding, I'm a splendid specimen."
+    ""
+
+# game/script_jessie.rpy:13330
+translate russian ch4j_04_e1db84c3:
+
+    # "My hand runs down across my front, over abdominals that are harder than cast iron. I'm even better toned than after my physical training."
+    ""
+
+# game/script_jessie.rpy:13331
+translate russian ch4j_04_b383ea34_2:
+
+    # "I have to remind myself, it's still me under all this fur."
+    ""
+
+# game/script_jessie.rpy:13332
+translate russian ch4j_04_c8db0d38:
+
+    # "Yet here I am. Unshaken by this view. How familiar it looks after seeing Jessie so many times this way."
+    ""
+
+# game/script_jessie.rpy:13334
+translate russian ch4j_04_95d98955:
+
+    # "The view is commonplace, but the sensation, that's new."
+    ""
+
+# game/script_jessie.rpy:13355
+translate russian ch4j_04_817e066a:
+
+    # "My heart skips a beat when the blonde spectre soundlessly appears behind me. By instinct I whip around, baring my teeth... and she flinches ever so slightly."
+    ""
+
+# game/script_jessie.rpy:13356
+translate russian ch4j_04_df095272:
+
+    # "I've never seen Alana flinch."
+    ""
+
+# game/script_jessie.rpy:13367
+translate russian ch4j_04_b6fd751c:
+
+    # a "Malcolm. Please, behave."
+    a ""
+
+# game/script_jessie.rpy:13372
+translate russian ch4j_04_3fa3bcf7:
+
+    # "The admonishment, spoken as if to a disobedient mutt, quickly brings me to my senses."
+    ""
+
+# game/script_jessie.rpy:13374
+translate russian ch4j_04_97399885:
+
+    # c "I... I'm sorry. I don't know what came over... Hey, {i}you{/i} snuck up on {i}me!{/i}"
+    c ""
+
+# game/script_jessie.rpy:13382
+translate russian ch4j_04_0da727c3:
+
+    # "Alana quietly closes the door behind her, trapping the two of us inside. I'm not sure if I should be terrified or relieved to see her."
+    ""
+
+# game/script_jessie.rpy:13384
+translate russian ch4j_04_c22fc5f0:
+
+    # a "It was not my intent to frighten you. You needn't be afraid. I'm sure you must be very confused. But first, I must ask you..."
+    a ""
+
+# game/script_jessie.rpy:13415
+translate russian ch4j_04_1479ad70:
+
+    # "She produces a drab, wadded up pile of garb. {i}My{/i} drab, wadded up pile of garb! And beneath that, I see a flash of red."
+    ""
+
+# game/script_jessie.rpy:13427
+translate russian ch4j_04_ddfca69b:
+
+    # c "{i}You collected our clothes?{/i}"
+    c ""
+
+# game/script_jessie.rpy:13429
+translate russian ch4j_04_6b419f93:
+
+    # a "I suspected you might come back for them. Now, please put yours on, and then I will help you return to your human form."
+    a ""
+
+# game/script_jessie.rpy:13444
+translate russian ch4j_04_d573261e:
+
+    # c "Fits like a... {i}erf{/i}... glove."
+    c ""
+
+# game/script_jessie.rpy:13445
+translate russian ch4j_04_3f43b57b:
+
+    # "My vest and shirt hang open, incapable of wrapping around my hulking chest. Even unbuttoned, my pants strain under the pressure of tightly packed flesh and fluff."
+    ""
+
+# game/script_jessie.rpy:13447
+translate russian ch4j_04_0d6a269e:
+
+    # c "With a little help, I'll be able to transform back now, eh?"
+    c ""
+
+# game/script_jessie.rpy:13449
+translate russian ch4j_04_770bd5f9:
+
+    # a "Yes. But not because of those rags; they're just for the sake of propriety. Clothes do a much better job of concealing one's unmentionables than a thin coat of fur."
+    a ""
+
+# game/script_jessie.rpy:13451
+translate russian ch4j_04_46164ca9:
+
+    # "That Alana might have seen my \"unmentionables\" makes me blush beneath my fur; that is, until I realize she's skirting my question. My brow furrows, pinching my canine features. I am in no mood."
+    ""
+
+# game/script_jessie.rpy:13453
+translate russian ch4j_04_0013edce:
+
+    # c "What do you mean? I risked life and limb to come back here to find these clothes so that we could revert to our old selves. Now give it here!"
+    c ""
+
+# game/script_jessie.rpy:13464
+translate russian ch4j_04_6d236a09:
+
+    # "With the frown of a disappointed teacher, Alana shakes her head and lets Jessie's dress fall open—or rather, what remains of it. It's shredded almost beyond recognition."
+    ""
+
+# game/script_jessie.rpy:13465
+translate russian ch4j_04_74d32e7c:
+
+    # a "Yes, Malcolm. Donning the clothes worn at the time of transformation {i}can{/i} help remind their wearer of their human form."
+    a ""
+
+# game/script_jessie.rpy:13467
+translate russian ch4j_04_5760bf9d:
+
+    # a "But I'm afraid this dress won't be of any help to Jessie anymore. Not in this condition."
+    a ""
+
+# game/script_jessie.rpy:13471
+translate russian ch4j_04_d824fe98:
+
+    # a "I warned you both about what would happen if you carried on down this path."
+    a ""
+
+# game/script_jessie.rpy:13480
+translate russian ch4j_04_0ade7f58:
+
+    # "Alana drops the dress to punctuate her point. My hackles rise."
+    ""
+
+# game/script_jessie.rpy:13482
+translate russian ch4j_04_457fe6d1:
+
+    # c "Don't go assigning blame so callously. No one could have foreseen this."
+    c ""
+
+# game/script_jessie.rpy:13485
+translate russian ch4j_04_4101ab64:
+
+    # a "Fortunately for you, I foresaw it {i}and{/i} crafted a solution for you and your lover's wolf problem."
+    a ""
+
+# game/script_jessie.rpy:13487
+translate russian ch4j_04_4adb4b79:
+
+    # c "It's not a \"problem.\" It's who she is."
+    c ""
+
+# game/script_jessie.rpy:13489
+translate russian ch4j_04_14e687d1:
+
+    # a "It's not who {i}you{/i} are."
+    a ""
+
+# game/script_jessie.rpy:13492
+translate russian ch4j_04_b42197b4:
+
+    # "I flex my paws and look down at the tufts of fur peeking out from every hem."
+    ""
+
+# game/script_jessie.rpy:13495
+translate russian ch4j_04_ee2610f6:
+
+    # "Alana is right. Jessie might be born for this role, but it's not for me. My broad shoulders fall."
+    ""
+
+# game/script_jessie.rpy:13498
+translate russian ch4j_04_6a786dda:
+
+    # c "I don't know how it happened. I mean, I know... but I don't understand."
+    c ""
+
+# game/script_jessie.rpy:13500
+translate russian ch4j_04_f92f64fa:
+
+    # "My old teacher's expression softens. She takes pity on my plight."
+    ""
+
+# game/script_jessie.rpy:13501
+translate russian ch4j_04_2c5c63ab:
+
+    # a "It was bound to happen if you continued this course. You and Jessie share a special bond, dear. A potent bond of love and magic."
+    a ""
+
+# game/script_jessie.rpy:13503
+translate russian ch4j_04_0aec1ee0:
+
+    # "How strange everything still feels. Could I ever get used to it?"
+    ""
+
+# game/script_jessie.rpy:13506
+translate russian ch4j_04_dec0888b:
+
+    # c "Perhaps. It's difficult to say. I have too much to think about. My life is..."
+    c ""
+
+# game/script_jessie.rpy:13508
+translate russian ch4j_04_113a621d:
+
+    # a "It's over."
+    a ""
+
+# game/script_jessie.rpy:13510
+translate russian ch4j_04_d8df56b3:
+
+    # c "Over? No."
+    c ""
+
+# game/script_jessie.rpy:13512
+translate russian ch4j_04_5c8c5597:
+
+    # a "If you stay like this, there's no way to survive. You'll live your life hiding in shadows, never to see your family again. Never to live a normal life. I don't want that for you."
+    a ""
+
+# game/script_jessie.rpy:13514
+translate russian ch4j_04_d5747fff:
+
+    # c "This isn't about what you want."
+    c ""
+
+# game/script_jessie.rpy:13516
+translate russian ch4j_04_2b7ddace:
+
+    # a "I know. I do. I want you both safe, protected. You and Jessie share a special bond, dear. A potent bond of love and magic."
+    a ""
+
+# game/script_jessie.rpy:13518
+translate russian ch4j_04_daf458f1:
+
+    # "Since I transformed I've never felt so alive. Nor have I ever felt so close to Jessie."
+    ""
+
+# game/script_jessie.rpy:13521
+translate russian ch4j_04_db721b16:
+
+    # c "Maybe it is who I am. Who I've always been. Maybe Jessie just coaxed the real me out."
+    c ""
+
+# game/script_jessie.rpy:13523
+translate russian ch4j_04_10d384d9:
+
+    # "Alana gives me a look of pity reserved for a schoolboy who simply cannot understand."
+    ""
+
+# game/script_jessie.rpy:13524
+translate russian ch4j_04_967829ef:
+
+    # a "Malcolm, uniquely in tune with fae magic though you may be, you are, and God willing shall always be, human. You are no wulver. You are simply her lover."
+    a ""
+
+# game/script_jessie.rpy:13545
+translate russian ch4j_04_c55ba8b4:
+
+    # "She approaches me, takes a clump of my fur between her fingers, and frowns."
+    ""
+
+# game/script_jessie.rpy:13555
+translate russian ch4j_04_c23bef18:
+
+    # a "You contracted her condition only due to these unusual—and highly specific—circumstances. Circumstances that I will reiterate, I foresaw."
+    a ""
+
+# game/script_jessie.rpy:13557
+translate russian ch4j_04_5e62b127:
+
+    # "Could she be any more condescending? Turning to Jessie's vanity table, Alana picks up a small vial full of blue liquid."
+    ""
+
+# game/script_jessie.rpy:13567
+translate russian ch4j_04_6bb842be:
+
+    # a "Which is why I want you to take this."
+    a ""
+
+# game/script_jessie.rpy:13574
+translate russian ch4j_04_6b5d6ad7:
+
+    # "I accept the vial that she produces and sniff at it. All I can smell is the overwhelming scent of Jessie's perfume that permeates her workstation."
+    ""
+
+# game/script_jessie.rpy:13576
+translate russian ch4j_04_83c9a262:
+
+    # c "What is this? {i}Eau de la louve?{/i}"
+    c ""
+
+# game/script_jessie.rpy:13579
+translate russian ch4j_04_20b6cee3:
+
+    # a "Malcolm. It's a cure for the condition."
+    a ""
+
+# game/script_jessie.rpy:13594
+translate russian ch4j_04_4f765e00:
+
+    # "The surprise hits me so hard, I almost drop the vial. My canine tongue sputters with disbelief."
+    ""
+
+# game/script_jessie.rpy:13595
+translate russian ch4j_04_5423d6a4:
+
+    # c "{i}An antidote?{/i} You had this since the beginning?"
+    c ""
+
+# game/script_jessie.rpy:13597
+translate russian ch4j_04_ec0ec7eb:
+
+    # a "Yes. Please be careful with that. I only prepared two: one for you, and one for Jessie. The ingredients are hard to come by, so I'd rather not have to make more."
+    a ""
+
+# game/script_jessie.rpy:13599
+translate russian ch4j_04_f7bfae85:
+
+    # c "Why didn't you give this to Jessie ages ago?"
+    c ""
+
+# game/script_jessie.rpy:13601
+translate russian ch4j_04_7f657a8b:
+
+    # a "I tried to, the night she was shot. She refused to take it on the spot. But she's had it all along."
+    a ""
+
+# game/script_jessie.rpy:13604
+translate russian ch4j_04_71c226f0:
+
+    # c "Why wouldn't she...?"
+    c ""
+
+# game/script_jessie.rpy:13606
+translate russian ch4j_04_6fc5e174:
+
+    # a "Because its effects are permanent."
+    a ""
+
+# game/script_jessie.rpy:13608
+translate russian ch4j_04_ca74bb9f:
+
+    # "Alana pauses to let the gravity of that sink in."
+    ""
+
+# game/script_jessie.rpy:13611
+translate russian ch4j_04_e27288bc:
+
+    # a "I gave Jessie a choice. Live freely in nature as a wolf, or take this concoction and live out her dreams as a starlet. With you. The dream she knew, versus the dream she never knew she had."
+    a ""
+
+# game/script_jessie.rpy:13613
+translate russian ch4j_04_43f09bc7:
+
+    # a "Malcolm, it hurt her so, to have to choose! It broke my heart to see our Jessie so distraught. So I resolved to give her a chance. To risk offering... a third option."
+    a ""
+
+# game/script_jessie.rpy:13615
+translate russian ch4j_04_bdce9f05:
+
+    # "Her eyes drop to the dress puddled on the floor."
+    ""
+
+# game/script_jessie.rpy:13616
+translate russian ch4j_04_adb6265b:
+
+    # a "Her dress could reliably contain her transformation. She could have the best of both worlds! Sing during the day, roam free at night..."
+    a ""
+
+# game/script_jessie.rpy:13618
+translate russian ch4j_04_fb560b6c:
+
+    # a "But her power was on the precipice. If she became any closer to you, it would tip the balance. She had to leave. {i}She was going to leave.{/i}"
+    a ""
+
+# game/script_jessie.rpy:13620
+translate russian ch4j_04_50c0669a:
+
+    # "It's not Alana's talk of questionable magical rules that troubles me. Nor the callous way with which she seeks to govern another's life. I can even overlook the ceaseless blame she sets at my feet."
+    ""
+
+# game/script_jessie.rpy:13622
+translate russian ch4j_04_d3864c67:
+
+    # c "No matter what, you would have Jessie give up something she loves?"
+    c ""
+
+# game/script_jessie.rpy:13624
+translate russian ch4j_04_2cd05b3e:
+
+    # a "I'm sorry, Malcolm. I never wanted this to happen. But it was the only way."
+    a ""
+
+# game/script_jessie.rpy:13627
+translate russian ch4j_04_3cf243b3:
+
+    # a "Then {i}you{/i} gave her false hope. The illusion of control, when in fact your intimacy only stoked the flame into a fire. It was only a matter of time before the blaze would get out of hand."
+    a ""
+
+# game/script_jessie.rpy:13629
+translate russian ch4j_04_189b2f98:
+
+    # a "She thought she could have it all. Now here we are. A farmboy turned monster and a dreamer who lost everything. Disowned. Exiled. Hunted."
+    a ""
+
+# game/script_jessie.rpy:13633
+translate russian ch4j_04_c69acead:
+
+    # "Her words cut deep, and I can't meet Alana's eyes. I don't want to believe this is my doing. It's Owen's fault. It's no one's fault."
+    ""
+
+# game/script_jessie.rpy:13634
+translate russian ch4j_04_97cf461a:
+
+    # "I'll make things right."
+    ""
+
+# game/script_jessie.rpy:13639
+translate russian ch4j_04_c4a2fab5:
+
+    # a "Malcolm. Listen to me. Do you know where Jessie is?"
+    a ""
+
+# game/script_jessie.rpy:13640
+translate russian ch4j_04_182d312b:
+
+    # "My voice is a whisper."
+    ""
+
+# game/script_jessie.rpy:13642
+translate russian ch4j_04_26eefe0a:
+
+    # c "Yes."
+    c ""
+
+# game/script_jessie.rpy:13644
+translate russian ch4j_04_e3d4d6af:
+
+    # a "Then take the antidote. A vial for Jessie is in your coat pocket. The dose is not drunk, but taken the same way your condition is transmitted: through broken skin."
+    a ""
+
+# game/script_jessie.rpy:13646
+translate russian ch4j_04_d6f301bc:
+
+    # a "Crush the glass in your hand and you will be human again."
+    a ""
+
+# game/script_jessie.rpy:13650
+translate russian ch4j_04_054b5292:
+
+    # a "Find her. Remind her of what you've both lost. Things may not go back to the way they were, but she will be safe. You'll both be safe from—"
+    a ""
+
+# game/script_jessie.rpy:13665
+translate russian ch4j_04_716b013a:
+
+    # "The door crashes in. My heart races, my blood pumps hard. In the hard light, all I can make out is the shape of someone wielding a large gun."
+    ""
+
+# game/script_jessie.rpy:13674
+translate russian ch4j_04_f30b3e01:
+
+    # b "All right, who's the damned fool who broke in looking to pinch a barrel of drink?"
+    b ""
+
+# game/script_jessie.rpy:13678
+translate russian ch4j_04_c20dc51b:
+
+    # "Alana stands squarely in front of me, protecting me."
+    ""
+
+# game/script_jessie.rpy:13679
+translate russian ch4j_04_c3aac3ce:
+
+    # a "Oh, put the gun away, you brute."
+    a ""
+
+# game/script_jessie.rpy:13685
+translate russian ch4j_04_26e65eb9:
+
+    # b "Miss Alana? I hadn't taken ye for a problem drinker."
+    b ""
+
+# game/script_jessie.rpy:13687
+translate russian ch4j_04_d06c0e9a:
+
+    # a "I may yet be one by the time this is all over."
+    a ""
+
+# game/script_jessie.rpy:13689
+translate russian ch4j_04_7565f73f:
+
+    # b "Who's that behind you?"
+    b ""
+
+# game/script_jessie.rpy:13717
+translate russian ch4j_04_5f260f13:
+
+    # "Alana steps aside, revealing my mass of fur and claws. I smile sheepishly, but suspect my grin comes across as wolfish instead. Balgair's eyes go wide."
+    ""
+
+# game/script_jessie.rpy:13723
+translate russian ch4j_04_ee4fb723:
+
+    # b "Crivens, {i}the beast!{/i} I'll save ye, lass!"
+    b ""
+
+# game/script_jessie.rpy:13735
+translate russian ch4j_04_bd3dd359:
+
+    # "He makes to lift the rifle but Alana firmly holds it back."
+    ""
+
+# game/script_jessie.rpy:13736
+translate russian ch4j_04_63ff61c2:
+
+    # a "No one needs any saving tonight, dear. Especially not with your brand of heroism."
+    a ""
+
+# game/script_jessie.rpy:13739
+translate russian ch4j_04_b855911c:
+
+    # "Unrecognized. Terrorized. I feel my throat choke. I have an urge to cry that I must quell. I swallow and manage to croak out a few words."
+    ""
+
+# game/script_jessie.rpy:13741
+translate russian ch4j_04_42f5ce5b:
+
+    # c "Balgair, it's... it's me."
+    c ""
+
+# game/script_jessie.rpy:13744
+translate russian ch4j_04_fe4feed2:
+
+    # "The publican takes pause. He squints into the darkness."
+    ""
+
+# game/script_jessie.rpy:13745
+translate russian ch4j_04_7bcf1764:
+
+    # b "...Malcolm?"
+    b ""
+
+# game/script_jessie.rpy:13747
+translate russian ch4j_04_5e485992:
+
+    # a "The very."
+    a ""
+
+# game/script_jessie.rpy:13752
+translate russian ch4j_04_4ffc833a:
+
+    # b "Och, lad! {i}I could've shot ye again!{/i}"
+    b ""
+
+# game/script_jessie.rpy:13756
+translate russian ch4j_04_bbd6d427:
+
+    # "Balgair lowers the gun as Alana and I exchange a rare look of mutual understanding."
+    ""
+
+# game/script_jessie.rpy:13758
+translate russian ch4j_04_471c6f58:
+
+    # c "P-please... don't fret about it one bit, sir."
+    c ""
+
+# game/script_jessie.rpy:13760
+translate russian ch4j_04_cf5fe10b:
+
+    # "His eyes narrow as they shift to the lady in green."
+    ""
+
+# game/script_jessie.rpy:13761
+translate russian ch4j_04_82dc3d6c:
+
+    # b "I should'a known this witch would have her hand in all this. What did she do to you an' Jessie?"
+    b ""
+
+# game/script_jessie.rpy:13763
+translate russian ch4j_04_aae7e721:
+
+    # a "{i}I beg your pardon?{/i}"
+    a ""
+
+# game/script_jessie.rpy:13765
+translate russian ch4j_04_6769bebb:
+
+    # c "Balgair, it's not Alana's fault..."
+    c ""
+
+# game/script_jessie.rpy:13766
+translate russian ch4j_04_77339751:
+
+    # "I see my monstrous reflection in my schoolteacher's glasses. I may disagree with her on many levels, but deep down, I know she's right."
+    ""
+
+# game/script_jessie.rpy:13768
+translate russian ch4j_04_c8f4b9e4:
+
+    # c "...The fault is mine. And I will fix it."
+    c ""
+
+# game/script_jessie.rpy:13773
+translate russian ch4j_04_077124c9:
+
+    # "A faint smile appears on Alana's lips. That of a proud mother."
+    ""
+
+# game/script_jessie.rpy:13776
+translate russian ch4j_04_72d7adf6:
+
+    # a "Well then. Since my meddling is generally so detested, I'll leave you two boys to your reunion."
+    a ""
+
+# game/script_jessie.rpy:13792
+translate russian ch4j_04_6a62521f:
+
+    # "She brushes past Balgair, her green robed figure once again dignified. Noble. Immutable."
+    ""
+
+# game/script_jessie.rpy:13799
+translate russian ch4j_04_8d936efc:
+
+    # a "Oh, and Malcolm. I politely insist that you take your medicine as soon as possible."
+    a ""
+
+# game/script_jessie.rpy:13807
+translate russian ch4j_04_ff9df160:
+
+    # "As she turns on her heel, a blaze of heat shoots through me and I wonder if her witchcraft has placed itself within. Balgair is visibly shaken too."
+    ""
+
+# game/script_jessie.rpy:13808
+translate russian ch4j_04_2b88cf8b:
+
+    # b "M'boy, I think I feel the need for some medicine meself."
+    b ""
+
+# game/script_jessie.rpy:13834
+translate russian ch4j_05_37c4d2cf:
+
+    # "What a pitiful sight we must be: Two old friends drinking away the wee hours of the morning. One whose shaggy visage and imposing muscles might scare lesser men. The other, a werewolf."
+    ""
+
+# game/script_jessie.rpy:13838
+translate russian ch4j_05_503f19a6:
+
+    # "I raise the glass to my muzzle and lap up its contents. Neither of us are thinking very clearly. We've had no sleep, and the pints don't help. But they numb the confusion."
+    ""
+
+# game/script_jessie.rpy:13843
+translate russian ch4j_05_5df2e530:
+
+    # b "So... you and Jessie 'ave always been like this?"
+    b ""
+
+# game/script_jessie.rpy:13844
+translate russian ch4j_05_c3c9b5cf:
+
+    # "I shake my head and take it from the top, explaining once more everything I know."
+    ""
+
+# game/script_jessie.rpy:13845
+translate russian ch4j_05_91726c93:
+
+    # c "I'm quite a sight, eh?"
+    c ""
+
+# game/script_jessie.rpy:13846
+translate russian ch4j_05_ddbf83f7:
+
+    # "I attempt to laugh, but no sound comes from my smiling lips. Balgair, though, lets out a huge guffaw."
+    ""
+
+# game/script_jessie.rpy:13847
+translate russian ch4j_05_d6b85755:
+
+    # b "Malcolm! She's done turned ye into a wolf! I almost blasted ye away again!"
+    b ""
+
+# game/script_jessie.rpy:13848
+translate russian ch4j_05_3160b246:
+
+    # c "Well, I'm glad you find this funny."
+    c ""
+
+# game/script_jessie.rpy:13849
+translate russian ch4j_05_340a3145:
+
+    # "Balgair laughs even harder."
+    ""
+
+# game/script_jessie.rpy:13850
+translate russian ch4j_05_bc8cb894:
+
+    # b "Funny? It's a pain in the wolf's arse, is what it's been! Scared off half me clientele for good, I suspect, and had to spend all night tidying the place!"
+    b ""
+
+# game/script_jessie.rpy:13851
+translate russian ch4j_05_e0d9a47d:
+
+    # "I cast my eyes around the room and admire his work. You wouldn't know it was the scene of a disaster mere hours earlier. Balgair's laughs wane and he sighs."
+    ""
+
+# game/script_jessie.rpy:13852
+translate russian ch4j_05_e2545a6c:
+
+    # b "Aye, but... the important thing is you're safe and sound. Say, what's it like, being a were-man? A he-wolf? Whit am I to call ye?"
+    b ""
+
+# game/script_jessie.rpy:13853
+translate russian ch4j_05_5d2f4b08:
+
+    # c "Just \"Malcolm\" is fine, Balgair."
+    c ""
+
+# game/script_jessie.rpy:13854
+translate russian ch4j_05_301dad9e:
+
+    # b "And Jessie? Where's m'girl? Is she safe? Alive? Please tell me she's out there and ye've found her?"
+    b ""
+
+# game/script_jessie.rpy:13855
+translate russian ch4j_05_4238d07a:
+
+    # c "Yes, Balgair. She's... not fine, but she's alive."
+    c ""
+
+# game/script_jessie.rpy:13856
+translate russian ch4j_05_e2ab3ae7:
+
+    # b "Injured? Hurt? I'll put any man who's hurt her in the ground, I will!"
+    b ""
+
+# game/script_jessie.rpy:13857
+translate russian ch4j_05_e3266f84:
+
+    # c "Nay, she's uninjured. Just... stuck."
+    c ""
+
+# game/script_jessie.rpy:13859
+translate russian ch4j_05_96280800:
+
+    # b "Stuck... in a hole? Tangled in brambles? I don't understand."
+    b ""
+
+# game/script_jessie.rpy:13861
+translate russian ch4j_05_ab32ffec:
+
+    # "I notice how hard I'm clutching both the vial and Jessie's dress in my fists, and I don't want to damage either."
+    ""
+
+# game/script_jessie.rpy:13863
+translate russian ch4j_05_cdcbeebc:
+
+    # c "Neither of us can become human again until..."
+    c ""
+
+# game/script_jessie.rpy:13870
+translate russian ch4j_05_f7632246:
+
+    # "I show him the vial, and he stares hard at it."
+    ""
+
+# game/script_jessie.rpy:13871
+translate russian ch4j_05_cd02d2d7:
+
+    # b "Ah. The medicine she were referin' to?"
+    b ""
+
+# game/script_jessie.rpy:13872
+translate russian ch4j_05_d940b7b5:
+
+    # c "Yes. Alana is always on top of things."
+    c ""
+
+# game/script_jessie.rpy:13873
+translate russian ch4j_05_ff7252a2:
+
+    # b "I can attest to that, lad. Have ye drunk it?"
+    b ""
+
+# game/script_jessie.rpy:13874
+translate russian ch4j_05_c6e57e51:
+
+    # c "It's not taken that way. She said..."
+    c ""
+
+# game/script_jessie.rpy:13875
+translate russian ch4j_05_ad0d25a1:
+
+    # "Imagining the feeling of sharp glass in my paws makes me cringe."
+    ""
+
+# game/script_jessie.rpy:13877
+translate russian ch4j_05_4b15a5df:
+
+    # c "Anyway, no. Not yet."
+    c ""
+
+# game/script_jessie.rpy:13878
+translate russian ch4j_05_76c350bd:
+
+    # b "Saving it for Jessie?"
+    b ""
+
+# game/script_jessie.rpy:13893
+translate russian ch4j_05_97c471b4:
+
+    # "Before I can answer, I hear footsteps upon the stairs leading to the Stag & Nanny's rooms for let. My hackles rise and I quickly put the vial away, ready to fight or make flight."
+    ""
+
+# game/script_jessie.rpy:13894
+translate russian ch4j_05_80ba50f6:
+
+    # ww "You've another one, Balgair? {i}Another wolf person?{/i} How tremendous!"
+    ww ""
+
+# game/script_jessie.rpy:13896
+translate russian ch4j_05_c78156ee:
+
+    # "My shoulders slump in confusion. Wondrous Walter makes his way down the steps, still in his nightdress. He sounds... {i}jubilant.{/i}"
+    ""
+
+# game/script_jessie.rpy:13897
+translate russian ch4j_05_173d56a4:
+
+    # ww "Pour another drink, my good man! I'll take a coffee, black. This merits a toast!"
+    ww ""
+
+# game/script_jessie.rpy:13899
+translate russian ch4j_05_7c3e87b2:
+
+    # "The surprise visitor has caught us both off guard. Balgair does his best to clean up his addled appearance and dutifully mans his post behind the bar."
+    ""
+
+# game/script_jessie.rpy:13901
+translate russian ch4j_05_443a1927:
+
+    # b "Sorry lad. Our commotion must'a stirred the guests."
+    b ""
+
+# game/script_jessie.rpy:13902
+translate russian ch4j_05_cb6fd5dc:
+
+    # "I hiss back."
+    ""
+
+# game/script_jessie.rpy:13903
+translate russian ch4j_05_0bcf798d:
+
+    # c "{i}Guests?{/i} Why on Earth is he still here?"
+    c ""
+
+# game/script_jessie.rpy:13932
+translate russian ch4j_05_4caa0bde:
+
+    # ww "Wondrous Walter, at your service! Traveling showman, vaudevillian, purveyor of all things mysterious, marvelous, and dare I say... furry? Isn't that right, Little Nap?"
+    ww ""
+
+# game/script_jessie.rpy:13938
+translate russian ch4j_05_5ec6a5c3:
+
+    # "The monkey squeaks shrilly. I shoot a baffled look to Balgair, who shrugs."
+    ""
+
+# game/script_jessie.rpy:13940
+translate russian ch4j_05_f1fde6c6:
+
+    # c "Uh... hello. Pleasure to meet you."
+    c ""
+
+# game/script_jessie.rpy:13942
+translate russian ch4j_05_c308a2ac:
+
+    # ww "No, the pleasure is all mine! Young man, that was the most entertaining show I've experienced in a very long time!"
+    ww ""
+
+# game/script_jessie.rpy:13954
+translate russian ch4j_05_2d350034:
+
+    # "Walter steps closer, tilting his head to study me. His ever-present primate partner leans out nearer still, sniffing at my scent."
+    ""
+
+# game/script_jessie.rpy:13956
+translate russian ch4j_05_25696df4:
+
+    # ww "It was a bit violent though... which is fine for the jaded city folk but won't fly in the rural areas. We'll have to tone down that attack scene."
+    ww ""
+
+# game/script_jessie.rpy:13961
+translate russian ch4j_05_5e7c30d0:
+
+    # "He examines me up and down with casual appraisal. I feel like a prize pony on display."
+    ""
+
+# game/script_jessie.rpy:13963
+translate russian ch4j_05_d5e42211:
+
+    # ww "Now... how did you get this way? Were you born... wolf-ish? It can't possibly be a parlor trick, can it? There's no costume provisions good enough to create your look."
+    ww ""
+
+# game/script_jessie.rpy:13964
+translate russian ch4j_05_1ddb57c5:
+
+    # "Despite the monkey, something tells me this man may be a few bananas short of a bushel."
+    ""
+
+# game/script_jessie.rpy:13965
+translate russian ch4j_05_2abbdcd1:
+
+    # c "Are you... well? You're taking this... quite in stride."
+    c ""
+
+# game/script_jessie.rpy:13973
+translate russian ch4j_05_52dbd39e:
+
+    # ww "Are you suggesting I should be {i}scared?{/i}"
+    ww ""
+
+# game/script_jessie.rpy:13986
+translate russian ch4j_05_ee9dcc64:
+
+    # "Walter pulls up close to me and gestures grandly, as if life is but one big show."
+    ""
+
+# game/script_jessie.rpy:13987
+translate russian ch4j_05_0d0030a4:
+
+    # ww "Haha! M'boy, I've stared down a hungry lion's maw, been near trampled by a rampaging elephant! I think I can handle sharing a drink with a wolfman—particularly one so tame as yourself."
+    ww ""
+
+# game/script_jessie.rpy:14002
+translate russian ch4j_05_db74e609:
+
+    # "With an arched eyebrow, Balgair gives Walter his coffee. Two contenders vying for the title of most manly adventurer—has the barkeep finally met his match? Balgair clears his throat."
+    ""
+
+# game/script_jessie.rpy:14003
+translate russian ch4j_05_140bb25e:
+
+    # b "Methinks the lad be sayin' that it's not e'ryday ye see a werewolf."
+    b ""
+
+# game/script_jessie.rpy:14006
+translate russian ch4j_05_b192552b:
+
+    # ww "Ah, when you're a traveling entertainer like me, you've seen it all. So-called monsters of all sorts!"
+    ww ""
+
+# game/script_jessie.rpy:14008
+translate russian ch4j_05_85fa7b98:
+
+    # ww "The moonchild of Liverpool. The pigheaded woman of Dundee. Each turns out to be just like the rest of us; er, more or less."
+    ww ""
+
+# game/script_jessie.rpy:14010
+translate russian ch4j_05_a587ae86:
+
+    # b "I 'eard such fairground chimaeras are no more than clean-shaven bears, more oft than not. This 'ere, sir, is {i}real magic.{/i}"
+    b ""
+
+# game/script_jessie.rpy:14013
+translate russian ch4j_05_fc62ffb0:
+
+    # "Walter reads the earnestness on Balgair's face, and reluctantly continues."
+    ""
+
+# game/script_jessie.rpy:14015
+translate russian ch4j_05_6a3ac8e9:
+
+    # ww "Why... did I mention it was right here in Ach-na-Creige that my career took off? Before I performed here, I was naught but a two-bit clown! Then I met this lady, and..."
+    ww ""
+
+# game/script_jessie.rpy:14017
+translate russian ch4j_05_6ae94170:
+
+    # "As Walter's words trail off, Balgair and I exchange a look."
+    ""
+
+# game/script_jessie.rpy:14019
+translate russian ch4j_05_2fd9f697:
+
+    # ww "Well, trade secrets and all that. But she sure showed me a thing or two. After that, nothing really surprised me anymore! Especially not in this town! Haha! Aye, 'tis good to be back..."
+    ww ""
+
+# game/script_jessie.rpy:14022
+translate russian ch4j_05_70ac6d42:
+
+    # "Expectantly, Walter waits for his enthusiasm to catch on. But Balgair and I are no naïve audience, and I'm in no mood to be entertained."
+    ""
+
+# game/script_jessie.rpy:14023
+translate russian ch4j_05_8254859f:
+
+    # c "I really must be going. Dawn is breaking, and y'know how it is. Difficult to hide from roving mobs in broad daylight, and all that."
+    c ""
+
+# game/script_jessie.rpy:14053
+translate russian ch4j_05_cb1d6c14:
+
+    # "I stand up to leave, but Walter swiftly positions himself between me and the door."
+    ""
+
+# game/script_jessie.rpy:14055
+translate russian ch4j_05_389bb68b:
+
+    # ww "Y-yes! Such boorish behavior, mobs. The mystical shouldn't faze. It should {i}amaze!{/i}"
+    ww ""
+
+# game/script_jessie.rpy:14057
+translate russian ch4j_05_237584de:
+
+    # ww "And sir, I am amazed. You and your girl have an impressive show. Her transfiguration stunt was unbeatable!"
+    ww ""
+
+# game/script_jessie.rpy:14059
+translate russian ch4j_05_5d7689e0:
+
+    # b "Ahem. I believe he was gettin' back to his girl now."
+    b ""
+
+# game/script_jessie.rpy:14060
+translate russian ch4j_05_d029239c:
+
+    # c "Aye. I need to return... this."
+    c ""
+
+# game/script_jessie.rpy:14069
+translate russian ch4j_05_77d60c41:
+
+    # "The tattered dress feels fragile in my paws. Its sorry state makes Wondrous Walter grimace."
+    ""
+
+# game/script_jessie.rpy:14071
+translate russian ch4j_05_e17d72fb:
+
+    # ww "Oh, my. Er... yes, an entertainer is nothing without a proper costume! Ever the gentleman—gentlewolf?—to return it to her. Please, allow my friend to make sure the coast is clear."
+    ww ""
+
+# game/script_jessie.rpy:14079
+translate russian ch4j_05_8f1a65a0:
+
+    # "Walter opens the door a fraction, and the monkey darts out of the pub. Meanwhile, the showman's body continues to block my exit."
+    ""
+
+# game/script_jessie.rpy:14081
+translate russian ch4j_05_c77dc41d:
+
+    # c "Your, uh... monkey. It's well trained?"
+    c ""
+
+# game/script_jessie.rpy:14083
+translate russian ch4j_05_3a7298f2:
+
+    # ww "The best! We dress Little Nap up like ol' Boney-part and have him ride around on a Frenchie, striking \"terror\" into the hearts of monarchs, and melting the hearts of everyone else!"
+    ww ""
+
+# game/script_jessie.rpy:14085
+translate russian ch4j_05_6eeb60d6:
+
+    # ww "Just like the real Napoleon, the little guy loves being the center of attention! Lives in the same lap of luxury as his namesake, too."
+    ww ""
+
+# game/script_jessie.rpy:14087
+translate russian ch4j_05_93f27be2:
+
+    # "Walter winks at me, doing the opposite of putting me at ease."
+    ""
+
+# game/script_jessie.rpy:14088
+translate russian ch4j_05_b5832c3d:
+
+    # ww "Aye, my primate friend is a member of the troupe just like any other, with all the benefits that entails! And rest assured, I treat my troupe as I treat dearest family."
+    ww ""
+
+# game/script_jessie.rpy:14100
+translate russian ch4j_05_75a9d4bf:
+
+    # "The entertainer gives me a hearty slap, which bounces off me with hardly a notice. Does he ever stop talking?"
+    ""
+
+# game/script_jessie.rpy:14102
+translate russian ch4j_05_b1d53eb8:
+
+    # ww "I know you've other things on your mind, but surely that big snout of yours can smell the opportunity? Imagine it. \"The Singing Werewolf, and Her...\" er... Can you play an instrument?"
+    ww ""
+
+# game/script_jessie.rpy:14103
+translate russian ch4j_05_aa2eba24:
+
+    # "Try as I might, I still can't tell if Wondrous Walter is an affable eccentric, a con artist, or just a plain fool. Perhaps he is all three."
+    ""
+
+# game/script_jessie.rpy:14104
+translate russian ch4j_05_794fc04d:
+
+    # c "I, um... used to play flute."
+    c ""
+
+# game/script_jessie.rpy:14106
+translate russian ch4j_05_f241ebc5:
+
+    # ww "A werewolf... flautist? Eh, we'll work on that."
+    ww ""
+
+# game/script_jessie.rpy:14113
+translate russian ch4j_05_098552d1:
+
+    # "The monkey scampers back inside and returns to his perch with a single loud screech, which Walter helpfully translates."
+    ""
+
+# game/script_jessie.rpy:14117
+translate russian ch4j_05_6858e8ab:
+
+    # ww "That's the all clear!"
+    ww ""
+
+# game/script_jessie.rpy:14118
+translate russian ch4j_05_781f700f:
+
+    # "I don't care if the whole town is waiting for me outside the door at this point. I've had enough."
+    ""
+
+# game/script_jessie.rpy:14119
+translate russian ch4j_05_8cba6a39:
+
+    # c "All right. Thanks for everything Balgair, and... uh... thank you for the kind words, Mr... umm... Wondrous."
+    c ""
+
+# game/script_jessie.rpy:14121
+translate russian ch4j_05_ccae591f:
+
+    # ww "Walter, please! Here, take my card."
+    ww ""
+
+# game/script_jessie.rpy:14122
+translate russian ch4j_05_81712529:
+
+    # "With a flourish of his hands, Walter magically produces two small cards of paper. He places them in my coat pocket before finally stepping aside."
+    ""
+
+# game/script_jessie.rpy:14124
+translate russian ch4j_05_321c12e0:
+
+    # ww "One for you and one for the dazzling missus. Please get in touch as soon as possible. This is an act we've got to tour with right away before anyone steals your secrets!"
+    ww ""
+
+# game/script_jessie.rpy:14126
+translate russian ch4j_05_3a63e333:
+
+    # b "Aye, we don't need any more wolf-people terrorizing bonnie Scotland. Remember your medicine, lad! An' good luck."
+    b ""
+
+# game/script_jessie.rpy:14129
+translate russian ch4j_05_928ee233:
+
+    # "The monkey squeaks shrilly in agreement. I nod, check for both vials, and slip outside without looking back."
+    ""
+
+# game/script_jessie.rpy:14155
+translate russian ch4j_06_52a6a538:
+
+    # "My breath comes in quick shallow pants as I approach Jessie's makeshift den."
+    ""
+
+# game/script_jessie.rpy:14156
+translate russian ch4j_06_6475dabc:
+
+    # "With the sun rising and little cover between here and town, my best bet to avoid being spotted was to run most of the way back."
+    ""
+
+# game/script_jessie.rpy:14157
+translate russian ch4j_06_e60b419a:
+
+    # "The optimist in me wonders if the townsfolk have given up their hunt. My soldier instincts say otherwise. Never let your guard down, Malcolm. You can't be too careful."
+    ""
+
+# game/script_jessie.rpy:14160
+translate russian ch4j_06_424cea20:
+
+    # "The pragmatist in me urges using the antidote to eliminate the problem altogether. I might have listened to it, had I been sure that I could find my way back without the aid of my canine senses."
+    ""
+
+# game/script_jessie.rpy:14161
+translate russian ch4j_06_39ba7852:
+
+    # "My legs carry me farther and faster, too. Alien though it may be, being wolfish does have some odd advantages once you learn how to use them."
+    ""
+
+# game/script_jessie.rpy:14163
+translate russian ch4j_06_a9f207ef:
+
+    # "When I reach the boulder underneath which we rested last night, Jessie is nowhere to be seen. I call out in an urgent whisper."
+    ""
+
+# game/script_jessie.rpy:14164
+translate russian ch4j_06_5fa90db3:
+
+    # c "Jessie? It's me, Malcolm!"
+    c ""
+
+# game/script_jessie.rpy:14166
+translate russian ch4j_06_4f673053:
+
+    # "There's no response."
+    ""
+
+# game/script_jessie.rpy:14172
+translate russian ch4j_06_ef52148f:
+
+    # "Damn it! I was off my head to try to steal a moment of peace at the Stag & Nanny. Now she's gone off to who knows where. Or worse... been taken."
+    ""
+
+# game/script_jessie.rpy:14174
+translate russian ch4j_06_2c6b8b4b:
+
+    # "I lay on the ground, tired, spent, and worried."
+    ""
+
+# game/script_jessie.rpy:14175
+translate russian ch4j_06_ff2636b8:
+
+    # "What do I do? What's next?"
+    ""
+
+# game/script_jessie.rpy:14177
+translate russian ch4j_06_9e960a6f:
+
+    # "Best to wait here. If she is able, she will return. Hopefully."
+    ""
+
+# game/script_jessie.rpy:14178
+translate russian ch4j_06_daec8646:
+
+    # "I sigh, and look at the red dress in my fist. The shoddy prize of my venture. Not just shredded, but filthy from the trek now, too... though it still smells faintly of her perfume."
+    ""
+
+# game/script_jessie.rpy:14182
+translate russian ch4j_06_14fd26bc:
+
+    # "...A smell that permeates the den, as well. I rouse myself and begin snuffling at the edges of our nest. To the south, I find what I am looking for."
+    ""
+
+# game/script_jessie.rpy:14183
+translate russian ch4j_06_ecc9c12d:
+
+    # "An invisible trail left behind for the rare sniffer that can detect it. {i}My{/i} sniffer."
+    ""
+
+# game/script_jessie.rpy:14186
+translate russian ch4j_06_c7c066e0:
+
+    # "Clever girl. I'm doubly glad I didn't use Alana's potion prematurely."
+    ""
+
+# game/script_jessie.rpy:14188
+translate russian ch4j_06_b0c7ed25:
+
+    # "Clever girl."
+    ""
+
+# game/script_jessie.rpy:14202
+translate russian ch4j_06_49a20e88:
+
+    # "The morning fog settles thick here, but it doesn't obscure the way. My path zigs and zags with the scent, like Pastor Ted returning to church after a few too many at the Stag & Nanny."
+    ""
+
+# game/script_jessie.rpy:14205
+translate russian ch4j_06_8aee7bc5:
+
+    # "I must look more beast than man, shambling about the glen on all fours. It comes easily—feels natural, somehow. Instinct has taken over. My body may as well be an extension of my snout."
+    ""
+
+# game/script_jessie.rpy:14207
+translate russian ch4j_06_378491e7:
+
+    # "I must look more beast than man, shambling about the glen on all fours. Instinct has taken over. My body may as well be an extension of my snout."
+    ""
+
+# game/script_jessie.rpy:14209
+translate russian ch4j_06_d78cbe31:
+
+    # "Tracking down Jessie is all that matters."
+    ""
+
+# game/script_jessie.rpy:14220
+translate russian ch4j_06_659d1f70:
+
+    # j "{size=26}Malcolm...?{/size}"
+    j ""
+
+# game/script_jessie.rpy:14221
+translate russian ch4j_06_aa46aa41:
+
+    # "The soft, distant voice jolts me out of my trance."
+    ""
+
+# game/script_jessie.rpy:14222
+translate russian ch4j_06_6b5cedb2:
+
+    # c "Jessie!"
+    c ""
+
+# game/script_jessie.rpy:14223
+translate russian ch4j_06_9f69045a:
+
+    # "Thank goodness she is all right. My heart leaps, and I bound toward the sound of her voice."
+    ""
+
+# game/script_jessie.rpy:14250
+translate russian ch4j_06_567d6f76:
+
+    # j "Malcolm wait—STOP!"
+    j ""
+
+# game/script_jessie.rpy:14251
+translate russian ch4j_06_d8857fbb:
+
+    # "The shout startles me, stopping me in my tracks. I look around for danger, but only see Jessie's form gingerly making her way toward me through the mist."
+    ""
+
+# game/script_jessie.rpy:14252
+translate russian ch4j_06_2b962f13:
+
+    # "Then a glint a few steps away catches my eye."
+    ""
+
+# game/script_jessie.rpy:14267
+translate russian ch4j_06_d168ba7b:
+
+    # j "Crivens, Malcolm, I've been worried sick!"
+    j ""
+
+# game/script_jessie.rpy:14277
+translate russian ch4j_06_ea79fe17:
+
+    # "So have I. We hug each other tightly, and don't want to let go."
+    ""
+
+# game/script_jessie.rpy:14278
+translate russian ch4j_06_1eaea9bd:
+
+    # c "I'm sorry. I thought I could... well, I don't know what I was thinking. What's happening here? Traps? Has it come to this, really?"
+    c ""
+
+# game/script_jessie.rpy:14286
+translate russian ch4j_06_25dda392:
+
+    # j "Yes. Wasn't long ago that a band came through. I had to abandon our den... I watched them from atop the hill. Mrs. Langham's husband, the trapper, was leading them—a good tracker. And..."
+    j ""
+
+# game/script_jessie.rpy:14289
+translate russian ch4j_06_171bec4d:
+
+    # "Her eyes cloud over as her voice trails off."
+    ""
+
+# game/script_jessie.rpy:14290
+translate russian ch4j_06_79ed3212:
+
+    # c "...And?"
+    c ""
+
+# game/script_jessie.rpy:14294
+translate russian ch4j_06_958cee32:
+
+    # j "I think I saw my father with them."
+    j ""
+
+# game/script_jessie.rpy:14295
+translate russian ch4j_06_5a964f24:
+
+    # "My stomach turns upside down. To be hunted by your own flesh and blood..."
+    ""
+
+# game/script_jessie.rpy:14296
+translate russian ch4j_06_d523adcd:
+
+    # c "...My God. Jessie, I'm so sorry."
+    c ""
+
+# game/script_jessie.rpy:14299
+translate russian ch4j_06_baf36092:
+
+    # j "We need to leave, Malcolm. We're walking targets out in the open here."
+    j ""
+
+# game/script_jessie.rpy:14300
+translate russian ch4j_06_ced8c2e3:
+
+    # j "This group, they're... well, they're on a mission. I can tell. When I woke up, you weren't there, and then when I saw them I thought—"
+    j ""
+
+# game/script_jessie.rpy:14302
+translate russian ch4j_06_327d5487:
+
+    # "Jessie's eyes tear up and my heart breaks for both of us."
+    ""
+
+# game/script_jessie.rpy:14304
+translate russian ch4j_06_4fae1b2b:
+
+    # j "...The worst."
+    j ""
+
+# game/script_jessie.rpy:14305
+translate russian ch4j_06_cef63778:
+
+    # c "No! Goodness, no. I'm sorry I scared you. I couldn't sleep, and I didn't want to worry you. So I slipped away to get... this."
+    c ""
+
+# game/script_jessie.rpy:14314
+translate russian ch4j_06_da586947:
+
+    # "I unclench my paw to reveal the crumpled ball of red inside, and Jessie's eyes go wide."
+    ""
+
+# game/script_jessie.rpy:14324
+translate russian ch4j_06_17d3271c:
+
+    # j "Malcolm, you mangy gowk! You risked life and limb for whatever scraps were left of {i}my dress!?{/i}"
+    j ""
+
+# game/script_jessie.rpy:14331
+translate russian ch4j_06_97b37d12:
+
+    # "When she puts it that way, it does sound quite foolhardy. I shrug sheepishly as she takes the clothes from my hand."
+    ""
+
+# game/script_jessie.rpy:14335
+translate russian ch4j_06_4136bd54:
+
+    # c "I just thought it might help you turn back to human. And I know it's your favorite ensemble..."
+    c ""
+
+# game/script_jessie.rpy:14336
+translate russian ch4j_06_d0e1a7be:
+
+    # "It resembles a handful of ribbons more than a dress now."
+    ""
+
+# game/script_jessie.rpy:14338
+translate russian ch4j_06_88274afd:
+
+    # j "Och... I'll be needing a {i}brand new{/i} ensemble when all this is over. Not even Marion could mend this mess."
+    j ""
+
+# game/script_jessie.rpy:14340
+translate russian ch4j_06_001b35be:
+
+    # c "Won't you try it on?"
+    c ""
+
+# game/script_jessie.rpy:14343
+translate russian ch4j_06_a95bd436:
+
+    # j "Here? Now? Are you off your head? I'm not sure these rags would even hang from my shoulders anymore!"
+    j ""
+
+# game/script_jessie.rpy:14344
+translate russian ch4j_06_e1ebda4f:
+
+    # c "I know, I know, but... it was some trouble to find them. It can't hurt to try."
+    c ""
+
+# game/script_jessie.rpy:14346
+translate russian ch4j_06_6b1cad46:
+
+    # "Truthfully, I'm skeptical as well. But I want Jessie to exhaust every option before I mention what's in my pocket. Alana's solution."
+    ""
+
+# game/script_jessie.rpy:14359
+translate russian ch4j_06_8841e958:
+
+    # "Reluctantly Jessie slips into what remains of the dress and closes her eyes, concentrating. I can hear her exasperation in every huff and grunt she makes."
+    ""
+
+# game/script_jessie.rpy:14371
+translate russian ch4j_06_dab2ace3:
+
+    # "After a few moments pass and nothing changes, I take Jessie's paw, still unsure if my presence helps or hinders."
+    ""
+
+# game/script_jessie.rpy:14373
+translate russian ch4j_06_b7df5ea0:
+
+    # "Again, I can feel the energy swirling around us. But try as we might, it doesn't respond."
+    ""
+
+# game/script_jessie.rpy:14390
+translate russian ch4j_06_639a4f2b:
+
+    # j "Malcolm, I appreciate you risking everything to get this, but it's just no use. That spark inside me... it's still missing. I can't... I just can't put it into words."
+    j ""
+
+# game/script_jessie.rpy:14393
+translate russian ch4j_06_d186a680:
+
+    # j "I'm... stuck. I'm nervous, scared. We're being {i}hunted,{/i} Malcolm. We have to hide. Right away."
+    j ""
+
+# game/script_jessie.rpy:14395
+translate russian ch4j_06_bf27977e:
+
+    # "But where? There's nowhere to hide. Not anymore, not within this valley or among the civilization beyond. We both sigh—Jessie with defeat, and me, from carrying the burden of what I must tell her."
+    ""
+
+# game/script_jessie.rpy:14397
+translate russian ch4j_06_0245f9d4:
+
+    # c "Your dress. I got it from Alana."
+    c ""
+
+# game/script_jessie.rpy:14406
+translate russian ch4j_06_976fc589:
+
+    # "Jessie brightens."
+    ""
+
+# game/script_jessie.rpy:14408
+translate russian ch4j_06_5b616b66:
+
+    # j "You saw Alana? What did she say? Can she help us?"
+    j ""
+
+# game/script_jessie.rpy:14410
+translate russian ch4j_06_baea0e67:
+
+    # c "She gave me these."
+    c ""
+
+# game/script_jessie.rpy:14415
+translate russian ch4j_06_9b6ef38a:
+
+    # "I pull the two vials out of my pocket. The shimmering blue liquid is a stark contrast to the fire of Jessie's red dress. Both colors reflect in Jessie's apprehensive eyes."
+    ""
+
+# game/script_jessie.rpy:14418
+translate russian ch4j_06_099bbd3b:
+
+    # j "...No."
+    j ""
+
+# game/script_jessie.rpy:14419
+translate russian ch4j_06_ef108989:
+
+    # c "I understand. Alana said you turned the antidote down before. But... it's all right to change your mind. The situation has changed: people know, now. They're after you. After us."
+    c ""
+
+# game/script_jessie.rpy:14421
+translate russian ch4j_06_d9a80227:
+
+    # j "No, Malcolm, you {i}don't{/i} understand! I already made my choice. I told Alana that this isn't something I'm willing to give up. Not now, not ever. {i}Nothing has changed.{/i}"
+    j ""
+
+# game/script_jessie.rpy:14430
+translate russian ch4j_06human_87e27943:
+
+    # "Jessie's determination is unwavering, even in the face of danger. I only wish I could share her conviction."
+    ""
+
+# game/script_jessie.rpy:14431
+translate russian ch4j_06human_b9319a31:
+
+    # c "That's your right. This is a part of you, Jessie. It's who you are. But... I'm sorry. It's not who I am."
+    c ""
+
+# game/script_jessie.rpy:14438
+translate russian ch4j_06human_ff110ed6:
+
+    # "My words hurt her. I don't mean for them to cause pain, but they must be said."
+    ""
+
+# game/script_jessie.rpy:14442
+translate russian ch4j_06human_d8dd032e:
+
+    # j "I know that! I do. You didn't ask to be like this. But... I can teach you to control it. To like it, even! If you take Alana's potion... think of what you'd be throwing away."
+    j ""
+
+# game/script_jessie.rpy:14444
+translate russian ch4j_06human_561ad463:
+
+    # c "A body that doesn't feel like my own. Alien senses, alien instincts. These things may come naturally to you, but... not to me. Deep down I know they never will."
+    c ""
+
+# game/script_jessie.rpy:14447
+translate russian ch4j_06human_c6e9f48c:
+
+    # "The way she looks at me leaves so much unspoken. Respect for the only person who understands her. Heartbreak, knowing that once more, she'll be the only of her kind."
+    ""
+
+# game/script_jessie.rpy:14448
+translate russian ch4j_06human_5506db0e:
+
+    # c "You said nothing's changed. Well, you're right. This changes nothing between us."
+    c ""
+
+# game/script_jessie.rpy:14451
+translate russian ch4j_06human_c140b788:
+
+    # j "I know. My choice is mine to make. And yours is yours."
+    j ""
+
+# game/script_jessie.rpy:14458
+translate russian ch4j_06human_94d99908:
+
+    # "Placing one vial back in my pocket, I hold the other up in my hand... and hold my breath."
+    ""
+
+# game/script_jessie.rpy:14461
+translate russian ch4j_06human_c9115bf9:
+
+    # j "Malcolm! I..."
+    j ""
+
+# game/script_jessie.rpy:14464
+translate russian ch4j_06human_3640b493:
+
+    # j "...I love you."
+    j ""
+
+# game/script_jessie.rpy:14467
+translate russian ch4j_06human_969c2b30:
+
+    # c "I love you too."
+    c ""
+
+# game/script_jessie.rpy:14485
+translate russian ch4j_06human_8744cc22:
+
+    # "The pain from the glass shards quickly turns white hot. I open my fist, dropping the shattered vial, but the liquid has gone. It's soaked in."
+    ""
+
+# game/script_jessie.rpy:14491
+translate russian ch4j_06human_227c7ebc:
+
+    # "My hand burns inside with ethereal fire. I feel the fur being seared away."
+    ""
+
+# game/script_jessie.rpy:14498
+translate russian ch4j_06human_e5fae322:
+
+    # "The sensation travels up my arm and into my core, dropping me to my knees. I can scarcely breathe as my chest reshapes."
+    ""
+
+# game/script_jessie.rpy:14499
+translate russian ch4j_06human_e2b8c2cd:
+
+    # "Alana's concoction is fighting, strong magic against strong magic. My body is the battleground."
+    ""
+
+# game/script_jessie.rpy:14505
+translate russian ch4j_06human_35cc60a3:
+
+    # "It's over as quickly as it began. I'm utterly drained. My entire skin is so sensitive, it feels like a full-body sunburn."
+    ""
+
+# game/script_jessie.rpy:14515
+translate russian ch4j_06human_936e3a7f:
+
+    # "My skin. {i}My body.{/i} I look to the sky and nearly weep with joy."
+    ""
+
+# game/script_jessie.rpy:14516
+translate russian ch4j_06human_cb5246bb:
+
+    # c "{i}It worked!{/i} Alana you old witch, it actually worked!"
+    c ""
+
+# game/script_jessie.rpy:14524
+translate russian ch4j_06human_67008c22:
+
+    # "I turn back to Jessie, prepared to offer her comfort. To reassure her that this was for the best."
+    ""
+
+# game/script_jessie.rpy:14525
+translate russian ch4j_06human_ef7ab408:
+
+    # "But Jessie isn't looking at me. She's looking off into the fog. Sniffing."
+    ""
+
+# game/script_jessie.rpy:14527
+translate russian ch4j_06human_5345a2fe:
+
+    # c "Jessie?"
+    c ""
+
+# game/script_jessie.rpy:14533
+translate russian ch4j_06human_9044c04a:
+
+    # j "...They're here."
+    j ""
+
+# game/script_jessie.rpy:14535
+translate russian ch4j_06human_479aae6b:
+
+    # "She turns to me, distress in her eyes."
+    ""
+
+# game/script_jessie.rpy:14542
+translate russian ch4j_06human_6e2918ea:
+
+    # j "Malcolm! {i}Run!{/i}"
+    j ""
+
+# game/script_jessie.rpy:14557
+translate russian ch4j_06wolf_8dc67444:
+
+    # "Jessie's conviction is unwavering, even in the face of danger. It only makes me admire her more. I rally my own courage and put away the potions."
+    ""
+
+# game/script_jessie.rpy:14559
+translate russian ch4j_06wolf_1709cfe9:
+
+    # c "Very well. We'll figure out something else."
+    c ""
+
+# game/script_jessie.rpy:14561
+translate russian ch4j_06wolf_48783183:
+
+    # "Her expression softens, turning concerned."
+    ""
+
+# game/script_jessie.rpy:14562
+translate russian ch4j_06wolf_07a24f34:
+
+    # j "Malcolm, wait. This... this is my choice. It doesn't have to be yours. You didn't ask to be like this."
+    j ""
+
+# game/script_jessie.rpy:14566
+translate russian ch4j_06wolf_3c64a96a:
+
+    # c "No, I didn't. But it's a gift. I won't throw it away just because a few boors don't like how we look."
+    c ""
+
+# game/script_jessie.rpy:14567
+translate russian ch4j_06wolf_db6e02ff:
+
+    # "I leave much unsaid. How liberated I feel. How being like this lets me connect with Jessie on such an intimate level."
+    ""
+
+# game/script_jessie.rpy:14569
+translate russian ch4j_06wolf_adbeac88:
+
+    # c "No, I didn't. Truthfully, I'm not sure if I'll ever get used to it. But I'm willing to let time tell."
+    c ""
+
+# game/script_jessie.rpy:14570
+translate russian ch4j_06wolf_018bd661:
+
+    # "Maybe someday I will use Alana's antidote. But it will be on my terms, not on some mob's."
+    ""
+
+# game/script_jessie.rpy:14572
+translate russian ch4j_06wolf_cbdaad20:
+
+    # "After four years in the heart of peril, I'm no longer worried. Even if I know I should be."
+    ""
+
+# game/script_jessie.rpy:14575
+translate russian ch4j_06wolf_d8382baf:
+
+    # "A weight is lifted now that the blue liquid is out of sight. Jessie smiles, hopeful."
+    ""
+
+# game/script_jessie.rpy:14577
+translate russian ch4j_06wolf_e190e86a:
+
+    # j "All right. We'll need to keep out of sight until this all blows over. Then we'll—"
+    j ""
+
+# game/script_jessie.rpy:14578
+translate russian ch4j_06wolf_af737338:
+
+    # c "Hold on—that could take days, weeks! What about Agnes?"
+    c ""
+
+# game/script_jessie.rpy:14579
+translate russian ch4j_06wolf_fa3b1c20:
+
+    # "Gran must already be terribly distressed. How will she manage in my absence?"
+    ""
+
+# game/script_jessie.rpy:14581
+translate russian ch4j_06wolf_d65493d0:
+
+    # j "We'll hide at her place, then."
+    j ""
+
+# game/script_jessie.rpy:14582
+translate russian ch4j_06wolf_ecaf5e00:
+
+    # c "Eh?"
+    c ""
+
+# game/script_jessie.rpy:14583
+translate russian ch4j_06wolf_a471d74a:
+
+    # "I'd rather not drag Gran into this... but perhaps Jessie is onto something. Gran already knows about Jessie's condition and has proven to be an ally."
+    ""
+
+# game/script_jessie.rpy:14584
+translate russian ch4j_06wolf_20042af0:
+
+    # "The last place people would look is right under their noses. If only Gran could keep her lips sealed around the Whist Guild..."
+    ""
+
+# game/script_jessie.rpy:14586
+translate russian ch4j_06wolf_93ed6584:
+
+    # j "As I was saying... once everything blows over, we'll figure out why I can't transform and get whatever help we need. After all, I can't be a starlet looking like this!"
+    j ""
+
+# game/script_jessie.rpy:14587
+translate russian ch4j_06wolf_670d1041:
+
+    # "Bless Jessie for keeping her dream alive, even when she thinks her ship has sailed. Little does she know..."
+    ""
+
+# game/script_jessie.rpy:14589
+translate russian ch4j_06wolf_63769d8a:
+
+    # c "Funny you mention that, because I happened to bump into Walter—the Wondrous one. You won't believe this but... he said he was impressed by your \"act.\""
+    c ""
+
+# game/script_jessie.rpy:14595
+translate russian ch4j_06wolf_4cd6b3f2:
+
+    # "I expect Jessie to show shock, elation, horror... {i}some{/i} kind of reaction to the news. But she seems distracted by something in the fog, down the glen."
+    ""
+
+# game/script_jessie.rpy:14597
+translate russian ch4j_06wolf_5345a2fe:
+
+    # c "Jessie?"
+    c ""
+
+# game/script_jessie.rpy:14603
+translate russian ch4j_06wolf_9044c04a:
+
+    # j "...They're here."
+    j ""
+
+# game/script_jessie.rpy:14604
+translate russian ch4j_06wolf_1c25a3a5:
+
+    # "The insects have gone quiet. I sniff the air, detecting the faintest scent of man. They must be far away... unless..."
+    ""
+
+# game/script_jessie.rpy:14606
+translate russian ch4j_06wolf_72f4f005:
+
+    # "They're approaching from downwind."
+    ""
+
+# game/script_jessie.rpy:14614
+translate russian ch4j_06wolf_6e2918ea:
+
+    # j "Malcolm! {i}Run!{/i}"
+    j ""
+
+# game/script_jessie.rpy:14643
+translate russian ch4j_07_c7635cda:
+
+    # "Instincts kick in. Don't think. Move."
+    ""
+
+# game/script_jessie.rpy:14644
+translate russian ch4j_07_ebf23dd7:
+
+    # "The hillside is steep, the terrain uneven. Jessie is a brown and red blur as we dash between rocks and scrub, making our way to higher ground."
+    ""
+
+# game/script_jessie.rpy:14648
+translate russian ch4j_07_7b87ca1a:
+
+    # "My legs feel like they're on fire. I stumble, trying to remember how to run on flat feet again."
+    ""
+
+# game/script_jessie.rpy:14650
+translate russian ch4j_07_fa14cfad:
+
+    # "Jessie. She's not moving as fast as she could. She's holding back."
+    ""
+
+# game/script_jessie.rpy:14651
+translate russian ch4j_07_704e6afb:
+
+    # "Damn it. {i}I'm holding her back.{/i} All because I couldn't wait another minute to take Alana's accursed potion."
+    ""
+
+# game/script_jessie.rpy:14653
+translate russian ch4j_07_ea406c0d:
+
+    # "Our wolfish legs carry us faster than any man could run. It hits me that we've trained for this moment. Like one of our races, turned deadly serious."
+    ""
+
+# game/script_jessie.rpy:14655
+translate russian ch4j_07_05b3e950:
+
+    # "Over the crunch of my footsteps, I hear shouts coming from behind us. I risk snatching a look behind, but see only boulders and debris."
+    ""
+
+# game/script_jessie.rpy:14661
+translate russian ch4j_07_b0afe7c3:
+
+    # "A loud snapping sound."
+    ""
+
+# game/script_jessie.rpy:14669
+translate russian ch4j_07_3139edbb:
+
+    # "My heart drops. My body topples."
+    ""
+
+# game/script_jessie.rpy:14670
+translate russian ch4j_07_ab05ead1:
+
+    # j "Malcolm!"
+    j ""
+
+# game/script_jessie.rpy:14696
+translate russian ch4j_07human_7194c2b1:
+
+    # "Jessie cuts her flight short, rushing over to me. My ankle is sore and held fast, but fortunately no worse for wear."
+    ""
+
+# game/script_jessie.rpy:14697
+translate russian ch4j_07human_f4bbecb0:
+
+    # c "I'm all right. It's just a snare..."
+    c ""
+
+# game/script_jessie.rpy:14698
+translate russian ch4j_07human_d4febc34:
+
+    # "\"Just a snare.\" I curse myself for being a fool and getting caught in a trap. The fact that it's not a set of diabolical metal jaws is some small consolation."
+    ""
+
+# game/script_jessie.rpy:14699
+translate russian ch4j_07human_e9b772a4:
+
+    # "I attack the rope, trying to loosen the noose, the knot, anything. It might have been easier had I still had claws."
+    ""
+
+# game/script_jessie.rpy:14700
+translate russian ch4j_07human_ca1ea809:
+
+    # j "Let me help!"
+    j ""
+
+# game/script_jessie.rpy:14717
+translate russian ch4j_07human_67e51677:
+
+    # "Jessie starts scratching at the thick cordage, then jerks back."
+    ""
+
+# game/script_jessie.rpy:14720
+translate russian ch4j_07human_ee4a84ce:
+
+    # j "Och! {i}What on earth?{/i}"
+    j ""
+
+# game/script_jessie.rpy:14721
+translate russian ch4j_07human_bf4820cf:
+
+    # c "What's wrong?"
+    c ""
+
+# game/script_jessie.rpy:14723
+translate russian ch4j_07human_33529b49:
+
+    # j "It stings like nettles!"
+    j ""
+
+# game/script_jessie.rpy:14725
+translate russian ch4j_07human_d92aff3d:
+
+    # "That's strange—I feel no stinging. But there's no time to dig deeper. The sound of our pursuers is getting closer. We're running out of time."
+    ""
+
+# game/script_jessie.rpy:14727
+translate russian ch4j_07human_2ffaba34:
+
+    # c "Jessie. You have to go."
+    c ""
+
+# game/script_jessie.rpy:14729
+translate russian ch4j_07human_224497b4:
+
+    # j "No!"
+    j ""
+
+# game/script_jessie.rpy:14743
+translate russian ch4j_07human_0011dda9:
+
+    # "I pause my work to put a hand on her shoulder. My human hand."
+    ""
+
+# game/script_jessie.rpy:14744
+translate russian ch4j_07human_291b3ac1:
+
+    # c "I'll be all right. They won't hurt me. Now get out of here—I'll try to delay them!"
+    c ""
+
+# game/script_jessie.rpy:14745
+translate russian ch4j_07human_f16f76f5:
+
+    # "She holds my gaze for a second."
+    ""
+
+# game/script_jessie.rpy:14755
+translate russian ch4j_07human_f7cbc425:
+
+    # "Our kiss is short but passionate."
+    ""
+
+# game/script_jessie.rpy:14760
+translate russian ch4j_07human_f53a12f7:
+
+    # "Our lips part, and she disappears into the mist."
+    ""
+
+# game/script_jessie.rpy:14762
+translate russian ch4j_07human_8cdc6e9e:
+
+    # "There's no time to reflect. I set to work on the snare once more. Moments later, I see three figures racing up the hill."
+    ""
+
+# game/script_jessie.rpy:14764
+translate russian ch4j_07human_547ad0aa:
+
+    # "Now to buy Jessie some time."
+    ""
+
+# game/script_jessie.rpy:14766
+translate russian ch4j_07human_d0b60e95:
+
+    # c "Oi, over here! Help!"
+    c ""
+
+# game/script_jessie.rpy:14771
+translate russian ch4j_07human_285394a4:
+
+    # "Two of the men stop. Then their shapes loom larger as they make their way toward me. They are carrying farming tools. Improvised weapons."
+    ""
+
+# game/script_jessie.rpy:14772
+translate russian ch4j_07human_f7135dcb:
+
+    # "The third member of their group neither deviates course, nor slows his pace. A zealot, blast it."
+    ""
+
+# game/script_jessie.rpy:14798
+translate russian ch4j_07human_e6ff4f7c:
+
+    # "I recognize the men who approach me. Mr. Langham, the trapper, and Mr. Lachie from down valley."
+    ""
+
+# game/script_jessie.rpy:14800
+translate russian ch4j_07human_377c0b56:
+
+    # "The first words out of my mouth are a lie."
+    ""
+
+# game/script_jessie.rpy:14801
+translate russian ch4j_07human_39c871e3:
+
+    # c "I'm right glad to see you!"
+    c ""
+
+# game/script_jessie.rpy:14825
+translate russian ch4j_07human_17d2d134:
+
+    # "I motion indignantly toward the snare around my ankle. Mr. Langham begins untying the knot that had vexed me, while Mr. Lachie looks on, concerned."
+    ""
+
+# game/script_jessie.rpy:14827
+translate russian ch4j_07human_80d90dec:
+
+    # lac "Are ye all right, lad? Ye look ravaged. Whit're ye doin' out 'ere in the moors?"
+    lac ""
+
+# game/script_jessie.rpy:14832
+translate russian ch4j_07human_627a7570:
+
+    # c "Tracking the beast, same as you."
+    c ""
+
+# game/script_jessie.rpy:14836
+translate russian ch4j_07human_b3ad4af5:
+
+    # lan "A wee dunderheid lik' yersel' is apt tae hinder, nae hulp. Ye'r lucky ye didnae lose a shank tae iron wallies."
+    lan ""
+
+# game/script_jessie.rpy:14838
+translate russian ch4j_07human_d81b04db:
+
+    # c "Was simply out for my constitutional. Since when did you start trapping in this valley, Mr. Langham?"
+    c ""
+
+# game/script_jessie.rpy:14842
+translate russian ch4j_07human_ea9ecc95:
+
+    # lan "Dinna ye ken? Thir's a mickle beastie oan th' leum."
+    lan ""
+
+# game/script_jessie.rpy:14844
+translate russian ch4j_07human_a31fac1d:
+
+    # lan "Ah leid oot a fair few o' thaese tae mogert up th' wolf afore she hurts any guid fowk. Smaired in wolfsbane fur guid maesure."
+    lan ""
+
+# game/script_jessie.rpy:14846
+translate russian ch4j_07human_f6b2a9a0:
+
+    # "I blink. Mr. Langham is an outdoorsman, a hunter. A man of the land. His accent is as thick as the callouses on his hands, and it takes me a moment to understand him."
+    ""
+
+# game/script_jessie.rpy:14847
+translate russian ch4j_07human_9aff98c3:
+
+    # c "Did you say... wolfsbane?"
+    c ""
+
+# game/script_jessie.rpy:14853
+translate russian ch4j_07human_70c7fd1a:
+
+    # lan "Aye, 'tis said wolves cannae staun it, if ye hawp sic hings."
+    lan ""
+
+# game/script_jessie.rpy:14871
+translate russian ch4j_07human_553141dd:
+
+    # lac "Say, lad, who was that with ye? There were two o' ye."
+    lac ""
+
+# game/script_jessie.rpy:14876
+translate russian ch4j_07human_ee89f660:
+
+    # c "Balgair came with me."
+    c ""
+
+# game/script_jessie.rpy:14886
+translate russian ch4j_07human_0894040f:
+
+    # "Mr. Langham guffaws."
+    ""
+
+# game/script_jessie.rpy:14887
+translate russian ch4j_07human_c1f68573:
+
+    # lan "Aye, right! A braw lad lik' him wid ne'er 'ave gied the pitch!"
+    lan ""
+
+# game/script_jessie.rpy:14889
+translate russian ch4j_07human_da996bd5:
+
+    # c "I brought along me Gran."
+    c ""
+
+# game/script_jessie.rpy:14899
+translate russian ch4j_07human_0894040f_1:
+
+    # "Mr. Langham guffaws."
+    ""
+
+# game/script_jessie.rpy:14900
+translate russian ch4j_07human_56205acf:
+
+    # lan "Ne'er seen an auld yin run lik' that, abler than th' monarch-o'-th'-glen!"
+    lan ""
+
+# game/script_jessie.rpy:14902
+translate russian ch4j_07human_9bc6d303:
+
+    # c "I came alone. Maybe you saw a deer?"
+    c ""
+
+# game/script_jessie.rpy:14912
+translate russian ch4j_07human_0894040f_2:
+
+    # "Mr. Langham guffaws."
+    ""
+
+# game/script_jessie.rpy:14913
+translate russian ch4j_07human_9519728c:
+
+    # lan "Haud ye'r tongue, ye daft loun. Dae ye think we gaun doolally? Ah'ament blootert 'n' seein' double!"
+    lan ""
+
+# game/script_jessie.rpy:14916
+translate russian ch4j_07human_afd8523d:
+
+    # c "What?" (multiple=2)
+    c "" (multiple=2)
+
+# game/script_jessie.rpy:14917
+translate russian ch4j_07human_cda953df:
+
+    # lac "Whit?" (multiple=2)
+    lac "" (multiple=2)
+
+# game/script_jessie.rpy:14921
+translate russian ch4j_07human_bf027bd7:
+
+    # lan "Och, stop yer havers!"
+    lan ""
+
+# game/script_jessie.rpy:14945
+translate russian ch4j_07human_733b4422:
+
+    # "With a final twist, Mr. Langham frees me from his snare. I rub my ankle, then stand up to meet them eye to eye. Despite my dodgy responses, both seem more confused than suspicious."
+    ""
+
+# game/script_jessie.rpy:14946
+translate russian ch4j_07human_290efba1:
+
+    # "I intend to turn the table and ask who was with {i}them.{/i} But before I can, we hear a sound."
+    ""
+
+# game/script_jessie.rpy:14955
+translate russian ch4j_07human_0c17732c:
+
+    # "Jessie? My heart drops. We all three exchange a look, then take off toward the source of the howl."
+    ""
+
+# game/script_jessie.rpy:14957
+translate russian ch4j_07human_2bfd1d7e:
+
+    # lan "Crivens, watch yer step, lad—yer jaiket's oan a shoogly peg!"
+    lan ""
+
+# game/script_jessie.rpy:14969
+translate russian ch4j_07human_58b29687:
+
+    # "My heart is pounding in my chest. As the three of us approach, I hear a desperate argument between Jessie and an old, gruff voice."
+    ""
+
+# game/script_jessie.rpy:14970
+translate russian ch4j_07human_814058b4:
+
+    # "Her father's voice."
+    ""
+
+# game/script_jessie.rpy:14971
+translate russian ch4j_07human_c5909eb8:
+
+    # "Owen."
+    ""
+
+# game/script_jessie.rpy:14972
+translate russian ch4j_07human_985d2fbe:
+
+    # "My pace quickens, and I speed until the blood rushes to my ears and nearly deafens me."
+    ""
+
+# game/script_jessie.rpy:15008
+translate russian ch4j_07_a_78158042:
+
+    # "The fog breaks as we crest the ridge, and I skid to a halt. My blood runs cold."
+    ""
+
+# game/script_jessie.rpy:15010
+translate russian ch4j_07_a_af5396b6:
+
+    # j "Malcolm? No! Get back!"
+    j ""
+
+# game/script_jessie.rpy:15012
+translate russian ch4j_07_a_f6685ba5:
+
+    # o "Stay your forked tongue, devil-child!"
+    o ""
+
+# game/script_jessie.rpy:15014
+translate russian ch4j_07_a_bddacc03:
+
+    # "Jessie is trapped, her back up against the wall of a large boulder. Owen points the gun at his own child with the sureness of a trained killer."
+    ""
+
+# game/script_jessie.rpy:15015
+translate russian ch4j_07_a_05bd12e2:
+
+    # "I nearly collapse from the shock, but I gather myself and steady my heartbeat."
+    ""
+
+# game/script_jessie.rpy:15016
+translate russian ch4j_07_a_77695973:
+
+    # "Our arrival has distracted Owen. His focus is split. It's a fleeting moment of surprise, and the only chance I'll get."
+    ""
+
+# game/script_jessie.rpy:15038
+translate russian ch4j_07_a_a6360dd2:
+
+    # "I lunge at the armed man, ready to tackle him to the ground. Only for two sets of burly arms to pull me back."
+    ""
+
+# game/script_jessie.rpy:15052
+translate russian ch4j_07_a_88a217a6:
+
+    # lac "Stay back, lad. This be no one's business but Mr. MacLeod's own."
+    lac ""
+
+# game/script_jessie.rpy:15053
+translate russian ch4j_07_a_cbbad195:
+
+    # c "This is {i}murder!{/i} Stand aside! Owen, put that gun down! {i}She's your own daughter!{/i}"
+    c ""
+
+# game/script_jessie.rpy:15066
+translate russian ch4j_07_a_b9357f42:
+
+    # "The men hold me fast against my struggles. Owen's aiming posture snaps back, as he peers down the barrel with righteous fury."
+    ""
+
+# game/script_jessie.rpy:15072
+translate russian ch4j_07_a_10db3e7d:
+
+    # o "No! This {i}monster{/i} is not my daughter."
+    o ""
+
+# game/script_jessie.rpy:15073
+translate russian ch4j_07_a_a7b8d940:
+
+    # c "She looks different, but she's still Jessie! Just listen to her!"
+    c ""
+
+# game/script_jessie.rpy:15074
+translate russian ch4j_07_a_427138ce:
+
+    # "Jessie tries to speak between sobs, but Owen relentlessly presses on."
+    ""
+
+# game/script_jessie.rpy:15076
+translate russian ch4j_07_a_8e1c4aa3:
+
+    # o "You weren't there, boy, the night Alana came. Storms, black cats, ill omens aplenty! It couldn't be my girls. By God I was right! {i}You were never my girl!{/i}"
+    o ""
+
+# game/script_jessie.rpy:15079
+translate russian ch4j_07_a_45c9b2e3:
+
+    # j "We've lived together my whole life! You raised me, Father! I'm still the girl you know and love!"
+    j ""
+
+# game/script_jessie.rpy:15080
+translate russian ch4j_07_a_a6a7bbb1:
+
+    # "I can tell by Jessie's breathlessness that she's made this point before, albeit no less desperately. But this time something visibly shifts in her father."
+    ""
+
+# game/script_jessie.rpy:15083
+translate russian ch4j_07_a_4f6c77e2:
+
+    # o "Whatever you are... You're a beast. Not worthy of anyone's love."
+    o ""
+
+# game/script_jessie.rpy:15085
+translate russian ch4j_07_a_60f5bacd:
+
+    # "The words may as well be a bullet. Anything left that was holding Owen back is cast aside. I recognize the steely look in his eyes."
+    ""
+
+# game/script_jessie.rpy:15087
+translate russian ch4j_07_a_66cefe6b:
+
+    # lac "Mr. MacLeod, mayhap the lad's right. This be nae mindless cur. This be {i}magic.{/i}"
+    lac ""
+
+# game/script_jessie.rpy:15088
+translate russian ch4j_07_a_3707dd5b:
+
+    # lan "Aye. 'Tis dangerous tae meddle wi' magic."
+    lan ""
+
+# game/script_jessie.rpy:15089
+translate russian ch4j_07_a_0a95c0b8:
+
+    # "His lackey's grunts are met with a growl."
+    ""
+
+# game/script_jessie.rpy:15090
+translate russian ch4j_07_a_e5de836d:
+
+    # o "You see magic. I see a curse—one I've carried for too many years. I shall carry it no longer."
+    o ""
+
+# game/script_jessie.rpy:15091
+translate russian ch4j_07_a_250abac1:
+
+    # "I see his trigger finger clench."
+    ""
+
+# game/script_jessie.rpy:15101
+translate russian ch4j_07_a_44ec5cc7:
+
+    # c "WAIT!"
+    c ""
+
+# game/script_jessie.rpy:15102
+translate russian ch4j_07_a_3c3b9841:
+
+    # "My shout is drowned out by the report of his rifle. My heart stops, and the world seems to freeze."
+    ""
+
+# game/script_jessie.rpy:15111
+translate russian ch4j_07_a_aca69086:
+
+    # "Jessie looks down as we collectively realize my shout made her father jump—and miss. But I know Owen won't miss again."
+    ""
+
+# game/script_jessie.rpy:15113
+translate russian ch4j_07_a_aad05969:
+
+    # "The men still hold me back. I have no other choice. I have to end it now."
+    ""
+
+# game/script_jessie.rpy:15114
+translate russian ch4j_07_a_ed64bdcc:
+
+    # "Even if it means betraying Jessie."
+    ""
+
+# game/script_jessie.rpy:15117
+translate russian ch4j_07_a_4045ecce:
+
+    # c "Owen, stop! There's an antidote!"
+    c ""
+
+# game/script_jessie.rpy:15119
+translate russian ch4j_07_a_14ef2bbf:
+
+    # "The words tumble out of my mouth before he can fire the second round. I hear Jessie gasp."
+    ""
+
+# game/script_jessie.rpy:15121
+translate russian ch4j_07_a_9f2991d3:
+
+    # j "{i}Malcolm, don't!{/i}"
+    j ""
+
+# game/script_jessie.rpy:15123
+translate russian ch4j_07_a_1e7f0fdc:
+
+    # o "There's nae cure for demonry, boy."
+    o ""
+
+# game/script_jessie.rpy:15124
+translate russian ch4j_07_a_10316b6a:
+
+    # c "There is! I have it."
+    c ""
+
+# game/script_jessie.rpy:15126
+translate russian ch4j_07_a_90b05f37:
+
+    # "I choose my next words carefully, guided by something Owen said."
+    ""
+
+# game/script_jessie.rpy:15128
+translate russian ch4j_07_a_4c95e63f:
+
+    # c "Alana gave it to me."
+    c ""
+
+# game/script_jessie.rpy:15134
+translate russian ch4j_07_a_9c30c920:
+
+    # "I can never forgive myself... if I survive this. The men tense as I reach into my pocket and produce the remaining blue vial. It glows in my hand tantalizingly."
+    ""
+
+# game/script_jessie.rpy:15139
+translate russian ch4j_07_a_5c686d4d:
+
+    # o "Alana... gave you this?"
+    o ""
+
+# game/script_jessie.rpy:15140
+translate russian ch4j_07_a_f3c3f8c0:
+
+    # "Owen is visibly shaken."
+    ""
+
+# game/script_jessie.rpy:15141
+translate russian ch4j_07_a_63c50357:
+
+    # c "Yes. If Jessie takes it, she'll go back to..."
+    c ""
+
+# game/script_jessie.rpy:15142
+translate russian ch4j_07_a_8f29dbf7:
+
+    # "In a near whisper, Jessie finishes what I can't bear to say."
+    ""
+
+# game/script_jessie.rpy:15144
+translate russian ch4j_07_a_e34158ef:
+
+    # j "{i}Normal.{/i} I'll be your daughter again."
+    j ""
+
+# game/script_jessie.rpy:15146
+translate russian ch4j_07_a_b43ff97a:
+
+    # o "You're... not my daughter."
+    o ""
+
+# game/script_jessie.rpy:15149
+translate russian ch4j_07_a_dc5b8f91:
+
+    # j "I am. And everything will be the way it was."
+    j ""
+
+# game/script_jessie.rpy:15150
+translate russian ch4j_07_a_0eb63058:
+
+    # "Her voice trembles and tears pour down her cheeks, matting the hair by her muzzle."
+    ""
+
+# game/script_jessie.rpy:15153
+translate russian ch4j_07_a_7f610ad2:
+
+    # j "Father... what would Mother have wanted?"
+    j ""
+
+# game/script_jessie.rpy:15156
+translate russian ch4j_07_a_10b64585:
+
+    # "Pain strikes across Owen's face. A personal battle must be raging within, fiercer than any he saw overseas."
+    ""
+
+# game/script_jessie.rpy:15157
+translate russian ch4j_07_a_8e208153:
+
+    # "Meanwhile the hilltop settles into a tense silence, which no one dares disturb."
+    ""
+
+# game/script_jessie.rpy:15161
+translate russian ch4j_07_a_7c8b8e57:
+
+    # o "Give it to her, boy."
+    o ""
+
+# game/script_jessie.rpy:15184
+translate russian ch4j_07_a_d1775032:
+
+    # "Mr. Lachie and Mr. Langham finally let me go. But as I cautiously make my way to Jessie, her father shows no sign of lowering his guard."
+    ""
+
+# game/script_jessie.rpy:15185
+translate russian ch4j_07_a_fdb0370c:
+
+    # c "No one has to die, Mr. MacLeod."
+    c ""
+
+# game/script_jessie.rpy:15186
+translate russian ch4j_07_a_10e016ee:
+
+    # o "Hush!"
+    o ""
+
+# game/script_jessie.rpy:15203
+translate russian ch4j_07_a_a3b07b8b:
+
+    # "As Jessie reluctantly takes the potion from my hand, I tell myself this was the only way. It doesn't make it any easier to face her."
+    ""
+
+# game/script_jessie.rpy:15207
+translate russian ch4j_07_a_286cd967:
+
+    # "Finally I look her in the eye. I expect to see the same look of hopelessness and defeat I saw in enemy prisoners being led behind the lines."
+    ""
+
+# game/script_jessie.rpy:15209
+translate russian ch4j_07_a_72e3ccba:
+
+    # "Instead, behind the tears... I see fire."
+    ""
+
+# game/script_jessie.rpy:15212
+translate russian ch4j_07_a_269db15e:
+
+    # o "Now take it."
+    o ""
+
+# game/script_jessie.rpy:15225
+translate russian ch4j_07_a_5ef094c7:
+
+    # "She closes her eyes, rolling the vial between her claws. Owen trembles with fury."
+    ""
+
+# game/script_jessie.rpy:15227
+translate russian ch4j_07_a_15acdc2b:
+
+    # o "TAKE IT!"
+    o ""
+
+# game/script_jessie.rpy:15237
+translate russian ch4j_07_a_1192c98f:
+
+    # "Her paw shuts, shattering the vial."
+    ""
+
+# game/script_jessie.rpy:15247
+translate russian ch4j_07_a_ef066494:
+
+    # "The changes are nearly instantaneous. What had happened to me mere moments ago unfolds again before my eyes, as if I were looking in a mirror."
+    ""
+
+# game/script_jessie.rpy:15249
+translate russian ch4j_07_a_ce50bf1e:
+
+    # "The pain of the transformation had brought me to my knees. But Jessie stands tall, her steely gaze fixed upon Owen as its yellow hue fades away."
+    ""
+
+# game/script_jessie.rpy:15270
+translate russian ch4j_07_a_fc3e2ac0:
+
+    # o "J... Jessie?"
+    o ""
+
+# game/script_jessie.rpy:15272
+translate russian ch4j_07_a_211b44eb:
+
+    # "His jaw slackens, and finally so does his grip upon the rifle."
+    ""
+
+# game/script_jessie.rpy:15273
+translate russian ch4j_07_a_247421c2:
+
+    # o "Is it really you?"
+    o ""
+
+# game/script_jessie.rpy:15277
+translate russian ch4j_07_a_a43b9c64:
+
+    # j "Yes Father... I'm here."
+    j ""
+
+# game/script_jessie.rpy:15278
+translate russian ch4j_07_a_bed1b0b7:
+
+    # "Both Mr. Lachie and Mr. Langham are muttering prayers, as if they've just witnessed an exorcism. Meanwhile Owen glances around, looking like he's just snapped out of a drunken stupor."
+    ""
+
+# game/script_jessie.rpy:15280
+translate russian ch4j_07_a_f15f335d:
+
+    # o "Oh God."
+    o ""
+
+# game/script_jessie.rpy:15283
+translate russian ch4j_07_a_142e06d1:
+
+    # "He stares down at his rifle as if it's a hideous thing, although he clings to it like it's his only remaining friend."
+    ""
+
+# game/script_jessie.rpy:15284
+translate russian ch4j_07_a_be5ec969:
+
+    # o "Oh, Christ in heavens, what have I done?"
+    o ""
+
+# game/script_jessie.rpy:15301
+translate russian ch4j_07_a_2b1b5658:
+
+    # j "You've got your daughter back, is what. Look at me, Father. It's me. Your Jessie."
+    j ""
+
+# game/script_jessie.rpy:15302
+translate russian ch4j_07_a_b018c1e3:
+
+    # "She gathers herself, and slowly saunters over to him, this pitiful shell of an old man."
+    ""
+
+# game/script_jessie.rpy:15305
+translate russian ch4j_07_a_ed20bbf9:
+
+    # j "Do you see, Father? Take a nice, long look."
+    j ""
+
+# game/script_jessie.rpy:15321
+translate russian ch4j_07_a_977e80bc:
+
+    # "In one quick movement, she snatches the rifle from his hand and knocks him hard upside the head with the butt end."
+    ""
+
+# game/script_jessie.rpy:15322
+translate russian ch4j_07_a_7ca7e9d2:
+
+    # j "Look now, because you will {i}never{/i} see \"your\" Jessie again."
+    j ""
+
+# game/script_jessie.rpy:15339
+translate russian ch4j_07_a_08d02d28:
+
+    # "A thin trickle of blood falls from his forehead. Surprise spreads across his face. Then confusion. Anger. Jessie does not care."
+    ""
+
+# game/script_jessie.rpy:15340
+translate russian ch4j_07_a_7ad90f94:
+
+    # j "You can take away my fangs, but you will {i}never{/i} tame me."
+    j ""
+
+# game/script_jessie.rpy:15358
+translate russian ch4j_07_a_472030da:
+
+    # o "Harlot! Hellion! The curse lifted and {i}this{/i} is your brand of gratitude? You're an immoral, wicked soul. You'll never see the gates of heaven!"
+    o ""
+
+# game/script_jessie.rpy:15360
+translate russian ch4j_07_a_21740891:
+
+    # j "I'd rather be damned to hell than ever see your face again!"
+    j ""
+
+# game/script_jessie.rpy:15365
+translate russian ch4j_07_a_aedba800:
+
+    # o "Stop! I won't be spoken to like this by my own daughter. We're going home right now!"
+    o ""
+
+# game/script_jessie.rpy:15366
+translate russian ch4j_07_a_ddf55dcd:
+
+    # "But his command no longer carries any authority. The tables have fully turned."
+    ""
+
+# game/script_jessie.rpy:15370
+translate russian ch4j_07_a_fa740cea:
+
+    # j "You ruined our home. Left us! As if you were ever there to begin with. And with this, you've finally killed all the love I ever had for you."
+    j ""
+
+# game/script_jessie.rpy:15383
+translate russian ch4j_07_a_1cc81a4b:
+
+    # "Jessie raises the gun again but doesn't bring it down on him. Instead, she throws it towards me where it hits the ground with an unceremonious thud."
+    ""
+
+# game/script_jessie.rpy:15386
+translate russian ch4j_07_a_daa0cbfc:
+
+    # j "If I feel any love now it's because another has shown me the love I've always deserved. The love I never had from my parents."
+    j ""
+
+# game/script_jessie.rpy:15395
+translate russian ch4j_07_a_6e7093e5:
+
+    # j "I choose to forget you. To walk away. You are nothing to me. A memory I hope I will soon forget. So go home. See if your other daughters care for you."
+    j ""
+
+# game/script_jessie.rpy:15405
+translate russian ch4j_07_a_f797100f:
+
+    # "She spits hard on the ground."
+    ""
+
+# game/script_jessie.rpy:15408
+translate russian ch4j_07_a_b27af415:
+
+    # j "They shan't. Your existence will kill their emotions, too. Your cold heart will leach out every drop of empathy from them. From poor Grace, whom you've abandoned and shunned."
+    j ""
+
+# game/script_jessie.rpy:15411
+translate russian ch4j_07_a_8f172926:
+
+    # j "And your beloved Marion? She will see who you are. Know that you wanted me dead and offer you no salvation. She will find another to care for, leaving you to fend for yourself."
+    j ""
+
+# game/script_jessie.rpy:15418
+translate russian ch4j_07_a_972379e6:
+
+    # "Jessie lets out an uproarious laugh."
+    ""
+
+# game/script_jessie.rpy:15421
+translate russian ch4j_07_a_f1e4869e:
+
+    # j "You'll be left out like a stray dog."
+    j ""
+
+# game/script_jessie.rpy:15424
+translate russian ch4j_07_a_0e138f80:
+
+    # "The verbal lashing has left Owen in tatters. I've seen pain, death, dishonor. This is worse."
+    ""
+
+# game/script_jessie.rpy:15431
+translate russian ch4j_07_a_e94b7e0f:
+
+    # o "You're all insane. This is a world of insanity. I..."
+    o ""
+
+# game/script_jessie.rpy:15433
+translate russian ch4j_07_a_d6318569:
+
+    # "He looks to each of us desperately, seeking support. Finding none."
+    ""
+
+# game/script_jessie.rpy:15439
+translate russian ch4j_07_a_10cf0e17:
+
+    # o "...I have nothing."
+    o ""
+
+# game/script_jessie.rpy:15441
+translate russian ch4j_07_a_f6eff38b:
+
+    # "The tone of his voice changes. From tyrannical to near sublime, as if questioning the mere aspect of his own existence."
+    ""
+
+# game/script_jessie.rpy:15442
+translate russian ch4j_07_a_3cfafc74:
+
+    # o "I am alone. Alone among folly. Nothing makes sense."
+    o ""
+
+# game/script_jessie.rpy:15444
+translate russian ch4j_07_a_8b7f0539:
+
+    # "My head throbs too. We would all rather put this trauma behind us; even the men from the village, so it would seem."
+    ""
+
+# game/script_jessie.rpy:15452
+translate russian ch4j_07_a_e495e308:
+
+    # lac "Some things there be nae making sense of. Come 'long Mr. MacLeod. We'd best go."
+    lac ""
+
+# game/script_jessie.rpy:15456
+translate russian ch4j_07_a_6a237b53:
+
+    # o "What am I doing here? Where do I go?"
+    o ""
+
+# game/script_jessie.rpy:15461
+translate russian ch4j_07_a_f48dea9c:
+
+    # "Jessie turns away, unable to look her father in the eye any longer."
+    ""
+
+# game/script_jessie.rpy:15462
+translate russian ch4j_07_a_729515cf:
+
+    # j "Go home. Go away. It does not matter. Just leave."
+    j ""
+
+# game/script_jessie.rpy:15466
+translate russian ch4j_07_a_3cd7b664:
+
+    # "The old man wipes tears from his face. I feel pity for Owen, although I don't know if I can ever forgive him. He casts his gaze to the ground, then up to the heavens."
+    ""
+
+# game/script_jessie.rpy:15468
+translate russian ch4j_07_a_5ac3ce24:
+
+    # o "For all I've done and cannot undo, Lord, please I beg your mercy. I have entered this world with nothing, and all I've gained, I've lost."
+    o ""
+
+# game/script_jessie.rpy:15472
+translate russian ch4j_07_a_603f6c42:
+
+    # o "In your name I have given my devotion and life. In return, I am given madness and despair. I have nothing."
+    o ""
+
+# game/script_jessie.rpy:15474
+translate russian ch4j_07_a_bb5ccfd3:
+
+    # "My heart breaks for Owen's suffering, but I have no words of solace. He lives in a bed of his own making now. As do we all."
+    ""
+
+# game/script_jessie.rpy:15475
+translate russian ch4j_07_a_62e7ed73:
+
+    # "I am but blessed to have retained a modicum of my own sanity before, during, and after the war. May it be that he and I both survive today and continue a journey of quiet peace."
+    ""
+
+# game/script_jessie.rpy:15506
+translate russian ch4j_07_a_a2b77767:
+
+    # "Soft mumbles travel past my ear and Mr. Lachie and Mr. Langham stride over to Owen."
+    ""
+
+# game/script_jessie.rpy:15507
+translate russian ch4j_07_a_074cdd49:
+
+    # "They put their arms around his shoulders, but before they escort him away, Mr. Lachie turns back to me and speaks his piece."
+    ""
+
+# game/script_jessie.rpy:15517
+translate russian ch4j_07_a_ec08f057:
+
+    # lac "Best steer clear o' here, an' keep a weather eye out for anythin' else supernatural. Stay safe, lad. The Lord watch ov'r."
+    lac ""
+
+# game/script_jessie.rpy:15518
+translate russian ch4j_07_a_5863c65d:
+
+    # "Mr. Langham follows suit, only a bit louder."
+    ""
+
+# game/script_jessie.rpy:15520
+translate russian ch4j_07_a_8d42f3be:
+
+    # lan "Aye. Whit's fur ye'll no go past ye!"
+    lan ""
+
+# game/script_jessie.rpy:15590
+translate russian ch4j_07_a_6f04c5d9:
+
+    # "When the lot of them crest the hill out of sight, Jessie and I collapse into each other's arms. We fall to the ground, sobbing and gripping tight to one another."
+    ""
+
+# game/script_jessie.rpy:15591
+translate russian ch4j_07_a_53fcf038:
+
+    # "Through her tears, Jessie gasps for air."
+    ""
+
+# game/script_jessie.rpy:15592
+translate russian ch4j_07_a_19d5c375:
+
+    # j "I thought I was going to die. I—I can't breathe."
+    j ""
+
+# game/script_jessie.rpy:15594
+translate russian ch4j_07_a_6e7ee225:
+
+    # "It's a feeling I know all too well. I cling to her reassuringly."
+    ""
+
+# game/script_jessie.rpy:15595
+translate russian ch4j_07_a_6eb2fbf7:
+
+    # c "Take a deep breath. He's gone. We're safe."
+    c ""
+
+# game/script_jessie.rpy:15597
+translate russian ch4j_07_a_51f9c27b:
+
+    # j "My dear God. What just happened?"
+    j ""
+
+# game/script_jessie.rpy:15598
+translate russian ch4j_07_a_53dde6e0:
+
+    # c "We're alive. That's all that matters right now."
+    c ""
+
+# game/script_jessie.rpy:15600
+translate russian ch4j_07_a_9226273c:
+
+    # "I rock her in my arms, but I feel her heartbeat racing. I don't believe she's calming down."
+    ""
+
+# game/script_jessie.rpy:15601
+translate russian ch4j_07_a_a98ba78a:
+
+    # "She squeezes me, and I release her from our embrace."
+    ""
+
+# game/script_jessie.rpy:15619
+translate russian ch4j_07_a_306e9259:
+
+    # "She stares out over the horizon, fear and determination in her eyes, squinting as if trying to see the future."
+    ""
+
+# game/script_jessie.rpy:15621
+translate russian ch4j_07_a_0f173ebb:
+
+    # c "What is it?"
+    c ""
+
+# game/script_jessie.rpy:15625
+translate russian ch4j_07_a_b5d4f682:
+
+    # j "Malcolm, I... I can't live like this."
+    j ""
+
+# game/script_jessie.rpy:15626
+translate russian ch4j_07_a_b42405e6:
+
+    # "My heart sinks. I want to believe there was no other way, that revealing the antidote saved her life. But is that true? Was it worth the cost?"
+    ""
+
+# game/script_jessie.rpy:15628
+translate russian ch4j_07_a_b1fa96ef:
+
+    # c "I've ruined your chances at happiness, Jessie. I'm so sorry. What I did... I did it to save you. To save us."
+    c ""
+
+# game/script_jessie.rpy:15632
+translate russian ch4j_07_a_fa17f9ef:
+
+    # j "I didn't mean... oh Malcolm, I don't want to ever have a gun pointed at me again! Even if that means I have to be... like this."
+    j ""
+
+# game/script_jessie.rpy:15633
+translate russian ch4j_07_a_7e2986ba:
+
+    # "Tears well in her eyes."
+    ""
+
+# game/script_jessie.rpy:15636
+translate russian ch4j_07_a_9cb9847d:
+
+    # j "If I can't live in peace, I don't want to live. That's the end of it."
+    j ""
+
+# game/script_jessie.rpy:15638
+translate russian ch4j_07_a_35fc125e:
+
+    # c "You shouldn't have had to make that decision at gunpoint. I've given you shackles. You're tied back into a world that's not completely yours."
+    c ""
+
+# game/script_jessie.rpy:15640
+translate russian ch4j_07_a_b540c886:
+
+    # j "Malcolm, listen. I am not who I want to be. {i}He{/i} took that from me, not you. But I'll get it back. I know it in my heart. You do what you must to survive."
+    j ""
+
+# game/script_jessie.rpy:15648
+translate russian ch4j_07_a_65640d6f:
+
+    # "She places her hands at my hips and holds my gaze."
+    ""
+
+# game/script_jessie.rpy:15650
+translate russian ch4j_07_a_1a53960a:
+
+    # j "I can live without my wild side. I can't live without you."
+    j ""
+
+# game/script_jessie.rpy:15653
+translate russian ch4j_07_a_53564302:
+
+    # "It's hard to hear, and harder to believe. But I know she's not just offering solace. I know that deep down in her heart, in a place that we opened together... she means this."
+    ""
+
+# game/script_jessie.rpy:15656
+translate russian ch4j_07_a_95ff4ada:
+
+    # j "There's a future for us. One without guns and claws and fangs! One where we are together and safe."
+    j ""
+
+# game/script_jessie.rpy:15658
+translate russian ch4j_07_a_75f5fb1c:
+
+    # c "Jessie... I want to be part of that future. Wherever it takes us."
+    c ""
+
+# game/script_jessie.rpy:15660
+translate russian ch4j_07_a_3f4ba45e:
+
+    # "I smile weakly, but with no less conviction. Realization spreads across Jessie's face as she grasps my meaning."
+    ""
+
+# game/script_jessie.rpy:15662
+translate russian ch4j_07_a_c8250b7b:
+
+    # c "This isn't where we belong. Neither one of us. Not just because of... him. But because we need to be free to live our lives now."
+    c ""
+
+# game/script_jessie.rpy:15664
+translate russian ch4j_07_a_40c9d772:
+
+    # "I guess it did take a gun to her head to come to that decision, but I don't dare say it aloud. This isn't my home anymore, either. Last night proved that."
+    ""
+
+# game/script_jessie.rpy:15665
+translate russian ch4j_07_a_a7f34ae6:
+
+    # "My life has been threatened too many times over, and I'm sick of it. Sick of the pit in my stomach."
+    ""
+
+# game/script_jessie.rpy:15667
+translate russian ch4j_07_a_80535654:
+
+    # c "I don't want to just live in peace, Jessie. I want to live in {i}joy.{/i}"
+    c ""
+
+# game/script_jessie.rpy:15670
+translate russian ch4j_07_a_93329868:
+
+    # "Jessie's eyes brighten, and she finally breaks into a smile."
+    ""
+
+# game/script_jessie.rpy:15671
+translate russian ch4j_07_a_1c7b1181:
+
+    # j "Malcolm! Let's find our joy."
+    j ""
+
+# game/script_jessie.rpy:15690
+translate russian ch4j_07wolf_95209b27:
+
+    # "Jessie cuts her flight short, rushing over to me. My ankle is sore, held fast, and burns like it's been stung by nettles."
+    ""
+
+# game/script_jessie.rpy:15691
+translate russian ch4j_07wolf_cdbe720f:
+
+    # "I look down, fearing the worst. But fortunately my leg is no worse for wear."
+    ""
+
+# game/script_jessie.rpy:15692
+translate russian ch4j_07wolf_f4bbecb0:
+
+    # c "I'm all right. It's just a snare..."
+    c ""
+
+# game/script_jessie.rpy:15693
+translate russian ch4j_07wolf_d4febc34:
+
+    # "\"Just a snare.\" I curse myself for being a fool and getting caught in a trap. The fact that it's not a set of diabolical metal jaws is some small consolation."
+    ""
+
+# game/script_jessie.rpy:15694
+translate russian ch4j_07wolf_562ba86f:
+
+    # "I attack the rope, trying to shred the fibers with my claws, loosen the noose or the knot, anything. But each touch stings worse than the last."
+    ""
+
+# game/script_jessie.rpy:15711
+translate russian ch4j_07wolf_ca1ea809:
+
+    # j "Let me help!"
+    j ""
+
+# game/script_jessie.rpy:15712
+translate russian ch4j_07wolf_5872597f:
+
+    # c "Wait be careful—"
+    c ""
+
+# game/script_jessie.rpy:15713
+translate russian ch4j_07wolf_b816b62d:
+
+    # "Jessie scratches at the thick cordage, then jerks back."
+    ""
+
+# game/script_jessie.rpy:15716
+translate russian ch4j_07wolf_ee4a84ce:
+
+    # j "Och! {i}What on earth?{/i}"
+    j ""
+
+# game/script_jessie.rpy:15717
+translate russian ch4j_07wolf_d57bb9e9:
+
+    # "Is it magic? A toxin? Whatever it is, it's preventing our escape. The sound of our pursuers is getting closer. We're running out of time."
+    ""
+
+# game/script_jessie.rpy:15719
+translate russian ch4j_07wolf_2ffaba34:
+
+    # c "Jessie. You have to go."
+    c ""
+
+# game/script_jessie.rpy:15721
+translate russian ch4j_07wolf_224497b4:
+
+    # j "No!"
+    j ""
+
+# game/script_jessie.rpy:15735
+translate russian ch4j_07wolf_06fb91b3:
+
+    # "I pause my work to put a paw on her shoulder."
+    ""
+
+# game/script_jessie.rpy:15736
+translate russian ch4j_07wolf_548bd287:
+
+    # c "I've been through worse. I'll be all right. Now get out of here—I'll try to delay them!"
+    c ""
+
+# game/script_jessie.rpy:15738
+translate russian ch4j_07wolf_e4e2ef0d:
+
+    # "The truth is, I'm not sure what will happen to me. I try not to think of the worst. The only thing that matters is that Jessie escapes to safety."
+    ""
+
+# game/script_jessie.rpy:15740
+translate russian ch4j_07wolf_a7771bf4:
+
+    # "She holds my gaze for a second, seeing right through me."
+    ""
+
+# game/script_jessie.rpy:15749
+translate russian ch4j_07wolf_ae47be7c:
+
+    # j "No Malcolm. You're not a soldier anymore. You don't have to fight my battles."
+    j ""
+
+# game/script_jessie.rpy:15750
+translate russian ch4j_07wolf_20470902:
+
+    # j "And I will never leave you behind."
+    j ""
+
+# game/script_jessie.rpy:15760
+translate russian ch4j_07wolf_f7cbc425:
+
+    # "Our kiss is short but passionate."
+    ""
+
+# game/script_jessie.rpy:15781
+translate russian ch4j_07_b_49bbdd88:
+
+    # "Our lips part, and Jessie stands upright."
+    ""
+
+# game/script_jessie.rpy:15790
+translate russian ch4j_07_b_ffc18bd4:
+
+    # "{i}Beyond upright.{/i} Taller than tall. Her body seems to grow with each breath."
+    ""
+
+# game/script_jessie.rpy:15798
+translate russian ch4j_07_b_55ff4773:
+
+    # "There's fire in her eyes. Her fur thickens, stands on end. Wild, untamed."
+    ""
+
+# game/script_jessie.rpy:15806
+translate russian ch4j_07_b_c1944b1c:
+
+    # "A glint catches her claws—talons now—as she steps forward and readies herself to defend... me."
+    ""
+
+# game/script_jessie.rpy:15820
+translate russian ch4j_07_b_fcccd8d2:
+
+    # "My breath catches in my throat. Jessie's never looked so dangerous."
+    ""
+
+# game/script_jessie.rpy:15822
+translate russian ch4j_07_b_c0136cbf:
+
+    # "Do not trifle with a werewolf or her pack."
+    ""
+
+# game/script_jessie.rpy:15828
+translate russian ch4j_07_b_b30c0dd5:
+
+    # "The figures emerging from the fog stop in their tracks. Those at the front look ready to turn tail. But someone behind them gives {nw}"
+    ""
+
+# game/script_jessie.rpy:15830
+translate russian ch4j_07_b_24bea930:
+
+    # extend "a battle cry, and the group, so bolstered, charges forth."
+    extend ""
+
+# game/script_jessie.rpy:15848
+translate russian ch4j_07_b_ccaf0f5e:
+
+    # "Shouting. Growling. Farm tools thrust with lethal intent."
+    ""
+
+# game/script_jessie.rpy:15849
+translate russian ch4j_07_b_52728a97:
+
+    # "I dare steal only a few glimpses of the battle while I focus on trying to free myself from the snare."
+    ""
+
+# game/script_jessie.rpy:15850
+translate russian ch4j_07_b_38e3c2b5:
+
+    # "Jessie moves quickly, deftly, evading attacks with a dancer's ease."
+    ""
+
+# game/script_jessie.rpy:15851
+translate russian ch4j_07_b_0787d865:
+
+    # "A farmer lunges. An enormous paw swipes. A pitchfork {nw}"
+    ""
+
+# game/script_jessie.rpy:15853
+translate russian ch4j_07_b_91b4a155:
+
+    # extend "snaps in half, turned to useless splinters."
+    extend ""
+
+# game/script_jessie.rpy:15854
+translate russian ch4j_07_b_b29b7718:
+
+    # "Its bearer is at Jessie's mercy, but she doesn't strike. The men fight fiercely, but Jessie isn't after blood."
+    ""
+
+# game/script_jessie.rpy:15858
+translate russian ch4j_07_b_86b8a454:
+
+    # "Instead, she rears up and lets out a great, bloodcurdling snarl."
+    ""
+
+# game/script_jessie.rpy:15890
+translate russian ch4j_07_b_e704b015:
+
+    # "It sends a shiver down my spine. I see the blood drain from the attackers' faces. What weapons remain are dropped. The men turn and flee back into the morning fog."
+    ""
+
+# game/script_jessie.rpy:15909
+translate russian ch4j_07_b_59d9c4e7:
+
+    # "All except one."
+    ""
+
+# game/script_jessie.rpy:15911
+translate russian ch4j_07_b_b1c033d6:
+
+    # "Then I see the gun."
+    ""
+
+# game/script_jessie.rpy:15913
+translate russian ch4j_07_b_671523d1:
+
+    # "I tug desperately at the blasted rope, calling all my strength. It burns my paws like fire."
+    ""
+
+# game/script_jessie.rpy:15914
+translate russian ch4j_07_b_c5160dce:
+
+    # c "Jessie, go! {i}Leave me!{/i}"
+    c ""
+
+# game/script_jessie.rpy:15916
+translate russian ch4j_07_b_623916a1:
+
+    # "She doesn't heed my words. I see her towering form tremble as she steps between me and the rifleman."
+    ""
+
+# game/script_jessie.rpy:15917
+translate russian ch4j_07_b_c5a59e21:
+
+    # "Jessie's threatening posture melts away, and with it, her imposing shape. Tears form at the corners of her yellow eyes."
+    ""
+
+# game/script_jessie.rpy:15919
+translate russian ch4j_07_b_529901fe:
+
+    # j "...Father?"
+    j ""
+
+# game/script_jessie.rpy:15954
+translate russian ch4j_07_b_47525a74:
+
+    # j "Father, please. Put the gun down."
+    j ""
+
+# game/script_jessie.rpy:15955
+translate russian ch4j_07_b_a8df3d44:
+
+    # "A wave of sickness flows from my gut straight up to my throat. I swallow it down."
+    ""
+
+# game/script_jessie.rpy:15956
+translate russian ch4j_07_b_a9499066:
+
+    # c "Don't shoot, Owen. We're real. Real people."
+    c ""
+
+# game/script_jessie.rpy:15960
+translate russian ch4j_07_b_9ddbfc82:
+
+    # "The old man's wild eyes rake us up and down, struggling to reconcile our bestial bodies producing human sounds."
+    ""
+
+# game/script_jessie.rpy:15969
+translate russian ch4j_07_b_87da0807:
+
+    # o "Monsters! Horrid creatures! What witchcraft is this? What vile mischief has taken hold of you both?"
+    o ""
+
+# game/script_jessie.rpy:15971
+translate russian ch4j_07_b_0588d450:
+
+    # j "Father, no. We're human. We're not monsters! I-it's me... Jessie. Your daughter!"
+    j ""
+
+# game/script_jessie.rpy:15973
+translate russian ch4j_07_b_761eef8f:
+
+    # "He quakes in absolute disbelief, still looking down the barrel of his gun. After all he's witnessed, I think I understand his fear."
+    ""
+
+# game/script_jessie.rpy:15974
+translate russian ch4j_07_b_aa25b84b:
+
+    # o "No. No! What... what the hell have I come back to here?"
+    o ""
+
+# game/script_jessie.rpy:15976
+translate russian ch4j_07_b_83c25eb1:
+
+    # c "We're of the same mind, sir. So much more has changed since we left for war. More than either of us bargained for."
+    c ""
+
+# game/script_jessie.rpy:15979
+translate russian ch4j_07_b_92159a58:
+
+    # c "The war's over. You're home now. Lay down your arms."
+    c ""
+
+# game/script_jessie.rpy:15981
+translate russian ch4j_07_b_3f9fd529:
+
+    # "Owen squints incomprehensibly at my flapping muzzle, then turns back to his daughter."
+    ""
+
+# game/script_jessie.rpy:15983
+translate russian ch4j_07_b_3a1f7b6c:
+
+    # o "{i}Home?{/i} This is not home! Oh God... why won't the nightmare end? Who are you!? What have you done with my Jessie!?"
+    o ""
+
+# game/script_jessie.rpy:15985
+translate russian ch4j_07_b_34c3fdb5:
+
+    # c "I'm Malcolm, sir. Malcolm Campbell. Jessie was born this way, of fae nature."
+    c ""
+
+# game/script_jessie.rpy:15988
+translate russian ch4j_07_b_16516446:
+
+    # "I stop to see Owen's expression, to find out if my words register concern or calm."
+    ""
+
+# game/script_jessie.rpy:15989
+translate russian ch4j_07_b_2cbe422f:
+
+    # "It's neither. I fear I've shocked him further."
+    ""
+
+# game/script_jessie.rpy:15992
+translate russian ch4j_07_b_902c19df:
+
+    # o "{i}What did you say?{/i}"
+    o ""
+
+# game/script_jessie.rpy:15994
+translate russian ch4j_07_b_5cbcae5a:
+
+    # j "Fae, Father. The cursed magic you always warned us about. Here it is. In front of you. I am one of them."
+    j ""
+
+# game/script_jessie.rpy:15996
+translate russian ch4j_07_b_1cb0a6c1:
+
+    # "The change in his visage is stark and heartbreaking as his jaw opens wider, nearly hanging off of his face."
+    ""
+
+# game/script_jessie.rpy:15998
+translate russian ch4j_07_b_2abb1bbb:
+
+    # j "But nothing's changed. I'm still your daughter! Please put down the gun so we can all talk."
+    j ""
+
+# game/script_jessie.rpy:16000
+translate russian ch4j_07_b_3c2a7753:
+
+    # "Owen shakes his head as if waking from a dream."
+    ""
+
+# game/script_jessie.rpy:16002
+translate russian ch4j_07_b_a7b93208:
+
+    # o "Harlot! {i}Werewolf!{/i} An imposter in my own home! How many of you are there? Who else is hiding their true colours? Answer, or I'll open fire!"
+    o ""
+
+# game/script_jessie.rpy:16004
+translate russian ch4j_07_b_951d9304:
+
+    # j "No one is hiding. I've always been myself—unapologetically so. You know that! As for Malcolm... it was an accident. Last night. When you—"
+    j ""
+
+# game/script_jessie.rpy:16006
+translate russian ch4j_07_b_3cf2faf4:
+
+    # o "{i}I did this?{/i}"
+    o ""
+
+# game/script_jessie.rpy:16008
+translate russian ch4j_07_b_17cca377:
+
+    # c "No. No, sir."
+    c ""
+
+# game/script_jessie.rpy:16009
+translate russian ch4j_07_b_aaa3680f:
+
+    # "I respond quickly, but know I'm lying. Were he not there last night, I don't believe we all would be in this state now."
+    ""
+
+# game/script_jessie.rpy:16010
+translate russian ch4j_07_b_1ce802f4:
+
+    # "Owen is having none of it."
+    ""
+
+# game/script_jessie.rpy:16012
+translate russian ch4j_07_b_f83d1895:
+
+    # o "How many have you attacked?"
+    o ""
+
+# game/script_jessie.rpy:16014
+translate russian ch4j_07_b_d2c8be2b:
+
+    # j "I—I've only lost control once—"
+    j ""
+
+# game/script_jessie.rpy:16016
+translate russian ch4j_07_b_a567ed12:
+
+    # o "{i}How many have you killed?{/i}"
+    o ""
+
+# game/script_jessie.rpy:16018
+translate russian ch4j_07_b_298f80e4:
+
+    # j "None!"
+    j ""
+
+# game/script_jessie.rpy:16019
+translate russian ch4j_07_b_62edcefc:
+
+    # "But the old man has already reached his verdict."
+    ""
+
+# game/script_jessie.rpy:16021
+translate russian ch4j_07_b_faa43065:
+
+    # o "Where does this madness end? I can't let it happen! This is my home, not a village of sin and idolatry! The fae are long banished. They can't return!"
+    o ""
+
+# game/script_jessie.rpy:16025
+translate russian ch4j_07_b_5dbf8b51:
+
+    # j "Stop! I beg you. I am not your fear. I'm real. I have a heart. A soul! Father, look at me!"
+    j ""
+
+# game/script_jessie.rpy:16026
+translate russian ch4j_07_b_24f4314d:
+
+    # "Tears stream down Jessie's face, wetting her muzzle. Fury boils inside me as I try to escape the snare, foolheartedly trying to convince a madman not to kill us."
+    ""
+
+# game/script_jessie.rpy:16028
+translate russian ch4j_07_b_4c42d13f:
+
+    # o "You're monsters! You prey on the unsuspecting! But your honeyed tongues won't fool me. It's up to me to stop you."
+    o ""
+
+# game/script_jessie.rpy:16030
+translate russian ch4j_07_b_d81b3b13:
+
+    # c "Owen! Listen to yourself. You're overcome with rage. Enough killing! Enough slaughter! This village needs not see more death."
+    c ""
+
+# game/script_jessie.rpy:16033
+translate russian ch4j_07_b_5e0fc806:
+
+    # "My words fall on deaf ears. I feel a touch at my shoulder as Owen raves on."
+    ""
+
+# game/script_jessie.rpy:16034
+translate russian ch4j_07_b_3bbd022d:
+
+    # j "Malcolm."
+    j ""
+
+# game/script_jessie.rpy:16038
+translate russian ch4j_07_b_da190ecb:
+
+    # j "Maybe you can show him... you're not a monster."
+    j ""
+
+# game/script_jessie.rpy:16041
+translate russian ch4j_07_b_34cf1954:
+
+    # "It takes me a moment to understand what Jessie is saying. What she's asking me to give up. The pain in her eyes shows how much it weighs on her too."
+    ""
+
+# game/script_jessie.rpy:16042
+translate russian ch4j_07_b_b62de3dd:
+
+    # "But we need to do something to wake Owen from this nightmare. Something inside him is keeping him from pulling the trigger. How long will it last?"
+    ""
+
+# game/script_jessie.rpy:16049
+translate russian ch4j_07_b_06d6b01c:
+
+    # "Discreetly, I finger the vial in my pocket. Is this the only way?"
+    ""
+
+# game/script_jessie.rpy:16054
+translate russian ch4j_07_b_09dd63cc:
+
+    # butterfly_effect "{image=butterflysprite}" nointeract
+    butterfly_effect "" nointeract
+
+# game/script_jessie.rpy:16088
+translate russian ch4j_07ctf_368b160e:
+
+    # "I look up towards the sky and see endless possibilities. Life, love, heartache, survival. Peace. Solitude. Resignation to my fate."
+    ""
+
+# game/script_jessie.rpy:16089
+translate russian ch4j_07ctf_0feae049:
+
+    # "In all of it, I see me. Malcolm. A human man."
+    ""
+
+# game/script_jessie.rpy:16092
+translate russian ch4j_07ctf_9d9a8594:
+
+    # "{i}Whit's for ye'll no go past ye.{/i} This was never meant to be."
+    ""
+
+# game/script_jessie.rpy:16102
+translate russian ch4j_07ctf_8969559a:
+
+    # "Inside my pocket, I crush the vial with my paw."
+    ""
+
+# game/script_jessie.rpy:16108
+translate russian ch4j_07ctf_50be0ab8:
+
+    # "Pain as charged as lightning strikes into my hand, through my arm to my core. Everywhere along its path, fur recedes."
+    ""
+
+# game/script_jessie.rpy:16113
+translate russian ch4j_07ctf_4e604b8c:
+
+    # "I grit my dulling teeth. Over ringing ears and senses numbed by agony, I can barely hear Owen."
+    ""
+
+# game/script_jessie.rpy:16115
+translate russian ch4j_07ctf_c1053745:
+
+    # o "What's happening? Be still, or I'll shoot!"
+    o ""
+
+# game/script_jessie.rpy:16124
+translate russian ch4j_07ctf_40a7b253:
+
+    # "There's no stopping Alana's potion. It does its work with excruciating efficiency."
+    ""
+
+# game/script_jessie.rpy:16126
+translate russian ch4j_07ctf_4e732fe9:
+
+    # o "...Sorcery? Stay back!"
+    o ""
+
+# game/script_jessie.rpy:16128
+translate russian ch4j_07ctf_96c1f15d:
+
+    # "I fight the urge to scream. But I don't regret taking the antidote. I can't."
+    ""
+
+# game/script_jessie.rpy:16134
+translate russian ch4j_07ctf_d0f8c321:
+
+    # "Just when I can't take anymore, the sensation fades away. It leaves me only with an emptiness inside, as if something is missing. A phantom limb."
+    ""
+
+# game/script_jessie.rpy:16135
+translate russian ch4j_07ctf_73e0ea3a:
+
+    # "I am utterly sapped."
+    ""
+
+# game/script_jessie.rpy:16144
+translate russian ch4j_07ctf_85200628:
+
+    # "The snare finally sloughs off my smaller, human ankle. It takes summoning all my energy just to stand up."
+    ""
+
+# game/script_jessie.rpy:16163
+translate russian ch4j_07ctf_41c51583:
+
+    # j "Malcolm, be careful!"
+    j ""
+
+# game/script_jessie.rpy:16167
+translate russian ch4j_07ctf_4402f15f:
+
+    # o "Back! I'm warning you!"
+    o ""
+
+# game/script_jessie.rpy:16168
+translate russian ch4j_07ctf_5b52781c:
+
+    # "His warning feels like a challenge. Should I take the chance and charge him? My blood boils, but I talk myself down. I can't. Not in my state. Not with Jessie in the crossfire."
+    ""
+
+# game/script_jessie.rpy:16169
+translate russian ch4j_07ctf_2a8d7d09:
+
+    # "I've faced stand-offs like these before. Seen firsthand how the rage of others degenerates their actions to those of tyrants. Of unholy beasts."
+    ""
+
+# game/script_jessie.rpy:16170
+translate russian ch4j_07ctf_cb1cfc9c:
+
+    # "I've never seen it... with family."
+    ""
+
+# game/script_jessie.rpy:16179
+translate russian ch4j_07ctf_ca000449:
+
+    # c "Mr. MacLeod. It's just me... Malcolm Campbell. The lad next door."
+    c ""
+
+# game/script_jessie.rpy:16181
+translate russian ch4j_07ctf_fe952f0f:
+
+    # "Emotions flash across the old man's face as he carefully studies me. Tension. Terror. Suspicion. Uncertainty."
+    ""
+
+# game/script_jessie.rpy:16182
+translate russian ch4j_07ctf_e05a23fd:
+
+    # "His aim has become unsteady, though he grips the gun no less tightly."
+    ""
+
+# game/script_jessie.rpy:16184
+translate russian ch4j_07ctf_6a63a056:
+
+    # j "You see, Father? Look. He's normal! A normal man. I can be like that, too!"
+    j ""
+
+# game/script_jessie.rpy:16185
+translate russian ch4j_07ctf_70adb06f:
+
+    # "Her voice possesses the high-pitched, hopeful squeal of a child trying to beg her parent for a second dessert, a long dreamed of present, something much less dire than her own life."
+    ""
+
+# game/script_jessie.rpy:16186
+translate russian ch4j_07ctf_44dda027:
+
+    # "Her own existence, held in the hand of the man she was raised to trust most."
+    ""
+
+# game/script_jessie.rpy:16188
+translate russian ch4j_07ctf_dc941aa2:
+
+    # "Everything is backwards, upside down. Evil spews from the heart of someone ready to kill. Wanting to kill."
+    ""
+
+# game/script_jessie.rpy:16189
+translate russian ch4j_07ctf_bde9a000:
+
+    # "This ends now."
+    ""
+
+# game/script_jessie.rpy:16192
+translate russian ch4j_07ctf_9a320893:
+
+    # c "Owen!"
+    c ""
+
+# game/script_jessie.rpy:16196
+translate russian ch4j_07ctf_89176f2d:
+
+    # "I cry out and Owen snaps his rifle toward me."
+    ""
+
+# game/script_jessie.rpy:16197
+translate russian ch4j_07ctf_7dab19e6:
+
+    # c "This cruelty stops right here. You're no more a man than I am right now. You're not better than us, even if you think you are."
+    c ""
+
+# game/script_jessie.rpy:16205
+translate russian ch4j_07ctf_fdc2222a:
+
+    # "I step closer to the face of fury."
+    ""
+
+# game/script_jessie.rpy:16206
+translate russian ch4j_07ctf_4aa6c9e1:
+
+    # c "I don't care where you've been, or what you've seen. I've seen it, too. All of it. And we survived. Whatever happened to us all, it's brought us here. Right now."
+    c ""
+
+# game/script_jessie.rpy:16209
+translate russian ch4j_07ctf_f4d980ab:
+
+    # "I raise my hand slowly and lower it, to indicate that Owen needs to lower his weapon."
+    ""
+
+# game/script_jessie.rpy:16210
+translate russian ch4j_07ctf_1d582a58:
+
+    # c "A bullet will solve nothing. Your child will be dead. No one here will forgive you."
+    c ""
+
+# game/script_jessie.rpy:16211
+translate russian ch4j_07ctf_996522a9:
+
+    # "He shouts back."
+    ""
+
+# game/script_jessie.rpy:16213
+translate russian ch4j_07ctf_fb6772ff:
+
+    # o "Forgiveness? The good Lord will see to that! After he's judged the both of ye demons!"
+    o ""
+
+# game/script_jessie.rpy:16215
+translate russian ch4j_07ctf_b5001188:
+
+    # c "You won't forgive yourself. The world will spin and you will be empty. Nothing will be the same. Ever."
+    c ""
+
+# game/script_jessie.rpy:16217
+translate russian ch4j_07ctf_ddb36b91:
+
+    # "I set my jaw and hold this maniac's burning gaze, man to man. Monster to monster. The line has blurred. We are what we choose to be."
+    ""
+
+# game/script_jessie.rpy:16220
+translate russian ch4j_07ctf_794b7e9e:
+
+    # "The fire in his eyes finally flickers out, leaving only darkness."
+    ""
+
+# game/script_jessie.rpy:16222
+translate russian ch4j_07ctf_cfa0c7db:
+
+    # o "Nothing has ever been the same, has it? Nothing is normal or right."
+    o ""
+
+# game/script_jessie.rpy:16224
+translate russian ch4j_07ctf_8aeb91af:
+
+    # c "Maybe not. But we must carry on. We must live with those pains that still live in all of us. Your pain won't heal with us dead."
+    c ""
+
+# game/script_jessie.rpy:16227
+translate russian ch4j_07ctf_ac98f07b:
+
+    # "His rifle moves. It lowers. Owen turns his empty stare toward his unrecognizable daughter."
+    ""
+
+# game/script_jessie.rpy:16228
+translate russian ch4j_07ctf_aee488a3:
+
+    # o "It won't heal ever, Malcolm. Not when you live through your nightmares. Fall asleep to nightmares, wake to them, and see them when you finally return home."
+    o ""
+
+# game/script_jessie.rpy:16231
+translate russian ch4j_07ctf_8355a50b:
+
+    # o "The death is already inside me."
+    o ""
+
+# game/script_jessie.rpy:16260
+translate russian ch4j_07ctf_5f6820c2:
+
+    # "In an instant, Owen aims the gun to the heavens and fires off two shots. I duck and cover my ears."
+    ""
+
+# game/script_jessie.rpy:16270
+translate russian ch4j_07ctf_0131910e:
+
+    # o "They'll find you soon if you don't escape. Leave this village. Never come back."
+    o ""
+
+# game/script_jessie.rpy:16306
+translate russian ch4j_07ctf_e3878c61:
+
+    # "Jessie is shaking. As soon as Owen has trudged down the hillside out of sight, I run to her."
+    ""
+
+# game/script_jessie.rpy:16308
+translate russian ch4j_07ctf_ed8e7fb4:
+
+    # j "Is it over?"
+    j ""
+
+# game/script_jessie.rpy:16311
+translate russian ch4j_07ctf_b32976b8:
+
+    # c "Yes. It's over."
+    c ""
+
+# game/script_jessie.rpy:16330
+translate russian ch4j_07ctf_0a645d51:
+
+    # "Jessie and I collapse into each other's arms. We fall to the ground, sobbing and gripping tight to one another."
+    ""
+
+# game/script_jessie.rpy:16331
+translate russian ch4j_07ctf_53fcf038:
+
+    # "Through her tears, Jessie gasps for air."
+    ""
+
+# game/script_jessie.rpy:16332
+translate russian ch4j_07ctf_8aa984ed:
+
+    # j "I thought we were going to die. I—I can't breathe."
+    j ""
+
+# game/script_jessie.rpy:16334
+translate russian ch4j_07ctf_6e7ee225:
+
+    # "It's a feeling I know all too well. I cling to her reassuringly."
+    ""
+
+# game/script_jessie.rpy:16335
+translate russian ch4j_07ctf_6eb2fbf7:
+
+    # c "Take a deep breath. He's gone. We're safe."
+    c ""
+
+# game/script_jessie.rpy:16337
+translate russian ch4j_07ctf_b6578dda:
+
+    # "For only this moment. What of the next?"
+    ""
+
+# game/script_jessie.rpy:16339
+translate russian ch4j_07ctf_eb24ba14:
+
+    # j "My dear God. What is happening? How will we survive?"
+    j ""
+
+# game/script_jessie.rpy:16340
+translate russian ch4j_07ctf_53dde6e0:
+
+    # c "We're alive. That's all that matters right now."
+    c ""
+
+# game/script_jessie.rpy:16342
+translate russian ch4j_07ctf_97b2d139:
+
+    # "I rock her in my arms and I feel her heartbeat racing. I don't believe she's calming down."
+    ""
+
+# game/script_jessie.rpy:16343
+translate russian ch4j_07ctf_af5d5f11:
+
+    # "Quietly, she lets me go and stands."
+    ""
+
+# game/script_jessie.rpy:16360
+translate russian ch4j_07ctf_b76fcf6a:
+
+    # j "Am I a monster, Malcolm? Is that what I am now?"
+    j ""
+
+# game/script_jessie.rpy:16361
+translate russian ch4j_07ctf_6d0221a3:
+
+    # c "Absolutely not! And you know that!"
+    c ""
+
+# game/script_jessie.rpy:16363
+translate russian ch4j_07ctf_b4a277b2:
+
+    # j "But what I've done to you! Twice over now! Put you in the line of danger. Forced you to become something... else. I'm so sorry. I don't deserve forgiveness."
+    j ""
+
+# game/script_jessie.rpy:16365
+translate russian ch4j_07ctf_c3482851:
+
+    # c "Stop. Jessie. You saved us. We saved each other. We're doing what we must in the moment to survive! You must know that."
+    c ""
+
+# game/script_jessie.rpy:16368
+translate russian ch4j_07ctf_32f65794:
+
+    # c "Just breathe. We can't let ourselves succumb to panic. It's not healthy."
+    c ""
+
+# game/script_jessie.rpy:16370
+translate russian ch4j_07ctf_ea7350c4:
+
+    # "It's also easier said than done. I stand there, emptied of platitudes or words of consolations. A heaviness hangs in my face, jaw, and shoulders."
+    ""
+
+# game/script_jessie.rpy:16373
+translate russian ch4j_07ctf_5b2ada1e:
+
+    # "Somehow, Jessie finds strength. The despair in her features melts away, leaving only determination."
+    ""
+
+# game/script_jessie.rpy:16375
+translate russian ch4j_07ctf_d9140dde:
+
+    # j "All right. Let's keep moving."
+    j ""
+
+# game/script_jessie.rpy:16422
+translate russian ch4j_07jtf_8ac95abc:
+
+    # "The glass feels smooth and cold in my paw. I picture squeezing tightly down on it, the pain of stabbing shards letting the potion seep into my system."
+    ""
+
+# game/script_jessie.rpy:16423
+translate russian ch4j_07jtf_00a58546:
+
+    # "I imagine my wolfish form fading away, and never experiencing what it is to be like this again. To be... like Jessie."
+    ""
+
+# game/script_jessie.rpy:16427
+translate russian ch4j_07jtf_d646e2c3:
+
+    # "No. I can't do it, even if it's our best chance to make Owen back down."
+    ""
+
+# game/script_jessie.rpy:16428
+translate russian ch4j_07jtf_20521d71:
+
+    # "I can't let him take what's now at the heart of me. It's like Jessie has been saying all along. It's who we are. At our deepest core. If I can't live like this. If neither of us can..."
+    ""
+
+# game/script_jessie.rpy:16429
+translate russian ch4j_07jtf_effdcd95:
+
+    # "Then what is life? I am equal parts feral and tame. I am more than what this armed man thinks. If this is to be our battle, our face-to-face combat..."
+    ""
+
+# game/script_jessie.rpy:16430
+translate russian ch4j_07jtf_dda27141:
+
+    # "I'm ready to die trying before giving into his demands."
+    ""
+
+# game/script_jessie.rpy:16432
+translate russian ch4j_07jtf_c22d05d1:
+
+    # "I am wild, a fire blazes inside. I'm ready to fight, snare be damned. I've been here before, and I've won. And no matter what the consequences, I truly believe I will win again."
+    ""
+
+# game/script_jessie.rpy:16433
+translate russian ch4j_07jtf_34189916:
+
+    # "Like every battle before this one, I press on knowing I would rather take a bullet than live a life in fear, under someone else's control."
+    ""
+
+# game/script_jessie.rpy:16434
+translate russian ch4j_07jtf_2e3dbd83:
+
+    # "I would rather risk being shot—whatever the result—than lose my gift of freedom forever."
+    ""
+
+# game/script_jessie.rpy:16435
+translate russian ch4j_07jtf_5b80995f:
+
+    # "I fought for my country, my family, my fellow man. Now I fight for myself."
+    ""
+
+# game/script_jessie.rpy:16437
+translate russian ch4j_07jtf_eec5bf2d:
+
+    # "I'm not tied to this form like she is. I was not born of wolfish nature. But I can see in her eyes how much it hurts her to ask me to give it up."
+    ""
+
+# game/script_jessie.rpy:16438
+translate russian ch4j_07jtf_c8c0b181:
+
+    # "To lose the chance for the person she loves to truly understand what it's like. I don't understand yet. But perhaps someday I will."
+    ""
+
+# game/script_jessie.rpy:16440
+translate russian ch4j_07jtf_7f911174:
+
+    # "My actions will not be dictated by this armed man. I will not sacrifice Jessie's gift at the end of a barrel."
+    ""
+
+# game/script_jessie.rpy:16441
+translate russian ch4j_07jtf_34189916_1:
+
+    # "Like every battle before this one, I press on knowing I would rather take a bullet than live a life in fear, under someone else's control."
+    ""
+
+# game/script_jessie.rpy:16442
+translate russian ch4j_07jtf_2e3dbd83_1:
+
+    # "I would rather risk being shot—whatever the result—than lose my gift of freedom forever."
+    ""
+
+# game/script_jessie.rpy:16443
+translate russian ch4j_07jtf_5b80995f_1:
+
+    # "I fought for my country, my family, my fellow man. Now I fight for myself."
+    ""
+
+# game/script_jessie.rpy:16451
+translate russian ch4j_07jtf_b803020a:
+
+    # "While Owen rattles nonsense about knowing Jessie was never his child, I subtly close my paw around a small stone on the ground and whisper."
+    ""
+
+# game/script_jessie.rpy:16453
+translate russian ch4j_07jtf_76204c72:
+
+    # c "Jessie. Get ready."
+    c ""
+
+# game/script_jessie.rpy:16455
+translate russian ch4j_07jtf_bf268c81:
+
+    # "She sees what's in my hand, goes pallid beneath all that fur. She hisses back."
+    ""
+
+# game/script_jessie.rpy:16457
+translate russian ch4j_07jtf_4e9937d0:
+
+    # j "Don't you dare!"
+    j ""
+
+# game/script_jessie.rpy:16458
+translate russian ch4j_07jtf_b5c74bd9:
+
+    # "But I've already made my choice. This ends now."
+    ""
+
+# game/script_jessie.rpy:16473
+translate russian ch4j_07jtf_997c4495:
+
+    # "In one quick motion, I lean out from behind Jessie and throw the rock at Owen's gun."
+    ""
+
+# game/script_jessie.rpy:16479
+translate russian ch4j_07jtf_5ef1a8b9:
+
+    # "Owen's eyes go wide, his speech breaks off. He pulls the trigger."
+    ""
+
+# game/script_jessie.rpy:16493
+translate russian ch4j_07jtf_1e2c2710:
+
+    # "The rock connects. The muzzle flashes. The sound of a bullet whips past my ear."
+    ""
+
+# game/script_jessie.rpy:16494
+translate russian ch4j_07jtf_708fab2e:
+
+    # c "Run!"
+    c ""
+
+# game/script_jessie.rpy:16503
+translate russian ch4j_07jtf_2df24baa:
+
+    # "Jessie runs—not away, but toward the danger. Her father's hand works the bolt with the efficiency of a trained soldier."
+    ""
+
+# game/script_jessie.rpy:16510
+translate russian ch4j_07jtf_450512f9:
+
+    # "He's fast, but Jessie is faster."
+    ""
+
+# game/script_jessie.rpy:16539
+translate russian ch4j_07jtf_727ba342:
+
+    # "As the echo of snapping wood fades away, all that is left is the sound of Jessie's great huffs. Owen stands frozen and naked before her, quaking with fear and rage."
+    ""
+
+# game/script_jessie.rpy:16543
+translate russian ch4j_07jtf_f14b269c:
+
+    # o "It's come to this, then."
+    o ""
+
+# game/script_jessie.rpy:16545
+translate russian ch4j_07jtf_544c05b9:
+
+    # "He seems so small now. Jessie looks down on Owen silently, unable or unwilling to speak. What is there to say? Her own flesh and blood. Trust has been broken. A bond beyond repair."
+    ""
+
+# game/script_jessie.rpy:16554
+translate russian ch4j_07jtf_667e01a1:
+
+    # "More tears well in Jessie's eyes. What she cannot put into words, she lets out in a long, mournful howl."
+    ""
+
+# game/script_jessie.rpy:16556
+translate russian ch4j_07jtf_5d172317:
+
+    # "My cheeks are wet as well. I dab them, and to my surprise... my paw comes away red."
+    ""
+
+# game/script_jessie.rpy:16559
+translate russian ch4j_07jtf_0218353f:
+
+    # c "Ungh..."
+    c ""
+
+# game/script_jessie.rpy:16560
+translate russian ch4j_07jtf_0835fde3:
+
+    # "My head still rings with the echo of the flying bullet. I lift my hand to find Owen's shot has whipped away my hat—and clipped off the tip of my ear."
+    ""
+
+# game/script_jessie.rpy:16563
+translate russian ch4j_07jtf_e82f78c3:
+
+    # j "Malcolm? {i}Malcolm!{/i}"
+    j ""
+
+# game/script_jessie.rpy:16568
+translate russian ch4j_07jtf_46396353:
+
+    # "Jessie rushes over to me and cradles my head in her paws, blinking away her grief. The wound has begun to sting, but I know it looks worse than it is."
+    ""
+
+# game/script_jessie.rpy:16570
+translate russian ch4j_07jtf_43718ea4:
+
+    # c "I'll be all right. Jessie, your father..."
+    c ""
+
+# game/script_jessie.rpy:16571
+translate russian ch4j_07jtf_bad97b04:
+
+    # "Our assailant stands beaten, paralyzed, impotent... but still unwilling to back down. Stubborn as any other MacLeod, unable to understand this display of care between two inhuman creatures."
+    ""
+
+# game/script_jessie.rpy:16578
+translate russian ch4j_07jtf_5853f405:
+
+    # o "Beasts! Cowards! Despicable things! If you won't do me in, I {i}will{/i} find you and see through what you've started!"
+    o ""
+
+# game/script_jessie.rpy:16589
+translate russian ch4j_07jtf_54adff51:
+
+    # "Jessie stands slowly, her eyes aflame. Does Owen have a death wish? Part of me believes he actually does."
+    ""
+
+# game/script_jessie.rpy:16595
+translate russian ch4j_07jtf_921c78be:
+
+    # j "You see that creature? That man you call a monster?"
+    j ""
+
+# game/script_jessie.rpy:16596
+translate russian ch4j_07jtf_64515d79:
+
+    # "She points towards me, directing her accusations at Owen."
+    ""
+
+# game/script_jessie.rpy:16598
+translate russian ch4j_07jtf_a04e2ea4:
+
+    # j "He saved my life. He is selfless. A hero. More caring than you could ever know. You know who the real monster is here, Father?"
+    j ""
+
+# game/script_jessie.rpy:16600
+translate russian ch4j_07jtf_99c9fd5d:
+
+    # o "Stay your forked tongue, changeling!"
+    o ""
+
+# game/script_jessie.rpy:16602
+translate russian ch4j_07jtf_25619e4b:
+
+    # j "{i}You!{/i} You are the monster! You sad, tired old man, trying to kill your..."
+    j ""
+
+# game/script_jessie.rpy:16604
+translate russian ch4j_07jtf_4e06e94a:
+
+    # "She chokes back her anguish as Owen refuses to back down."
+    ""
+
+# game/script_jessie.rpy:16612
+translate russian ch4j_07jtf_cdaf94a2:
+
+    # j "{i}...Your own child!{/i} You are frail, eaten alive by your own indignity! None shall ever pity you again, least of all your own kin!"
+    j ""
+
+# game/script_jessie.rpy:16629
+translate russian ch4j_07jtf_5deb4c24:
+
+    # "Jessie's tongue is every bit as sharp as her fangs. But as she strides toward her father, I see a change in her."
+    ""
+
+# game/script_jessie.rpy:16637
+translate russian ch4j_07jtf_ac5106a3:
+
+    # "Her face begins to relax and soften. Her voice steadies as she continues speaking to her fallen father."
+    ""
+
+# game/script_jessie.rpy:16638
+translate russian ch4j_07jtf_222d0012:
+
+    # j "What makes a monster? Is it the thick fur?"
+    j ""
+
+# game/script_jessie.rpy:16646
+translate russian ch4j_07jtf_c0198584:
+
+    # "The fur on her face and body recedes to reveal porcelain skin."
+    ""
+
+# game/script_jessie.rpy:16648
+translate russian ch4j_07jtf_b2c5463a:
+
+    # j "The devious claws? The threatening fangs?"
+    j ""
+
+# game/script_jessie.rpy:16656
+translate russian ch4j_07jtf_c7972114:
+
+    # "As she speaks, her claws and fangs begin to slowly recede, though the form she cuts is no less intimidating."
+    ""
+
+# game/script_jessie.rpy:16658
+translate russian ch4j_07jtf_b7e0ec56:
+
+    # j "Or maybe it's what lurks on the inside, just waiting to be let out."
+    j ""
+
+# game/script_jessie.rpy:16664
+translate russian ch4j_07jtf_c68219e1:
+
+    # "She stares down the face of evil. Owen gazes back in awe and horror, as if witnessing a divine sight. A visage is reemerging, one he knows. One he cared for, once."
+    ""
+
+# game/script_jessie.rpy:16666
+translate russian ch4j_07jtf_fc3e2ac0:
+
+    # o "J... Jessie?"
+    o ""
+
+# game/script_jessie.rpy:16672
+translate russian ch4j_07jtf_cbf9d2a3:
+
+    # "His voice cracks with disbelief. He reaches out as if to see if the image before him is an apparition."
+    ""
+
+# game/script_jessie.rpy:16683
+translate russian ch4j_07jtf_d9881282:
+
+    # "Jessie's very real hand slaps him away."
+    ""
+
+# game/script_jessie.rpy:16684
+translate russian ch4j_07jtf_9a1cffe0:
+
+    # j "Don't you {i}dare{/i} so much as lay a hand on me or Malcolm again!"
+    j ""
+
+# game/script_jessie.rpy:16702
+translate russian ch4j_07jtf_0fd075db:
+
+    # o "It's all nonsense, isn't it?"
+    o ""
+
+# game/script_jessie.rpy:16703
+translate russian ch4j_07jtf_a82cdca1:
+
+    # "The tone of Owen's voice has changed from tyrannical to near sublime, as if questioning the mere aspect of his own existence."
+    ""
+
+# game/script_jessie.rpy:16704
+translate russian ch4j_07jtf_6b483ecb:
+
+    # o "All of this. None of this is right. It's unholy."
+    o ""
+
+# game/script_jessie.rpy:16707
+translate russian ch4j_07jtf_2068fabf:
+
+    # "He fumbles in his pocket, pulling out a small, well-worn scrap. A photograph, which he looks at as he speaks."
+    ""
+
+# game/script_jessie.rpy:16708
+translate russian ch4j_07jtf_9a1aeac2:
+
+    # o "The creature you've become. It's my doing. My fault. My loss. My failures. What of them now?"
+    o ""
+
+# game/script_jessie.rpy:16713
+translate russian ch4j_07jtf_46dc6aef:
+
+    # j "Move on. Grow a heart for my sisters' sake, if there's anything left of that shriveled thing."
+    j ""
+
+# game/script_jessie.rpy:16715
+translate russian ch4j_07jtf_9a9c600f:
+
+    # j "Leave. Go home. Or crawl back into whatever hole you came from."
+    j ""
+
+# game/script_jessie.rpy:16719
+translate russian ch4j_07jtf_4b338364:
+
+    # "I know where that hole leads. Owen and I have been to hell and back—only he seems to have never truly found a way out."
+    ""
+
+# game/script_jessie.rpy:16720
+translate russian ch4j_07jtf_762a82a3:
+
+    # "I almost feel pity for his suffering, although I know I can never forgive him. He lives in a bed of his own making now. As do we all."
+    ""
+
+# game/script_jessie.rpy:16722
+translate russian ch4j_07jtf_0a5e7f89:
+
+    # "Owen's eyes linger on the photo. It finally slips through his fingers, discarded. {nw}"
+    ""
+
+# game/script_jessie.rpy:16728
+translate russian ch4j_07jtf_fc282006:
+
+    # extend "He turns his head to the heavens and speaks to the sky."
+    extend ""
+
+# game/script_jessie.rpy:16729
+translate russian ch4j_07jtf_cd498494:
+
+    # o "For all I've done and cannot undo, Lord, please I beg your forgiveness. I have entered this world with nothing, and all I've gained, I've lost."
+    o ""
+
+# game/script_jessie.rpy:16735
+translate russian ch4j_07jtf_603f6c42:
+
+    # o "In your name I have given my devotion and life. In return, I am given madness and despair. I have nothing."
+    o ""
+
+# game/script_jessie.rpy:16777
+translate russian ch4j_07jtf_975324a0:
+
+    # "Once he has crested the edge of the hill, Jessie and I collapse into each other's arms. We fall to the ground, sobbing and gripping tight to one another."
+    ""
+
+# game/script_jessie.rpy:16778
+translate russian ch4j_07jtf_53fcf038:
+
+    # "Through her tears, Jessie gasps for air."
+    ""
+
+# game/script_jessie.rpy:16779
+translate russian ch4j_07jtf_19d5c375:
+
+    # j "I thought I was going to die. I—I can't breathe."
+    j ""
+
+# game/script_jessie.rpy:16781
+translate russian ch4j_07jtf_6e7ee225:
+
+    # "It's a feeling I know all too well. I cling to her reassuringly."
+    ""
+
+# game/script_jessie.rpy:16782
+translate russian ch4j_07jtf_6eb2fbf7:
+
+    # c "Take a deep breath. He's gone. We're safe."
+    c ""
+
+# game/script_jessie.rpy:16784
+translate russian ch4j_07jtf_e21f351d:
+
+    # "I rock Jessie in my arms, but I feel her heartbeat racing. I don't believe she's calming down, but I can't say I am, either."
+    ""
+
+# game/script_jessie.rpy:16786
+translate russian ch4j_07jtf_342fd8c5:
+
+    # j "My dear God. What just happened? Your ear, Malcolm! You're bleeding!"
+    j ""
+
+# game/script_jessie.rpy:16787
+translate russian ch4j_07jtf_608a4de2:
+
+    # c "I'm all right. We're alive. That's all that matters right now."
+    c ""
+
+# game/script_jessie.rpy:16788
+translate russian ch4j_07jtf_da0b246f:
+
+    # "The bleeding has lessened, thought the ringing in my ear continues. The pain is tolerable; the shock is not."
+    ""
+
+# game/script_jessie.rpy:16789
+translate russian ch4j_07jtf_3f57e026:
+
+    # j "I never should have left you in this snare! I'm so sorry!"
+    j ""
+
+# game/script_jessie.rpy:16822
+translate russian ch4j_07jtf_a8dca57f:
+
+    # "Once again Jessie urgently attacks the rope around my ankles, apparently undeterred by the irritant that covers it. Her dexterous fingers make short work of the knot."
+    ""
+
+# game/script_jessie.rpy:16829
+translate russian ch4j_07jtf_57ded336:
+
+    # "I rub my sore paws and start to offer Jessie my thanks, only to find her looking worriedly off into the distance."
+    ""
+
+# game/script_jessie.rpy:16830
+translate russian ch4j_07jtf_0f173ebb:
+
+    # c "What is it?"
+    c ""
+
+# game/script_jessie.rpy:16833
+translate russian ch4j_07jtf_b5d4f682:
+
+    # j "Malcolm, I... I can't live like this."
+    j ""
+
+# game/script_jessie.rpy:16835
+translate russian ch4j_07jtf_accea3b7:
+
+    # "My heart sinks. I want to believe she's wrong, that there is an immediate solution. But I'm flooded with dejection and heartbreak."
+    ""
+
+# game/script_jessie.rpy:16836
+translate russian ch4j_07jtf_261482c5:
+
+    # c "I'm so sorry. I could have gotten us both killed. I'm so... deeply sorry."
+    c ""
+
+# game/script_jessie.rpy:16841
+translate russian ch4j_07jtf_26cb1bad:
+
+    # "Jessie turns back to me, surprised."
+    ""
+
+# game/script_jessie.rpy:16842
+translate russian ch4j_07jtf_6c24cb6b:
+
+    # j "Oh, Malcolm, no. You saved us both! You took a chance. You had to. We needed to stave him off."
+    j ""
+
+# game/script_jessie.rpy:16844
+translate russian ch4j_07jtf_7e2986ba:
+
+    # "Tears well in her eyes."
+    ""
+
+# game/script_jessie.rpy:16845
+translate russian ch4j_07jtf_9cb9847d:
+
+    # j "If I can't live in peace, I don't want to live. That's the end of it."
+    j ""
+
+# game/script_jessie.rpy:16847
+translate russian ch4j_07jtf_485b6e64:
+
+    # c "But look at you, Jessie! Your face, your body."
+    c ""
+
+# game/script_jessie.rpy:16858
+translate russian ch4j_07jtf_39b6db6c:
+
+    # "Jessie gives me a look that indicates she's not ready to speak of her transformation. Instead, she offers her hand and helps me to my feet."
+    ""
+
+# game/script_jessie.rpy:16866
+translate russian ch4j_07jtf_dd9c3ef8:
+
+    # j "Malcolm, listen. We can't stay here long. There may be others after us! And you can't... be like this."
+    j ""
+
+# game/script_jessie.rpy:16870
+translate russian ch4j_07jtf_65640d6f:
+
+    # "She places her hands at my hips and holds my gaze."
+    ""
+
+# game/script_jessie.rpy:16872
+translate russian ch4j_07jtf_ed428f34:
+
+    # j "We have to hide! Now let's go!"
+    j ""
+
+# game/script_jessie.rpy:16898
+translate russian ch4j_07jtf_48ccb030:
+
+    # "Before leaving the battlefield I collect my trusty hat—and peer through the fresh bullet hole in it. Had it been punched any further down..."
+    ""
+
+# game/script_jessie.rpy:16900
+translate russian ch4j_07jtf_00257548:
+
+    # "That's a scenario I'd rather not imagine. Instead, through the hole, a scrap of paper on the ground catches my eye."
+    ""
+
+# game/script_jessie.rpy:16912
+translate russian ch4j_07jtf_98e0c4d3:
+
+    # "Before I follow Jessie, I pluck Owen's discarded photograph from the ground."
+    ""
+
+# game/script_jessie.rpy:16925
+translate russian ch4j_07jtf_59bd50a9:
+
+    # "A family portrait taken around the turn of the century, judging from the age. The man is unmistakably Owen, but he looks... different. Is he {i}smiling?{/i}"
+    ""
+
+# game/script_jessie.rpy:16926
+translate russian ch4j_07jtf_d80df96f:
+
+    # "I've rarely seen him cheerful. The girls must be Marion and Jessie, then. As well as their mother, shortly before Grace was born and... well..."
+    ""
+
+# game/script_jessie.rpy:16928
+translate russian ch4j_07jtf_9f5efcc2:
+
+    # "This was a time when the MacLeod family was still whole. A happier time only Owen remembers... and has chosen to forget. Why? Resentment? Denial? I'll likely never know the answer."
+    ""
+
+# game/script_jessie.rpy:16930
+translate russian ch4j_07jtf_80a7da93:
+
+    # j "Malcolm, hurry!"
+    j ""
+
+# game/script_jessie.rpy:16931
+translate russian ch4j_07jtf_80a2ba4b:
+
+    # c "I'm coming!"
+    c ""
+
+# game/script_jessie.rpy:16946
+translate russian ch4j_07jtf_d0a00110:
+
+    # "Jessie leads me back to the relative safety of last night's shelter. We ease ourselves under the ledge, out of sight, and finally take the time to collect ourselves."
+    ""
+
+# game/script_jessie.rpy:16948
+translate russian ch4j_07jtf_d2484268:
+
+    # c "This isn't so bad. Cozier than some of the dugouts I'd lived in, for sure."
+    c ""
+
+# game/script_jessie.rpy:16950
+translate russian ch4j_07jtf_12c19ee1:
+
+    # j "Don't say that. We can lay low here until the worst of this passes over. And then..."
+    j ""
+
+# game/script_jessie.rpy:16952
+translate russian ch4j_07jtf_8131b343:
+
+    # c "Then... what? Go home? Act like nothing happened?"
+    c ""
+
+# game/script_jessie.rpy:16955
+translate russian ch4j_07jtf_63229b41:
+
+    # j "No. I... I don't know."
+    j ""
+
+# game/script_jessie.rpy:16959
+translate russian ch4j_07jtf_7776521b:
+
+    # j "But I know {i}this.{/i} I can't live without you, Malcolm. There's a future for us. One without guns and claws and fangs! One where we are together and safe."
+    j ""
+
+# game/script_jessie.rpy:16960
+translate russian ch4j_07jtf_15390980:
+
+    # "I nod in solemn agreement."
+    ""
+
+# game/script_jessie.rpy:16962
+translate russian ch4j_07jtf_75f5fb1c:
+
+    # c "Jessie... I want to be part of that future. Wherever it takes us."
+    c ""
+
+# game/script_jessie.rpy:16964
+translate russian ch4j_07jtf_3f4ba45e:
+
+    # "I smile weakly, but with no less conviction. Realization spreads across Jessie's face as she grasps my meaning."
+    ""
+
+# game/script_jessie.rpy:16966
+translate russian ch4j_07jtf_c8250b7b:
+
+    # c "This isn't where we belong. Neither one of us. Not just because of... him. But because we need to be free to live our lives now."
+    c ""
+
+# game/script_jessie.rpy:16968
+translate russian ch4j_07jtf_fdb5802c:
+
+    # "This isn't my home anymore, either. Last night and this morning have proven that."
+    ""
+
+# game/script_jessie.rpy:16969
+translate russian ch4j_07jtf_a7f34ae6:
+
+    # "My life has been threatened too many times over, and I'm sick of it. Sick of the pit in my stomach."
+    ""
+
+# game/script_jessie.rpy:16972
+translate russian ch4j_07jtf_464d5c42:
+
+    # j "We'll start anew. A clean slate! Leave all this drama behind and set the city ablaze with our own brand of excitement!"
+    j ""
+
+# game/script_jessie.rpy:16973
+translate russian ch4j_07jtf_52a2a76f:
+
+    # "That's not the only thing ablaze. Jessie's mind seems to be alight with possibilities."
+    ""
+
+# game/script_jessie.rpy:16974
+translate russian ch4j_07jtf_6168a5ab:
+
+    # c "Whoa, now, let's not get ahead of ourselves! I've had enough excitement for one lifetime, and as is I'm still awfully... {i}conspicuous.{/i}"
+    c ""
+
+# game/script_jessie.rpy:16976
+translate russian ch4j_07jtf_7701915e:
+
+    # "The reminder seems to bring Jessie back down to Earth."
+    ""
+
+# game/script_jessie.rpy:16978
+translate russian ch4j_07jtf_a4fcde90:
+
+    # j "Ah!—I'm sorry... you don't have to be like this! You have the power to transform back—it's already within you. But... it's difficult to explain. I can help."
+    j ""
+
+# game/script_jessie.rpy:16979
+translate russian ch4j_07jtf_a9264025:
+
+    # c "I always want your help. Honestly I don't know where to start. I haven't taken the antidote."
+    c ""
+
+# game/script_jessie.rpy:16981
+translate russian ch4j_07jtf_e9009576:
+
+    # j "You shouldn't need it. Just stay very still. Let my energy guide yours."
+    j ""
+
+# game/script_jessie.rpy:17005
+translate russian ch4j_07_c_e428af4b:
+
+    # "We assume the same position as before. As she presses her cold fingers to my hands, I feel a jolt through my forearms, then a light burning up to my elbows. The breeze around us grows stronger."
+    ""
+
+# game/script_jessie.rpy:17007
+translate russian ch4j_07_c_17148027:
+
+    # j "Close your eyes. It makes it easier to relax."
+    j ""
+
+# game/script_jessie.rpy:17013
+translate russian ch4j_07_c_5ba6db0f:
+
+    # "With my eyes closed, she guides me with her voice. My heart knows the way, too. Self-control. It is all within me."
+    ""
+
+# game/script_jessie.rpy:17015
+translate russian ch4j_07_c_76f24e76:
+
+    # j "Deep breaths. Patience. Willingness to change."
+    j ""
+
+# game/script_jessie.rpy:17032
+translate russian ch4j_07_c_27a0c7cf:
+
+    # "I drift into my own thoughts, sensing my fur float away, off into the ether. My muzzle shifts and recedes. My ears melting down to human size."
+    ""
+
+# game/script_jessie.rpy:17033
+translate russian ch4j_07_c_4fe41d3a:
+
+    # "My mind controls my body's actions. These contortions, they come easily and fast."
+    ""
+
+# game/script_jessie.rpy:17034
+translate russian ch4j_07_c_ab86edf4:
+
+    # "The energy around us flows as harmoniously as Jessie's voice. Her speech meanders off into a mantra."
+    ""
+
+# game/script_jessie.rpy:17035
+translate russian ch4j_07_c_9f47d905:
+
+    # j "You are in control. No one else controls you. He does not control you. Only you have power over yourself. Take hold of your own power."
+    j ""
+
+# game/script_jessie.rpy:17052
+translate russian ch4j_07_c_49bc69f5:
+
+    # "I'm almost back to human, and as I blink open my eyes I realize she's no longer talking to me, but to herself. Tears stream down her face."
+    ""
+
+# game/script_jessie.rpy:17053
+translate russian ch4j_07_c_788d624c:
+
+    # j "He is not in control. You decide your own fate. You choose. No one else chooses for you. You are safe and powerful. Breathe. Breathe deeper. Breathe again and again."
+    j ""
+
+# game/script_jessie.rpy:17069
+translate russian ch4j_07_c_d03bb888:
+
+    # c "Jessie."
+    c ""
+
+# game/script_jessie.rpy:17076
+translate russian ch4j_07_c_383953ae:
+
+    # "Her eyes open and her tears stop."
+    ""
+
+# game/script_jessie.rpy:17077
+translate russian ch4j_07_c_dfb7af1d:
+
+    # j "Malcolm! You're back."
+    j ""
+
+# game/script_jessie.rpy:17078
+translate russian ch4j_07_c_4e9a0924:
+
+    # "She smiles, but the sadness is present. The hurt and deceit. All repercussions of her own father."
+    ""
+
+# game/script_jessie.rpy:17079
+translate russian ch4j_07_c_65e32b2c:
+
+    # c "Are you all right?"
+    c ""
+
+# game/script_jessie.rpy:17080
+translate russian ch4j_07_c_7e3464d3:
+
+    # "Sadly, I know the answer."
+    ""
+
+# game/script_jessie.rpy:17081
+translate russian ch4j_07_c_2cb0dc0f:
+
+    # j "I will be. And so will you. We'll have peace soon. Very soon."
+    j ""
+
+# game/script_jessie.rpy:17082
+translate russian ch4j_07_c_624f4e7a:
+
+    # "I look down at my body, blood-stained and damaged from the snare. I am human again. Whole and... mostly intact."
+    ""
+
+# game/script_jessie.rpy:17083
+translate russian ch4j_07_c_2eef9ebe:
+
+    # "I've been here before, battered and bruised at the end of a battle. I never want to experience it ever again."
+    ""
+
+# game/script_jessie.rpy:17085
+translate russian ch4j_07_c_80535654:
+
+    # c "I don't want to just live in peace, Jessie. I want to live in {i}joy.{/i}"
+    c ""
+
+# game/script_jessie.rpy:17086
+translate russian ch4j_07_c_881826bc:
+
+    # "Jessie's eyes brighten, and she finally breaks into a real smile."
+    ""
+
+# game/script_jessie.rpy:17087
+translate russian ch4j_07_c_e3b6d462:
+
+    # j "Malcolm! Let's go find our joy."
+    j ""
+
+# game/script_jessie.rpy:17117
+translate russian ch4j_08_e3d45cd0:
+
+    # "Cautiously, but with haste, we work our way across the rocky vale and farther away from town. It takes me some time to get used to walking on human feet again."
+    ""
+
+# game/script_jessie.rpy:17118
+translate russian ch4j_08_cf136d89:
+
+    # "Occasionally, I'll hear a noise and force Jessie to duck behind me. But for the most part we seem to be alone, surrounded only by the quiet sounds of nature."
+    ""
+
+# game/script_jessie.rpy:17119
+translate russian ch4j_08_d6f74be5:
+
+    # "It's as if my life is fraught with imminent danger, mixed with equal parts raw energy and peaceful calm. Is this how I'm destined to live out the rest of my days?"
+    ""
+
+# game/script_jessie.rpy:17123
+translate russian ch4j_08_4016128b:
+
+    # c "Jessie, we need to stop."
+    c ""
+
+# game/script_jessie.rpy:17130
+translate russian ch4j_08_5e215d4c:
+
+    # "By now we've traveled far enough to be safe from prying eyes. I need some time to collect myself."
+    ""
+
+# game/script_jessie.rpy:17138
+translate russian ch4j_08_17697de5:
+
+    # j "What is it?"
+    j ""
+
+# game/script_jessie.rpy:17143
+translate russian ch4j_08_ba88043a:
+
+    # "I'm unsure how to express my feelings without upsetting Jessie, or detracting from her own pain. But I'm tired of running. Tired of being afraid."
+    ""
+
+# game/script_jessie.rpy:17145
+translate russian ch4j_08_2893ed67:
+
+    # c "It's all too much... isn't it?"
+    c ""
+
+# game/script_jessie.rpy:17147
+translate russian ch4j_08_44f9f454:
+
+    # "She nods solemnly, and I wonder where she finds the strength to persevere."
+    ""
+
+# game/script_jessie.rpy:17148
+translate russian ch4j_08_e3bd733e:
+
+    # "Stay calm in the face of adversity, Malcolm. Stay strong for Jessie. For years, being stoic was all I could do to keep sane, but at times I would slip, and I feel it happening now."
+    ""
+
+# game/script_jessie.rpy:17149
+translate russian ch4j_08_f8d72926:
+
+    # "My life has been threatened too many times over, and I'm sick of it. Sick of the pit in my stomach that warns me not to blink or fall asleep."
+    ""
+
+# game/script_jessie.rpy:17151
+translate russian ch4j_08_b712b88f:
+
+    # "Is the worst over? I truly don't know. I thought I'd seen the worst of men. Now... I've seen where it hides, waiting to pounce, waiting to threaten me and those I love."
+    ""
+
+# game/script_jessie.rpy:17152
+translate russian ch4j_08_9bbc0931:
+
+    # "What was abstract is now too real. Much too frightening."
+    ""
+
+# game/script_jessie.rpy:17154
+translate russian ch4j_08_2ced7cb1:
+
+    # c "We need to feel safe, Jessie. {i}I{/i} need that."
+    c ""
+
+# game/script_jessie.rpy:17156
+translate russian ch4j_08_defdf2f8:
+
+    # "Her expression falls, as I had feared it would."
+    ""
+
+# game/script_jessie.rpy:17158
+translate russian ch4j_08_24eb6c57:
+
+    # j "Malcolm... I can't give that to you. But I can help you find it. We'll find it together."
+    j ""
+
+# game/script_jessie.rpy:17159
+translate russian ch4j_08_7ed290f7:
+
+    # c "We will."
+    c ""
+
+# game/script_jessie.rpy:17162
+translate russian ch4j_08_ce257de7:
+
+    # j "And we can't keep running. I don't think I can go on living like this, either."
+    j ""
+
+# game/script_jessie.rpy:17163
+translate russian ch4j_08_3068ef34:
+
+    # "Jessie has regained most of her composure during our flight. Her words are not colored by panic, only resolve."
+    ""
+
+# game/script_jessie.rpy:17165
+translate russian ch4j_08_599e1656:
+
+    # c "Your father was right about one thing."
+    c ""
+
+# game/script_jessie.rpy:17167
+translate russian ch4j_08_c892ce4c:
+
+    # j "He was?"
+    j ""
+
+# game/script_jessie.rpy:17168
+translate russian ch4j_08_a30035a4:
+
+    # c "We need to get out of this village. Out of town. Quickly."
+    c ""
+
+# game/script_jessie.rpy:17170
+translate russian ch4j_08_c00cc461:
+
+    # "It pains me to say it aloud. But no matter how much I contemplate our options, in no scenario do I imagine us remaining here."
+    ""
+
+# game/script_jessie.rpy:17172
+translate russian ch4j_08_e235b621:
+
+    # "Not long ago, Jessie might have jumped for joy over this concession. Today, her mood remains muted."
+    ""
+
+# game/script_jessie.rpy:17175
+translate russian ch4j_08_05793231:
+
+    # j "This isn't where we belong. At all. Not anymore. But... where do we go?"
+    j ""
+
+# game/script_jessie.rpy:17177
+translate russian ch4j_08_bfe930c2:
+
+    # "It's our burden now, to take a step back into the world that Jessie has rattled. What is a werewolf to do?"
+    ""
+
+# game/script_jessie.rpy:17178
+translate russian ch4j_08_d1311382:
+
+    # "In my pockets, two possible answers present themselves."
+    ""
+
+# game/script_jessie.rpy:17183
+translate russian ch4j_08_46182e1d:
+
+    # "The second antidote weighs heavily in my pocket. Were Jessie to take it, there'd be no more monster to hunt. No more fear of being found out. In some ways, it's the simplest solution."
+    ""
+
+# game/script_jessie.rpy:17184
+translate russian ch4j_08_3cbf7220:
+
+    # "But all that would Jessie have to give up! I took Alana's concoction because I had no choice. There's no such gun to Jessie's head. At least, not now."
+    ""
+
+# game/script_jessie.rpy:17185
+translate russian ch4j_08_9ab5a962:
+
+    # "If things continue, we may yet find ourselves at gunpoint once again."
+    ""
+
+# game/script_jessie.rpy:17187
+translate russian ch4j_08_70976fb9:
+
+    # "Gingerly, I broach the subject."
+    ""
+
+# game/script_jessie.rpy:17188
+translate russian ch4j_08_1c08698a:
+
+    # c "If ever this gets to be too much, as a last resort, you can take the—"
+    c ""
+
+# game/script_jessie.rpy:17190
+translate russian ch4j_08_f3a9da86:
+
+    # j "Malcolm Campbell, don't you dare so much as mutter the word you're thinking of. Alana's poison has been nothing but trouble. I should've cast it in the rubbish bin the moment she gave it to me."
+    j ""
+
+# game/script_jessie.rpy:17191
+translate russian ch4j_08_91900c11:
+
+    # "At first I think she is indignant at the idea of my drastic suggestion. As she continues, it turns out her words are spurred by guilt."
+    ""
+
+# game/script_jessie.rpy:17193
+translate russian ch4j_08_f9a502a1:
+
+    # j "I'll never forgive myself for telling you take the antidote without choice."
+    j ""
+
+# game/script_jessie.rpy:17195
+translate russian ch4j_08_a73ea79d:
+
+    # "I can't help, too, but feel some regret for what might have been. That things happened the way they did was no fault of Jessie's, though. It simply wasn't meant to be."
+    ""
+
+# game/script_jessie.rpy:17197
+translate russian ch4j_08_fb621ee6:
+
+    # c "Don't blame yourself. The choice was mine and mine alone. Well... perhaps fate had a hand in it, too."
+    c ""
+
+# game/script_jessie.rpy:17199
+translate russian ch4j_08_20a8f9e6:
+
+    # j "Then fate is cruel to us both."
+    j ""
+
+# game/script_jessie.rpy:17200
+translate russian ch4j_08_4d9ec8ff:
+
+    # c "Not entirely. We're alive. We have each other. And..."
+    c ""
+
+# game/script_jessie.rpy:17201
+translate russian ch4j_08_67a9d546:
+
+    # "Where Wondrous Walter's offer once seemed farfetched, too good to be true, now I see in it yet another mark of fate."
+    ""
+
+# game/script_jessie.rpy:17202
+translate russian ch4j_08_bc8ccd0f:
+
+    # c "...You'll never guess who I encountered in the Stag & Nanny."
+    c ""
+
+# game/script_jessie.rpy:17204
+translate russian ch4j_08_888403ba:
+
+    # "Finally I'm able to recount my experience at the pub this morning. As she listens intently to my tale, her expression lights up."
+    ""
+
+# game/script_jessie.rpy:17206
+translate russian ch4j_08_f630c002:
+
+    # j "He really said all of that? Liked my performance that much?"
+    j ""
+
+# game/script_jessie.rpy:17207
+translate russian ch4j_08_82cdaa99:
+
+    # c "Aye, he seemed quite excited. Your future with him could be bright indeed."
+    c ""
+
+# game/script_jessie.rpy:17209
+translate russian ch4j_08_8dcb51b1:
+
+    # "Walter's card burns in my pocket. Was his offer even an option? Would he really pass off Jessie's nature as just an act?"
+    ""
+
+# game/script_jessie.rpy:17210
+translate russian ch4j_08_799637f3:
+
+    # "The thought of traveling anywhere with Jessie in her current... well, state... just seems improbable. Not to mention dangerous."
+    ""
+
+# game/script_jessie.rpy:17211
+translate russian ch4j_08_f445682a:
+
+    # "As farfetched as Walter's proposal might be, it may be our only chance."
+    ""
+
+# game/script_jessie.rpy:17213
+translate russian ch4j_08_ab5a147d:
+
+    # c "Jessie... you'll never believe who I ran into at the Stag & Nanny..."
+    c ""
+
+# game/script_jessie.rpy:17216
+translate russian ch4j_08_60a90f1d:
+
+    # "Finally I'm able to recount my encounter at the pub this morning. As she listens intently to my tale, her expression lights up."
+    ""
+
+# game/script_jessie.rpy:17218
+translate russian ch4j_08_f630c002_1:
+
+    # j "He really said all of that? Liked my performance that much?"
+    j ""
+
+# game/script_jessie.rpy:17219
+translate russian ch4j_08_dcb56b62:
+
+    # c "Aye. In fact I think he fancied both of us in his act, although I'm not sure that'll still be the case now that I've lost my fur coat."
+    c ""
+
+# game/script_jessie.rpy:17221
+translate russian ch4j_08_c754d887:
+
+    # "Even though I jest, her face falls, and I feel a twinge of guilt for bringing the subject up."
+    ""
+
+# game/script_jessie.rpy:17223
+translate russian ch4j_08_51ad002d:
+
+    # j "Malcolm, I never should've told you to take the antidote if you didn't want to—"
+    j ""
+
+# game/script_jessie.rpy:17224
+translate russian ch4j_08_8bcceed2:
+
+    # c "No apologies. What happened was my choice. It wasn't meant to be that I live like..."
+    c ""
+
+# game/script_jessie.rpy:17226
+translate russian ch4j_08_8566cbbb:
+
+    # j "Like me?"
+    j ""
+
+# game/script_jessie.rpy:17227
+translate russian ch4j_08_f63f0477:
+
+    # c "I'm meant to be {i}with{/i} you. That's all that matters."
+    c ""
+
+# game/script_jessie.rpy:17228
+translate russian ch4j_08_ae9350c9:
+
+    # "I try to smile, but know we both harbor a shared modicum of disappointment and regret. There's no point dwelling on what's behind us, though."
+    ""
+
+# game/script_jessie.rpy:17230
+translate russian ch4j_08_aa86c15b:
+
+    # c "Let's focus on the future. One in which you might end up a star, yet!"
+    c ""
+
+# game/script_jessie.rpy:17233
+translate russian ch4j_08_7fcb9045:
+
+    # j "The future. Oh, Malcolm, don't dangle hope in front of me like this! Not a moment ago we were destined for a lifetime of hiding; now you're telling me my dreams could come true?"
+    j ""
+
+# game/script_jessie.rpy:17234
+translate russian ch4j_08_14dff750:
+
+    # c "I don't know. But I think it's worth a try."
+    c ""
+
+# game/script_jessie.rpy:17236
+translate russian ch4j_08_9b92df9c:
+
+    # "Jessie shakes her head in disbelief."
+    ""
+
+# game/script_jessie.rpy:17239
+translate russian ch4j_08_5d39193e:
+
+    # j "I'm not sure I'm ready to perform before hundreds of people like this, and risk one of them sending me over the edge again. I'll go with Walter if it means getting away from here, though."
+    j ""
+
+# game/script_jessie.rpy:17240
+translate russian ch4j_08_89eb890e:
+
+    # c "My sentiments, too. Let's take it one step at a time. Walter said to meet him at the Strathcarron station this afternoon, if we so choose."
+    c ""
+
+# game/script_jessie.rpy:17242
+translate russian ch4j_08_e4c34ed5:
+
+    # j "I'm... not sure they let werewolves on trains."
+    j ""
+
+# game/script_jessie.rpy:17243
+translate russian ch4j_08_d6298a16:
+
+    # c "Aye, it's not without risks. Perhaps we could stow away, or... try to get you a disguise?"
+    c ""
+
+# game/script_jessie.rpy:17245
+translate russian ch4j_08_070a6200:
+
+    # j "A disguise? {i}For all of this?{/i}"
+    j ""
+
+# game/script_jessie.rpy:17246
+translate russian ch4j_08_352e3e91:
+
+    # "Jessie motions up and down her furry body, clearly thinking I am out of my mind."
+    ""
+
+# game/script_jessie.rpy:17247
+translate russian ch4j_08_a393c546:
+
+    # c "Do you have any better ideas?"
+    c ""
+
+# game/script_jessie.rpy:17249
+translate russian ch4j_08_b9f49990:
+
+    # "She pauses, thinking."
+    ""
+
+# game/script_jessie.rpy:17252
+translate russian ch4j_08_1d253a09:
+
+    # j "Not really. I mean... I guess we could try?"
+    j ""
+
+# game/script_jessie.rpy:17253
+translate russian ch4j_08_f300ca74:
+
+    # "Her excitement seems to be getting the better of her, knowing that her fantasy might be within reach. She remains rightfully cautious, though."
+    ""
+
+# game/script_jessie.rpy:17255
+translate russian ch4j_08_5015826c:
+
+    # j "Malcolm, do you really think that leaving with Walter is an option? Can we trust him?"
+    j ""
+
+# game/script_jessie.rpy:17257
+translate russian ch4j_08_7bb21445:
+
+    # c "Truthfully, I'm not sure. But at this point it's our only lead. Besides, if Walter offers us a bad deal, we can walk away."
+    c ""
+
+# game/script_jessie.rpy:17260
+translate russian ch4j_08_ec2ed30f:
+
+    # j "We'll run! You know how fast I can run!"
+    j ""
+
+# game/script_jessie.rpy:17262
+translate russian ch4j_08_d929274e:
+
+    # "Where would we run? I worry about all the things that could go wrong, but right now, the last thing Jessie needs is more uncertainty."
+    ""
+
+# game/script_jessie.rpy:17263
+translate russian ch4j_08_5c86fcbd:
+
+    # c "We have resources. We have each other. We'll figure it out, even if we do it under the cloak of night with you in disguise."
+    c ""
+
+# game/script_jessie.rpy:17265
+translate russian ch4j_08_50e3353a:
+
+    # j "I also have money. Enough stowed away for a rainy day or two. This is just the next step."
+    j ""
+
+# game/script_jessie.rpy:17266
+translate russian ch4j_08_c282083f:
+
+    # c "Nothing is permanent."
+    c ""
+
+# game/script_jessie.rpy:17268
+translate russian ch4j_08_92fbb758:
+
+    # j "That's for sure!"
+    j ""
+
+# game/script_jessie.rpy:17270
+translate russian ch4j_08_e3adb305:
+
+    # "Our mutual eagerness to escape is now palpable, and it's almost certainly coloring our outlook with a rosy hue. There are yet hurdles before our departure."
+    ""
+
+# game/script_jessie.rpy:17272
+translate russian ch4j_08_f6500840:
+
+    # j "We'll... need to stop by my home."
+    j ""
+
+# game/script_jessie.rpy:17273
+translate russian ch4j_08_f6e70763:
+
+    # c "No. Not with—"
+    c ""
+
+# game/script_jessie.rpy:17274
+translate russian ch4j_08_e50e003e:
+
+    # "I hesitate to say, \"Not with that madman on the loose.\""
+    ""
+
+# game/script_jessie.rpy:17276
+translate russian ch4j_08_b370251d:
+
+    # c "Why not my place? Agnes would welcome us with open arms. We could collect some money, some things."
+    c ""
+
+# game/script_jessie.rpy:17277
+translate russian ch4j_08_1999bacf:
+
+    # "I dread the conversation with Gran, but I also know I could never leave without saying goodbye. Jessie must be able to read the concern on my face. She sighs and takes my hand."
+    ""
+
+# game/script_jessie.rpy:17279
+translate russian ch4j_08_d8ef99e8:
+
+    # j "I'm so sorry this is what's come of us. If I could go back in time, change this outcome..."
+    j ""
+
+# game/script_jessie.rpy:17280
+translate russian ch4j_08_da4c5646:
+
+    # c "We're intact. We're together. Even if our dreams are dashed, I hope we'll create new dreams, ones that we can make come true."
+    c ""
+
+# game/script_jessie.rpy:17282
+translate russian ch4j_08_395e91ec:
+
+    # j "Together."
+    j ""
+
+# game/script_jessie.rpy:17283
+translate russian ch4j_08_4cff680c:
+
+    # c "Always."
+    c ""
+
+# game/script_jessie.rpy:17292
+translate russian ch4j_08_6b8210d2:
+
+    # "With that, we swallow our fears and turn back from whence we came. The danger there all too real, unlike this world of fantasies we've created for ourselves."
+    ""
+
+# game/script_jessie.rpy:17293
+translate russian ch4j_08_21267dc5:
+
+    # "Under the circumstances, some might call it folly. I probably would have myself, in the past."
+    ""
+
+# game/script_jessie.rpy:17294
+translate russian ch4j_08_e525689b:
+
+    # "But not now. Now I find in it purpose. I see how it fuels the fire of Jessie's spirit against all odds, and I set myself ablaze with that same kindling."
+    ""
+
+# game/script_jessie.rpy:17295
+translate russian ch4j_08_414f8a15:
+
+    # "I will take on her passion, her dreams, and make myself burn from within, never allowing anyone or anything to extinguish us."
+    ""
+
+# game/script_jessie.rpy:17303
+translate russian ch4j_08_e2e8bd53:
+
+    # "As we emerge from the den in our dirty, torn, bloodied clothes, we must look like a pair of ghouls rising from the grave."
+    ""
+
+# game/script_jessie.rpy:17304
+translate russian ch4j_08_97c37d01:
+
+    # "Fortunately we are still breathing, and once again both in human form. It gives us enough confidence to leave our hideaway; though neither of us are so ignorant as to believe that we are fully safe."
+    ""
+
+# game/script_jessie.rpy:17305
+translate russian ch4j_08_b81a817a:
+
+    # "But as we walk, the morning air and soft whistle of the wind all around lulls us into a place of serenity, as if the world is telling us that it's still here for us. It's still spinning with us attached."
+    ""
+
+# game/script_jessie.rpy:17307
+translate russian ch4j_08_d0613c16:
+
+    # "As we walk, I sense us both regaining our composure; albeit laden with heavily feigned confidence. Neither of us is ignorant enough to believe that anything is back to normal."
+    ""
+
+# game/script_jessie.rpy:17308
+translate russian ch4j_08_5b688736:
+
+    # "But the morning air and soft whistle of the wind lulls us into a place of serenity, as if the world is telling us that it's still here for us. It's still spinning with us attached."
+    ""
+
+# game/script_jessie.rpy:17310
+translate russian ch4j_08_6c60874a:
+
+    # "That humbles me, instructs me to absorb every moment alive, as I've done now every day since returning home."
+    ""
+
+# game/script_jessie.rpy:17311
+translate russian ch4j_08_72efd6b1:
+
+    # "Yet, off I go again. Leaving behind this cluster of waking dreams and nightmares."
+    ""
+
+# game/script_jessie.rpy:17318
+translate russian ch4j_08_46d0683a:
+
+    # "We stop for a moment for Jessie to readjust the tatters dangling by a thread from her shoulders."
+    ""
+
+# game/script_jessie.rpy:17327
+translate russian ch4j_08_5c6c1003:
+
+    # c "I guess we both ought to find some fresh clothes before we hit the road, eh?"
+    c ""
+
+# game/script_jessie.rpy:17329
+translate russian ch4j_08_e52d0333:
+
+    # c "You'll want fresh clothes before we hit the road, yes?"
+    c ""
+
+# game/script_jessie.rpy:17332
+translate russian ch4j_08_ca21ba80:
+
+    # j "I'm not getting on a train in these rags, if that's what you mean. I may as well be wearing nothing at all!"
+    j ""
+
+# game/script_jessie.rpy:17333
+translate russian ch4j_08_539ab7c5:
+
+    # "Her laughter fills the valley. Seemingly oblivious of the immodesty, Jessie has walked proudly by my side the whole way down the glen. The worst is over. We know it in our hearts."
+    ""
+
+# game/script_jessie.rpy:17338
+translate russian ch4j_08_6042891d:
+
+    # j "I won't mention it again, but I feel like a weight's been lifted from my shoulders. Not wearing my... well, fur coat... it makes me feel safer. Less likely to stir trouble."
+    j ""
+
+# game/script_jessie.rpy:17341
+translate russian ch4j_08_81cdaebd:
+
+    # c "I'll never stop apologizing for putting us both in danger. The snare, the rock, it was all my fault. I only hope I've not damaged your chance at your dreams."
+    c ""
+
+# game/script_jessie.rpy:17345
+translate russian ch4j_08_a51f2bac:
+
+    # j "You, Malcolm? I should apologize! I brought us both into this situation. I hurt you. I left you behind. You've not robbed me of any dream, Malcolm."
+    j ""
+
+# game/script_jessie.rpy:17347
+translate russian ch4j_08_ff24b601:
+
+    # j "In fact, you've given us the chance to share our dreams together. As a couple. A couple of werewolves—can you imagine!?"
+    j ""
+
+# game/script_jessie.rpy:17348
+translate russian ch4j_08_eb442081:
+
+    # "Everything has happened so fast, I'm still having a hard time imagining our future—werewolves or not. But her enthusiasm is infectious. She looks at me with starry eyes."
+    ""
+
+# game/script_jessie.rpy:17350
+translate russian ch4j_08_d4eca792:
+
+    # j "I can't give up on my dream because you won't give up on me."
+    j ""
+
+# game/script_jessie.rpy:17352
+translate russian ch4j_08_4014692f:
+
+    # c "I'll never stop apologizing for doing that to you. I only hope I've not taken away all of your dreams."
+    c ""
+
+# game/script_jessie.rpy:17356
+translate russian ch4j_08_45d04ba8:
+
+    # j "I don't mention it to hurt you, only to tell you I'm all right. You've not robbed me of any dream, Malcolm."
+    j ""
+
+# game/script_jessie.rpy:17358
+translate russian ch4j_08_d2efeb24:
+
+    # j "In fact, you've given us the chance to share our dreams together. As a couple. A real, human couple. I can't give up on my dream because you won't give up on me."
+    j ""
+
+# game/script_jessie.rpy:17361
+translate russian ch4j_08_73b17756:
+
+    # c " Yes, well... it takes a strong man to hold up a strong woman."
+    c ""
+
+# game/script_jessie.rpy:17363
+translate russian ch4j_08_71c18070:
+
+    # "When she laughs and winks at me, I'm struck by all that I love about her. Her independence, her fire and passion, her quick wit and loving heart."
+    ""
+
+# game/script_jessie.rpy:17364
+translate russian ch4j_08_db42c683:
+
+    # "What did I do to earn Jessie in my life? My walking, talking, singing, sexy and vivacious danger machine."
+    ""
+
+# game/script_jessie.rpy:17365
+translate russian ch4j_08_f93181ae:
+
+    # "I'm growing more and more excited for all of this to be behind us. We can make a life together. Grow old together. Be a family... together."
+    ""
+
+# game/script_jessie.rpy:17367
+translate russian ch4j_08_92dd87b9:
+
+    # c "Say, since we're talking about your dreams and our future..."
+    c ""
+
+# game/script_jessie.rpy:17369
+translate russian ch4j_08_a7dbbb31:
+
+    # "At last I'm able to explain what Walter told me at the pub early this morning, and Jessie listens intently."
+    ""
+
+# game/script_jessie.rpy:17370
+translate russian ch4j_08_1f972480:
+
+    # j "He really said all that? Liked my performance that much?"
+    j ""
+
+# game/script_jessie.rpy:17371
+translate russian ch4j_08_130fc751:
+
+    # c "Aye. An unusual man, for sure—but he has a keen eye for talent, I'll give him that."
+    c ""
+
+# game/script_jessie.rpy:17372
+translate russian ch4j_08_0f09eefb:
+
+    # "Jessie looks incredulous, but I can tell her appetite is whetted by Walter's offer."
+    ""
+
+# game/script_jessie.rpy:17374
+translate russian ch4j_08_79d61e39:
+
+    # j "I-I can't believe it. After all this! Do... do you really think that's an option? Leaving with him?"
+    j ""
+
+# game/script_jessie.rpy:17375
+translate russian ch4j_08_05b6bebd:
+
+    # c "He said to meet him at the Strathcarron station this afternoon, if we so choose."
+    c ""
+
+# game/script_jessie.rpy:17378
+translate russian ch4j_08_53772ad8:
+
+    # j "Can we trust him?"
+    j ""
+
+# game/script_jessie.rpy:17380
+translate russian ch4j_08_a55a8c08:
+
+    # c "Truthfully, I'm not sure. But at this point what's there to lose? If Walter offers us a shady deal, we drop him like a hot potato!"
+    c ""
+
+# game/script_jessie.rpy:17382
+translate russian ch4j_08_c166471b:
+
+    # j "Oh, really? Look at you with your slang!"
+    j ""
+
+# game/script_jessie.rpy:17383
+translate russian ch4j_08_2f4e4e10:
+
+    # c "I picked it up from a lady friend."
+    c ""
+
+# game/script_jessie.rpy:17385
+translate russian ch4j_08_bb43656b:
+
+    # j "I approve."
+    j ""
+
+# game/script_jessie.rpy:17386
+translate russian ch4j_08_be055999:
+
+    # c "Truly, we have options. We have legs. We'll walk home if need be."
+    c ""
+
+# game/script_jessie.rpy:17388
+translate russian ch4j_08_50e3353a_1:
+
+    # j "I also have money. Enough stowed away for a rainy day or two. This is just the next step."
+    j ""
+
+# game/script_jessie.rpy:17389
+translate russian ch4j_08_c282083f_1:
+
+    # c "Nothing is permanent."
+    c ""
+
+# game/script_jessie.rpy:17391
+translate russian ch4j_08_92fbb758_1:
+
+    # j "That's for sure!"
+    j ""
+
+# game/script_jessie.rpy:17393
+translate russian ch4j_08_86c5ea24:
+
+    # "Our mutual eagerness to escape is now palpable. But I dread saying goodbye to Gran. The thought of leaving family must be on Jessie's mind, too."
+    ""
+
+# game/script_jessie.rpy:17395
+translate russian ch4j_08_2877424f:
+
+    # j "Should we go to your house first? To speak with Agnes?"
+    j ""
+
+# game/script_jessie.rpy:17396
+translate russian ch4j_08_fd304f07:
+
+    # c "Probably. But do you think we'll find your father there, too?"
+    c ""
+
+# game/script_jessie.rpy:17398
+translate russian ch4j_08_cc040198:
+
+    # j "No. I imagine he's drinking himself silly at the pub. We'll... cross that bridge when need be."
+    j ""
+
+# game/script_jessie.rpy:17399
+translate russian ch4j_08_faf3a918:
+
+    # c "And we'll cross it together."
+    c ""
+
+# game/script_jessie.rpy:17409
+translate russian ch4j_08_abd43cb2:
+
+    # "The wind picks up and carries us toward the farm. By good fortune, we pass no other people. Not a soul in sight."
+    ""
+
+# game/script_jessie.rpy:17410
+translate russian ch4j_08_d4001abb:
+
+    # "I avert my eyes when I see a steel trap, open and ready. The battleground we leave won't have closure. But it also won't contain us."
+    ""
+
+# game/script_jessie.rpy:17411
+translate russian ch4j_08_279e987f:
+
+    # "Inhaling the morning dew and the sour scent of the salty coast is like breathing in heaven. To just be alive is truly the greatest gift."
+    ""
+
+# game/script_jessie.rpy:17413
+translate russian ch4j_08_de424a42:
+
+    # "When I lean into Jessie's neck to steal a kiss, I detect the strong oaky smell of last night's perfume. Perhaps I'm living through the lens of survival, but the smell is the best I've ever taken in."
+    ""
+
+# game/script_jessie.rpy:17414
+translate russian ch4j_08_663085cd:
+
+    # "I feel it travel through my nose, throat, and lungs, and hold it in as long as I can."
+    ""
+
+# game/script_jessie.rpy:17428
+translate russian ch4j_08_f8c5a091:
+
+    # "Thanks to careful pathing and Jessie's keen senses, we're able to steer well clear of the handful of people we encounter on the way to Gran's house."
+    ""
+
+# game/script_jessie.rpy:17429
+translate russian ch4j_08_d8767ba9:
+
+    # "Once there, we see that the front door is partly ajar. I look to Jessie before opening the door with bated breath."
+    ""
+
+# game/script_jessie.rpy:17431
+translate russian ch4j_08_0590b287:
+
+    # "When we reach Gran's house, the front door is partly ajar. I look to Jessie before opening the door with bated breath."
+    ""
+
+# game/script_jessie.rpy:17435
+translate russian ch4j_08_98ba7ce2:
+
+    # c "Hello?"
+    c ""
+
+# game/script_jessie.rpy:17463
+translate russian ch4j_08_26bc7c80:
+
+    # s "Malcolm!"
+    s ""
+
+# game/script_jessie.rpy:17464
+translate russian ch4j_08_0c2e7f4f:
+
+    # "The old mare's eyes, wet with tears, go wide at the sight of my blood-stained jacket."
+    ""
+
+# game/script_jessie.rpy:17477
+translate russian ch4j_08_745cb922:
+
+    # s "Oh! My boy!"
+    s ""
+
+# game/script_jessie.rpy:17478
+translate russian ch4j_08_c978c984:
+
+    # "My gran hurries over to me and clings like she'll never let go."
+    ""
+
+# game/script_jessie.rpy:17479
+translate russian ch4j_08_a6759489:
+
+    # m "Goodness! Are you hurt? I'll fetch a doctor!"
+    m ""
+
+# game/script_jessie.rpy:17480
+translate russian ch4j_08_d1833c83:
+
+    # c "I'm fine. It looks worse than it is."
+    c ""
+
+# game/script_jessie.rpy:17481
+translate russian ch4j_08_dea0850b:
+
+    # "Once I entered my home as a child, then a so-called hero. This time, a survivor, ready to announce another departure."
+    ""
+
+# game/script_jessie.rpy:17482
+translate russian ch4j_08_0085a47d:
+
+    # "Gran feels so sturdy and frail all at once. It will devastate her that I am leaving."
+    ""
+
+# game/script_jessie.rpy:17491
+translate russian ch4j_08_f20591aa:
+
+    # g "You look like a ghost. What happened?"
+    g ""
+
+# game/script_jessie.rpy:17493
+translate russian ch4j_08_762b0256:
+
+    # m "Malcolm, have you seen—"
+    m ""
+
+# game/script_jessie.rpy:17496
+translate russian ch4j_08_7a7c6b3e:
+
+    # s "Malcolm?"
+    s ""
+
+# game/script_jessie.rpy:17497
+translate russian ch4j_08_59433e26:
+
+    # "Grace is holding Gran's hand tightly. The old mare's cheeks are damp with tears. She must have been worried sick."
+    ""
+
+# game/script_jessie.rpy:17498
+translate russian ch4j_08_858a8ee4:
+
+    # c "I'm so sorry, Gran. We didn't—"
+    c ""
+
+# game/script_jessie.rpy:17508
+translate russian ch4j_08_ab315128:
+
+    # "She stands and runs to me as fast as her small legs can carry her, grabbing and holding me as tight as the day I came home from overseas."
+    ""
+
+# game/script_jessie.rpy:17510
+translate russian ch4j_08_fa3254cf:
+
+    # s "No apologies! Not another word. You're safe. {i}You are home.{/i} That's all that matters."
+    s ""
+
+# game/script_jessie.rpy:17511
+translate russian ch4j_08_dea0850b_1:
+
+    # "Once I entered my home as a child, then a so-called hero. This time, a survivor, ready to announce another departure."
+    ""
+
+# game/script_jessie.rpy:17512
+translate russian ch4j_08_05ab365a:
+
+    # "She feels so sturdy and frail all at once. It will devastate her that I am leaving."
+    ""
+
+# game/script_jessie.rpy:17523
+translate russian ch4j_08_579c2156:
+
+    # m "Malcolm, where is—"
+    m ""
+
+# game/script_jessie.rpy:17539
+translate russian ch4j_08_8feccfbb:
+
+    # "As Jessie steps through the door behind me, little Toast zooms out from under the table and paws at her furry friend's feet."
+    ""
+
+# game/script_jessie.rpy:17540
+translate russian ch4j_08_6b51f751:
+
+    # m "...J-Jessie?" (multiple=2)
+    m "" (multiple=2)
+
+# game/script_jessie.rpy:17541
+translate russian ch4j_08_c2cd7342:
+
+    # g "Sis'!" (multiple=2)
+    g "" (multiple=2)
+
+# game/script_jessie.rpy:17550
+translate russian ch4j_08_a77dac66:
+
+    # "Gran and Grace's eyes light up. Marion's lights go out."
+    ""
+
+# game/script_jessie.rpy:17551
+translate russian ch4j_08_b5f5e03e:
+
+    # c "Marion!"
+    c ""
+
+# game/script_jessie.rpy:17578
+translate russian ch4j_08_72419cdd:
+
+    # "I lunge over and catch her as she fully faints at the sight of her sister as a wolf."
+    ""
+
+# game/script_jessie.rpy:17579
+translate russian ch4j_08_4d34d145:
+
+    # c "Och, I've got ya!"
+    c ""
+
+# game/script_jessie.rpy:17580
+translate russian ch4j_08_69158052:
+
+    # "My words fall on deaf ears."
+    ""
+
+# game/script_jessie.rpy:17582
+translate russian ch4j_08_e76b841b:
+
+    # s "Marion! Goodness, you poor thing! Oh, let me get you some water."
+    s ""
+
+# game/script_jessie.rpy:17587
+translate russian ch4j_08_6ac5a03b:
+
+    # j "Better get some whisky, too."
+    j ""
+
+# game/script_jessie.rpy:17588
+translate russian ch4j_08_35a0789b:
+
+    # c "Grace, will you fetch some blankets for your sister?"
+    c ""
+
+# game/script_jessie.rpy:17589
+translate russian ch4j_08_e80dc8b4:
+
+    # extend " Wait..."
+    extend ""
+
+# game/script_jessie.rpy:17596
+translate russian ch4j_08_30a3870b:
+
+    # "Three guilt-ridden faces turn away from me."
+    ""
+
+# game/script_jessie.rpy:17597
+translate russian ch4j_08_2b5eb6f5:
+
+    # c "{i}Did none of you ladies tell her?{/i}"
+    c ""
+
+# game/script_jessie.rpy:17599
+translate russian ch4j_08_85d07af3:
+
+    # "Silence and averted eyes tell me my answer. I shake my head and carry Marion to the table. We'll have some explaining to do when she comes to."
+    ""
+
+# game/script_jessie.rpy:17637
+translate russian ch4j_08_4b68ae32:
+
+    # j "Marion...?"
+    j ""
+
+# game/script_jessie.rpy:17638
+translate russian ch4j_08_fc4fbf4b:
+
+    # "Jessie, who has since changed into fresh clothes, speaks to her sister with the softness of a gentle breeze."
+    ""
+
+# game/script_jessie.rpy:17641
+translate russian ch4j_08_bf702161:
+
+    # m "...Hm? You're all... here?"
+    m ""
+
+# game/script_jessie.rpy:17643
+translate russian ch4j_08_27aee07d:
+
+    # s "We're here, dearie. Are you all right?"
+    s ""
+
+# game/script_jessie.rpy:17645
+translate russian ch4j_08_5675237d:
+
+    # m "I had... the strangest dream..."
+    m ""
+
+# game/script_jessie.rpy:17650
+translate russian ch4j_08_d9b35489:
+
+    # m "...And I think I've not yet woken."
+    m ""
+
+# game/script_jessie.rpy:17653
+translate russian ch4j_08_d5e3b955:
+
+    # g "Don't worry 'bout your mangy mutt of a sister, Marion. She's no fiercer than wee Toast."
+    g ""
+
+# game/script_jessie.rpy:17657
+translate russian ch4j_08_fb0d8119:
+
+    # "Jessie growls through bared teeth."
+    ""
+
+# game/script_jessie.rpy:17658
+translate russian ch4j_08_612ba485:
+
+    # j "Care to put that to the test, little sis'?"
+    j ""
+
+# game/script_jessie.rpy:17660
+translate russian ch4j_08_a0772802:
+
+    # s "Stop it, both of you! You'll give Marion the vapours."
+    s ""
+
+# game/script_jessie.rpy:17668
+translate russian ch4j_08_de256819:
+
+    # m "Jessie... that's really you under there?"
+    m ""
+
+# game/script_jessie.rpy:17670
+translate russian ch4j_08_8734d57e:
+
+    # j "It's me, Marion. You always said I was wild at heart. Well... here you go."
+    j ""
+
+# game/script_jessie.rpy:17671
+translate russian ch4j_08_ec6a0607:
+
+    # "Through dazed eyes, Marion still seems to be trying to make sense of what she is seeing."
+    ""
+
+# game/script_jessie.rpy:17673
+translate russian ch4j_08_fad33d24:
+
+    # m "Is it... makeup? Part of your act?"
+    m ""
+
+# game/script_jessie.rpy:17675
+translate russian ch4j_08_177e3da4:
+
+    # j "No act, Marion. {i}Magic.{/i}"
+    j ""
+
+# game/script_jessie.rpy:17678
+translate russian ch4j_08_e769c349:
+
+    # m "Magic... is real?"
+    m ""
+
+# game/script_jessie.rpy:17680
+translate russian ch4j_08_00b7d2a9:
+
+    # s "As real as you, me, and the heavens above! Always knew the tales we heard as wee bairns told a kernel of truth!"
+    s ""
+
+# game/script_jessie.rpy:17681
+translate russian ch4j_08_cbc9a8b5:
+
+    # c "I know this is a lot to take in. Would you like to rest now? Or perhaps you'd like some tea?"
+    c ""
+
+# game/script_jessie.rpy:17691
+translate russian ch4j_08_3fa9a603:
+
+    # "Marion blinks."
+    ""
+
+# game/script_jessie.rpy:17693
+translate russian ch4j_08_21a6437b:
+
+    # m "What do you mean, tea? Is... no one else surprised that my sister is a dog!?"
+    m ""
+
+# game/script_jessie.rpy:17699
+translate russian ch4j_08_c81c7ae9:
+
+    # "Eyes start shifting. Gran looks to me. I look to Grace, who looks to Jessie. Marion looks at all of us, looking for an answer."
+    ""
+
+# game/script_jessie.rpy:17705
+translate russian ch4j_08_580a394c:
+
+    # s "Oh, you poor dearie..." (multiple=3)
+    s "" (multiple=3)
+
+# game/script_jessie.rpy:17706
+translate russian ch4j_08_2742e44d:
+
+    # g "We were going\nto tell you..." (multiple=3)
+    g "" (multiple=3)
+
+# game/script_jessie.rpy:17707
+translate russian ch4j_08_9897a951:
+
+    # c "I thought you knew!" (multiple=3)
+    c "" (multiple=3)
+
+# game/script_jessie.rpy:17710
+translate russian ch4j_08_e0e8bf9d:
+
+    # j "We didn't want to worry you. You carry so much on your shoulders already..."
+    j ""
+
+# game/script_jessie.rpy:17712
+translate russian ch4j_08_26f2adff:
+
+    # g "...You didn't need one more thing. And it wasn't a problem! At least, until..."
+    g ""
+
+# game/script_jessie.rpy:17714
+translate russian ch4j_08_7bf8df22:
+
+    # j "...Last night."
+    j ""
+
+# game/script_jessie.rpy:17720
+translate russian ch4j_08_60b008c2:
+
+    # "Marion shakes her head, either in disagreement or to shake off some cobwebs. Perhaps both."
+    ""
+
+# game/script_jessie.rpy:17722
+translate russian ch4j_08_7c1c74e3:
+
+    # m "Jessie, you don't need to hide anything from me. Family always comes first. No matter what, I'll always be here for you."
+    m ""
+
+# game/script_jessie.rpy:17727
+translate russian ch4j_08_485c483c:
+
+    # "Jessie's bright yellow-tinged eyes blink back tears."
+    ""
+
+# game/script_jessie.rpy:17729
+translate russian ch4j_08_7316ea67:
+
+    # j "Thanks, sis'."
+    j ""
+
+# game/script_jessie.rpy:17733
+translate russian ch4j_08_559ce7b4:
+
+    # m "So when Father came home talking about a monster, he was talking about..."
+    m ""
+
+# game/script_jessie.rpy:17735
+translate russian ch4j_08_497363f2:
+
+    # j "Yours truly. Yes."
+    j ""
+
+# game/script_jessie.rpy:17736
+translate russian ch4j_08_7e4b8745:
+
+    # c "Marion, you and Grace should take care. We ran into Owen this morning and found him to be particularly... volatile."
+    c ""
+
+# game/script_jessie.rpy:17738
+translate russian ch4j_08_4b55c706:
+
+    # g "Oh, we're aware. He showed up on our doorstep ranting and yelling. All unholy things! Talking about the devil and demons, witchcraft and repentance."
+    g ""
+
+# game/script_jessie.rpy:17740
+translate russian ch4j_08_91fe3993:
+
+    # m "I went to throw my arms around him and he tossed me aside!"
+    m ""
+
+# game/script_jessie.rpy:17742
+translate russian ch4j_08_415d1b3d:
+
+    # g "Then he booted us out of our own house. \"His\" house. We're all cursed beings, he said, and we're to get out of his sight."
+    g ""
+
+# game/script_jessie.rpy:17744
+translate russian ch4j_08_6a79b84f:
+
+    # g "Spoken like a true madman."
+    g ""
+
+# game/script_jessie.rpy:17746
+translate russian ch4j_08_5d83bbe4:
+
+    # m "Don't speak about Father that way! He's not mad, he just... needs help."
+    m ""
+
+# game/script_jessie.rpy:17751
+translate russian ch4j_08_0d545826:
+
+    # m "I think I understand now. Coming back from war to find his daughter like this? It's enough to drive anyone..."
+    m ""
+
+# game/script_jessie.rpy:17753
+translate russian ch4j_08_dd61bdd0:
+
+    # j "Mad?"
+    j ""
+
+# game/script_jessie.rpy:17755
+translate russian ch4j_08_0bd20c21:
+
+    # m "{i}He's not mad!{/i}"
+    m ""
+
+# game/script_jessie.rpy:17757
+translate russian ch4j_08_8e7e637c:
+
+    # s "So Owen's being stubborn again, is he? I know a thing or two about stubborn! I'll speak to him, auld mare to auld mule. He'll see straight soon enough."
+    s ""
+
+# game/script_jessie.rpy:17762
+translate russian ch4j_08_e82b76e5:
+
+    # "Good old gran, always willing to take the bull by the horns—only this bull is armed and unhinged. I try to phrase it more delicately."
+    ""
+
+# game/script_jessie.rpy:17763
+translate russian ch4j_08_63603a48:
+
+    # c "Gran, I appreciate the gesture, but I don't think there will be any reaching him. Some bridges were burnt that can't be rebuilt."
+    c ""
+
+# game/script_jessie.rpy:17767
+translate russian ch4j_08_24c7298c:
+
+    # m "What do you mean by that?"
+    m ""
+
+# game/script_jessie.rpy:17769
+translate russian ch4j_08_2f465218:
+
+    # j "He means I'm not welcome here anymore."
+    j ""
+
+# game/script_jessie.rpy:17774
+translate russian ch4j_08_99881247:
+
+    # "Marion looks between me and her changed sister. I can see that the news of our departure will hurt her as much as Gran."
+    ""
+
+# game/script_jessie.rpy:17776
+translate russian ch4j_08_7e02279e:
+
+    # m "Don't say that! He just needs a day to rest. To calm down. He needs his space!"
+    m ""
+
+# game/script_jessie.rpy:17779
+translate russian ch4j_08_b0580ae9:
+
+    # m "This is all most unusual, yes, but in time he'll see nothing's changed. Y-you {i}are{/i} still you... right, Jessie?"
+    m ""
+
+# game/script_jessie.rpy:17781
+translate russian ch4j_08_1788b220:
+
+    # j "I'm no different than I've ever been. That's precisely the problem."
+    j ""
+
+# game/script_jessie.rpy:17783
+translate russian ch4j_08_5756b916:
+
+    # g "Father was there, Marion, at the pub. He blew up at Jessie."
+    g ""
+
+# game/script_jessie.rpy:17785
+translate russian ch4j_08_08e41da8:
+
+    # m "During your performance?"
+    m ""
+
+# game/script_jessie.rpy:17787
+translate russian ch4j_08_4c8d4c6b:
+
+    # j "Yes. He saw everything. Heard everything. He erupted. So did I, for that matter."
+    j ""
+
+# game/script_jessie.rpy:17789
+translate russian ch4j_08_0a5adefc:
+
+    # j "You know I was never the daughter he wanted me to be."
+    j ""
+
+# game/script_jessie.rpy:17792
+translate russian ch4j_08_e35b6081:
+
+    # m "Because of your act? I don't understand. What happened at the audition? How did you end up... like this?"
+    m ""
+
+# game/script_jessie.rpy:17793
+translate russian ch4j_08_f38beaec:
+
+    # "Marion's words must hurt Jessie more than she could know. The wounds are still fresh."
+    ""
+
+# game/script_jessie.rpy:17794
+translate russian ch4j_08_a360f3f0:
+
+    # c "Perhaps that is a question best saved for another time—"
+    c ""
+
+# game/script_jessie.rpy:17796
+translate russian ch4j_08_ca0239d8:
+
+    # j "It's all right Malcolm."
+    j ""
+
+# game/script_jessie.rpy:17797
+translate russian ch4j_08_d8d46939:
+
+    # "Jessie takes a deep breath, her ears drooping as she recollects."
+    ""
+
+# game/script_jessie.rpy:17800
+translate russian ch4j_08_0c41e232:
+
+    # j "I lost control. I tried to help people I cared about, and only drew them deeper into this mess."
+    j ""
+
+# game/script_jessie.rpy:17802
+translate russian ch4j_08_9de5f379:
+
+    # g "Father pushed you over the edge. It's not your fault."
+    g ""
+
+# game/script_jessie.rpy:17804
+translate russian ch4j_08_a3107da4:
+
+    # j "It {i}is{/i} my fault. I gave in to the animal inside, and now look at me! I can't even put the lid back on what I've unleashed."
+    j ""
+
+# game/script_jessie.rpy:17805
+translate russian ch4j_08_64041535:
+
+    # "I remember the sensations too well. The bubbling just beneath the surface. The feral urges begging to be released. Feeling caught between worlds, trapped and free at the same time."
+    ""
+
+# game/script_jessie.rpy:17806
+translate russian ch4j_08_b6172610:
+
+    # c "You've mastered these feelings before, Jessie. You will again in time. I believe in you."
+    c ""
+
+# game/script_jessie.rpy:17808
+translate russian ch4j_08_e371a3d3:
+
+    # j "Alana said this would happen. What's to stop it from happening again? If I can't keep my claws sheathed when it matters, then why {i}shouldn't{/i} people see me as a monster?"
+    j ""
+
+# game/script_jessie.rpy:17814
+translate russian ch4j_08_10d9f481:
+
+    # "The table falls quiet, save for the sound of Jessie's restlessly swishing tail."
+    ""
+
+# game/script_jessie.rpy:17817
+translate russian ch4j_08_9b47051a:
+
+    # m "I can't pretend to understand any of what's going on, but... you're my sister, Jessie. I know in my heart that you're not a monster."
+    m ""
+
+# game/script_jessie.rpy:17819
+translate russian ch4j_08_8ab84f49:
+
+    # m "You're not evil, or bad, or have one mean bone in your body."
+    m ""
+
+# game/script_jessie.rpy:17821
+translate russian ch4j_08_75ef1edc:
+
+    # "I recall what Jessie told me the night she chased after the rabbit. How instinctively she knew she didn't want to hurt it. Neither did I, when I chased after a bunny myself."
+    ""
+
+# game/script_jessie.rpy:17822
+translate russian ch4j_08_0b8f41f2:
+
+    # c "Marion's right. Even if you give into your instincts, your nature is to never hurt a soul."
+    c ""
+
+# game/script_jessie.rpy:17824
+translate russian ch4j_08_ef194c53:
+
+    # g "Unless they deserve it."
+    g ""
+
+# game/script_jessie.rpy:17826
+translate russian ch4j_08_c3bd4104:
+
+    # m "Grace! Lord help us all, {i}your{/i} instincts are far more insidious."
+    m ""
+
+# game/script_jessie.rpy:17828
+translate russian ch4j_08_af1f6019:
+
+    # g "Hey! I just meant Jessie's impulses did what they were supposed to do. They'll continue to defend us."
+    g ""
+
+# game/script_jessie.rpy:17830
+translate russian ch4j_08_beb7f720:
+
+    # s "Your sisters are right, dear. You're neither monster nor animal. You are wulver, a noble being, pure of heart."
+    s ""
+
+# game/script_jessie.rpy:17834
+translate russian ch4j_08_db103c60:
+
+    # s "You've been touched by the fae, and their magic will protect you, just as you protect your loved ones."
+    s ""
+
+# game/script_jessie.rpy:17836
+translate russian ch4j_08_b842c60a:
+
+    # "Jessie gives each one of us an emotional smile."
+    ""
+
+# game/script_jessie.rpy:17838
+translate russian ch4j_08_8b8f566b:
+
+    # j "Thank you—all of you—for all the faith you place in me."
+    j ""
+
+# game/script_jessie.rpy:17840
+translate russian ch4j_08_20e860cd:
+
+    # m "I'll be your biggest supporter forever, no matter how you look. I promise. I'm just... very sorry I wasn't there last night to cheer you on. Maybe I could have done something to help."
+    m ""
+
+# game/script_jessie.rpy:17842
+translate russian ch4j_08_cf4fc808:
+
+    # j "Marion, no. Everything played out the way it was supposed to, I guess."
+    j ""
+
+# game/script_jessie.rpy:17844
+translate russian ch4j_08_4b6dd02f:
+
+    # g "You don't honestly believe that, do you?"
+    g ""
+
+# game/script_jessie.rpy:17846
+translate russian ch4j_08_e36d77d0:
+
+    # j "I don't know what to believe anymore. All I know is that Malcolm and I are alive, and my instincts tell me we should make the most of it."
+    j ""
+
+# game/script_jessie.rpy:17849
+translate russian ch4j_08_f851b85c:
+
+    # "Marion nods solemnly, tears forming at the corners of her eyes."
+    ""
+
+# game/script_jessie.rpy:17851
+translate russian ch4j_08_93b9ce09:
+
+    # m "It's... not safe for you here, is it?"
+    m ""
+
+# game/script_jessie.rpy:17858
+translate russian ch4j_08_dae50c75:
+
+    # "Jessie shakes her head."
+    ""
+
+# game/script_jessie.rpy:17861
+translate russian ch4j_08_2ca7bcb5:
+
+    # m "You're leaving."
+    m ""
+
+# game/script_jessie.rpy:17862
+translate russian ch4j_08_b4aa051e:
+
+    # "The words come matter-of-factly. A statement, not a question. An inevitability. Gran looks to me with tears of her own."
+    ""
+
+# game/script_jessie.rpy:17864
+translate russian ch4j_08_ce82bdd3:
+
+    # j "I'm sorry. I can't stay here."
+    j ""
+
+# game/script_jessie.rpy:17866
+translate russian ch4j_08_7588bc88:
+
+    # "Marion's tears flow freely now. All her work to preserve a semblance of family, undone overnight by the man who by all rights ought to have been at its center."
+    ""
+
+# game/script_jessie.rpy:17871
+translate russian ch4j_08_c4aa8178:
+
+    # m "I know we'll reunite. We won't be apart forever. Promise me that, at least?"
+    m ""
+
+# game/script_jessie.rpy:17873
+translate russian ch4j_08_1881ed30:
+
+    # j "Of course! I can't be away from either of you for too long. I'd go mad."
+    j ""
+
+# game/script_jessie.rpy:17874
+translate russian ch4j_08_e6cba671:
+
+    # "She catches herself."
+    ""
+
+# game/script_jessie.rpy:17876
+translate russian ch4j_08_5d4da137:
+
+    # j "Not too mad, mind you!"
+    j ""
+
+# game/script_jessie.rpy:17881
+translate russian ch4j_08_b65af7f9:
+
+    # m "We'll be a family even if we aren't together. And know that I want to take on your problems and make them better."
+    m ""
+
+# game/script_jessie.rpy:17883
+translate russian ch4j_08_b4cf03a4:
+
+    # j "I know you always do."
+    j ""
+
+# game/script_jessie.rpy:17886
+translate russian ch4j_08_99f37ae7:
+
+    # m "I accept and cherish everything about you, Jessie. Even your..."
+    m ""
+
+# game/script_jessie.rpy:17888
+translate russian ch4j_08_e6a1bbba:
+
+    # j "My fur?"
+    j ""
+
+# game/script_jessie.rpy:17890
+translate russian ch4j_08_516e8025:
+
+    # m "As long as it doesn't clog my drain!"
+    m ""
+
+# game/script_jessie.rpy:17903
+translate russian ch4j_08_593a89ad:
+
+    # "The sisters laugh, and the three embrace. Grace says little more, and I know her pain is kept closer inside."
+    ""
+
+# game/script_jessie.rpy:17904
+translate russian ch4j_08_59f192a8:
+
+    # "By contrast, Marion—of course—wears her heart on her sleeve. The faucet flows freely, her tears turning into sobs."
+    ""
+
+# game/script_jessie.rpy:17905
+translate russian ch4j_08_aa3229e5:
+
+    # "Gran, who has been silently weeping throughout, pulls out her handkerchief to blow her nose loudly."
+    ""
+
+# game/script_jessie.rpy:17906
+translate russian ch4j_08_301ed25c:
+
+    # g "Marion! Enough with the tears. I don't want to cry."
+    g ""
+
+# game/script_jessie.rpy:17907
+translate russian ch4j_08_ac9ddddc:
+
+    # m "Oh, hush. I thought you liked getting wet!"
+    m ""
+
+# game/script_jessie.rpy:17919
+translate russian ch4j_08_6ae86d9f:
+
+    # "The youngest sister wiggles her way out of the group hug."
+    ""
+
+# game/script_jessie.rpy:17920
+translate russian ch4j_08_83bea4f9:
+
+    # g "Hey, Jessie—I suspected you might need to get out of town, so I packed some of your things before we left home. They're in your—er, Malcolm's room."
+    g ""
+
+# game/script_jessie.rpy:17922
+translate russian ch4j_08_9d6a1aa2:
+
+    # j "You did? Thanks, Grace. I always knew I could count on you."
+    j ""
+
+# game/script_jessie.rpy:17924
+translate russian ch4j_08_1c984304:
+
+    # m "There's a first time for everything."
+    m ""
+
+# game/script_jessie.rpy:17942
+translate russian ch4j_08_7ca511c4:
+
+    # "Grace elbows Marion, and the siblings' truce is over as quickly as it came. Jessie looks from Gran to me, then winks."
+    ""
+
+# game/script_jessie.rpy:17945
+translate russian ch4j_08_b4bb7256:
+
+    # j "Come on, girls, I need your help with something before I go."
+    j ""
+
+# game/script_jessie.rpy:17973
+translate russian ch4j_08_4cf41bb5:
+
+    # "The sisters join hands and walk into my bedroom, Toast at their side. When the door closes, Gran speaks up."
+    ""
+
+# game/script_jessie.rpy:17980
+translate russian ch4j_08_e56ce686:
+
+    # s "I have to say goodbye again, don't I?"
+    s ""
+
+# game/script_jessie.rpy:17997
+translate russian ch4j_08_53754acf:
+
+    # c "Not for long, I hope. We just need to get Jessie somewhere safe until the dust settles. For the rumors and anger to subside."
+    c ""
+
+# game/script_jessie.rpy:18007
+translate russian ch4j_08_b53c3cf9:
+
+    # "Gran looks at me wistfully, a delicate smirk on her face."
+    ""
+
+# game/script_jessie.rpy:18008
+translate russian ch4j_08_07310d79:
+
+    # s "Anger will fade fast. Rumors... they'll stick around longer than you think."
+    s ""
+
+# game/script_jessie.rpy:18009
+translate russian ch4j_08_c51eed47:
+
+    # "No one knows the workings of the rumor mills better than Gran, and I worry she's right."
+    ""
+
+# game/script_jessie.rpy:18011
+translate russian ch4j_08_65f27799:
+
+    # s "Will you have help, where you are going?"
+    s ""
+
+# game/script_jessie.rpy:18012
+translate russian ch4j_08_df5c5f80:
+
+    # c "That's the fond hope. Wondrous Walter offered to take Jessie on in his revue show. He says he'll make her a star."
+    c ""
+
+# game/script_jessie.rpy:18013
+translate russian ch4j_08_5ad91e15:
+
+    # "There's sadness in Gran's dark eyes. She smiles, but it barely hides her hurt and frustration. She's lost me to obligation, to service, and now to love and devotion."
+    ""
+
+# game/script_jessie.rpy:18014
+translate russian ch4j_08_c5e9964e:
+
+    # "How must that pain feel?"
+    ""
+
+# game/script_jessie.rpy:18016
+translate russian ch4j_08_6a415f45:
+
+    # s "Will that man keep her safe?"
+    s ""
+
+# game/script_jessie.rpy:18017
+translate russian ch4j_08_c0216af9:
+
+    # c "I... we don't know yet. But we have to trust someone. Jessie and I can't just hop a train out of here. She's..."
+    c ""
+
+# game/script_jessie.rpy:18019
+translate russian ch4j_08_308d00f6:
+
+    # c "Well, for lack of better words, she's stuck as she is. For now."
+    c ""
+
+# game/script_jessie.rpy:18021
+translate russian ch4j_08_9a0f1084:
+
+    # s "With the fur?"
+    s ""
+
+# game/script_jessie.rpy:18022
+translate russian ch4j_08_6f572c3e:
+
+    # c "Aye."
+    c ""
+
+# game/script_jessie.rpy:18026
+translate russian ch4j_08_0cddd521:
+
+    # s "I'll worry over you night and day. But I do that even when you're here, my dear boy. Besides, I believe that girl can take care of herself... and you."
+    s ""
+
+# game/script_jessie.rpy:18027
+translate russian ch4j_08_1efbfec9:
+
+    # "Gran gazes past me, towards the bedroom in which I'd slept for so many years. A room I share with the woman who's tearing me away from what's left of my born family."
+    ""
+
+# game/script_jessie.rpy:18030
+translate russian ch4j_08_b2ed1880:
+
+    # s "She's a star through and through. I can't wait to see her act in the big city!"
+    s ""
+
+# game/script_jessie.rpy:18031
+translate russian ch4j_08_ea77344c:
+
+    # c "I'll send for you. You can join us!"
+    c ""
+
+# game/script_jessie.rpy:18033
+translate russian ch4j_08_9c1c52f6:
+
+    # s "To visit? Of course. But to stay? Nay, all that hustle and bustle is not for me. Anyway, I've responsibilities to tend to here."
+    s ""
+
+# game/script_jessie.rpy:18034
+translate russian ch4j_08_6c7a8dea:
+
+    # "Responsibilities that I'm reminded I'll be leaving behind."
+    ""
+
+# game/script_jessie.rpy:18035
+translate russian ch4j_08_ad9f55c4:
+
+    # c "Gran, will you be all right on your own? I promise, I shan't leave you long. I'll come back often to help!"
+    c ""
+
+# game/script_jessie.rpy:18037
+translate russian ch4j_08_09795bb9:
+
+    # s "Oh, don't worry about me! I'm not an invalid. I'm old. That's all. I'll manage. I have the girls here."
+    s ""
+
+# game/script_jessie.rpy:18051
+translate russian ch4j_08_b6c6c552:
+
+    # g "That's right! She has me!"
+    g ""
+
+# game/script_jessie.rpy:18052
+translate russian ch4j_08_a55709d1:
+
+    # "The youngest MacLeod reappears and comes back to sit with us."
+    ""
+
+# game/script_jessie.rpy:18055
+translate russian ch4j_08_beabfe51:
+
+    # g "I'm happy to live with Agnes, to help with whatever she needs. Once Marion sees what Father has made of their \"loving home,\" I imagine she'll want to stay here, too."
+    g ""
+
+# game/script_jessie.rpy:18056
+translate russian ch4j_08_bc43f8fd:
+
+    # "I expect Gran to object, but she is all smiles."
+    ""
+
+# game/script_jessie.rpy:18058
+translate russian ch4j_08_33cf5967:
+
+    # s "You're too good to me. But we'll need to cheer Marion up. Her heart will be shattered."
+    s ""
+
+# game/script_jessie.rpy:18060
+translate russian ch4j_08_5cea4ac9:
+
+    # g "Just for a while. Heartbreak will heal, and hopefully Father will..."
+    g ""
+
+# game/script_jessie.rpy:18064
+translate russian ch4j_08_9f9c7445:
+
+    # "Change? Become accepting? Leave? We look at each other and shrug. No one has the right answer."
+    ""
+
+# game/script_jessie.rpy:18066
+translate russian ch4j_08_ea930328:
+
+    # "My spirit remains deeply shaken. I've looked death in the face several times over, but never through the eyes of someone I expected to trust."
+    ""
+
+# game/script_jessie.rpy:18067
+translate russian ch4j_08_164c1a22:
+
+    # "Owen MacLeod's vindictiveness has seared a hole in my soul. One that will not heal with apologies or time. One that won't heal, ever."
+    ""
+
+# game/script_jessie.rpy:18069
+translate russian ch4j_08_29cae49e:
+
+    # s "Well... know that the Campbell house is always open, and well stocked with cordial for after long days like these."
+    s ""
+
+# game/script_jessie.rpy:18071
+translate russian ch4j_08_6e0e52cf:
+
+    # "Grace beams, and I know she will be well rewarded for her support."
+    ""
+
+# game/script_jessie.rpy:18072
+translate russian ch4j_08_9c794acd:
+
+    # c "I can't thank you enough, Grace."
+    c ""
+
+# game/script_jessie.rpy:18074
+translate russian ch4j_08_292a0ec4:
+
+    # s "I'm the one who is thankful. I have so many people looking out for me."
+    s ""
+
+# game/script_jessie.rpy:18075
+translate russian ch4j_08_a5790eda:
+
+    # m "And Jessie is lucky to have such talented sisters looking out for her!"
+    m ""
+
+# game/script_jessie.rpy:18106
+translate russian ch4j_08_11d6e005:
+
+    # m "Well? What do you all think?"
+    m ""
+
+# game/script_jessie.rpy:18108
+translate russian ch4j_08_82a70ebc:
+
+    # c "...Wow."
+    c ""
+
+# game/script_jessie.rpy:18119
+translate russian ch4j_08_c49b9798:
+
+    # "Grace snickers."
+    ""
+
+# game/script_jessie.rpy:18121
+translate russian ch4j_08_791455f5:
+
+    # s "The red suits you, dear."
+    s ""
+
+# game/script_jessie.rpy:18123
+translate russian ch4j_08_619ebffe:
+
+    # j "I look like Little Red Riding Wolf."
+    j ""
+
+# game/script_jessie.rpy:18125
+translate russian ch4j_08_4428c40f:
+
+    # c "Is that... your disguise?"
+    c ""
+
+# game/script_jessie.rpy:18126
+translate russian ch4j_08_030eaee3:
+
+    # "It's charming, but about as subtle as a bullfighter's cape."
+    ""
+
+# game/script_jessie.rpy:18128
+translate russian ch4j_08_56b607f4:
+
+    # g "Marion thought Jessie might appreciate something with form {i}and{/i} function."
+    g ""
+
+# game/script_jessie.rpy:18130
+translate russian ch4j_08_0fd6e346:
+
+    # m "Exactly! Oh—I had to cut up your holiday tablecloth to make it; I hope you don't mind."
+    m ""
+
+# game/script_jessie.rpy:18132
+translate russian ch4j_08_420d50a6:
+
+    # "Gran's face pales. Now that Marion says it, I recognize the stain where I spilled my very first eggnog—near Jessie's left cheek."
+    ""
+
+# game/script_jessie.rpy:18134
+translate russian ch4j_08_c7c729a0:
+
+    # c "That's... very kind of you to do this, Marion."
+    c ""
+
+# game/script_jessie.rpy:18138
+translate russian ch4j_08_d71f44fc:
+
+    # j "I asked for a cloak to conceal me, and instead got a cape that's louder than my old dress."
+    j ""
+
+# game/script_jessie.rpy:18140
+translate russian ch4j_08_3be6a3d6:
+
+    # m "Oh, listen to you. It hides your tail and your face from the sides just fine. I thought you liked gaudy red outfits!"
+    m ""
+
+# game/script_jessie.rpy:18142
+translate russian ch4j_08_c69e975c:
+
+    # g "At least it's festive."
+    g ""
+
+# game/script_jessie.rpy:18143
+translate russian ch4j_08_3edde4d1:
+
+    # c "It's a costume, that's all. If any strangers ask, you can say—"
+    c ""
+
+# game/script_jessie.rpy:18145
+translate russian ch4j_08_67a92087:
+
+    # j "I'm part of the circus?"
+    j ""
+
+# game/script_jessie.rpy:18146
+translate russian ch4j_08_2827c66e:
+
+    # "Jessie sticks her tongue out and rolls her eyes, but it might just be the right answer."
+    ""
+
+# game/script_jessie.rpy:18148
+translate russian ch4j_08_bdc11e22:
+
+    # g "People will want to meet you! You'll be just another famous pretty face... only with fangs!"
+    g ""
+
+# game/script_jessie.rpy:18150
+translate russian ch4j_08_90d2e0ac:
+
+    # j "You don't really believe we'll get away with that, do you?"
+    j ""
+
+# game/script_jessie.rpy:18152
+translate russian ch4j_08_0b9dfbf4:
+
+    # g "Well... Walter travels around with a monkey on his shoulder. One that's dressed in military attire, no less. How much crazier is a wolf lady?"
+    g ""
+
+# game/script_jessie.rpy:18155
+translate russian ch4j_08_7e5af0dc:
+
+    # j "I hope you're right."
+    j ""
+
+# game/script_jessie.rpy:18166
+translate russian ch4j_08_e4e80954:
+
+    # "Jessie sidles up beside me and placed her paw on my shoulder. I blush, caressing the soft fur atop her fingers."
+    ""
+
+# game/script_jessie.rpy:18167
+translate russian ch4j_08_a41a2c95:
+
+    # "Nerves still jangle around inside me, but having her by my side eases my worries... if not the heartache for what I will be leaving behind."
+    ""
+
+# game/script_jessie.rpy:18169
+translate russian ch4j_08_26fe9451:
+
+    # "I take it all in. My girlfriend and her two sisters, alongside my beloved grandmother. Two families become one. {i}My family.{/i}"
+    ""
+
+# game/script_jessie.rpy:18170
+translate russian ch4j_08_56fd292e:
+
+    # "When will we reunite again? I may be unable to read the sky, but I know it's written in the stars."
+    ""
+
+# game/script_jessie.rpy:18173
+translate russian ch4j_08_2f7ebbc9:
+
+    # "Jessie squeezes my shoulder."
+    ""
+
+# game/script_jessie.rpy:18174
+translate russian ch4j_08_59c79919:
+
+    # j "I think it's time."
+    j ""
+
+# game/script_jessie.rpy:18186
+translate russian ch4j_08_aa6d7b5e:
+
+    # "It doesn't take me long to gather my belongings, which are scarce. While doing so, I calculate the costs of train travel to and from Ach-na-Creige, as I'll need to return often."
+    ""
+
+# game/script_jessie.rpy:18187
+translate russian ch4j_08_e2ddd8b8:
+
+    # "Grace and Marion can help run the farm, but I need to be here to assist from time to time. It's a pipe dream ahead of us, and I'm not oblivious to reality."
+    ""
+
+# game/script_jessie.rpy:18188
+translate russian ch4j_08_54f91c64:
+
+    # "I chuckle to myself. The reality is, I could never stay away for long. I would miss them all too much!"
+    ""
+
+# game/script_jessie.rpy:18207
+translate russian ch4j_08_e744f090:
+
+    # "I take our bags and Jessie holds the door for me. I've been home less than a year, and off I go again."
+    ""
+
+# game/script_jessie.rpy:18208
+translate russian ch4j_08_a997b786:
+
+    # s "Are you sure it's safe to go out there? Out in the world among strangers?"
+    s ""
+
+# game/script_jessie.rpy:18210
+translate russian ch4j_08_8d2639a2:
+
+    # j "We can't hide here. I'm trusting Walter to smuggle us out of here and into Glasgow."
+    j ""
+
+# game/script_jessie.rpy:18212
+translate russian ch4j_08_905664ba:
+
+    # m "That's placing a lot of trust in one man."
+    m ""
+
+# game/script_jessie.rpy:18214
+translate russian ch4j_08_d4f46292:
+
+    # "Jessie looks to me."
+    ""
+
+# game/script_jessie.rpy:18215
+translate russian ch4j_08_4f089326:
+
+    # j "Sometimes that's just what you have to do."
+    j ""
+
+# game/script_jessie.rpy:18224
+translate russian ch4j_08_10d1435a:
+
+    # "Gran nods and gives me one final hug."
+    ""
+
+# game/script_jessie.rpy:18225
+translate russian ch4j_08_e71fcba1:
+
+    # s "Your coming back here... it meant everything to me. Thank you for showing me that magic still exists in this world."
+    s ""
+
+# game/script_jessie.rpy:18227
+translate russian ch4j_08_c0794764:
+
+    # s "And don't you dare let that magic get you into any more trouble!"
+    s ""
+
+# game/script_jessie.rpy:18228
+translate russian ch4j_08_1357cced:
+
+    # c "I won't, Gran."
+    c ""
+
+# game/script_jessie.rpy:18235
+translate russian ch4j_08_a45c3d28:
+
+    # s "Farewell, my boy."
+    s ""
+
+# game/script_jessie.rpy:18236
+translate russian ch4j_08_e2b983c5:
+
+    # c "Not \"farewell.\" Only, \"see you later.\""
+    c ""
+
+# game/script_jessie.rpy:18237
+translate russian ch4j_08_ac811dd5:
+
+    # "I don't dwell on any disappointment or despair, as the pain will burn too deeply. I am with the woman I love, and we are off on an unimaginable adventure."
+    ""
+
+# game/script_jessie.rpy:18239
+translate russian ch4j_08_376e246d:
+
+    # j "Don't fret, Agnes. I'll take good care of him."
+    j ""
+
+# game/script_jessie.rpy:18266
+translate russian ch4j_08_0571ec9e:
+
+    # "From the stable comes Grace pulling a reluctant Hazel."
+    ""
+
+# game/script_jessie.rpy:18268
+translate russian ch4j_08_988aa465:
+
+    # g "Oof. Thought you might want to say goodbye to your faithful steed."
+    g ""
+
+# game/script_jessie.rpy:18276
+translate russian ch4j_08_ea3f5944:
+
+    # "The sight and smell of my canine companion causes Hazel to buck."
+    ""
+
+# game/script_jessie.rpy:18281
+translate russian ch4j_08_9f3607c8:
+
+    # c "Hey! Easy, lass. There, there. You'll be free of Jessie and me soon enough, but I'll admit—I'm going to miss your antics!"
+    c ""
+
+# game/script_jessie.rpy:18286
+translate russian ch4j_08_b47d6b5c:
+
+    # "The horse lets me know she will not be missing mine."
+    ""
+
+# game/script_jessie.rpy:18287
+translate russian ch4j_08_84ca957a:
+
+    # c "All right, I get it. Maybe your new masters will earn more of your respect than I ever did."
+    c ""
+
+# game/script_jessie.rpy:18295
+translate russian ch4j_08_145f3c37:
+
+    # "Hazel nuzzles Grace, who laughs."
+    ""
+
+# game/script_jessie.rpy:18296
+translate russian ch4j_08_520da737:
+
+    # g "Yes, we'll get along swimmingly, I think."
+    g ""
+
+# game/script_jessie.rpy:18312
+translate russian ch4j_08_3b2f8ec6:
+
+    # "Without warning, the youngest MacLeod dashes over and squeezes her sister so tightly that Jessie must cling to Grace not to tumble over."
+    ""
+
+# game/script_jessie.rpy:18313
+translate russian ch4j_08_6704c3a6:
+
+    # j "Oof! When did you get so strong?"
+    j ""
+
+# game/script_jessie.rpy:18314
+translate russian ch4j_08_ad008026:
+
+    # g "Sorry, I just... I'll miss you lots, sis'."
+    g ""
+
+# game/script_jessie.rpy:18324
+translate russian ch4j_08_9099edf9:
+
+    # "Grace steps away and starts squinting at the places where Jessie clung to her."
+    ""
+
+# game/script_jessie.rpy:18326
+translate russian ch4j_08_a3cfdd2c:
+
+    # "When she finds no scratches, she looks to me and shrugs, disappointed."
+    ""
+
+# game/script_jessie.rpy:18328
+translate russian ch4j_08_a1b9f5ec:
+
+    # g "It was worth one last try."
+    g ""
+
+# game/script_jessie.rpy:18330
+translate russian ch4j_08_624bf1ad:
+
+    # c "Grace!"
+    c ""
+
+# game/script_jessie.rpy:18331
+translate russian ch4j_08_c9cac369:
+
+    # "I know little about how Jessie's powers work, only that they shouldn't be trifled with. And I don't want to have to use the last antidote on anyone but as a last resort."
+    ""
+
+# game/script_jessie.rpy:18333
+translate russian ch4j_08_f3ff18c6:
+
+    # j "You scamp. We'd better go, Malcolm, before my whole family grows tails."
+    j ""
+
+# game/script_jessie.rpy:18335
+translate russian ch4j_08_0e0a233a:
+
+    # m "Wait!"
+    m ""
+
+# game/script_jessie.rpy:18355
+translate russian ch4j_08_4c2a1413:
+
+    # "Marion sets Toast on the ground, runs into the house and returns a moment later with a basket. She rushes over to Jessie."
+    ""
+
+# game/script_jessie.rpy:18356
+translate russian ch4j_08_0e561d0e:
+
+    # m "Two loaves of honey bread and a jar of burdock root jam. For the road. Do you—do you still eat these things?"
+    m ""
+
+# game/script_jessie.rpy:18380
+translate russian ch4j_08_99d93871:
+
+    # "Jessie hugs her sister and Marion begins sobbing."
+    ""
+
+# game/script_jessie.rpy:18381
+translate russian ch4j_08_c00da078:
+
+    # j "Of course. Thank you, Marion."
+    j ""
+
+# game/script_jessie.rpy:18390
+translate russian ch4j_08_018e6da9:
+
+    # m "Please come back soon. Please."
+    m ""
+
+# game/script_jessie.rpy:18402
+translate russian ch4j_08_3749a986:
+
+    # j "I will. Marion, you have so much love. Never stop giving it to everyone."
+    j ""
+
+# game/script_jessie.rpy:18403
+translate russian ch4j_08_117a2bd5:
+
+    # "Even when they don't deserve it, I want to say. But I bite my tongue and try to stay positive."
+    ""
+
+# game/script_jessie.rpy:18404
+translate russian ch4j_08_26dc7694:
+
+    # c "And take good care of Toast!"
+    c ""
+
+# game/script_jessie.rpy:18416
+translate russian ch4j_08_80b0864e:
+
+    # "The dog yaps and dances around our feet, oblivious to the bittersweet pain that is eating at all of us."
+    ""
+
+# game/script_jessie.rpy:18433
+translate russian ch4j_08_3419edd9:
+
+    # "As Jessie steps through the door behind me, little Toast leaps out from under the table and into her arms."
+    ""
+
+# game/script_jessie.rpy:18440
+translate russian ch4j_08_c59656a3:
+
+    # m "...Jessie?" (multiple=2)
+    m "" (multiple=2)
+
+# game/script_jessie.rpy:18441
+translate russian ch4j_08_c2cd7342_1:
+
+    # g "Sis'!" (multiple=2)
+    g "" (multiple=2)
+
+# game/script_jessie.rpy:18449
+translate russian ch4j_08_ef573a86:
+
+    # "Jessie's sisters eyes light up, and they rush over and scoop her into a great hug."
+    ""
+
+# game/script_jessie.rpy:18450
+translate russian ch4j_08_42ade17a:
+
+    # j "Gee, it's good to see you too!"
+    j ""
+
+# game/script_jessie.rpy:18469
+translate russian ch4j_08_5e967717:
+
+    # "Agnes and I are soon enveloped by their embrace as well, and many happy tears are had before we all collect ourselves and sit down as a family."
+    ""
+
+# game/script_jessie.rpy:18470
+translate russian ch4j_08_a4e6ddb0:
+
+    # "Marion can't take her eyes off our bedraggled clothes."
+    ""
+
+# game/script_jessie.rpy:18480
+translate russian ch4j_08_0751b03e:
+
+    # m "Lord have mercy, Jessie, what happened to your dress? It's torn to ribbons! Are you all right?"
+    m ""
+
+# game/script_jessie.rpy:18482
+translate russian ch4j_08_7600237c:
+
+    # "Before Jessie can answer, Marion lowers her voice to a whisper."
+    ""
+
+# game/script_jessie.rpy:18492
+translate russian ch4j_08_835d2138:
+
+    # m "Were you... {i}were you attacked by the monster?{/i}"
+    m ""
+
+# game/script_jessie.rpy:18497
+translate russian ch4j_08_de816152:
+
+    # "I look to the other women with a raised eyebrow. Had no one let Marion in on what had happened? On Jessie's secret?"
+    ""
+
+# game/script_jessie.rpy:18498
+translate russian ch4j_08_9d6b1733:
+
+    # "At this point, I'm not sure we should dispel Marion's blissful unawareness of the situation, but it's Jessie's decision to make."
+    ""
+
+# game/script_jessie.rpy:18503
+translate russian ch4j_08_ec6535ee:
+
+    # j "It's... a long story. But don't you worry about the monster, Marion. I think it's gone."
+    j ""
+
+# game/script_jessie.rpy:18508
+translate russian ch4j_08_af8b0b1b:
+
+    # g "...Gone? Do you mean gone... for now?"
+    g ""
+
+# game/script_jessie.rpy:18509
+translate russian ch4j_08_33db81d9:
+
+    # c "Grace..."
+    c ""
+
+# game/script_jessie.rpy:18515
+translate russian ch4j_08_3a7bc727:
+
+    # "Jessie sneaks in a sly wink, which prompts a sigh of relief from both Agnes and Grace. But the flick of Jessie's eye isn't subtle enough to slip by Marion's scrutiny."
+    ""
+
+# game/script_jessie.rpy:18518
+translate russian ch4j_08_746e968c:
+
+    # j "It's... a long story. But don't you worry about the monster, Marion. It's gone, and never coming back."
+    j ""
+
+# game/script_jessie.rpy:18523
+translate russian ch4j_08_1d27d5bf:
+
+    # g "...Never? What do you mean?"
+    g ""
+
+# game/script_jessie.rpy:18524
+translate russian ch4j_08_33db81d9_1:
+
+    # c "Grace..."
+    c ""
+
+# game/script_jessie.rpy:18528
+translate russian ch4j_08_5c4e73e7:
+
+    # "My expression must convey all that remains unsaid. Grace and Agnes' faces both fall. Jessie won't make eye contact with anyone. And Marion..."
+    ""
+
+# game/script_jessie.rpy:18531
+translate russian ch4j_08_af8e4046:
+
+    # m "...Is there something you're not telling me?"
+    m ""
+
+# game/script_jessie.rpy:18535
+translate russian ch4j_08_1b47fb77:
+
+    # j "We had a wild night. A tale best saved for another time."
+    j ""
+
+# game/script_jessie.rpy:18538
+translate russian ch4j_08_d574f838:
+
+    # "The table is silent as Marion squints at each of us for a moment, trying to suss out unspoken truths. But none of us crack beneath her gaze."
+    ""
+
+# game/script_jessie.rpy:18540
+translate russian ch4j_08_79259d1e:
+
+    # m "Well, while you were having your \"wild night\" on the town, you will never guess who showed up at our doorstep."
+    m ""
+
+# game/script_jessie.rpy:18542
+translate russian ch4j_08_268c61bf:
+
+    # j "A ghost?"
+    j ""
+
+# game/script_jessie.rpy:18547
+translate russian ch4j_08_e5f0f3b8:
+
+    # m "May as well have been. It was Father. He looked as bedraggled as you two. Said he'd seen {i}monsters{/i}—that's why I asked."
+    m ""
+
+# game/script_jessie.rpy:18549
+translate russian ch4j_08_181c4b23:
+
+    # "Marion's face pales."
+    ""
+
+# game/script_jessie.rpy:18550
+translate russian ch4j_08_78e8e3ce:
+
+    # m "Father kept mumbling nonsense. Having fits of hysterics. There was {i}blood!{/i} He—"
+    m ""
+
+# game/script_jessie.rpy:18553
+translate russian ch4j_08_ef813e07:
+
+    # g "He told us to get out of the house. 'Twasn't ours, he kept saying. Sounded like a madman if y'ask me."
+    g ""
+
+# game/script_jessie.rpy:18557
+translate russian ch4j_08_24f65aa9:
+
+    # m "No one asked you! There's something wrong with him! He needs help!"
+    m ""
+
+# game/script_jessie.rpy:18559
+translate russian ch4j_08_42df53cc:
+
+    # "Jessie snorts."
+    ""
+
+# game/script_jessie.rpy:18560
+translate russian ch4j_08_814bdea7:
+
+    # j "There's certainly something wrong with him."
+    j ""
+
+# game/script_jessie.rpy:18562
+translate russian ch4j_08_3f0e1e05:
+
+    # m "How can you joke? That's {i}our father!{/i}"
+    m ""
+
+# game/script_jessie.rpy:18563
+translate russian ch4j_08_085fdf0a:
+
+    # "Marion is wound up, upset, and I sense another sisterly argument brewing. But it doesn't come. There's nothing left to quarrel over."
+    ""
+
+# game/script_jessie.rpy:18565
+translate russian ch4j_08_eb6adc4f:
+
+    # j "Marion... I'm not welcome here anymore."
+    j ""
+
+# game/script_jessie.rpy:18571
+translate russian ch4j_08_9cb6b1ce:
+
+    # "The eldest MacLeod sister is taken aback."
+    ""
+
+# game/script_jessie.rpy:18572
+translate russian ch4j_08_13c19baf:
+
+    # m "What do you mean?"
+    m ""
+
+# game/script_jessie.rpy:18576
+translate russian ch4j_08_136373ba:
+
+    # "Grace puts a hand on Marion's knee, and Toast gives it a lap."
+    ""
+
+# game/script_jessie.rpy:18578
+translate russian ch4j_08_5377c24e:
+
+    # g "Marion, Father was at the pub last night. He blew up at Jessie. A lot happened."
+    g ""
+
+# game/script_jessie.rpy:18580
+translate russian ch4j_08_2d75cdd3:
+
+    # m "W-wait. What?"
+    m ""
+
+# game/script_jessie.rpy:18584
+translate russian ch4j_08_fa6dcdd4:
+
+    # j "Marion, listen to me. I've been disowned."
+    j ""
+
+# game/script_jessie.rpy:18588
+translate russian ch4j_08_abfa5032:
+
+    # "The words are blunt. Heavy. They echo in the stunned silence."
+    ""
+
+# game/script_jessie.rpy:18594
+translate russian ch4j_08_5e72db4e:
+
+    # "Gran takes Jessie's hand and squeezes it tight."
+    ""
+
+# game/script_jessie.rpy:18595
+translate russian ch4j_08_196a3cb8:
+
+    # s "My dear... I'm so sorry..."
+    s ""
+
+# game/script_jessie.rpy:18598
+translate russian ch4j_08_e3678be4:
+
+    # m "But... what did you expect?"
+    m ""
+
+# game/script_jessie.rpy:18603
+translate russian ch4j_08_1559ebbb:
+
+    # "Blunt words met with blunt words. Jessie's face falls."
+    ""
+
+# game/script_jessie.rpy:18605
+translate russian ch4j_08_4a6784c6:
+
+    # m "I'm sorry, I know it sounds callous, but... you knew he would never approve of your act."
+    m ""
+
+# game/script_jessie.rpy:18606
+translate russian ch4j_08_fb37966a:
+
+    # c "He didn't react appropriately, Marion."
+    c ""
+
+# game/script_jessie.rpy:18608
+translate russian ch4j_08_dc0d4cf7:
+
+    # m "But think of what he's been through! I-I'm sure he didn't mean it. Please understand, Father must be traumatized. He's home now, though. He will change with time. We can..."
+    m ""
+
+# game/script_jessie.rpy:18610
+translate russian ch4j_08_34c7e22e:
+
+    # "She smiles desperately."
+    ""
+
+# game/script_jessie.rpy:18611
+translate russian ch4j_08_5eb4f4a0:
+
+    # m "We can be a family again!"
+    m ""
+
+# game/script_jessie.rpy:18616
+translate russian ch4j_08_299bf4b1:
+
+    # "For a moment, no one responds. Marion has worked so hard to hold her family together, clinging to the hope that things could somehow return to how they were."
+    ""
+
+# game/script_jessie.rpy:18617
+translate russian ch4j_08_bbaae1e5:
+
+    # "But if she'd seen what we had seen, she would know there's no going back now. It breaks my heart."
+    ""
+
+# game/script_jessie.rpy:18620
+translate russian ch4j_08_c77bc861:
+
+    # j "It's not just Father. I'm truly sorry Marion... but I have to go."
+    j ""
+
+# game/script_jessie.rpy:18623
+translate russian ch4j_08_05a2f6aa:
+
+    # "The eldest sister looks devastated, and Gran looks to me with growing realization. This wasn't at all how I wanted to break the news to her."
+    ""
+
+# game/script_jessie.rpy:18625
+translate russian ch4j_08_f185c5cf:
+
+    # m "What's going on? I feel left out, left behind. I'm scared. Will no one tell me anything?"
+    m ""
+
+# game/script_jessie.rpy:18626
+translate russian ch4j_08_76d39fd2:
+
+    # "Tears stream down Marion's cheeks. Gran seems on the verge of weeping, too. My mind is made up, but I don't know if my soul can bear both women begging us to stay."
+    ""
+
+# game/script_jessie.rpy:18628
+translate russian ch4j_08_5ab48068:
+
+    # "Gran finally opens her mouth to speak."
+    ""
+
+# game/script_jessie.rpy:18630
+translate russian ch4j_08_73fca784:
+
+    # s "Sometimes when a choice is too difficult, God makes the decision for us."
+    s ""
+
+# game/script_jessie.rpy:18633
+translate russian ch4j_08_5613ee57:
+
+    # m "I still don't understand."
+    m ""
+
+# game/script_jessie.rpy:18635
+translate russian ch4j_08_0d1dcd30:
+
+    # s "Jessie doesn't want to leave us, but she needs to be elsewhere. It's the path she must follow. The open road ahead of her. One where she is safe."
+    s ""
+
+# game/script_jessie.rpy:18637
+translate russian ch4j_08_0734fc1f:
+
+    # s "Loved ones oft depart. But hopefully, one day they can return."
+    s ""
+
+# game/script_jessie.rpy:18641
+translate russian ch4j_08_fb154924:
+
+    # "Jessie looks between me and gran, and nods."
+    ""
+
+# game/script_jessie.rpy:18642
+translate russian ch4j_08_c815c007:
+
+    # j "Thank you for understanding, Agnes. I'd better find some fresh clothes and pack my things. Will you two help me?"
+    j ""
+
+# game/script_jessie.rpy:18644
+translate russian ch4j_08_49512fad:
+
+    # m "What things? You've nothing here."
+    m ""
+
+# game/script_jessie.rpy:18656
+translate russian ch4j_08_4b2fea42:
+
+    # "Grace nudges Marion and gets her to understand it's time for a private discussion among siblings."
+    ""
+
+# game/script_jessie.rpy:18658
+translate russian ch4j_08_b735de2e:
+
+    # g "I thought Jessie might want to leave quickly, sis', so I packed up some of her things before we came. Let's see what's left in the other room."
+    g ""
+
+# game/script_jessie.rpy:18659
+translate russian ch4j_08_d0c5c371:
+
+    # "She means my bedroom, but won't say it in front of Gran, as if any of that nonsense matters at all right now."
+    ""
+
+# game/script_jessie.rpy:18661
+translate russian ch4j_08_05fee7fe:
+
+    # j "Prescient as always. Thanks, Grace."
+    j ""
+
+# game/script_jessie.rpy:18684
+translate russian ch4j_08_30fe604b:
+
+    # "The sisters roll Toast off of Marion's lap, and exit to leave me with Gran, who has finally succumbed to tears."
+    ""
+
+# game/script_jessie.rpy:18695
+translate russian ch4j_08_e56ce686_1:
+
+    # s "I have to say goodbye again, don't I?"
+    s ""
+
+# game/script_jessie.rpy:18700
+translate russian ch4j_08_938e355d:
+
+    # c "It won't be for too long, I promise. Just long enough for the dust to settle here. For the rumors and anger to subside."
+    c ""
+
+# game/script_jessie.rpy:18702
+translate russian ch4j_08_ca84e99f:
+
+    # "The rosy promise feels far-fetched even to me. Gran looks at me wistfully, with a delicate smile on her face."
+    ""
+
+# game/script_jessie.rpy:18703
+translate russian ch4j_08_44a87757:
+
+    # s "Grace thought Jessie's performance was just marvelous! She told us all about how many people came, and just how... special it was."
+    s ""
+
+# game/script_jessie.rpy:18705
+translate russian ch4j_08_15b7e067:
+
+    # s "Your lady friend's a star through and through. I can't wait to see her act in the big city, if these old bones can make the journey!"
+    s ""
+
+# game/script_jessie.rpy:18706
+translate russian ch4j_08_caef6100:
+
+    # c "It will be a sight to behold, I know that."
+    c ""
+
+# game/script_jessie.rpy:18709
+translate russian ch4j_08_5d82979c:
+
+    # s "Malcolm... since you and Jessie have been, well... a couple... I've imagined things. I've wondered what I would have done if your grandfather had wanted to leave this little village, our little haven."
+    s ""
+
+# game/script_jessie.rpy:18711
+translate russian ch4j_08_5a3d42f2:
+
+    # s "Or what if I'd dreamed of being in moving pictures? Living a life of fame and fortune. Oh, could you imagine your Gran's name up there on marquee lights? Ridiculous, eh?"
+    s ""
+
+# game/script_jessie.rpy:18712
+translate russian ch4j_08_ca674cbb:
+
+    # c "Hardly! You're a star in my book as well!"
+    c ""
+
+# game/script_jessie.rpy:18714
+translate russian ch4j_08_5700d056:
+
+    # s "Oh, stop! My point is... I think I would follow love. Whether it be my husband's dream or mine. It is as much my love as theirs. Once life is shared, all is shared."
+    s ""
+
+# game/script_jessie.rpy:18716
+translate russian ch4j_08_94960743:
+
+    # "My body releases a tension I didn't notice I was holding. I'm relieved Gran has warmed to the idea of me joining Jessie on her adventures."
+    ""
+
+# game/script_jessie.rpy:18718
+translate russian ch4j_08_8b2fcbbd:
+
+    # s "Just don't forget your own dreams. You're both allowed to have them."
+    s ""
+
+# game/script_jessie.rpy:18719
+translate russian ch4j_08_f66acb31:
+
+    # "{i}My{/i} dreams. Since coming home I'd hardly had time to think ahead about what I want. But today's events have given me some clarity."
+    ""
+
+# game/script_jessie.rpy:18720
+translate russian ch4j_08_8c0c77bd:
+
+    # "I want peace, and a fresh start with a loving woman. A woman who I want to see succeed."
+    ""
+
+# game/script_jessie.rpy:18721
+translate russian ch4j_08_785d45dd:
+
+    # c "Thank you, Gran. Someday I'll have dreams beyond Jessie's, I know I will. Right now, I just want to see her thrive. That is my dream. Our dream."
+    c ""
+
+# game/script_jessie.rpy:18723
+translate russian ch4j_08_7d111d93:
+
+    # "Gran's eyes well up again and I know her heart is with me, as mine is forever with hers."
+    ""
+
+# game/script_jessie.rpy:18724
+translate russian ch4j_08_7fa43631:
+
+    # c "Will you be all right while I'm gone? I'll visit often! Or if you like I'll send for you, you can join us!"
+    c ""
+
+# game/script_jessie.rpy:18726
+translate russian ch4j_08_e1aeb123:
+
+    # s "Oh, dear! I'm not an invalid. I'm old. That's all. I'll manage. I have the girls here."
+    s ""
+
+# game/script_jessie.rpy:18727
+translate russian ch4j_08_b22268fe:
+
+    # g "She has me."
+    g ""
+
+# game/script_jessie.rpy:18740
+translate russian ch4j_08_20d351da:
+
+    # "The youngest MacLeod girl reemerges from my room and places her hands on Gran's shoulders."
+    ""
+
+# game/script_jessie.rpy:18743
+translate russian ch4j_08_e24938d5:
+
+    # g "I'm happy to live with Agnes, to help with whatever she needs."
+    g ""
+
+# game/script_jessie.rpy:18744
+translate russian ch4j_08_f74cf408:
+
+    # "Grace's sudden enthusiasm for helping catches me off guard. I expect Gran to object, but she is all smiles."
+    ""
+
+# game/script_jessie.rpy:18746
+translate russian ch4j_08_f9ac7a7f:
+
+    # s "We'll enjoy a cordial or two after a long day, won't we?"
+    s ""
+
+# game/script_jessie.rpy:18748
+translate russian ch4j_08_aa68374f:
+
+    # "It dawns on me this arrangement had been previously discussed, undoubtedly during one of the long nights I spent away with Jessie instead of at home where I probably belonged."
+    ""
+
+# game/script_jessie.rpy:18750
+translate russian ch4j_08_dd5bd643:
+
+    # g "I fear you may be burdened with my sister, too. I don't picture Marion returning home should Father really kick us out."
+    g ""
+
+# game/script_jessie.rpy:18752
+translate russian ch4j_08_aa5164d2:
+
+    # s "Your father is many things, but he's not evil. Marion is right. Give him time to himself, and he'll come around."
+    s ""
+
+# game/script_jessie.rpy:18753
+translate russian ch4j_08_af5ef2d6:
+
+    # "I'm not sure I agree but keep silent on the matter. It does put me at ease knowing that Gran will have a family to protect her. I feel more love in this home today than I've ever felt before."
+    ""
+
+# game/script_jessie.rpy:18754
+translate russian ch4j_08_9c794acd_1:
+
+    # c "I can't thank you enough, Grace."
+    c ""
+
+# game/script_jessie.rpy:18758
+translate russian ch4j_08_292a0ec4_1:
+
+    # s "I'm the one who is thankful. I have so many people looking out for me."
+    s ""
+
+# game/script_jessie.rpy:18760
+translate russian ch4j_08_bc952725:
+
+    # "Gran faces me again and furrows her brow."
+    ""
+
+# game/script_jessie.rpy:18762
+translate russian ch4j_08_9a835baf:
+
+    # s "And you, young man? What will you do in the city?"
+    s ""
+
+# game/script_jessie.rpy:18763
+translate russian ch4j_08_b102c3f8:
+
+    # c "Your guess is as good as mine. I'll be cheering on my very talented lady friend and try to find work by her side, I suppose."
+    c ""
+
+# game/script_jessie.rpy:18767
+translate russian ch4j_08_2dea28b3:
+
+    # g "You'd make an excellent barkeep! You're a good listener, and always have a friendly smile on your face."
+    g ""
+
+# game/script_jessie.rpy:18768
+translate russian ch4j_08_c5b31e54:
+
+    # c "Do I? I'd never thought about it."
+    c ""
+
+# game/script_jessie.rpy:18769
+translate russian ch4j_08_4ded0888:
+
+    # j "You have the sweetest face I've ever seen!"
+    j ""
+
+# game/script_jessie.rpy:18784
+translate russian ch4j_08_7cbfbc68:
+
+    # "Jessie joins us again, looking much more comfortable in her street clothes."
+    ""
+
+# game/script_jessie.rpy:18785
+translate russian ch4j_08_ce21d86b:
+
+    # c "You obviously haven't looked in a mirror lately."
+    c ""
+
+# game/script_jessie.rpy:18792
+translate russian ch4j_08_703f3abf:
+
+    # "Marion quietly emerges last, looking introspective but no longer distraught. Some small part of me wonders what was said to reassure her."
+    ""
+
+# game/script_jessie.rpy:18793
+translate russian ch4j_08_8e9197c9:
+
+    # "But mostly I marvel at just how supportive we all are for each other. Two families become one. {i}My family.{/i}"
+    ""
+
+# game/script_jessie.rpy:18795
+translate russian ch4j_08_56fd292e_1:
+
+    # "When will we reunite again? I may be unable to read the sky, but I know it's written in the stars."
+    ""
+
+# game/script_jessie.rpy:18803
+translate russian ch4j_08_7e1e5f32:
+
+    # "Jessie squeezes my hand."
+    ""
+
+# game/script_jessie.rpy:18804
+translate russian ch4j_08_59c79919_1:
+
+    # j "I think it's time."
+    j ""
+
+# game/script_jessie.rpy:18816
+translate russian ch4j_08_1e569a89:
+
+    # "It doesn't take long to change clothes and gather my belongings, which are scarce. While doing so, I calculate the costs of train travel to and from Ach-na-Creige, as I'll need to return often."
+    ""
+
+# game/script_jessie.rpy:18818
+translate russian ch4j_08_aa6d7b5e_1:
+
+    # "It doesn't take me long to gather my belongings, which are scarce. While doing so, I calculate the costs of train travel to and from Ach-na-Creige, as I'll need to return often."
+    ""
+
+# game/script_jessie.rpy:18820
+translate russian ch4j_08_e2ddd8b8_1:
+
+    # "Grace and Marion can help run the farm, but I need to be here to assist from time to time. It's a pipe dream ahead of us, and I'm not oblivious to reality."
+    ""
+
+# game/script_jessie.rpy:18821
+translate russian ch4j_08_54f91c64_1:
+
+    # "I chuckle to myself. The reality is, I could never stay away for long. I would miss them all too much!"
+    ""
+
+# game/script_jessie.rpy:18840
+translate russian ch4j_08_e744f090_1:
+
+    # "I take our bags and Jessie holds the door for me. I've been home less than a year, and off I go again."
+    ""
+
+# game/script_jessie.rpy:18848
+translate russian ch4j_08_22804cf0:
+
+    # "Gran gives me one final hug."
+    ""
+
+# game/script_jessie.rpy:18849
+translate russian ch4j_08_e71fcba1_1:
+
+    # s "Your coming back here... it meant everything to me. Thank you for showing me that magic still exists in this world."
+    s ""
+
+# game/script_jessie.rpy:18851
+translate russian ch4j_08_c0794764_1:
+
+    # s "And don't you dare let that magic get you into any more trouble!"
+    s ""
+
+# game/script_jessie.rpy:18852
+translate russian ch4j_08_1357cced_1:
+
+    # c "I won't, Gran."
+    c ""
+
+# game/script_jessie.rpy:18859
+translate russian ch4j_08_a45c3d28_1:
+
+    # s "Farewell, my boy."
+    s ""
+
+# game/script_jessie.rpy:18860
+translate russian ch4j_08_e2b983c5_1:
+
+    # c "Not \"farewell.\" Only, \"see you later.\""
+    c ""
+
+# game/script_jessie.rpy:18861
+translate russian ch4j_08_ac811dd5_1:
+
+    # "I don't dwell on any disappointment or despair, as the pain will burn too deeply. I am with the woman I love, and we are off on an unimaginable adventure."
+    ""
+
+# game/script_jessie.rpy:18863
+translate russian ch4j_08_376e246d_1:
+
+    # j "Don't fret, Agnes. I'll take good care of him."
+    j ""
+
+# game/script_jessie.rpy:18890
+translate russian ch4j_08_0571ec9e_1:
+
+    # "From the stable comes Grace pulling a reluctant Hazel."
+    ""
+
+# game/script_jessie.rpy:18892
+translate russian ch4j_08_988aa465_1:
+
+    # g "Oof. Thought you might want to say goodbye to your faithful steed."
+    g ""
+
+# game/script_jessie.rpy:18893
+translate russian ch4j_08_131dd09c:
+
+    # c "Ah, yes! I'll miss you most of all, Hazel. Help the girls keep this farm in ship shape, and don't you worry! You will be in capable hands."
+    c ""
+
+# game/script_jessie.rpy:18901
+translate russian ch4j_08_f0949402:
+
+    # "Hands far more capable than mine, her look tells me. She rubs against Grace, who laughs."
+    ""
+
+# game/script_jessie.rpy:18902
+translate russian ch4j_08_520da737_1:
+
+    # g "Yes, we'll get along swimmingly, I think."
+    g ""
+
+# game/script_jessie.rpy:18904
+translate russian ch4j_08_87acf9ea:
+
+    # j "It's a good thing I'm leaving. There's not room enough for two divas in this town!"
+    j ""
+
+# game/script_jessie.rpy:18906
+translate russian ch4j_08_f906f8fe:
+
+    # g "Just don't forget us when you become a big star, sis'!"
+    g ""
+
+# game/script_jessie.rpy:18908
+translate russian ch4j_08_66a0505f:
+
+    # j "Never! How could I forget all the little people?"
+    j ""
+
+# game/script_jessie.rpy:18921
+translate russian ch4j_08_a752b9f9:
+
+    # "Jessie tussles her little sister's head, reminding her of her stature."
+    ""
+
+# game/script_jessie.rpy:18931
+translate russian ch4j_08_60dfa3c4:
+
+    # g "Hey!"
+    g ""
+
+# game/script_jessie.rpy:18938
+translate russian ch4j_08_c8c4d01a:
+
+    # m "When you get to the city, remember... Your family will always be here for you when you need us."
+    m ""
+
+# game/script_jessie.rpy:18939
+translate russian ch4j_08_1abb569a:
+
+    # "My eyes get watery again. Gran and Marion look like mother hens whose chicks are about to leave the nest."
+    ""
+
+# game/script_jessie.rpy:18941
+translate russian ch4j_08_3e060724:
+
+    # j "Thank you, truly. I couldn't have asked for better fans."
+    j ""
+
+# game/script_jessie.rpy:18944
+translate russian ch4j_08_7d0918fa:
+
+    # "Jessie turns to me."
+    ""
+
+# game/script_jessie.rpy:18945
+translate russian ch4j_08_3c0bb751:
+
+    # j "We have a hike ahead of us to get to the train station. Shall we?"
+    j ""
+
+# game/script_jessie.rpy:18947
+translate russian ch4j_08_0e0a233a_1:
+
+    # m "Wait!"
+    m ""
+
+# game/script_jessie.rpy:18967
+translate russian ch4j_08_77de1f83:
+
+    # "Marion sets Toast on the ground and runs into the house, returning a moment later with a basket. She rushes over to Jessie."
+    ""
+
+# game/script_jessie.rpy:18968
+translate russian ch4j_08_35627ad3:
+
+    # m "Two loaves of honey bread and a jar of burdock root jam. For the road."
+    m ""
+
+# game/script_jessie.rpy:18991
+translate russian ch4j_08_99d93871_1:
+
+    # "Jessie hugs her sister and Marion begins sobbing."
+    ""
+
+# game/script_jessie.rpy:18999
+translate russian ch4j_08_018e6da9_1:
+
+    # m "Please come back soon. Please."
+    m ""
+
+# game/script_jessie.rpy:19001
+translate russian ch4j_08_3749a986_1:
+
+    # j "I will. Marion, you have so much love. Never stop giving it to everyone."
+    j ""
+
+# game/script_jessie.rpy:19002
+translate russian ch4j_08_117a2bd5_1:
+
+    # "Even when they don't deserve it, I want to say. But I bite my tongue and try to stay positive."
+    ""
+
+# game/script_jessie.rpy:19003
+translate russian ch4j_08_26dc7694_1:
+
+    # c "And take good care of Toast!"
+    c ""
+
+# game/script_jessie.rpy:19011
+translate russian ch4j_08_80b0864e_1:
+
+    # "The dog yaps and dances around our feet, oblivious to the bittersweet pain that is eating at all of us."
+    ""
+
+# game/script_jessie.rpy:19026
+translate russian ch4j_08_04df824d:
+
+    # "One last round of goodbyes, and Jessie and I start down the road. Excitement and trepidation spin around in my belly."
+    ""
+
+# game/script_jessie.rpy:19027
+translate russian ch4j_08_f4805118:
+
+    # "With our entire lives packaged and in tow, we walk cautiously into a new beginning."
+    ""
+
+# game/script_jessie.rpy:19073
+translate russian ch4j_09a_40d2d4fc:
+
+    # "Our bags are surprisingly light, considering they carry everything we need to start anew. Nonetheless, when we reach the top of the hill outside town, I must pause to catch my breath."
+    ""
+
+# game/script_jessie.rpy:19080
+translate russian ch4j_09a_3012d88a:
+
+    # "The road we walk forks here. Any other day, we might take the track into town to get goods from the market or a libation at the Stag & Nanny."
+    ""
+
+# game/script_jessie.rpy:19081
+translate russian ch4j_09a_5df74bff:
+
+    # "But today we will travel down the path that takes us around town, far away from prying eyes—and pitchforks."
+    ""
+
+# game/script_jessie.rpy:19093
+translate russian ch4j_09a_273fe72c:
+
+    # j "What is it? Do you see someone coming?"
+    j ""
+
+# game/script_jessie.rpy:19094
+translate russian ch4j_09a_b48b7627:
+
+    # "Jessie has wisely packed away her bright red cloak until we are well past this nest of dangerous acquaintances."
+    ""
+
+# game/script_jessie.rpy:19095
+translate russian ch4j_09a_a59de734:
+
+    # c "No, I'm just... thinking how much this village has given us, and how much it's taken away."
+    c ""
+
+# game/script_jessie.rpy:19096
+translate russian ch4j_09a_be899c31:
+
+    # "If all goes well, it will be the last time I will lay eyes on Ach-na-Creige for quite some time. The moment might feel bittersweet, were we not being actively hunted by its residents."
+    ""
+
+# game/script_jessie.rpy:19100
+translate russian ch4j_09a_a0175996:
+
+    # j "You know, at first I thought this town was just too small, too set in its ways. There's a malice, though, just beneath the surface. I wish I hadn't found that out the hard way."
+    j ""
+
+# game/script_jessie.rpy:19101
+translate russian ch4j_09a_18ac7c4d:
+
+    # c "People fear what they don't understand. In some ways, it's all been one big misunderstanding."
+    c ""
+
+# game/script_jessie.rpy:19103
+translate russian ch4j_09a_5f10e105:
+
+    # j "Perhaps, for some. There are good hearts here. Your Gran, my sisters. Balgair. Even Alana, bless her misguided soul."
+    j ""
+
+# game/script_jessie.rpy:19104
+translate russian ch4j_09a_d83d6909:
+
+    # "I chuckle in agreement."
+    ""
+
+# game/script_jessie.rpy:19106
+translate russian ch4j_09a_efe8204c:
+
+    # j "And you! My soldier with a heart of gold. What are the chances that someone so perfect would live right next door?"
+    j ""
+
+# game/script_jessie.rpy:19107
+translate russian ch4j_09a_ee87bbe7:
+
+    # c "Reunited after a world war, no less."
+    c ""
+
+# game/script_jessie.rpy:19109
+translate russian ch4j_09a_58837229:
+
+    # j "And undeterred by a lady who slobbers and sheds! Malcolm Campbell, I am luckier than I care to admit."
+    j ""
+
+# game/script_jessie.rpy:19110
+translate russian ch4j_09a_3349a832:
+
+    # c "That makes two of us."
+    c ""
+
+# game/script_jessie.rpy:19114
+translate russian ch4j_09a_87d346f7:
+
+    # j "You spoke of fate before. Well, I truly believe we were never meant to be here, in this village. But I do believe we were meant to be together."
+    j ""
+
+# game/script_jessie.rpy:19124
+translate russian ch4j_09a_dbf6e223:
+
+    # "We hold each other tightly, two survivors, two lovers, two fortuitous souls. Too far gone to turn back now."
+    ""
+
+# game/script_jessie.rpy:19125
+translate russian ch4j_09a_8867f8c1:
+
+    # "I feel more than just the softness of her fur on my cheek. The antidote has dimmed my senses, but I still perceive the aura that surrounds Jessie, its power beyond the scope of the human world."
+    ""
+
+# game/script_jessie.rpy:19126
+translate russian ch4j_09a_eaee8c3b:
+
+    # "In it, I take solace. It'll power us through, give us something others don't have. It reminds me that the world is greater than my own choices, bigger than just two young lovers moving to a new city."
+    ""
+
+# game/script_jessie.rpy:19127
+translate russian ch4j_09a_ee284a25:
+
+    # "It is the realm of mystics speaking through us, to us, and with us. Here, in the city and beyond... may we always be able to respond."
+    ""
+
+# game/script_jessie.rpy:19138
+translate russian ch4j_09a_17697de5:
+
+    # j "What is it?"
+    j ""
+
+# game/script_jessie.rpy:19139
+translate russian ch4j_09a_c84f5a4d:
+
+    # "It's finally sinking in that I may be looking at the village where I grew up for the last time in a long while."
+    ""
+
+# game/script_jessie.rpy:19141
+translate russian ch4j_09a_4c5a4b0a:
+
+    # c "I think I'll miss this little town. The serenity and quiet of the open highlands, too."
+    c ""
+
+# game/script_jessie.rpy:19143
+translate russian ch4j_09a_b71ddf7a:
+
+    # j "I bet you won't miss the back-breaking work."
+    j ""
+
+# game/script_jessie.rpy:19144
+translate russian ch4j_09a_26f4d52a:
+
+    # c "That's true."
+    c ""
+
+# game/script_jessie.rpy:19145
+translate russian ch4j_09a_02c4d598:
+
+    # "I won't miss the terror we faced, either."
+    ""
+
+# game/script_jessie.rpy:19147
+translate russian ch4j_09a_27a80b25:
+
+    # c "What about you? Will you miss this village?"
+    c ""
+
+# game/script_jessie.rpy:19152
+translate russian ch4j_09a_069203ff:
+
+    # j "I'll miss my sisters, Balgair, your gran. But the village? No. I never felt welcome here. Guess it was never big enough for me."
+    j ""
+
+# game/script_jessie.rpy:19153
+translate russian ch4j_09a_bbbdf30c:
+
+    # "I see the blaze in her, the passion that drives her. If she feels any fear or pain for what we leave behind, it is well-hidden beneath her shining eyes."
+    ""
+
+# game/script_jessie.rpy:19162
+translate russian ch4j_09a_82fd2f10:
+
+    # "Jessie takes my hands in hers."
+    ""
+
+# game/script_jessie.rpy:19163
+translate russian ch4j_09a_6db63238:
+
+    # j "This town gave me you, though. For that, I'm thankful."
+    j ""
+
+# game/script_jessie.rpy:19164
+translate russian ch4j_09a_7313b67b:
+
+    # c "As am I."
+    c ""
+
+# game/script_jessie.rpy:19167
+translate russian ch4j_09a_a4a5c167:
+
+    # j "This is it, Malcolm. This is {i}our{/i} time."
+    j ""
+
+# game/script_jessie.rpy:19168
+translate russian ch4j_09a_aad6c5f8:
+
+    # "I nod, my heart pounding."
+    ""
+
+# game/script_jessie.rpy:19169
+translate russian ch4j_09a_e5a5c2e9:
+
+    # c "Our time. I'm ready, Jessie. I'm ready for a new beginning."
+    c ""
+
+# game/script_jessie.rpy:19178
+translate russian ch4j_09a_6159bd29:
+
+    # "We take the first steps down the road away from town. Finally free, boundless, held back only by our dreams... well, and finances."
+    ""
+
+# game/script_jessie.rpy:19179
+translate russian ch4j_09a_d91a8c37:
+
+    # "For the first time in a long while I smile not out of lust, raw energy, nor drunken frivolity... but out of relief. The simple relief of a fresh start."
+    ""
+
+# game/script_jessie.rpy:19183
+translate russian ch4j_09a_31d925d9:
+
+    # "There are yet unknowns. I wonder about my new abilities, about potentially being able to change. What control do I really have?"
+    ""
+
+# game/script_jessie.rpy:19184
+translate russian ch4j_09a_5edfecc1:
+
+    # "Will I need Jessie with me always to transition to and from a wolf? What could possibly trigger a reaction? All unanswered questions. Futile questions."
+    ""
+
+# game/script_jessie.rpy:19185
+translate russian ch4j_09a_d4e81498:
+
+    # "Because for everything under my power, there are a million more things I have no say over, no control whatsoever."
+    ""
+
+# game/script_jessie.rpy:19187
+translate russian ch4j_09a_8914f64b:
+
+    # "I don't dwell on the concerns. Perhaps I am love drunk, being willfully ignorant, or simply being whisked away for greater things."
+    ""
+
+# game/script_jessie.rpy:19188
+translate russian ch4j_09a_872d7498:
+
+    # "What I do know is that I am off for a new life, with my new family."
+    ""
+
+# game/script_jessie.rpy:19191
+translate russian ch4j_09a_78b6cba7:
+
+    # "I am off for a new life, with my new family."
+    ""
+
+# game/script_jessie.rpy:19198
+translate russian ch4j_09a_eab03e02:
+
+    # "A sudden thought stops me in my tracks."
+    ""
+
+# game/script_jessie.rpy:19203
+translate russian ch4j_09a_b3d4e07b:
+
+    # c "You know, Jessie. City folk might ask if we're married."
+    c ""
+
+# game/script_jessie.rpy:19205
+translate russian ch4j_09a_1bf637d7:
+
+    # j "The thought had crossed my mind. And what should we tell them?"
+    j ""
+
+# game/script_jessie.rpy:19210
+translate russian ch4j_09a_58592849:
+
+    # c "Well... I say we're married, no children. Your ring, uh, well..."
+    c ""
+
+# game/script_jessie.rpy:19212
+translate russian ch4j_09a_2a741d9d:
+
+    # c "We can tell them we're travelers from out of town. Good friends!"
+    c ""
+
+# game/script_jessie.rpy:19214
+translate russian ch4j_09a_c2e3764b:
+
+    # j "{i}Good friends?!{/i} Is that what I am to you?"
+    j ""
+
+# game/script_jessie.rpy:19215
+translate russian ch4j_09a_535c7d23:
+
+    # c "No! I mean yes! I mean... I-I thought we were talking hypothetically still!"
+    c ""
+
+# game/script_jessie.rpy:19217
+translate russian ch4j_09a_c5751024:
+
+    # c "I... uh... suppose we could umm... rectify that?"
+    c ""
+
+# game/script_jessie.rpy:19219
+translate russian ch4j_09a_7e0c46a1:
+
+    # j "Don't you dare propose to me, Malcolm Campbell! Not on the most exhausting day of my life! I simply want to know if we have a story."
+    j ""
+
+# game/script_jessie.rpy:19220
+translate russian ch4j_09a_6b67acbc:
+
+    # c "In that case... I say we're married, no children. Your ring, uh, well..."
+    c ""
+
+# game/script_jessie.rpy:19223
+translate russian ch4j_09a_ad338f50:
+
+    # j "Let's not overthink it. I just wanted you to know I'm the marrying kind, that's all."
+    j ""
+
+# game/script_jessie.rpy:19225
+translate russian ch4j_09a_0f623f39:
+
+    # "She winks at me. A handful of searing, gorgeous energy. All mine. If she's to be my wife—when she's my wife, I dare say—I'll have quite a handful."
+    ""
+
+# game/script_jessie.rpy:19226
+translate russian ch4j_09a_7a7d6a75:
+
+    # c "Whew! Now that that's out of the way, we can move onto more important things."
+    c ""
+
+# game/script_jessie.rpy:19235
+translate russian ch4j_09a_4433a883:
+
+    # "In one swift movement I scoop her up and into a deep kiss."
+    ""
+
+# game/script_jessie.rpy:19239
+translate russian ch4j_09a_1c08779d:
+
+    # "When our lips part, Jessie lets out a surprised, excited laugh. Her joy is palpable. I laugh along, riding the rollercoaster of life, ready to let the new adventure begin."
+    ""
+
+# game/script_jessie.rpy:19240
+translate russian ch4j_09a_7d647fe8:
+
+    # j "Oh you sweetheart! Come on, Malcolm, let's go!"
+    j ""
+
+# game/script_jessie.rpy:19242
+translate russian ch4j_09a_beda8f5f:
+
+    # "I kiss her hard once more."
+    ""
+
+# game/script_jessie.rpy:19243
+translate russian ch4j_09a_b37023b9:
+
+    # "Life is starting again."
+    ""
+
+# game/script_jessie.rpy:19284
+translate russian ch4j_10_11632955:
+
+    # "After giving Ach-na-Creige a wide berth, we arrive at Strathcarron with little time to spare. A train is already in the station, taking on passengers."
+    ""
+
+# game/script_jessie.rpy:19292
+translate russian ch4j_10_90327d90:
+
+    # "We stop and set our bags on the ground far enough away to be discreet—or at least as discreet as we can be around Jessie's eye-catching cape."
+    ""
+
+# game/script_jessie.rpy:19293
+translate russian ch4j_10_8f178e53:
+
+    # "She keeps her back to the platform, taking care not to let anyone see her face."
+    ""
+
+# game/script_jessie.rpy:19295
+translate russian ch4j_10_3885bbbc:
+
+    # j "Malcolm, I'm so nervous!"
+    j ""
+
+# game/script_jessie.rpy:19296
+translate russian ch4j_10_4276ad32:
+
+    # c "Don't worry. The worst is behind us—no one out here should be looking for you."
+    c ""
+
+# game/script_jessie.rpy:19298
+translate russian ch4j_10_8ce8daa5:
+
+    # j "No, not that! What do you think Wondrous Walter will say about this costume?"
+    j ""
+
+# game/script_jessie.rpy:19299
+translate russian ch4j_10_2efa12c1:
+
+    # "Jessie frets about her upcoming interview—understandably, as our future and our safety may depend on it. My mind recalls Walter's gaudy showman's attire from the night before."
+    ""
+
+# game/script_jessie.rpy:19300
+translate russian ch4j_10_c410f754:
+
+    # c "I think he'll like it."
+    c ""
+
+# game/script_jessie.rpy:19302
+translate russian ch4j_10_179a9477:
+
+    # j "I feel ridiculous—not to mention exposed! He'd better not hang us out to dry."
+    j ""
+
+# game/script_jessie.rpy:19303
+translate russian ch4j_10_9672d66f:
+
+    # c "Walter seemed genuinely excited. This isn't an opportunity he'd let slip; I think."
+    c ""
+
+# game/script_jessie.rpy:19304
+translate russian ch4j_10_6971f075:
+
+    # "Or rather, I hope. Among the sparse crowd, no one on the platform has a monkey on their shoulder. Has Walter already boarded the train?"
+    ""
+
+# game/script_jessie.rpy:19305
+translate russian ch4j_10_299f7029:
+
+    # c "I don't see him. Should I go ask the conductor? He might have seen Little Nap."
+    c ""
+
+# game/script_jessie.rpy:19307
+translate russian ch4j_10_4e32beb0:
+
+    # j "Who?"
+    j ""
+
+# game/script_jessie.rpy:19308
+translate russian ch4j_10_3c33bbeb:
+
+    # c "Walter's monkey."
+    c ""
+
+# game/script_jessie.rpy:19310
+translate russian ch4j_10_35c320e8:
+
+    # "The color could have drained from Jessie's cheeks, were they not covered in fur."
+    ""
+
+# game/script_jessie.rpy:19312
+translate russian ch4j_10_3cdfda23:
+
+    # j "How could I forget such a simple thing! Oh, I'm going to mess this up, I know it!"
+    j ""
+
+# game/script_jessie.rpy:19313
+translate russian ch4j_10_d255a374:
+
+    # c "You'll be fine. Just be yourself!"
+    c ""
+
+# game/script_jessie.rpy:19315
+translate russian ch4j_10_63e92c5d:
+
+    # j "I don't have a choice, and you don't need to go reminding me of it!"
+    j ""
+
+# game/script_jessie.rpy:19316
+translate russian ch4j_10_f4a86d8f:
+
+    # "Before I can apologize, a voice booms from behind us."
+    ""
+
+# game/script_jessie.rpy:19318
+translate russian ch4j_10_4168d3d6:
+
+    # b "My wee scarlet birdie, you weren't plannin' to fly away without sayin' goodbye to ol' Balgair, were ye?"
+    b ""
+
+# game/script_jessie.rpy:19328
+translate russian ch4j_10_b9fde35d:
+
+    # "The publican's sudden appearance gives us both a start. Jessie seems ready to bolt, until his words finally register."
+    ""
+
+# game/script_jessie.rpy:19330
+translate russian ch4j_10_bbd8745e:
+
+    # j "B—Balgair! You're... not scared of me?"
+    j ""
+
+# game/script_jessie.rpy:19348
+translate russian ch4j_10_9dc8bd4f:
+
+    # "He lifts the werewolf with ease, spinning her around in a display of exuberance, not fear, much to Jessie's delight."
+    ""
+
+# game/script_jessie.rpy:19349
+translate russian ch4j_10_2753baaf:
+
+    # b "Scared? Och, never! I've only ever met one woman who scared me, and I don't see her here right now!"
+    b ""
+
+# game/script_jessie.rpy:19350
+translate russian ch4j_10_8f27c22b:
+
+    # "I let that sink in."
+    ""
+
+# game/script_jessie.rpy:19361
+translate russian ch4j_10_1c2d64e9:
+
+    # "The burly man finally sets Jessie down, leaving her looking dazed and thrilled."
+    ""
+
+# game/script_jessie.rpy:19362
+translate russian ch4j_10_8ce01930:
+
+    # c "I didn't think we'd find any familiar faces all the way out here, but of any one to see, I'm glad it's yours."
+    c ""
+
+# game/script_jessie.rpy:19364
+translate russian ch4j_10_e97ca78c:
+
+    # b "Aye, well, our last encounter was hardly a proper farewell, so I thought I'd see you off!"
+    b ""
+
+# game/script_jessie.rpy:19367
+translate russian ch4j_10_80759ba1:
+
+    # j "I'm so sorry, Balgair. The mess I left you... The gig didn't exactly go as planned, did it?"
+    j ""
+
+# game/script_jessie.rpy:19369
+translate russian ch4j_10_932907b7:
+
+    # b "Don't be sorry, lass. What yer father did last night... there's no excuse for that."
+    b ""
+
+# game/script_jessie.rpy:19371
+translate russian ch4j_10_7e16b128:
+
+    # b "You were right to protect yer loved ones. I... er... didn't know y'had it in you, but I can't say I'm surprised!"
+    b ""
+
+# game/script_jessie.rpy:19373
+translate russian ch4j_10_f46f15b4:
+
+    # j "Guess it's in my nature to steal the show."
+    j ""
+
+# game/script_jessie.rpy:19375
+translate russian ch4j_10_28a6356c:
+
+    # b "The world takes us by storm just as often as we try to do the same. I dun' know the circumstances around what's going on with yer, uh... symptoms—"
+    b ""
+
+# game/script_jessie.rpy:19377
+translate russian ch4j_10_28b36e5c:
+
+    # j "Oh, you make it sound like a disease!"
+    j ""
+
+# game/script_jessie.rpy:19379
+translate russian ch4j_10_f70cfe04:
+
+    # b "No, no—I just want you to know I'm here if you need a friend. I'm not one to judge. \"Lest not,\" an' all that sacred writ, I say. Keep yer head held high, lass, you've earned my respect!"
+    b ""
+
+# game/script_jessie.rpy:19381
+translate russian ch4j_10_69c833ae:
+
+    # "By contrast, Balgair lowers his head in shame."
+    ""
+
+# game/script_jessie.rpy:19382
+translate russian ch4j_10_548c15d1:
+
+    # b "And, ah... my sincerest apologies for... uh..."
+    b ""
+
+# game/script_jessie.rpy:19384
+translate russian ch4j_10_e7c48be1:
+
+    # "There's no reasonable way to say, \"trying to shoot you.\""
+    ""
+
+# game/script_jessie.rpy:19386
+translate russian ch4j_10_156283c4:
+
+    # j "It's in the past, Balgair."
+    j ""
+
+# game/script_jessie.rpy:19388
+translate russian ch4j_10_e545fb8a:
+
+    # b "Just so y'know, I did my best to call off the hunt last night. I knew you were no cause for fear. Yer a good woman, Jessie MacLeod. Born of magic, if ye don't mind me sayin'."
+    b ""
+
+# game/script_jessie.rpy:19390
+translate russian ch4j_10_9a6fb353:
+
+    # j "Thank you."
+    j ""
+
+# game/script_jessie.rpy:19392
+translate russian ch4j_10_ca0fcd83:
+
+    # b "You and Malcolm are the best pair I've seen together in a good while. Be sure to treat her like the treasure she is, lad."
+    b ""
+
+# game/script_jessie.rpy:19393
+translate russian ch4j_10_255ecca1:
+
+    # c "I will."
+    c ""
+
+# game/script_jessie.rpy:19394
+translate russian ch4j_10_07a8da78:
+
+    # "I can feel myself getting emotional, even though all this talk of goodbyes might yet be premature."
+    ""
+
+# game/script_jessie.rpy:19395
+translate russian ch4j_10_4f5fd870:
+
+    # c "Balgair, have you happened to run into Wondrous Walter? Without him, we're not sure the conductor will let Jessie on board, no matter her magical qualifications."
+    c ""
+
+# game/script_jessie.rpy:19397
+translate russian ch4j_10_920eac05:
+
+    # b "The conductor? Oh, you won't be needin' the train! Walter'll be back any minute. He just went to collect his vehicle."
+    b ""
+
+# game/script_jessie.rpy:19399
+translate russian ch4j_10_d45daf9e:
+
+    # j "He {i}is{/i} here?!"
+    j ""
+
+# game/script_jessie.rpy:19400
+translate russian ch4j_10_61a3ab18:
+
+    # c "Wait, his... vehicle?"
+    c ""
+
+# game/script_jessie.rpy:19402
+translate russian ch4j_10_a937e443:
+
+    # "Balgair scoffs."
+    ""
+
+# game/script_jessie.rpy:19404
+translate russian ch4j_10_c57d2269:
+
+    # b "A fine new saloon. He parked it here at Strathcarron's station so as to not \"jostle the s'pension\" on the track into town. Hardly a chariot if yer too afraid to use it, ye ask me."
+    b ""
+
+# game/script_jessie.rpy:19430
+translate russian ch4j_10_bd3ec304:
+
+    # "Sure enough, moments later a long, dark motorcar putters around the corner and pulls up. Jessie turns away and frantically runs a paw through her fur."
+    ""
+
+# game/script_jessie.rpy:19454
+translate russian ch4j_10_34acfd99:
+
+    # "Walter extinguishes the beast and steps out, beaming. Little Nap looks rattled. From the platform, someone points toward the duo with surprise."
+    ""
+
+# game/script_jessie.rpy:19456
+translate russian ch4j_10_e20ac187:
+
+    # ww "Aha! There's the super-star!"
+    ww ""
+
+# game/script_jessie.rpy:19475
+translate russian ch4j_10_16fee1e1:
+
+    # "Jessie whips around, already in performance mode."
+    ""
+
+# game/script_jessie.rpy:19476
+translate russian ch4j_10_790a1bda:
+
+    # j "Mr... uh... Wondrous! How lovely to finally meet you!"
+    j ""
+
+# game/script_jessie.rpy:19486
+translate russian ch4j_10_57c86b18:
+
+    # ww "Oh! Goodness, your teeth... you gave me a start! Please, call me Walter. Your canine countenance is quite extraordinary! I can barely believe my eyes!"
+    ww ""
+
+# game/script_jessie.rpy:19489
+translate russian ch4j_10_6b524c7e:
+
+    # j "Th—thank you!"
+    j ""
+
+# game/script_jessie.rpy:19491
+translate russian ch4j_10_fab67888:
+
+    # ww "And that cloak, why it's the perfect finishing touch. The audience will love it!"
+    ww ""
+
+# game/script_jessie.rpy:19493
+translate russian ch4j_10_59200d13:
+
+    # j "You... really think so?"
+    j ""
+
+# game/script_jessie.rpy:19497
+translate russian ch4j_10_3033771e:
+
+    # ww "Aye! When they see what lies beneath your hood, men will be awestruck. Women will scream in terror. Children will scream with delight!"
+    ww ""
+
+# game/script_jessie.rpy:19501
+translate russian ch4j_10_689d3cee:
+
+    # "Jessie's face falls."
+    ""
+
+# game/script_jessie.rpy:19503
+translate russian ch4j_10_c0bc32c0:
+
+    # j "I'd... rather not make anyone scream..."
+    j ""
+
+# game/script_jessie.rpy:19507
+translate russian ch4j_10_db1bcc25:
+
+    # ww "Why ever not?"
+    ww ""
+
+# game/script_jessie.rpy:19509
+translate russian ch4j_10_da277d43:
+
+    # ww "A performer's talent is measured by the impression she makes. And when you summoned forth that terrifying creature, Miss MacLeod, you made one mighty impression! A show for the ages!"
+    ww ""
+
+# game/script_jessie.rpy:19511
+translate russian ch4j_10_79bf0aaa:
+
+    # "Walter seems to have taken away entirely the wrong conclusions from Jessie's show last night. He laughs a bit too loudly and looks my way, waiting for affirmation."
+    ""
+
+# game/script_jessie.rpy:19512
+translate russian ch4j_10_c1159270:
+
+    # "I don't oblige, and I can see Jessie getting angry."
+    ""
+
+# game/script_jessie.rpy:19516
+translate russian ch4j_10_17301da3:
+
+    # j "With all due respect, I'd rather make an impression as a singer and show girl. I've had enough attention as a wolf for one lifetime."
+    j ""
+
+# game/script_jessie.rpy:19518
+translate russian ch4j_10_ca0cb8b8:
+
+    # "Walter gestures grandly."
+    ""
+
+# game/script_jessie.rpy:19520
+translate russian ch4j_10_d4d4f95f:
+
+    # ww "Yes, of course! Dear, your voice is lovely. But singers are ten a penny—"
+    ww ""
+
+# game/script_jessie.rpy:19531
+translate russian ch4j_10_a80a53ab:
+
+    # b "Be beggin' your pardon, but Miss Jessie here is {i}anything{/i} but ordinary."
+    b ""
+
+# game/script_jessie.rpy:19533
+translate russian ch4j_10_f0e18bea:
+
+    # "Balgair's words barely conceal his fury. He looks about ready to punch Walter, and I'll admit, I'm considering it too."
+    ""
+
+# game/script_jessie.rpy:19537
+translate russian ch4j_10_fb31cd63:
+
+    # ww "Hold on now, let me finish. Singers are ten a penny, {i}but!{/i} Singers with a voice like yours, belonging to a body like this?"
+    ww ""
+
+# game/script_jessie.rpy:19538
+translate russian ch4j_10_d1300d93:
+
+    # "\"Like this.\" Her wolfish features on display for all to see. Is this the kind of fame Jessie seeks?"
+    ""
+
+# game/script_jessie.rpy:19540
+translate russian ch4j_10_11f9064f:
+
+    # ww "My dear, your performances will be known the world over."
+    ww ""
+
+# game/script_jessie.rpy:19543
+translate russian ch4j_10_42f672a7:
+
+    # ww "So, what do you say? Do we have a deal? Or do the monkey and I hit the road alone?"
+    ww ""
+
+# game/script_jessie.rpy:19546
+translate russian ch4j_10_1ddac9ec:
+
+    # "Jessie looks down at her paws. In this form that once meant freedom to her, she now finds herself trapped."
+    ""
+
+# game/script_jessie.rpy:19549
+translate russian ch4j_10_56152525:
+
+    # j "I guess I have no choice."
+    j ""
+
+# game/script_jessie.rpy:19551
+translate russian ch4j_10_28b31637:
+
+    # ww "Excellent! Just what I like to hear!"
+    ww ""
+
+# game/script_jessie.rpy:19556
+translate russian ch4j_10_a6d14d87:
+
+    # "I shoot Walter a silencing glare before turning to Jessie."
+    ""
+
+# game/script_jessie.rpy:19557
+translate russian ch4j_10_5730da60:
+
+    # c "Jessie. If this man's offer makes you uncomfortable..."
+    c ""
+
+# game/script_jessie.rpy:19559
+translate russian ch4j_10_bccc150c:
+
+    # j "It's all right. It's everything I ever wanted! Just... not quite how I imagined it."
+    j ""
+
+# game/script_jessie.rpy:19564
+translate russian ch4j_10_c6ea46f8:
+
+    # "She turns back to Walter."
+    ""
+
+# game/script_jessie.rpy:19565
+translate russian ch4j_10_9b3a5d12:
+
+    # j "But if you go back on your word so much as an inch, your new wolf act will disappear faster than you can blink."
+    j ""
+
+# game/script_jessie.rpy:19566
+translate russian ch4j_10_f7172234:
+
+    # "I remember the antidote in my pocket and realize she can make good on that threat in more ways than one."
+    ""
+
+# game/script_jessie.rpy:19568
+translate russian ch4j_10_e5c45601:
+
+    # b "Aye, an' if anythin' should happen, message me and I'll come knock the heads of whoever be troublin' you!"
+    b ""
+
+# game/script_jessie.rpy:19570
+translate russian ch4j_10_fdfa9fcb:
+
+    # j "Thank you, Balgair. It means a lot to me."
+    j ""
+
+# game/script_jessie.rpy:19572
+translate russian ch4j_10_b0b71822:
+
+    # "Walter's ebullient energy can be contained no longer."
+    ""
+
+# game/script_jessie.rpy:19574
+translate russian ch4j_10_049fb82b:
+
+    # ww "Goodness, you country dwellers are always so dour! Never fear, Miss MacLeod, for you've made the best decision of your life."
+    ww ""
+
+# game/script_jessie.rpy:19580
+translate russian ch4j_10_44fc3bdd:
+
+    # ww "You'll have it all—fame, fortune, and the biggest spotlight you can dream of... thanks to yours truly."
+    ww ""
+
+# game/script_jessie.rpy:19582
+translate russian ch4j_10_a1f4b09d:
+
+    # "He waits for applause, receives none, and continues without missing a beat."
+    ""
+
+# game/script_jessie.rpy:19584
+translate russian ch4j_10_f4e6bd05:
+
+    # ww "We can discuss the details of our arrangement later. For now, let's get you safely far away from the small-minded people of these parts."
+    ww ""
+
+# game/script_jessie.rpy:19587
+translate russian ch4j_10_0d823790:
+
+    # b "Excuse me?"
+    b ""
+
+# game/script_jessie.rpy:19589
+translate russian ch4j_10_aac08f05:
+
+    # ww "Present company excluded, of course!"
+    ww ""
+
+# game/script_jessie.rpy:19632
+translate russian ch4j_10_0ac7d583:
+
+    # "Walter opens the door for Jessie and motions for her to get inside."
+    ""
+
+# game/script_jessie.rpy:19634
+translate russian ch4j_10_89e23c5e:
+
+    # ww "Come along, my newest star! Your chariot awaits!"
+    ww ""
+
+# game/script_jessie.rpy:19653
+translate russian ch4j_10_ee9d3350:
+
+    # "Jessie looks from her new employer to her old one."
+    ""
+
+# game/script_jessie.rpy:19655
+translate russian ch4j_10_d8457065:
+
+    # j "I guess this is really it, then."
+    j ""
+
+# game/script_jessie.rpy:19657
+translate russian ch4j_10_eb22c123:
+
+    # "Balgair nods, then starts to get choked up, knowing a goodbye is coming."
+    ""
+
+# game/script_jessie.rpy:19659
+translate russian ch4j_10_0c152214:
+
+    # b "My girl is leaving me! I suffer heartache once more."
+    b ""
+
+# game/script_jessie.rpy:19661
+translate russian ch4j_10_8213dd9d:
+
+    # j "I'll be back to visit once the dust has settled... maybe even to perform, if you'll have me. You'll always be in my heart, Balgair! You're like a fa..."
+    j ""
+
+# game/script_jessie.rpy:19663
+translate russian ch4j_10_2488c915:
+
+    # "Jessie fights back tears."
+    ""
+
+# game/script_jessie.rpy:19665
+translate russian ch4j_10_8632c7fb:
+
+    # b "I was yer shoulder to lean on, Miss Jessie. Yer biggest fan. I believe in ye."
+    b ""
+
+# game/script_jessie.rpy:19669
+translate russian ch4j_10_42a35a1e:
+
+    # "Balgair swallows and tears spill out."
+    ""
+
+# game/script_jessie.rpy:19670
+translate russian ch4j_10_6f0b44fd:
+
+    # b "I'm proud of ye, Jessie MacLeod."
+    b ""
+
+# game/script_jessie.rpy:19679
+translate russian ch4j_10_18134942:
+
+    # "The two embrace, sobbing, and I notice I've welled up, too. In most ways, this is her hardest goodbye."
+    ""
+
+# game/script_jessie.rpy:19681
+translate russian ch4j_10_4b3a7ad4:
+
+    # b "All right, lass, go on. Go be a star."
+    b ""
+
+# game/script_jessie.rpy:19689
+translate russian ch4j_10_f2e84966:
+
+    # "Balgair finally lets her go, shoves Walter out of the way and gently assists his adopted daughter into the motorcar's comfortable cabin."
+    ""
+
+# game/script_jessie.rpy:19704
+translate russian ch4j_10_a9217943:
+
+    # "When he closes the door and faces me, he is wiping his tears on his burly arm, and pulling out a bar rag to blow his nose."
+    ""
+
+# game/script_jessie.rpy:19709
+translate russian ch4j_10_bdf191c5:
+
+    # b "And you! My boy, Malcolm! I barely got to see yer handsome face before you're off again. Make sure ye come back soon!"
+    b ""
+
+# game/script_jessie.rpy:19718
+translate russian ch4j_10_37ec05a8:
+
+    # "He grabs me and gives me a bear hug, speaking quietly in my ear."
+    ""
+
+# game/script_jessie.rpy:19721
+translate russian ch4j_10_b8da9a22:
+
+    # b "You're a good friend, Malcolm. One I needed."
+    b ""
+
+# game/script_jessie.rpy:19722
+translate russian ch4j_10_d7a99784:
+
+    # c "As are you, Balgair. I'll be back as soon as I need good advice. It'll be soon, I'm sure."
+    c ""
+
+# game/script_jessie.rpy:19731
+translate russian ch4j_10_2ecf6f17:
+
+    # b "There'll be a pint waiting for you!"
+    b ""
+
+# game/script_jessie.rpy:19749
+translate russian ch4j_10_e9d7f26f:
+
+    # "With a wink and a tip of his tam, Balgair turns and heads back toward the place we used to call home."
+    ""
+
+# game/script_jessie.rpy:19751
+translate russian ch4j_10_ac8ea876:
+
+    # "Once again I'm reminded that I'm leaving behind most everyone and everything I knew. What awaits us in our new home? For all Walter's promises, I'm still woefully unclear on what to expect."
+    ""
+
+# game/script_jessie.rpy:19752
+translate russian ch4j_10_54d71ac2:
+
+    # "I don't think he will take advantage of us—not with his precious new act on the line—but I can't help but feel at this strange man's mercy."
+    ""
+
+# game/script_jessie.rpy:19768
+translate russian ch4j_10_eefd7e20:
+
+    # "The showman tosses our bags in the boot. I stand beside him waiting to hear the slam of the lid."
+    ""
+
+# game/script_jessie.rpy:19769
+translate russian ch4j_10_8e182cad:
+
+    # c "Mr. Wondrous, sir... what assurances do we have that we'll be as safe and prosperous by your side as you profess?"
+    c ""
+
+# game/script_jessie.rpy:19783
+translate russian ch4j_10_c6cf217d:
+
+    # ww "Again... Walter, please. And... I'm sorry, who are you, again?"
+    ww ""
+
+# game/script_jessie.rpy:19784
+translate russian ch4j_10_b1e88991:
+
+    # "It takes a great deal of effort not to wring my hands in frustration."
+    ""
+
+# game/script_jessie.rpy:19785
+translate russian ch4j_10_03ae7f36:
+
+    # c "Malcolm."
+    c ""
+
+# game/script_jessie.rpy:19787
+translate russian ch4j_10_799107d0:
+
+    # ww "Ah, Malcolm! I didn't recognize you without the..."
+    ww ""
+
+# game/script_jessie.rpy:19788
+translate russian ch4j_10_406498ca:
+
+    # c "Fur."
+    c ""
+
+# game/script_jessie.rpy:19808
+translate russian ch4j_10_892fb2c9:
+
+    # ww "Yes. Well, {i}Malcolm,{/i} I'm a household name. I find the work, your girl puts on the show. I promise an equal partnership and no threats. No harm. Easy as that. How about it?"
+    ww ""
+
+# game/script_jessie.rpy:19809
+translate russian ch4j_10_19d28977:
+
+    # "His promises are no more reassuring than before. I try a different tact."
+    ""
+
+# game/script_jessie.rpy:19810
+translate russian ch4j_10_f68a4f82:
+
+    # c "There may be people looking for Jessie... looking to hurt her. I don't want to put—"
+    c ""
+
+# game/script_jessie.rpy:19812
+translate russian ch4j_10_2edd5be5:
+
+    # "I stop to think what would resonate best."
+    ""
+
+# game/script_jessie.rpy:19813
+translate russian ch4j_10_392453bb:
+
+    # c "I don't want to put you at risk, Walter."
+    c ""
+
+# game/script_jessie.rpy:19815
+translate russian ch4j_10_c927bff3:
+
+    # ww "Nonsense! No one would dare lift a finger to me. Besides, I have protection."
+    ww ""
+
+# game/script_jessie.rpy:19827
+translate russian ch4j_10_ea702702:
+
+    # "He taps the back of his monkey three times, and the {nw}"
+    ""
+
+# game/script_jessie.rpy:19835
+translate russian ch4j_10_4a973fd3:
+
+    # extend "animal draws a caplock pistol out of nowhere."
+    extend ""
+
+# game/script_jessie.rpy:19837
+translate russian ch4j_10_2f12fb66:
+
+    # c "Oh, my God! Stop!"
+    c ""
+
+# game/script_jessie.rpy:19839
+translate russian ch4j_10_6c44e0f1:
+
+    # "Walter yells."
+    ""
+
+# game/script_jessie.rpy:19840
+translate russian ch4j_10_2594e7a8:
+
+    # ww "Hold, boy!"
+    ww ""
+
+# game/script_jessie.rpy:19847
+translate russian ch4j_10_58b2beea:
+
+    # "The monkey holsters the pistol just as fast as he whipped it out."
+    ""
+
+# game/script_jessie.rpy:19848
+translate russian ch4j_10_448c990a:
+
+    # c "Jesus holy Christ!"
+    c ""
+
+# game/script_jessie.rpy:19850
+translate russian ch4j_10_a2d3bfe0:
+
+    # ww "That's my righthand man... and my sidearm."
+    ww ""
+
+# game/script_jessie.rpy:19851
+translate russian ch4j_10_392f597f:
+
+    # c "I didn't need a goddamned gun in my face, Walter!"
+    c ""
+
+# game/script_jessie.rpy:19855
+translate russian ch4j_10_2c0bd1a1:
+
+    # ww "All right, all right. Calm down."
+    ww ""
+
+# game/script_jessie.rpy:19856
+translate russian ch4j_10_058dfa3a:
+
+    # c "Don't tell me to calm down!"
+    c ""
+
+# game/script_jessie.rpy:19857
+translate russian ch4j_10_2cd92076:
+
+    # "My body seethes."
+    ""
+
+# game/script_jessie.rpy:19858
+translate russian ch4j_10_8bb91fba:
+
+    # c "You've no idea what Jessie and I have been through! W-who in their right mind plays a trick like that?"
+    c ""
+
+# game/script_jessie.rpy:19860
+translate russian ch4j_10_6472e169:
+
+    # "Walter replies without skipping a beat."
+    ""
+
+# game/script_jessie.rpy:19861
+translate russian ch4j_10_88cc92c0:
+
+    # ww "Someone who just met a wolf-woman who'd recently attacked a man, that's who."
+    ww ""
+
+# game/script_jessie.rpy:19863
+translate russian ch4j_10_60cad558:
+
+    # "He has a point."
+    ""
+
+# game/script_jessie.rpy:19865
+translate russian ch4j_10_f03a07ba:
+
+    # ww "I didn't pull that little trick to scare you. It was to show you that I've got your back, just like Little Nap does for me."
+    ww ""
+
+# game/script_jessie.rpy:19867
+translate russian ch4j_10_acc62712:
+
+    # ww "Just say the word, and he'll lodge a bullet in the bahookie of anyone who looks at you side-eyed."
+    ww ""
+
+# game/script_jessie.rpy:19868
+translate russian ch4j_10_30fd14db:
+
+    # c "Good God, Walter! Are you off the rails? Let's all take a breath and act like adults."
+    c ""
+
+# game/script_jessie.rpy:19869
+translate russian ch4j_10_188675a5:
+
+    # "My breathing is finally slowing down, but I still feel scathed."
+    ""
+
+# game/script_jessie.rpy:19870
+translate russian ch4j_10_1f64e8d1:
+
+    # c "Don't ever take that out again around Jessie, or you'll not live to see another day."
+    c ""
+
+# game/script_jessie.rpy:19872
+translate russian ch4j_10_3eb9300e:
+
+    # "It's not just a threat, but a warning. I don't know how Jessie would react, yet I can imagine it involving fangs and claws."
+    ""
+
+# game/script_jessie.rpy:19873
+translate russian ch4j_10_65ba4997:
+
+    # ww "My deepest apologies, Malcolm. My sense of humor can be—"
+    ww ""
+
+# game/script_jessie.rpy:19874
+translate russian ch4j_10_925103aa:
+
+    # c "Completely irrational?"
+    c ""
+
+# game/script_jessie.rpy:19878
+translate russian ch4j_10_668940e5:
+
+    # ww "I've been called worse."
+    ww ""
+
+# game/script_jessie.rpy:19879
+translate russian ch4j_10_473417c0:
+
+    # "More like completely mental. I cannot figure this man out."
+    ""
+
+# game/script_jessie.rpy:19880
+translate russian ch4j_10_cd32eddb:
+
+    # c "How are you taking all this in stride? You do know not everything you saw last night was an act, right?"
+    c ""
+
+# game/script_jessie.rpy:19884
+translate russian ch4j_10_76f8705c:
+
+    # "He grins, showing all his teeth and looking a bit like an overgrown child who has more answers than the schoolteacher."
+    ""
+
+# game/script_jessie.rpy:19885
+translate russian ch4j_10_2170d88a:
+
+    # ww "I know that whether or not I'm in the presence of a real werewolf, I'm decidedly in the presence of a star."
+    ww ""
+
+# game/script_jessie.rpy:19886
+translate russian ch4j_10_cd725e7e:
+
+    # c "And someday you'll tell me how you knew you'd find a star all the way out here?"
+    c ""
+
+# game/script_jessie.rpy:19893
+translate russian ch4j_10_2e6c758b:
+
+    # "Walter lowers his voice and winks at me."
+    ""
+
+# game/script_jessie.rpy:19894
+translate russian ch4j_10_b5b39d1b:
+
+    # ww "I'm no stranger to the mysteries of men and mystical beasts, Malcolm. If you look hard enough, you'll find everybody has got something to hide."
+    ww ""
+
+# game/script_jessie.rpy:19895
+translate russian ch4j_10_7fb2d310:
+
+    # c "Even you?"
+    c ""
+
+# game/script_jessie.rpy:19897
+translate russian ch4j_10_afa0a127:
+
+    # ww "Even me!"
+    ww ""
+
+# game/script_jessie.rpy:19898
+translate russian ch4j_10_f8501549:
+
+    # a "Most certainly him."
+    a ""
+
+# game/script_jessie.rpy:19911
+translate russian ch4j_10_5adb9ee5:
+
+    # "Walter nearly jumps out of his delicately made kilt, then pulls himself back together just as quickly."
+    ""
+
+# game/script_jessie.rpy:19946
+translate russian ch4j_10_d47a793f:
+
+    # "My old schoolteacher appears like a green-clad spectre, causing my heart to sink."
+    ""
+
+# game/script_jessie.rpy:19954
+translate russian ch4j_10_29bf2978:
+
+    # ww "Alana! How good to see you again!"
+    ww ""
+
+# game/script_jessie.rpy:19961
+translate russian ch4j_10_82c24864:
+
+    # a "Hello Malcolm. Walter."
+    a ""
+
+# game/script_jessie.rpy:19962
+translate russian ch4j_10_2d5272cc:
+
+    # c "You... you two know each other?"
+    c ""
+
+# game/script_jessie.rpy:19968
+translate russian ch4j_10_bd152641:
+
+    # ww "Quite well!" (multiple=2)
+    ww "" (multiple=2)
+
+# game/script_jessie.rpy:19969
+translate russian ch4j_10_877566b8:
+
+    # a "Not well." (multiple=2)
+    a "" (multiple=2)
+
+# game/script_jessie.rpy:19977
+translate russian ch4j_10_a852c474:
+
+    # ww "We met right at the very beginning of my career, when I was but a two-bit showman."
+    ww ""
+
+# game/script_jessie.rpy:19979
+translate russian ch4j_10_fbfaf075:
+
+    # a "Congratulations on your success."
+    a ""
+
+# game/script_jessie.rpy:19981
+translate russian ch4j_10_ae35b30d:
+
+    # ww "Why, thank you! I wouldn't be where I am today without... ah... loyal fans like you."
+    ww ""
+
+# game/script_jessie.rpy:19983
+translate russian ch4j_10_8e847415:
+
+    # "A look of disgust flashes across Alana's face, as if she'd just bit into one of Balgair's haggis balls."
+    ""
+
+# game/script_jessie.rpy:19985
+translate russian ch4j_10_278762b7:
+
+    # a "Yes, well... fame comes and goes. Even those on top of the world can come tumbling down."
+    a ""
+
+# game/script_jessie.rpy:19987
+translate russian ch4j_10_715b6076:
+
+    # "The sudden shift in tone causes even our chatty friend to fall silent. He noticeably shivers. There's a subtext here that I don't understand, but the threat is as clear as day."
+    ""
+
+# game/script_jessie.rpy:19989
+translate russian ch4j_10_7c663db6:
+
+    # a "I see you procured a new actress. You will treat her well?"
+    a ""
+
+# game/script_jessie.rpy:19991
+translate russian ch4j_10_2c81eb22:
+
+    # ww "Oh, yes. Like a queen!"
+    ww ""
+
+# game/script_jessie.rpy:19993
+translate russian ch4j_10_941b77ec:
+
+    # a "Good. Remember, Walter, Jessie is a performer, not some {i}thing{/i} to trot out on display. She's more talent in her dewclaw than you and your monkey and the rest of your troupe combined."
+    a ""
+
+# game/script_jessie.rpy:20001
+translate russian ch4j_10_1fd214f2:
+
+    # ww "I beg your pardon! Little Nap here takes exception to that."
+    ww ""
+
+# game/script_jessie.rpy:20003
+translate russian ch4j_10_7323477d:
+
+    # a "It's a risk I'm willing to take."
+    a ""
+
+# game/script_jessie.rpy:20009
+translate russian ch4j_10_a7e419be:
+
+    # "Does Alana know that the monkey is armed? This conversation is making me feel very uneasy."
+    ""
+
+# game/script_jessie.rpy:20011
+translate russian ch4j_10_1d72ca82:
+
+    # a "Now, do not change the subject, Walter. Jessie. You will let her...?"
+    a ""
+
+# game/script_jessie.rpy:20012
+translate russian ch4j_10_b5e40d15:
+
+    # "Alana's voice has settled back into the schoolteacher tone I remember all too well."
+    ""
+
+# game/script_jessie.rpy:20014
+translate russian ch4j_10_59c1a02e:
+
+    # ww "I... will let her have a leading role in our production. I'll pay her handsomely!"
+    ww ""
+
+# game/script_jessie.rpy:20016
+translate russian ch4j_10_ec5d9ae5:
+
+    # a "{i}Incorrect.{/i} You will let her do whatever she damned well pleases, and you will pay her {i}half.{/i} Are we clear?"
+    a ""
+
+# game/script_jessie.rpy:20022
+translate russian ch4j_10_53313486:
+
+    # ww "H-half?"
+    ww ""
+
+# game/script_jessie.rpy:20023
+translate russian ch4j_10_dc020061:
+
+    # "The weather is warm, but I suspect that's not the reason why Walter is sweating."
+    ""
+
+# game/script_jessie.rpy:20025
+translate russian ch4j_10_a26925b1:
+
+    # a "Half."
+    a ""
+
+# game/script_jessie.rpy:20029
+translate russian ch4j_10_c2afe028:
+
+    # ww "You... drive a hard bargain, Miss Alana, however I'm left no choice but to accept, seeing as we're friends and—"
+    ww ""
+
+# game/script_jessie.rpy:20031
+translate russian ch4j_10_c6f7dfc4:
+
+    # a "Excellent. Now go."
+    a ""
+
+# game/script_jessie.rpy:20034
+translate russian ch4j_10_30774975:
+
+    # ww "...Pardon?"
+    ww ""
+
+# game/script_jessie.rpy:20036
+translate russian ch4j_10_6a7fc462:
+
+    # "Alana casts her hands up in the air, as if dealing with a particularly dim student."
+    ""
+
+# game/script_jessie.rpy:20038
+translate russian ch4j_10_6ac24d7e:
+
+    # a "Go! Go, open the windows for your new star! You should never leave Jessie alone in a hot car."
+    a ""
+
+# game/script_jessie.rpy:20050
+translate russian ch4j_10_d833f9c2:
+
+    # "Dismissed, Walter doffs his cap and gives Alana a strained smile. The monkey's glare is less subtle."
+    ""
+
+# game/script_jessie.rpy:20051
+translate russian ch4j_10_1450b1c0:
+
+    # ww "Of course. Take care, m'lady."
+    ww ""
+
+# game/script_jessie.rpy:20055
+translate russian ch4j_10_1daf5746:
+
+    # "And don't be long now, Malcolm—your future of fame and fortune awaits!"
+    ""
+
+# game/script_jessie.rpy:20085
+translate russian ch4j_10_a54a8e0b:
+
+    # "I take a step backward, wondering if I can make good my escape as well."
+    ""
+
+# game/script_jessie.rpy:20098
+translate russian ch4j_10_3fde326a:
+
+    # a "Malcolm. We need to talk."
+    a ""
+
+# game/script_jessie.rpy:20099
+translate russian ch4j_10_24a1aa89:
+
+    # "It would seem not."
+    ""
+
+# game/script_jessie.rpy:20100
+translate russian ch4j_10_400a23dc:
+
+    # c "Come to do some tough negotiating with me, as well?"
+    c ""
+
+# game/script_jessie.rpy:20101
+translate russian ch4j_10_d246dd83:
+
+    # "I finger the vial in my pocket, wondering if I should destroy it before Alana delivers an ultimatum."
+    ""
+
+# game/script_jessie.rpy:20103
+translate russian ch4j_10_dd55362d:
+
+    # a "I've been on both ends of hard bargains. I find it better when I am the one dictating them."
+    a ""
+
+# game/script_jessie.rpy:20104
+translate russian ch4j_10_40dd1321:
+
+    # "What is that supposed to mean?"
+    ""
+
+# game/script_jessie.rpy:20106
+translate russian ch4j_10_4c8c4a82:
+
+    # a "But I know you need no such convincing. You will take good care of Jessie, won't you?"
+    a ""
+
+# game/script_jessie.rpy:20107
+translate russian ch4j_10_44fce860:
+
+    # c "Of course. She means everything to me."
+    c ""
+
+# game/script_jessie.rpy:20109
+translate russian ch4j_10_dcdc2773:
+
+    # a "Good. There will be evil people looking to do evil things. Beyond these borders, I won't be able to protect you."
+    a ""
+
+# game/script_jessie.rpy:20110
+translate russian ch4j_10_8bf5b122:
+
+    # c "We never asked for your protection. Only your guidance in understanding this magic."
+    c ""
+
+# game/script_jessie.rpy:20112
+translate russian ch4j_10_0b9014ec:
+
+    # "My words prompt a noticeable change in Alana's mood. A vulnerability that I've rarely seen."
+    ""
+
+# game/script_jessie.rpy:20115
+translate russian ch4j_10_15c9e87d:
+
+    # a "I am sorry for not being the mentor Jessie needed. I... hope she finds what she is looking for beyond the bounds of this valley."
+    a ""
+
+# game/script_jessie.rpy:20116
+translate russian ch4j_10_6aca206a:
+
+    # c "She will find happiness, I think."
+    c ""
+
+# game/script_jessie.rpy:20118
+translate russian ch4j_10_3f000f47:
+
+    # "Alana nods, seemingly lost in thought."
+    ""
+
+# game/script_jessie.rpy:20120
+translate russian ch4j_10_cae6241d:
+
+    # a "Too often happiness lies just outside our grasp. Tell Jessie I'm proud of her for reaching out and finding it."
+    a ""
+
+# game/script_jessie.rpy:20138
+translate russian ch4j_10_57a3731a:
+
+    # "Before I can respond, Alana turns on her black heels and begins walking away. I call after her."
+    ""
+
+# game/script_jessie.rpy:20139
+translate russian ch4j_10_bdede397:
+
+    # c "Why not tell Jessie yourself?"
+    c ""
+
+# game/script_jessie.rpy:20141
+translate russian ch4j_10_d8f46eda:
+
+    # a "It will mean more coming from you."
+    a ""
+
+# game/script_jessie.rpy:20165
+translate russian ch4j_10_5f8f09fa:
+
+    # "What tension Walter and Alana had built up inside me evaporates the moment I sit down in the motorcar's plush interior. I don't know where we are going, but it will feel good to go in style."
+    ""
+
+# game/script_jessie.rpy:20166
+translate russian ch4j_10_47675d62:
+
+    # j "Good lord, what was happening out there? I heard yelling, screeching, and then thought I saw a green dress..."
+    j ""
+
+# game/script_jessie.rpy:20168
+translate russian ch4j_10_213c7a60:
+
+    # c "Yes. It was Alana."
+    c ""
+
+# game/script_jessie.rpy:20170
+translate russian ch4j_10_20e36019:
+
+    # j "She had the audacity to show up here? What did she want, to administer that cursed antidote herself?"
+    j ""
+
+# game/script_jessie.rpy:20172
+translate russian ch4j_10_b49cb343:
+
+    # c "I think... she wanted to say goodbye. And to wish you luck."
+    c ""
+
+# game/script_jessie.rpy:20174
+translate russian ch4j_10_fe182fcb:
+
+    # "Jessie's mood noticeably shifts."
+    ""
+
+# game/script_jessie.rpy:20175
+translate russian ch4j_10_5795d152:
+
+    # j "Truly? No schemes, no pretenses?"
+    j ""
+
+# game/script_jessie.rpy:20177
+translate russian ch4j_10_2a72b01a:
+
+    # c "I don't believe so. Although with Alana, you never know."
+    c ""
+
+# game/script_jessie.rpy:20188
+translate russian ch4j_10_1e69268d:
+
+    # "Our voices go quiet, replaced by the sound of the car's engine turning... again and again. Walter calls from the front seat."
+    ""
+
+# game/script_jessie.rpy:20189
+translate russian ch4j_10_d9c899bd:
+
+    # ww "Hold tight, you two. I'll have it running in a jiffy! {size=22}Blasted{/size} {size=18}newfangled{/size} {size=12}piece of{/size}..."
+    ww ""
+
+# game/script_jessie.rpy:20194
+translate russian ch4j_10_af6dc793:
+
+    # j "You know... in some ways Alana was like a mother to me. To my sisters too. The mother we never had."
+    j ""
+
+# game/script_jessie.rpy:20198
+translate russian ch4j_10_2d7ebbf5:
+
+    # j "I just hope she takes care of herself someday."
+    j ""
+
+# game/script_jessie.rpy:20216
+translate russian ch4j_10_0c47a91a:
+
+    # "The engine catches. Walter claps his hands with glee."
+    ""
+
+# game/script_jessie.rpy:20222
+translate russian ch4j_10_a65e190b:
+
+    # ww "Listen to it purr! It's a Lanchester Forty—the newest model. Six cylinder. Top speed of eighty-five!"
+    ww ""
+
+# game/script_jessie.rpy:20226
+translate russian ch4j_10_c0ed3eb1:
+
+    # j "Eighty-five? Goodness, Malcolm, can you imagine? We'd be flying!"
+    j ""
+
+# game/script_jessie.rpy:20257
+translate russian ch4j_10_88fd935c:
+
+    # "The motorcar jerks forward. Smoke billows out of the exhaust. The scent reminds me of the city action, the fast pace, and all the people bustling through the smog."
+    ""
+
+# game/script_jessie.rpy:20262
+translate russian ch4j_10_0a349e00:
+
+    # "What have I signed up for?"
+    ""
+
+# game/script_jessie.rpy:20263
+translate russian ch4j_10_57def05e:
+
+    # "The last time I left town, my world changed. I returned and it changed again. And here I am, enlisting once more for a whole new experience."
+    ""
+
+# game/script_jessie.rpy:20264
+translate russian ch4j_10_daf16d16:
+
+    # "The valley disappears behind us, and with it what is left of my family. I don't dwell on the notion that I could possibly see my parents where my journey takes me."
+    ""
+
+# game/script_jessie.rpy:20265
+translate russian ch4j_10_e34b6d2e:
+
+    # "With a last look out the back of the motorcar, I believe I see the faint but distinct outlines of Alana and... Effie? Both smiling and waving goodbye. But it could just be my imagination."
+    ""
+
+# game/script_jessie.rpy:20297
+translate russian ch4j_10_9112bad0:
+
+    # "Walter steps on the gas, and Jessie lets out a laugh of excitement. Her joy is palpable now."
+    ""
+
+# game/script_jessie.rpy:20298
+translate russian ch4j_10_d44f12d2:
+
+    # "I laugh along, reaching the peak hill on this rollercoaster of life. Nothing could have prepared me for the drop, this freefall."
+    ""
+
+# game/script_jessie.rpy:20299
+translate russian ch4j_10_2bb4853b:
+
+    # "But I'm ready to enjoy the ride."
+    ""
+
+# game/script_jessie.rpy:20304
+translate russian ch4j_10_75411d68:
+
+    # "Along the way, Jessie was abuzz with questions about Walter. I love seeing her so excited. After the tidal wave of disaster we just rode through, it's nice to have hope again."
+    ""
+
+# game/script_jessie.rpy:20310
+translate russian ch4j_10_bef4d888:
+
+    # j "He's here, you say?"
+    j ""
+
+# game/script_jessie.rpy:20311
+translate russian ch4j_10_a7048870:
+
+    # "I scan the small crowd for a man with a monkey perched on his shoulder, but spy none."
+    ""
+
+# game/script_jessie.rpy:20312
+translate russian ch4j_10_b95026a0:
+
+    # c "That's what he told me. Perhaps he's already boarded?"
+    c ""
+
+# game/script_jessie.rpy:20314
+translate russian ch4j_10_c2cdf40d:
+
+    # j "I'll ask the conductor. Surely he'd recognize such a celebrity."
+    j ""
+
+# game/script_jessie.rpy:20315
+translate russian ch4j_10_244a9130:
+
+    # c "Surely."
+    c ""
+
+# game/script_jessie.rpy:20317
+translate russian ch4j_10_c2e313e4:
+
+    # j "Oooh... what should I say when I meet him? Does my hair look all right?"
+    j ""
+
+# game/script_jessie.rpy:20318
+translate russian ch4j_10_4fe3fa14:
+
+    # c "You look stunning as ever. Just be yourself!"
+    c ""
+
+# game/script_jessie.rpy:20320
+translate russian ch4j_10_b8f00f21:
+
+    # j "No, that won't do—I might end up smelling like a wet dog!"
+    j ""
+
+# game/script_jessie.rpy:20323
+translate russian ch4j_10_8778080e:
+
+    # "I laugh out loud."
+    ""
+
+# game/script_jessie.rpy:20324
+translate russian ch4j_10_0762a5d6:
+
+    # c "I suppose that could be both of us!"
+    c ""
+
+# game/script_jessie.rpy:20326
+translate russian ch4j_10_b73586f5:
+
+    # j "Malcolm! I jest. We'll be fine, especially you! Walter will never see our charm coming."
+    j ""
+
+# game/script_jessie.rpy:20327
+translate russian ch4j_10_ece9b39c:
+
+    # "My heart soars, knowing she could be right. But before I can say so, a voice booms from behind us."
+    ""
+
+# game/script_jessie.rpy:20330
+translate russian ch4j_10_dcba68a0:
+
+    # "I wince at the reminder of what has been taken from her."
+    ""
+
+# game/script_jessie.rpy:20331
+translate russian ch4j_10_2ca86e3d:
+
+    # c "Jessie..."
+    c ""
+
+# game/script_jessie.rpy:20333
+translate russian ch4j_10_46d70446:
+
+    # j "Malcolm! I jest. It's all right."
+    j ""
+
+# game/script_jessie.rpy:20334
+translate russian ch4j_10_06606b91:
+
+    # "My heart feels for her. But before I can apologize again, a voice booms from behind us."
+    ""
+
+# game/script_jessie.rpy:20336
+translate russian ch4j_10_0c152214_1:
+
+    # b "My girl is leaving me! I suffer heartache once more."
+    b ""
+
+# game/script_jessie.rpy:20338
+translate russian ch4j_10_40e0662c:
+
+    # j "Balgair!"
+    j ""
+
+# game/script_jessie.rpy:20358
+translate russian ch4j_10_f10ea1b7:
+
+    # "Jessie nearly leaps into the surprise visitor's arms."
+    ""
+
+# game/script_jessie.rpy:20359
+translate russian ch4j_10_5f6a936d:
+
+    # b "You didnae think I'd let you skip town with saying goodbye?"
+    b ""
+
+# game/script_jessie.rpy:20360
+translate russian ch4j_10_f3a2b85e:
+
+    # "Nothing slips past Balgair. I didn't expect to run into anyone from Ach-na-Creige here, but in Balgair's case, I'm glad we did."
+    ""
+
+# game/script_jessie.rpy:20361
+translate russian ch4j_10_ea7d67f4:
+
+    # b "Me scarlet starlet, finally off t'make it big! I'll miss ye much."
+    b ""
+
+# game/script_jessie.rpy:20362
+translate russian ch4j_10_7e24ba5c:
+
+    # j "You'll always be in my heart, Balgair! You're like a fa..."
+    j ""
+
+# game/script_jessie.rpy:20363
+translate russian ch4j_10_3ad20fde:
+
+    # "Jessie fights back tears, and even old Balgair starts to get choked up."
+    ""
+
+# game/script_jessie.rpy:20364
+translate russian ch4j_10_8632c7fb_1:
+
+    # b "I was yer shoulder to lean on, Miss Jessie. Yer biggest fan. I believe in ye."
+    b ""
+
+# game/script_jessie.rpy:20365
+translate russian ch4j_10_42a35a1e_1:
+
+    # "Balgair swallows and tears spill out."
+    ""
+
+# game/script_jessie.rpy:20366
+translate russian ch4j_10_6f0b44fd_1:
+
+    # b "I'm proud of ye, Jessie MacLeod."
+    b ""
+
+# game/script_jessie.rpy:20367
+translate russian ch4j_10_18134942_1:
+
+    # "The two embrace, sobbing, and I notice I've welled up, too. In most ways, this is her hardest goodbye."
+    ""
+
+# game/script_jessie.rpy:20376
+translate russian ch4j_10_9c81b9f3:
+
+    # "Balgair finally lets Jessie go, wiping his tears on his burly arm, and pulling out a bar rag to blow his nose."
+    ""
+
+# game/script_jessie.rpy:20378
+translate russian ch4j_10_99e85383:
+
+    # j "I promise I'll be back to visit once things have calmed down! Maybe even give a show now and again, if I'm welcome."
+    j ""
+
+# game/script_jessie.rpy:20380
+translate russian ch4j_10_68935021:
+
+    # b "Of course, lass! If anyone feels otherwise, they'll answer t'me."
+    b ""
+
+# game/script_jessie.rpy:20381
+translate russian ch4j_10_b99b3a8f:
+
+    # "I can't imagine how the rest of the town will reconcile what happened last night. It's a mess I am glad to be leaving behind."
+    ""
+
+# game/script_jessie.rpy:20382
+translate russian ch4j_10_6e38cf03:
+
+    # c "Future shows will have a little less excitement, hopefully."
+    c ""
+
+# game/script_jessie.rpy:20384
+translate russian ch4j_10_86a4417d:
+
+    # j "No guarantees!"
+    j ""
+
+# game/script_jessie.rpy:20386
+translate russian ch4j_10_b4750ff8:
+
+    # b "Och, 'tis no different than a Friday night when the lads get a bit too rowdy! The Stag & Nanny can handle whitever be thrown at it."
+    b ""
+
+# game/script_jessie.rpy:20387
+translate russian ch4j_10_4cf954cf:
+
+    # c "That may be, but you'll have to double its size to accommodate all her fans, y'know, once she's famous."
+    c ""
+
+# game/script_jessie.rpy:20389
+translate russian ch4j_10_d6d68a33:
+
+    # b "Aye, no doubt! But till then, what am I to do? Who's going to perform every night?"
+    b ""
+
+# game/script_jessie.rpy:20391
+translate russian ch4j_10_795b4813:
+
+    # j "While I was at her house, I learned Miss Alana can play bagpipes. You have a spare set, right? Imagine! You on piano... Alana playing your pipes?"
+    j ""
+
+# game/script_jessie.rpy:20393
+translate russian ch4j_10_47d2b737:
+
+    # "Balgair swallows a cough."
+    ""
+
+# game/script_jessie.rpy:20394
+translate russian ch4j_10_8fda896e:
+
+    # b "I-I'll be damned. Does she really play?"
+    b ""
+
+# game/script_jessie.rpy:20396
+translate russian ch4j_10_63cc5e4f:
+
+    # j "Like you wouldn't believe. That woman is gifted at blowing the pipes. Her fingering is so fast you can barely see her hands move. 'Tis a sight!"
+    j ""
+
+# game/script_jessie.rpy:20398
+translate russian ch4j_10_ea14efcc:
+
+    # b "I... uh... can imagine."
+    b ""
+
+# game/script_jessie.rpy:20399
+translate russian ch4j_10_10106372:
+
+    # "Both of us have turned red. I quickly change the subject."
+    ""
+
+# game/script_jessie.rpy:20400
+translate russian ch4j_10_f367c9c7:
+
+    # c "Say, Balgair, is Wondrous Walter with you?"
+    c ""
+
+# game/script_jessie.rpy:20402
+translate russian ch4j_10_60ff33cc:
+
+    # b "Aye, he should be along soon. Went to collect his vehicle."
+    b ""
+
+# game/script_jessie.rpy:20404
+translate russian ch4j_10_d45daf9e_1:
+
+    # j "He {i}is{/i} here?!"
+    j ""
+
+# game/script_jessie.rpy:20405
+translate russian ch4j_10_61a3ab18_1:
+
+    # c "Wait, his... vehicle?"
+    c ""
+
+# game/script_jessie.rpy:20407
+translate russian ch4j_10_a937e443_1:
+
+    # "Balgair scoffs."
+    ""
+
+# game/script_jessie.rpy:20409
+translate russian ch4j_10_c57d2269_1:
+
+    # b "A fine new saloon. He parked it here at Strathcarron's station so as to not \"jostle the s'pension\" on the track into town. Hardly a chariot if yer too afraid to use it, ye ask me."
+    b ""
+
+# game/script_jessie.rpy:20439
+translate russian ch4j_10_4b981882:
+
+    # "Sure enough, moments later a long, dark motorcar putters around the corner and pulls up. Jessie turns away and frantically runs a hand through her hair."
+    ""
+
+# game/script_jessie.rpy:20464
+translate russian ch4j_10_34acfd99_1:
+
+    # "Walter extinguishes the beast and steps out, beaming. Little Nap looks rattled. From the platform, someone points toward the duo with surprise."
+    ""
+
+# game/script_jessie.rpy:20466
+translate russian ch4j_10_e20ac187_1:
+
+    # ww "Aha! There's the super-star!"
+    ww ""
+
+# game/script_jessie.rpy:20472
+translate russian ch4j_10_16fee1e1_1:
+
+    # "Jessie whips around, already in performance mode."
+    ""
+
+# game/script_jessie.rpy:20473
+translate russian ch4j_10_790a1bda_1:
+
+    # j "Mr... uh... Wondrous! How lovely to finally meet you!"
+    j ""
+
+# game/script_jessie.rpy:20477
+translate russian ch4j_10_6636980b:
+
+    # ww "Walter, please. And you are the talented Miss Jessie! What a sensation last night. Could barely believe my eyes!"
+    ww ""
+
+# game/script_jessie.rpy:20479
+translate russian ch4j_10_5f4f92ed:
+
+    # j "Th—thank you! It was... umm... not my finest performance."
+    j ""
+
+# game/script_jessie.rpy:20489
+translate russian ch4j_10_f2f7a930:
+
+    # ww "I disagree! I've never seen such a beguiling show. And the finale? What a spectacle! I'd ask how you did it, but a lady never reveals her secrets, does she?"
+    ww ""
+
+# game/script_jessie.rpy:20491
+translate russian ch4j_10_6d52599d:
+
+    # "He winks and Jessie giggles."
+    ""
+
+# game/script_jessie.rpy:20493
+translate russian ch4j_10_de8ac47b:
+
+    # j "Never!"
+    j ""
+
+# game/script_jessie.rpy:20495
+translate russian ch4j_10_9348fa03:
+
+    # "Walter's \"charm\" continues to rub me the wrong way, but Jessie seems to be eating it up. Or perhaps it's her ability to perform on cue?"
+    ""
+
+# game/script_jessie.rpy:20499
+translate russian ch4j_10_90f17f36:
+
+    # ww "People will love it. You see, I've a new production in the works, and I'd like to make {i}your act{/i} its centerpiece!"
+    ww ""
+
+# game/script_jessie.rpy:20501
+translate russian ch4j_10_690600f5:
+
+    # "He pauses with a showman's timing. Jessie's eyes go wide."
+    ""
+
+# game/script_jessie.rpy:20502
+translate russian ch4j_10_f7c2978d:
+
+    # j "My singing? The main act?"
+    j ""
+
+# game/script_jessie.rpy:20504
+translate russian ch4j_10_47a75278:
+
+    # ww "Yes, yes, we'll lead with that. But then, once the audience is warmed up... {i}WHAM!{/i} You become... {i}the Wondrous Warbling Wolf Woman of Ach-na-Creige!{/i}"
+    ww ""
+
+# game/script_jessie.rpy:20508
+translate russian ch4j_10_5d39db5f:
+
+    # "Her eyes narrow."
+    ""
+
+# game/script_jessie.rpy:20512
+translate russian ch4j_10_0c693f16:
+
+    # ww "Er, the \"Wondrous\" part is branding, you see."
+    ww ""
+
+# game/script_jessie.rpy:20514
+translate russian ch4j_10_0a2319d6:
+
+    # "Walter winks again, but this time Jessie does not giggle."
+    ""
+
+# game/script_jessie.rpy:20516
+translate russian ch4j_10_3e17a5d2:
+
+    # j "I think I'd prefer to be known for my voice, not for some... ah... parlour trick."
+    j ""
+
+# game/script_jessie.rpy:20518
+translate russian ch4j_10_8f7992ad:
+
+    # ww "Parlour trick? Don't be ridiculous! Why Miss Jessie, your transformative talents excel far beyond the realm of parlour tricks."
+    ww ""
+
+# game/script_jessie.rpy:20520
+translate russian ch4j_10_30af8923:
+
+    # ww "Men will be amazed. Women will be aghast. Children will squeal with glee! A wolf woman is but a curiosity. But a {i}singing{/i} wolf woman, one as talented as you? Why, you're a marvel for the ages!"
+    ww ""
+
+# game/script_jessie.rpy:20522
+translate russian ch4j_10_dc125852:
+
+    # "Balgair and I exchange glances. Walter seems to have the wrong takeaway from Jessie's performance."
+    ""
+
+# game/script_jessie.rpy:20524
+translate russian ch4j_10_26df63a9:
+
+    # b "Jessie here is an artist, not a curiosity, Mr. Wondrous sir."
+    b ""
+
+# game/script_jessie.rpy:20526
+translate russian ch4j_10_29dab945:
+
+    # ww "To perform is to put yourself on display for all to see. To succeed, you cannot hold back the gifts you are given."
+    ww ""
+
+# game/script_jessie.rpy:20529
+translate russian ch4j_10_6c06e7eb:
+
+    # j "I won't hold back. Walter, I'd love to be in your production. As a singer. A star. I know in my heart I have what it takes to be a star."
+    j ""
+
+# game/script_jessie.rpy:20531
+translate russian ch4j_10_89e6efb8:
+
+    # "Walter's enthusiasm noticeably drops."
+    ""
+
+# game/script_jessie.rpy:20533
+translate russian ch4j_10_45a76a21:
+
+    # ww "You're not the first to tell me as much, and you certainly won't be the last. My dear, I have no place in my act for ordinary singers. Only {i}extraordinary{/i} ones."
+    ww ""
+
+# game/script_jessie.rpy:20534
+translate russian ch4j_10_18ff1765:
+
+    # c "Night after night she's had a pub full of people enraptured with that extraordinary voice of hers, sir. Myself included."
+    c ""
+
+# game/script_jessie.rpy:20536
+translate russian ch4j_10_7924a491:
+
+    # ww "A pretty voice, a star does not make. It takes more."
+    ww ""
+
+# game/script_jessie.rpy:20541
+translate russian ch4j_10_3303e229:
+
+    # "Jessie pauses, choosing her next words carefully."
+    ""
+
+# game/script_jessie.rpy:20543
+translate russian ch4j_10_83d842af:
+
+    # "A moment passes, and I wonder if this conversation would go differently were Jessie still able to transform. She chooses her next words carefully."
+    ""
+
+# game/script_jessie.rpy:20547
+translate russian ch4j_10_10cfed26:
+
+    # j "I see. It takes... hm... stage presence? Confidence?"
+    j ""
+
+# game/script_jessie.rpy:20549
+translate russian ch4j_10_606bc678:
+
+    # ww "Of course."
+    ww ""
+
+# game/script_jessie.rpy:20551
+translate russian ch4j_10_f358f114:
+
+    # j "Exceptional talent?"
+    j ""
+
+# game/script_jessie.rpy:20553
+translate russian ch4j_10_6ad0ad0c:
+
+    # ww "It goes without saying."
+    ww ""
+
+# game/script_jessie.rpy:20555
+translate russian ch4j_10_f1f75a12:
+
+    # j "An established mentor with connections?"
+    j ""
+
+# game/script_jessie.rpy:20557
+translate russian ch4j_10_4126e8b5:
+
+    # ww "Exactly! You're a smart girl."
+    ww ""
+
+# game/script_jessie.rpy:20559
+translate russian ch4j_10_52abe8a9:
+
+    # "Jessie puts her fingers to her chin, pensively. Her nails still seem sharp as claws."
+    ""
+
+# game/script_jessie.rpy:20561
+translate russian ch4j_10_0d71c35c:
+
+    # j "Or perhaps instead... an unflinching will to succeed, and not letting anyone tell her otherwise, will do?"
+    j ""
+
+# game/script_jessie.rpy:20571
+translate russian ch4j_10_f7671974:
+
+    # "I watch as she, with slow control, forms her hand into a fist. When she opens it, black paw pads present themselves. Another roll of her fingers, and fur and claws appear."
+    ""
+
+# game/script_jessie.rpy:20602
+translate russian ch4j_10_db8e8956:
+
+    # "Jessie drops her hand and slowly rakes it across his polished, black motorcar. The rest of us cringe at the sound."
+    ""
+
+# game/script_jessie.rpy:20637
+translate russian ch4j_10_75a1c121:
+
+    # "She drops her hand and slowly rakes it across Wondrous Walter's polished, black motorcar. The rest of us cringe at the sound."
+    ""
+
+# game/script_jessie.rpy:20656
+translate russian ch4j_10_747ca761:
+
+    # ww "No. That kind of behavior won't get you anywhere."
+    ww ""
+
+# game/script_jessie.rpy:20662
+translate russian ch4j_10_73b37158:
+
+    # j "I would never want to hold back the gifts I've been given."
+    j ""
+
+# game/script_jessie.rpy:20664
+translate russian ch4j_10_7d08e092:
+
+    # "Perhaps having a business meeting as a follow up to an explosive outburst and armed standoff was not the best idea after all."
+    ""
+
+# game/script_jessie.rpy:20665
+translate russian ch4j_10_565484ad:
+
+    # "Fresh metal marks gleam across the length of Walter's precious saloon. Balgair looks ready to restrain the showman if necessary, but to my surprise, if Walter is angry, he doesn't show it."
+    ""
+
+# game/script_jessie.rpy:20668
+translate russian ch4j_10_c039fb04:
+
+    # ww "Yes... well... your skills never do fail to impress, Miss MacLeod. And you folk from Ach-na-Creige never fail to surprise me."
+    ww ""
+
+# game/script_jessie.rpy:20670
+translate russian ch4j_10_e542af85:
+
+    # b "Be begging your pardon, but I believe that was a \"no\" to your offer, Mr. Wondrous, sir."
+    b ""
+
+# game/script_jessie.rpy:20674
+translate russian ch4j_10_c7b93588:
+
+    # "Walter sighs."
+    ""
+
+# game/script_jessie.rpy:20677
+translate russian ch4j_10_74d4399d:
+
+    # ww "So I gathered. In any case, my dear... I will watch your career with great interest."
+    ww ""
+
+# game/script_jessie.rpy:20708
+translate russian ch4j_10_a2ed879f:
+
+    # "With a tip of his hat to the three of us—a motion echoed by the monkey—the vaudevillian and his pet climb into the contraption, which roars to life."
+    ""
+
+# game/script_jessie.rpy:20709
+translate russian ch4j_10_1d404f0c:
+
+    # "Walter shouts out the window over the sound of the engine."
+    ""
+
+# game/script_jessie.rpy:20710
+translate russian ch4j_10_c9bbefca:
+
+    # ww "Regret nothing, madam! Call on me should you change your mind! I long to see your career thrive!"
+    ww ""
+
+# game/script_jessie.rpy:20727
+translate russian ch4j_10_19d0eee7:
+
+    # b "There goes a very strange man."
+    b ""
+
+# game/script_jessie.rpy:20729
+translate russian ch4j_10_e86cc5b8:
+
+    # j "There sails away my best opportunity yet, and I sent it sailing away."
+    j ""
+
+# game/script_jessie.rpy:20731
+translate russian ch4j_10_e73d2093:
+
+    # "She looks wistful, but not disappointed."
+    ""
+
+# game/script_jessie.rpy:20735
+translate russian ch4j_10_e925f643:
+
+    # b "Aye, well, you're not a circus act, lass. You're a star."
+    b ""
+
+# game/script_jessie.rpy:20736
+translate russian ch4j_10_8094eca0:
+
+    # c "Balgair's right. Don't dwell on it. Without the wolf act, he wouldn't have signed you on. It wasn't meant to be."
+    c ""
+
+# game/script_jessie.rpy:20741
+translate russian ch4j_10_95679296:
+
+    # j "I've had enough eyes... and pitchforks... on me as a wolf. No more. None of that. That Walter... well, he'll regret it when I hit the big time."
+    j ""
+
+# game/script_jessie.rpy:20742
+translate russian ch4j_10_e109301e:
+
+    # c "No claws. No fangs. No gimmick. Just you. Your voice, your style, your panache."
+    c ""
+
+# game/script_jessie.rpy:20744
+translate russian ch4j_10_966ca295:
+
+    # "Jessie faces me, mouth open."
+    ""
+
+# game/script_jessie.rpy:20747
+translate russian ch4j_10_e87f0b76:
+
+    # j "Panache! Look at you with your fancy words!"
+    j ""
+
+# game/script_jessie.rpy:20748
+translate russian ch4j_10_da0c413d:
+
+    # c "There's no better description for your act, Jessie."
+    c ""
+
+# game/script_jessie.rpy:20751
+translate russian ch4j_10_b98f3015:
+
+    # j "I suppose not. But he'll regret it when I hit the big time."
+    j ""
+
+# game/script_jessie.rpy:20753
+translate russian ch4j_10_f97d2321:
+
+    # "One negotiation in, and I can already see her confidence in full bloom. The power she holds is immeasurable, and her enthusiasm fills me with delight."
+    ""
+
+# game/script_jessie.rpy:20755
+translate russian ch4j_10_57d8e4de:
+
+    # b "Looks like you'll be needin' the train after all. Better get tickets, lass, before it takes off too!"
+    b ""
+
+# game/script_jessie.rpy:20757
+translate russian ch4j_10_11ebffea:
+
+    # j "Right! Thank you for seeing us off, Balgair. It means a lot to us."
+    j ""
+
+# game/script_jessie.rpy:20759
+translate russian ch4j_10_887d6c44:
+
+    # "His eyes begin to get wet again."
+    ""
+
+# game/script_jessie.rpy:20760
+translate russian ch4j_10_00581af1:
+
+    # b "Aye, aye... now go! This auld Scotsman cannae handle goodbyes..."
+    b ""
+
+# game/script_jessie.rpy:20783
+translate russian ch4j_10_4cdbd442:
+
+    # "Jessie gives him one last embrace, then races over to the ticket window."
+    ""
+
+# game/script_jessie.rpy:20790
+translate russian ch4j_10_ac7c2fff:
+
+    # b "Och, and you! My boy, Malcolm! I barely got to see yer handsome face before y'go off again. Make sure y'come back soon!"
+    b ""
+
+# game/script_jessie.rpy:20799
+translate russian ch4j_10_37ec05a8_1:
+
+    # "He grabs me and gives me a bear hug, speaking quietly in my ear."
+    ""
+
+# game/script_jessie.rpy:20801
+translate russian ch4j_10_b8da9a22_1:
+
+    # b "You're a good friend, Malcolm. One I needed."
+    b ""
+
+# game/script_jessie.rpy:20802
+translate russian ch4j_10_fa2ab2dc:
+
+    # c "As are you, Balgair. I'll be back when I need good advice. It'll be soon, I'm sure."
+    c ""
+
+# game/script_jessie.rpy:20811
+translate russian ch4j_10_2ecf6f17_1:
+
+    # b "There'll be a pint waiting for you!"
+    b ""
+
+# game/script_jessie.rpy:20829
+translate russian ch4j_10_8aa3a2f3:
+
+    # "With a wink and a doff of his cap, Balgair turns and heads back toward the home we're leaving behind."
+    ""
+
+# game/script_jessie.rpy:20841
+translate russian ch4j_10_14cd6ec5:
+
+    # "As I watch his shape grow smaller, I think on the last time I left town, and how my world changed. I returned and it changed again. And here I am, enlisting again for a whole new experience."
+    ""
+
+# game/script_jessie.rpy:20842
+translate russian ch4j_10_db709722:
+
+    # "Jessie is chatting with the ticket seller, getting us our freedom, those small pieces of paper that mean we can leave the land of our childhood, the land that raised us."
+    ""
+
+# game/script_jessie.rpy:20843
+translate russian ch4j_10_b1f1a204:
+
+    # "Finally on our own. No one telling us what to do, or how to live our lives."
+    ""
+
+# game/script_jessie.rpy:20854
+translate russian ch4j_10_807b88f2:
+
+    # a "Malcolm."
+    a ""
+
+# game/script_jessie.rpy:20860
+translate russian ch4j_10_f3d9351c:
+
+    # c "Gah! What are you doing here?"
+    c ""
+
+# game/script_jessie.rpy:20875
+translate russian ch4j_10_0363cc5c:
+
+    # a "I came to say goodbye. To wish you both safe travels."
+    a ""
+
+# game/script_jessie.rpy:20878
+translate russian ch4j_10_dbd84019:
+
+    # "This woman. This looming presence. The person who saved Jessie's life... but who also sought to take away something that Jessie held dear."
+    ""
+
+# game/script_jessie.rpy:20880
+translate russian ch4j_10_d2d18583:
+
+    # "This woman. This looming presence. The person whose antidote saved Jessie... but also took away something that Jessie held dear."
+    ""
+
+# game/script_jessie.rpy:20882
+translate russian ch4j_10_9a7a66c3:
+
+    # c "She, uh... might not be happy to see you right now."
+    c ""
+
+# game/script_jessie.rpy:20885
+translate russian ch4j_10_11bf84ac:
+
+    # a "Which is why I've come only to you."
+    a ""
+
+# game/script_jessie.rpy:20887
+translate russian ch4j_10_48b22486:
+
+    # "Alana looks at me conspiratorially, with her head dipped and voice low."
+    ""
+
+# game/script_jessie.rpy:20890
+translate russian ch4j_10_6fd33808:
+
+    # a "You've made a dangerous choice. Both of you."
+    a ""
+
+# game/script_jessie.rpy:20891
+translate russian ch4j_10_99951da4:
+
+    # "I shake my head, wondering what drives such pure audacity as hers."
+    ""
+
+# game/script_jessie.rpy:20892
+translate russian ch4j_10_6099930a:
+
+    # c "Our lives are at risk no matter where we go. Nothing will change that. We are choosing to live away from this village."
+    c ""
+
+# game/script_jessie.rpy:20893
+translate russian ch4j_10_f94a225b:
+
+    # c "Away from the threat of her own father, of the thought of her dreams being stifled. No more. We aren't running away; we are forging ahead."
+    c ""
+
+# game/script_jessie.rpy:20894
+translate russian ch4j_10_3b40a0e7:
+
+    # "To my surprise, instead of pushing the point, Alana nods in agreement."
+    ""
+
+# game/script_jessie.rpy:20897
+translate russian ch4j_10_57217487:
+
+    # a "You did the right thing."
+    a ""
+
+# game/script_jessie.rpy:20898
+translate russian ch4j_10_4e24c2ca:
+
+    # c "Really?"
+    c ""
+
+# game/script_jessie.rpy:20899
+translate russian ch4j_10_99951da4_1:
+
+    # "I shake my head, wondering what drives such pure audacity as hers."
+    ""
+
+# game/script_jessie.rpy:20900
+translate russian ch4j_10_4de23b07:
+
+    # c "Then why doesn't it feel right at all?"
+    c ""
+
+# game/script_jessie.rpy:20902
+translate russian ch4j_10_d13dbf5a:
+
+    # "Her face falls and I know I've offended her. Well, sometimes you give what you get."
+    ""
+
+# game/script_jessie.rpy:20905
+translate russian ch4j_10_bf2d8dd5:
+
+    # a "Ofttimes life gives you poor choices. You do what you must to endure. The two of you are survivors, Malcolm. Cherish that."
+    a ""
+
+# game/script_jessie.rpy:20906
+translate russian ch4j_10_d6e54b50:
+
+    # "I nearly scoff at her words."
+    ""
+
+# game/script_jessie.rpy:20907
+translate russian ch4j_10_6ea5bf64:
+
+    # c "Jessie is more than a survivor. She is a dynamo, a powerful force."
+    c ""
+
+# game/script_jessie.rpy:20911
+translate russian ch4j_10_06c7056c:
+
+    # a "Aye. As are you, Malcolm. You have a magic about you, too. If you continue to ward off danger, I have no doubt you'll both go on to great things."
+    a ""
+
+# game/script_jessie.rpy:20913
+translate russian ch4j_10_c54bb277:
+
+    # a "Aye. As are you, Malcolm. She still has a magic about her, doesn't she? I suppose, in a way, you both do. I have no doubt you'll both go on to great things."
+    a ""
+
+# game/script_jessie.rpy:20916
+translate russian ch4j_10_44e863ba:
+
+    # "Alana looks me in the eye."
+    ""
+
+# game/script_jessie.rpy:20917
+translate russian ch4j_10_938c93c9:
+
+    # a "And I'm happy you'll be with her."
+    a ""
+
+# game/script_jessie.rpy:20919
+translate russian ch4j_10_a7fdcbee:
+
+    # "I hear Jessie's warm laugh over at the ticket booth. No doubt she's entertaining someone there. Everywhere."
+    ""
+
+# game/script_jessie.rpy:20922
+translate russian ch4j_10_74122905:
+
+    # c "Jessie possesses the voice of an angel. A heart to match. You know that. She's stronger than the forces of this mere Earth."
+    c ""
+
+# game/script_jessie.rpy:20923
+translate russian ch4j_10_6689825a:
+
+    # c "If you're ever willing to come to the city to see her perform, you'll then see just how safe and well we both shall be."
+    c ""
+
+# game/script_jessie.rpy:20925
+translate russian ch4j_10_abf26536:
+
+    # c "If you come to one of her shows in the city once she's established herself, you can see for yourself. The voice of an angel. A heart to match."
+    c ""
+
+# game/script_jessie.rpy:20928
+translate russian ch4j_10_807e6e21:
+
+    # "Alana shakes her head with what seems to be genuine regret."
+    ""
+
+# game/script_jessie.rpy:20930
+translate russian ch4j_10_adb66a80:
+
+    # a "Unfortunately my duties tie me here. Ach-na-Creige has me held in its grips, I would say. I shan't bother you again, Malcolm."
+    a ""
+
+# game/script_jessie.rpy:20931
+translate russian ch4j_10_5ad7faee:
+
+    # "Thank God, I mutter to myself."
+    ""
+
+# game/script_jessie.rpy:20933
+translate russian ch4j_10_c4cd2fe5:
+
+    # a "...I'm proud of both of you. Please know that."
+    a ""
+
+# game/script_jessie.rpy:20935
+translate russian ch4j_10_be1b36b6:
+
+    # "She has such an odd way of showing it, but I have to believe in her heart of hearts, Alana wants to save people. She looks off toward Jessie with a mother's pride in her eye."
+    ""
+
+# game/script_jessie.rpy:20937
+translate russian ch4j_10_0f983d26:
+
+    # "If only Alana would save herself first."
+    ""
+
+# game/script_jessie.rpy:20939
+translate russian ch4j_10_72540429:
+
+    # "As if reading my thoughts, she offers one final comment."
+    ""
+
+# game/script_jessie.rpy:20940
+translate russian ch4j_10_bf01cce0:
+
+    # a "Now I'm left to watch over myself."
+    a ""
+
+# game/script_jessie.rpy:20942
+translate russian ch4j_10_1fe2179c:
+
+    # c "Take care, Alana."
+    c ""
+
+# game/script_jessie.rpy:20945
+translate russian ch4j_10_8e0b4d2e:
+
+    # "I bite my tongue before offering a thank you or guidance. She has so many people who care for her, but she now—more than ever—appears so alone."
+    ""
+
+# game/script_jessie.rpy:20962
+translate russian ch4j_10_d704996b:
+
+    # "Off she walks, her skirt dragging in the clotted dirt. She lifts it slightly to shake off the debris, and I watch her black heels click away on the dirt road as she goes."
+    ""
+
+# game/script_jessie.rpy:20963
+translate russian ch4j_10_4a758c53:
+
+    # "Good riddance, I think. But still I hold onto a knot in my stomach. One Alana has tied, and I've no way to unravel."
+    ""
+
+# game/script_jessie.rpy:20978
+translate russian ch4j_10_72284662:
+
+    # j "Who was that you were talking to?"
+    j ""
+
+# game/script_jessie.rpy:20979
+translate russian ch4j_10_ee17bd85:
+
+    # "Jessie has returned, holding two tickets in her hand."
+    ""
+
+# game/script_jessie.rpy:20980
+translate russian ch4j_10_6285c67b:
+
+    # c "Oh... a fan of yours."
+    c ""
+
+# game/script_jessie.rpy:20982
+translate russian ch4j_10_a3dba0f5:
+
+    # j "Really? Why didn't you introduce me? Was it anyone we know?"
+    j ""
+
+# game/script_jessie.rpy:20983
+translate russian ch4j_10_d8f1599f:
+
+    # c "She said she was too nervous to say hello. It wasn't someone I recognize."
+    c ""
+
+# game/script_jessie.rpy:20984
+translate russian ch4j_10_1f8a4b4b:
+
+    # "Not anymore."
+    ""
+
+# game/script_jessie.rpy:20986
+translate russian ch4j_10_89d13e60:
+
+    # j "So many new faces! Why, the girl behind the counter said she's heard me perform at the pub, too. Said I sounded just like Melody Maybelle!"
+    j ""
+
+# game/script_jessie.rpy:20987
+translate russian ch4j_10_98e93544:
+
+    # c "Is... that a compliment?"
+    c ""
+
+# game/script_jessie.rpy:20989
+translate russian ch4j_10_278e3d11:
+
+    # j "Yes! I hope I'm even half that good."
+    j ""
+
+# game/script_jessie.rpy:21001
+translate russian ch4j_10_bb80782e:
+
+    # "The train whistles a final call, and we shuffle our bags onto the platform. Most everyone has already boarded."
+    ""
+
+# game/script_jessie.rpy:21002
+translate russian ch4j_10_c87673e5:
+
+    # co "All aboard!"
+    co ""
+
+# game/script_jessie.rpy:21012
+translate russian ch4j_10_b021ba98:
+
+    # j "Malcolm are we really doing it?"
+    j ""
+
+# game/script_jessie.rpy:21013
+translate russian ch4j_10_f84e1d99:
+
+    # c "We are. And..."
+    c ""
+
+# game/script_jessie.rpy:21015
+translate russian ch4j_10_a475dd4c:
+
+    # j "What?"
+    j ""
+
+# game/script_jessie.rpy:21016
+translate russian ch4j_10_51c86e30:
+
+    # c "Let's never think of this as being chased out of town."
+    c ""
+
+# game/script_jessie.rpy:21018
+translate russian ch4j_10_2d2fdf6b:
+
+    # j "But... we were."
+    j ""
+
+# game/script_jessie.rpy:21019
+translate russian ch4j_10_59697e94:
+
+    # c "No. We were threatened. And we survived, by the Grace of..."
+    c ""
+
+# game/script_jessie.rpy:21020
+translate russian ch4j_10_634f40a0:
+
+    # "I hesitate to say, \"God.\""
+    ""
+
+# game/script_jessie.rpy:21024
+translate russian ch4j_10_15bc6adf:
+
+    # j "The grace of a rock you threw?"
+    j ""
+
+# game/script_jessie.rpy:21027
+translate russian ch4j_10_2fe73784:
+
+    # j "The grace of our old schoolteacher's alchemy?"
+    j ""
+
+# game/script_jessie.rpy:21030
+translate russian ch4j_10_76d75dea:
+
+    # c "...By the grace of whatever force kept us alive. Because I genuinely believe we are meant to be standing here, right now, ready to take on a new life."
+    c ""
+
+# game/script_jessie.rpy:21045
+translate russian ch4j_10_7115e336:
+
+    # "We both turn to the polished coaches, at once so welcoming and intimidating."
+    ""
+
+# game/script_jessie.rpy:21053
+translate russian ch4j_10_5695c99c:
+
+    # j "There's so much blood pumping through my veins! We're a pair of rockets, Malcolm! Even if we crash and burn, at least we took off!"
+    j ""
+
+# game/script_jessie.rpy:21054
+translate russian ch4j_10_f4630a90:
+
+    # c "I love seeing you excited. It's what made me fall in love with you."
+    c ""
+
+# game/script_jessie.rpy:21056
+translate russian ch4j_10_979791ff:
+
+    # j "Are you sure it wasn't my dazzling good looks?"
+    j ""
+
+# game/script_jessie.rpy:21057
+translate russian ch4j_10_11536e98:
+
+    # c "Those certainly didn't hurt."
+    c ""
+
+# game/script_jessie.rpy:21060
+translate russian ch4j_10_9be8866f:
+
+    # j "You know what, Malcolm Campbell?"
+    j ""
+
+# game/script_jessie.rpy:21069
+translate russian ch4j_10_a6c82e0a:
+
+    # "She leans in closer, ready to whisper in my ear."
+    ""
+
+# game/script_jessie.rpy:21070
+translate russian ch4j_10_fa66f3ea:
+
+    # j "I love seeing you excited, too."
+    j ""
+
+# game/script_jessie.rpy:21073
+translate russian ch4j_10_c8877206:
+
+    # "My cheeks go pink. Then I feel my nose twitch. Hiding my inner self is going to be harder than I thought."
+    ""
+
+# game/script_jessie.rpy:21075
+translate russian ch4j_10_1fa97035:
+
+    # "My cheeks go pink. They almost hurt from smiling so much."
+    ""
+
+# game/script_jessie.rpy:21077
+translate russian ch4j_10_b887cb02:
+
+    # "I reach out to take Jessie's hands in mine, pushing back all the swirling memories of today, last night... the past five years of my life."
+    ""
+
+# game/script_jessie.rpy:21078
+translate russian ch4j_10_0c8bb799:
+
+    # c "I'm trying to hold onto right now. This moment. The happiness."
+    c ""
+
+# game/script_jessie.rpy:21081
+translate russian ch4j_10_3da11148:
+
+    # j "Hold tighter. I want to save it, too."
+    j ""
+
+# game/script_jessie.rpy:21091
+translate russian ch4j_10_c4a89092:
+
+    # "And so we embrace. As survivors, as friends, as lovers. All that we've been through and fought for brings us here, now."
+    ""
+
+# game/script_jessie.rpy:21092
+translate russian ch4j_10_688d4918:
+
+    # "All the doubt I ever had about her, us, what the future held from her perspective. It's gone. Vanished. Taken away by my willingness to let go of fear."
+    ""
+
+# game/script_jessie.rpy:21093
+translate russian ch4j_10_ff72ab03:
+
+    # "I cannot predict the future. But I know I want it to be with her. My Jessie. Us. Together against the world."
+    ""
+
+# game/script_jessie.rpy:21095
+translate russian ch4j_10_c69c3aeb:
+
+    # "I hold tight to Jessie MacLeod, and to the promise of a better journey."
+    ""
+
+# game/script_jessie.rpy:21096
+translate russian ch4j_10_a66ad8d6:
+
+    # "We are the rockets. Ready to ignite."
+    ""
+
+# game/script_jessie.rpy:21172
+translate russian ch4j_epilogue1_bdc38739:
+
+    # "Jessie MacLeod: Jazz singer, cabaret dancer, entertainer of the highest class."
+    ""
+
+# game/script_jessie.rpy:21173
+translate russian ch4j_epilogue1_630a7be5:
+
+    # "It turned out making a name for herself without a manager like Wondrous Walter wasn't such a big hurdle after all. She knew she could do this on her own. And did she ever."
+    ""
+
+# game/script_jessie.rpy:21174
+translate russian ch4j_epilogue1_7229e575:
+
+    # "After an open audition at Clatty Pat's, the largest nightclub in Glasgow, Jessie landed a nightly solo show. A month later she was headlining, with her name on the neon marquee."
+    ""
+
+# game/script_jessie.rpy:21175
+translate russian ch4j_epilogue1_67cc736f:
+
+    # "Jessie was an immediate hit among bohemian Glaswegians. And with Glasgow under her spell, now she's set her sights on lighting up London's night scene someday."
+    ""
+
+# game/script_jessie.rpy:21182
+translate russian ch4j_epilogue1_3f9b0e0a:
+
+    # "Jessie's act is a magical spectacle with multiple costume changes, and lots of her original music. She's looking into hiring some back up dancers, as well."
+    ""
+
+# game/script_jessie.rpy:21183
+translate russian ch4j_epilogue1_7d4a615a:
+
+    # "We've taught ourselves a modest amount about songwriting. I've even been trying my best to learn enough on piano to accompany her when she rehearses at home."
+    ""
+
+# game/script_jessie.rpy:21184
+translate russian ch4j_epilogue1_3ef86081:
+
+    # "But most of all, I live for the nights I can see her perform and get hypnotized by her voice. It puts me in a dream-like state, one even stronger than a whisky neat."
+    ""
+
+# game/script_jessie.rpy:21191
+translate russian ch4j_epilogue1_9aeca34b:
+
+    # "We've settled into our flat in the west end of the city, one much larger than I'd envisioned. Jessie's small stash of cash ended up being just the beginning of her income. Our wealth."
+    ""
+
+# game/script_jessie.rpy:21192
+translate russian ch4j_epilogue1_95fe9a22:
+
+    # "She's a natural in the city, eager to poke her head around corners, on the hunt for new merchants, new wardrobe pieces, new restaurants."
+    ""
+
+# game/script_jessie.rpy:21193
+translate russian ch4j_epilogue1_87c88b72:
+
+    # "Sometimes she's out so late that I have to take myself home to get any sleep."
+    ""
+
+# game/script_jessie.rpy:21194
+translate russian ch4j_epilogue1_d01b7149:
+
+    # "She absorbs the world's gifts like a sponge, and wrings herself dry, soaking all those around her with the same high-spirited energy."
+    ""
+
+# game/script_jessie.rpy:21196
+translate russian ch4j_epilogue1_c3ca90b6:
+
+    # "As for me? I'm getting used to city life, though I can't say I prefer it over the country."
+    ""
+
+# game/script_jessie.rpy:21197
+translate russian ch4j_epilogue1_98dddb95:
+
+    # "There are days, usually when the streets overflow with commotion, when Jessie agrees and we've both had enough noise."
+    ""
+
+# game/script_jessie.rpy:21204
+translate russian ch4j_epilogue1_62b4b595:
+
+    # "Those are the times we plan our trips back to our family. The train ride reminds us of the serenity that awaits. We watch the world go by and listen for the last whistle to signal our stop."
+    ""
+
+# game/script_jessie.rpy:21205
+translate russian ch4j_epilogue1_f7a42763:
+
+    # "Not much has changed in quiet Ach-na-Creige. During our first return home, we avoided eye contact with anyone but close family. But now, gone are the worries of mobs and pitchforks."
+    ""
+
+# game/script_jessie.rpy:21206
+translate russian ch4j_epilogue1_66ba0335:
+
+    # "The townspeople have become overly superstitious about the werewolf incident. Few speak of it. Even fewer want to admit what they saw."
+    ""
+
+# game/script_jessie.rpy:21207
+translate russian ch4j_epilogue1_90a672d9:
+
+    # "Gone too is Owen. Most of us are privately grateful that he chose to reenlist. The MacLeod homestead is a safer, warmer place without him."
+    ""
+
+# game/script_jessie.rpy:21214
+translate russian ch4j_epilogue1_239a275a:
+
+    # "Jessie's sisters split their time between our family's two farms. What farmwork is neglected doesn't much matter now. There is plenty of money to send home thanks to Jessie's success."
+    ""
+
+# game/script_jessie.rpy:21215
+translate russian ch4j_epilogue1_6cf0b130:
+
+    # "True to her word, she never forgets our family and their welfare. All seem much more at ease now that their financial situation isn't so uncertain."
+    ""
+
+# game/script_jessie.rpy:21216
+translate russian ch4j_epilogue1_c85e2b57:
+
+    # "Marion has even warmed up to the new arrangement, where tending to Gran and Toast has given her a sense of home, as well."
+    ""
+
+# game/script_jessie.rpy:21217
+translate russian ch4j_epilogue1_a9d49f47:
+
+    # "With Marion and Grace at her side, Gran is well supported. I've apologized profusely for abandoning her, though she tells me she doesn't see it that way, especially with the friends she has in town."
+    ""
+
+# game/script_jessie.rpy:21218
+translate russian ch4j_epilogue1_6c68fa69:
+
+    # "Of course Grace is itching to come visit us as soon as possible. She seems excited for all the glitz and glamour and can't wait to see her sister perform."
+    ""
+
+# game/script_jessie.rpy:21225
+translate russian ch4j_epilogue1_114871e1:
+
+    # "And Balgair? Why, his beloved neon sign now hangs above the door to the Stag & Nanny."
+    ""
+
+# game/script_jessie.rpy:21226
+translate russian ch4j_epilogue1_c670c9bb:
+
+    # "He assures the locals that the Electricity Act will get it turned on by the end of the decade. What a sight that'll be."
+    ""
+
+# game/script_jessie.rpy:21227
+translate russian ch4j_epilogue1_49f1f95d:
+
+    # "That's not the only new feature at the Stag & Nanny, either. It seems another performer was waiting quietly in the wings to take over center stage."
+    ""
+
+# game/script_jessie.rpy:21234
+translate russian ch4j_epilogue1_aae04c95:
+
+    # "Douglas Crannach, the town fishmonger and a firm believer in the occult, puts on quite a magic show, so we are told. Despite being only a bit older than me, he has the look of a grizzled old wizard."
+    ""
+
+# game/script_jessie.rpy:21235
+translate russian ch4j_epilogue1_744a0690:
+
+    # "Magic—of a tamer variety—has become something of a hot topic in Ach-na-Creige. It's helped spurred business at the Stag & Nanny back to acceptable levels in Jessie's absence."
+    ""
+
+# game/script_jessie.rpy:21236
+translate russian ch4j_epilogue1_4d21f8e6:
+
+    # "Douglas caught a rabbit at the edge of town that he pulls out of his hat nightly."
+    ""
+
+# game/script_jessie.rpy:21237
+translate russian ch4j_epilogue1_534b5591:
+
+    # "Grace told us everyone's favorite shows are the ones where the rabbit bites Douglas and takes off running across Balgair's piano and around the bar."
+    ""
+
+# game/script_jessie.rpy:21238
+translate russian ch4j_epilogue1_1cee3c55:
+
+    # "Also according to Grace, Marion has taken a liking to him and his antics. We all quietly, eagerly hope it turns into something more."
+    ""
+
+# game/script_jessie.rpy:21245
+translate russian ch4j_epilogue1_3c70a862:
+
+    # "All good things in time. Most importantly, peace has finally returned to our lives. Jessie stays calm and I steadily work away in the loft, writing a bit of a memoir."
+    ""
+
+# game/script_jessie.rpy:21246
+translate russian ch4j_epilogue1_22c7997b:
+
+    # "What with the werewolves and all, I'll have to pitch it as fiction to a publisher. But I'll know the truth. I'm not looking for fame and fortune, just for Jessie's story to be heard. Mine, too."
+    ""
+
+# game/script_jessie.rpy:21253
+translate russian ch4j_epilogue1_a2e1af1a:
+
+    # "My remaining fear is that Jessie keeps her resentment silent, that she may still be angry for my betrayal. But if so, she never shows it. Ever."
+    ""
+
+# game/script_jessie.rpy:21254
+translate russian ch4j_epilogue1_6f076af3:
+
+    # "On night when a full moon appears, she still looks longingly up at the sky. One dream lost, she'll say, another realized."
+    ""
+
+# game/script_jessie.rpy:21261
+translate russian ch4j_epilogue1_4293fe6c:
+
+    # "What surprises me the most about this new chapter is how Jessie and I have learned to live with each other. Beyond the romance and intimacy, we have deep conversations over bottles of wine."
+    ""
+
+# game/script_jessie.rpy:21262
+translate russian ch4j_epilogue1_6db8ff61:
+
+    # "We speak of dreams come true, dreams forever out of reach, and dreams we never knew we had."
+    ""
+
+# game/script_jessie.rpy:21263
+translate russian ch4j_epilogue1_3f706698:
+
+    # "Gone are the days that I pray for survival. We thrive now. I wake to her smile; I fall asleep to her heartbeat. My dream lives within appreciating every day and every moment spent together."
+    ""
+
+# game/script_jessie.rpy:21264
+translate russian ch4j_epilogue1_f00a277f:
+
+    # "The only secret I keep from her is how I've been squirreling away enough money to get her an amethyst ring, one that matches her eyes."
+    ""
+
+# game/script_jessie.rpy:21265
+translate russian ch4j_epilogue1_dddfedeb:
+
+    # "I hope it will lead to marriage, but I simply want it to be a symbol of my commitment to her."
+    ""
+
+# game/script_jessie.rpy:21274
+translate russian ch4j_epilogue1_e7302272:
+
+    # "On nights we go deeper into our whisky bottles, Jessie will talk again about being a wolf, about how she is quite sure the sensation is bubbling in her, waiting to make its way out."
+    ""
+
+# game/script_jessie.rpy:21275
+translate russian ch4j_epilogue1_00c08ae3:
+
+    # "I'm unsure how to feel about it. I want her to live her fullest life, but I don't think I could go through the fear of losing her. Not again."
+    ""
+
+# game/script_jessie.rpy:21276
+translate russian ch4j_epilogue1_74ba6ede:
+
+    # "So I say little, and assure her that whit's for us..."
+    ""
+
+# game/script_jessie.rpy:21277
+translate russian ch4j_epilogue1_9feb060b:
+
+    # "Well, we all know the rest."
+    ""
+
+# game/script_jessie.rpy:21305
+translate russian ch4j_epilogue2_3d8b7250:
+
+    # "The enjoyment never wore off. Nor did the antidote, a bit to my dismay."
+    ""
+
+# game/script_jessie.rpy:21306
+translate russian ch4j_epilogue2_28048b82:
+
+    # "There have been moments—twinges I call them—when I can almost feel the claws regrowing, or the lights hairs on my arms thickening, darkening."
+    ""
+
+# game/script_jessie.rpy:21307
+translate russian ch4j_epilogue2_e14d5144:
+
+    # "But alas, they were nothing but faint sensations of a memory now past."
+    ""
+
+# game/script_jessie.rpy:21314
+translate russian ch4j_epilogue2_8cf4d142:
+
+    # "As for Jessie's act with Walter, it's been nothing short of a miracle. We both held onto a fear that he would turn her performance into a freak show or a circus act."
+    ""
+
+# game/script_jessie.rpy:21315
+translate russian ch4j_epilogue2_2ad2ecaf:
+
+    # "But he's held true to his word to make her a real star. Her jazz set has traveled every major city in Scotland, and she and Walter are making plans to head to London in the coming months."
+    ""
+
+# game/script_jessie.rpy:21316
+translate russian ch4j_epilogue2_83614db3:
+
+    # "She's even picked up a few extra musicians and back up dancers along the way. Her pack, as she calls them, are both supportive and talented."
+    ""
+
+# game/script_jessie.rpy:21323
+translate russian ch4j_epilogue2_9d89a06a:
+
+    # "And what of the wolf attire? Aside from a few gasps and heckles the first few times performing, Jessie holds her own. She never lets herself get intimidated."
+    ""
+
+# game/script_jessie.rpy:21324
+translate russian ch4j_epilogue2_5add6c8e:
+
+    # "Once word spread, mostly through newspaper gossip columns, about a wolf girl performing for the one and only Wondrous Walter, well... Jessie MacLeod became a bit of a household name."
+    ""
+
+# game/script_jessie.rpy:21325
+translate russian ch4j_epilogue2_681e7480:
+
+    # "Gone is the shame, the fear, the humiliation. As if by a miracle from the heavens, Jessie has all she's ever wanted."
+    ""
+
+# game/script_jessie.rpy:21332
+translate russian ch4j_epilogue2_1ce4c54a:
+
+    # "Though, truth be told, it's not everything it's cracked up to be. Early morning rehearsals, late nights out, exhaustion, headaches, stress, and frequent travel... it becomes overwhelming."
+    ""
+
+# game/script_jessie.rpy:21333
+translate russian ch4j_epilogue2_2dd264ff:
+
+    # "Trying to maintain a schedule that doesn't have her in Dumfries one night, then headed to Elgin the next has been a juggling act that Walter manages with aplomb and gusto."
+    ""
+
+# game/script_jessie.rpy:21334
+translate russian ch4j_epilogue2_0f406641:
+
+    # "We're lucky to have him. He's a trusted name in the business. Beyond the shiny veneer and smooth talking, he knows what he's doing—and how to keep Jessie, her team, and me appeased."
+    ""
+
+# game/script_jessie.rpy:21341
+translate russian ch4j_epilogue2_4f7369f7:
+
+    # "So what exactly am I up to while Jessie dazzles the world? I watch from the sidelines. I take it all in. And most of what I see is written down."
+    ""
+
+# game/script_jessie.rpy:21342
+translate russian ch4j_epilogue2_f7c92a3d:
+
+    # "I've found a cherished hobby in collecting my stories, my memoirs, if you will. While I hope one day they are quality enough to get published..."
+    ""
+
+# game/script_jessie.rpy:21343
+translate russian ch4j_epilogue2_488671f5:
+
+    # "I'm also smart enough to know that Jessie's celebrity status hasn't gone past our small island. Tales of a fae werewolf turned flapper girl might be a highly fictionalized read in most areas."
+    ""
+
+# game/script_jessie.rpy:21344
+translate russian ch4j_epilogue2_90c949f1:
+
+    # "So that's how I am capturing it all down. My thought of vivid realism mixed with just the right amount of subtle humor to downplay the notion that any of this is real."
+    ""
+
+# game/script_jessie.rpy:21351
+translate russian ch4j_epilogue2_55f4480e:
+
+    # "And humor is in high supply among Jessie and me. She has confided in me that this isn't completely what she wanted to be famous for, this side of herself."
+    ""
+
+# game/script_jessie.rpy:21352
+translate russian ch4j_epilogue2_7cc24236:
+
+    # "Yet here we are. And the fame is welcomed. Being treated like a starlet has unlimited perks, the greatest of which, admittedly, is our growing bank account."
+    ""
+
+# game/script_jessie.rpy:21353
+translate russian ch4j_epilogue2_417b4263:
+
+    # "Because of this gift, we're able to not only save for our future, but also to send money home to help Gran, who has been well-cared for by Marion and Grace."
+    ""
+
+# game/script_jessie.rpy:21354
+translate russian ch4j_epilogue2_b3f8ece8:
+
+    # "We have yet to make it back home to shower Gran with hugs and affection, but we are making plans as I write this."
+    ""
+
+# game/script_jessie.rpy:21355
+translate russian ch4j_epilogue2_7053c0d2:
+
+    # "My heart aches to see her again and tell her in person how much this adventure is giving me pure joy."
+    ""
+
+# game/script_jessie.rpy:21356
+translate russian ch4j_epilogue2_59f56930:
+
+    # "It's the joy Jessie and I talked and dreamed of. It's here, now. When I stop to think on it too long, the frenzy of feelings and memories drown my brain in a loud buzz of excitement."
+    ""
+
+# game/script_jessie.rpy:21357
+translate russian ch4j_epilogue2_61a49601:
+
+    # "Every day, I am like a child on Christmas morning, so eager to find out what treasures await me."
+    ""
+
+# game/script_jessie.rpy:21364
+translate russian ch4j_epilogue2_e443b8e4:
+
+    # "As for our families, they are safe and well. We received word from Marion very quickly that Owen re-enlisted and left Ach-na-Creige once again."
+    ""
+
+# game/script_jessie.rpy:21365
+translate russian ch4j_epilogue2_a564af1f:
+
+    # "Marion returned to her homestead, while Grace moved in with Agnes. Marion's days are taken up by farming, husbandry, and Toast running under her feet—feet he keeps warm every night, too."
+    ""
+
+# game/script_jessie.rpy:21366
+translate russian ch4j_epilogue2_d183fa1d:
+
+    # "Grace spends most of her time helping my Gran, but she has been once to visit, and shared tales of Douglas Crannach giving the girls extra fish from his weekly catch."
+    ""
+
+# game/script_jessie.rpy:21367
+translate russian ch4j_epilogue2_d523f312:
+
+    # "It seems Douglas pays special attention to Marion, walking her to church on weekends, and to the pub on the odd weeknight."
+    ""
+
+# game/script_jessie.rpy:21374
+translate russian ch4j_epilogue2_e49da28a:
+
+    # "The Stag & Nanny has become a place of pilgrimage for Jessie's fans to come see where she got her start. Balgair replaced much of the old decor with Jessie-related photos and albums."
+    ""
+
+# game/script_jessie.rpy:21375
+translate russian ch4j_epilogue2_81002c40:
+
+    # "Most exciting of all, despite Whist Guild objections, Balgair finally got his neon sign!"
+    ""
+
+# game/script_jessie.rpy:21376
+translate russian ch4j_epilogue2_e34f8f56:
+
+    # "It won't receive electricity for a few years, we're told, but Balgair lights it from behind with oil lamps to draw attention. Altogether, business is back almost to normal in spite of Jessie's absence."
+    ""
+
+# game/script_jessie.rpy:21393
+translate russian ch4j_epilogue2_330a6472:
+
+    # "Grace also brings word that the village, as a whole, is very proud to speak of Jessie, their hometown werewolf starlet, as a native daughter."
+    ""
+
+# game/script_jessie.rpy:21394
+translate russian ch4j_epilogue2_1eb8cfc9:
+
+    # "Gossip died down fast after the incident at the pub was quietly swept under the rug. Grace mentions to me privately that word spread quickly about Owen's attempts to harm Jessie."
+    ""
+
+# game/script_jessie.rpy:21395
+translate russian ch4j_epilogue2_0026c65f:
+
+    # "None of that was taken lightly, and the elder MacLeod became unwelcome in his own homeland, especially at the pub, thus prompting his permanent departure."
+    ""
+
+# game/script_jessie.rpy:21396
+translate russian ch4j_epilogue2_58dfe46c:
+
+    # "As sad as all of that is to hear, it gives me great relief to know Jessie and I can return home without any looming threat upon either of us."
+    ""
+
+# game/script_jessie.rpy:21403
+translate russian ch4j_epilogue2_40262beb:
+
+    # "Jessie also spends a good deal of time trying to return to an emotional place where she can train herself to transform back to human at will. She's not there yet, but I watch her attempts daily."
+    ""
+
+# game/script_jessie.rpy:21404
+translate russian ch4j_epilogue2_5d23998c:
+
+    # "I haven't broached the subject, but deep down I honestly believe her father to be at the heart of the problem. His attack on her hit hard. The pain still resonates."
+    ""
+
+# game/script_jessie.rpy:21405
+translate russian ch4j_epilogue2_8795c4cd:
+
+    # "I've seen Jessie tremble on stage, ever so briefly, when a chair is dragged loudly or a voice shouts from the bar. She keeps going with her show but is more easily startled than she used to be."
+    ""
+
+# game/script_jessie.rpy:21406
+translate russian ch4j_epilogue2_ea491b26:
+
+    # "Any attempt to get herself back to a calm headspace, I believe is foiled by the mere idea that someone could scare the wolf back out of her without her being able to rein it in."
+    ""
+
+# game/script_jessie.rpy:21407
+translate russian ch4j_epilogue2_207a3896:
+
+    # "So, she tries, closing her eyes in front of the mirror. Wishing, hoping, praying, calmly trying to coax the fur back in, the whiskers away, the muzzle to shrink. Always to no avail."
+    ""
+
+# game/script_jessie.rpy:21408
+translate russian ch4j_epilogue2_51d61801:
+
+    # "I don't believe she'll ever stop trying."
+    ""
+
+# game/script_jessie.rpy:21415
+translate russian ch4j_epilogue2_31857bc2:
+
+    # "I worry that Jessie also longs for a time when she and I could share in the splendor of being wolves together, of that moment when we had a common bond."
+    ""
+
+# game/script_jessie.rpy:21416
+translate russian ch4j_epilogue2_b814f50b:
+
+    # "But still we are bound. Soon to be as husband... I hope. After we stowed away enough money for better housing and a car of our own, I started squirreling away just enough for a ring."
+    ""
+
+# game/script_jessie.rpy:21417
+translate russian ch4j_epilogue2_796ab686:
+
+    # "I keep it hidden, with all good intention of bringing it out on the next full moon, when we go out to play. I long to see her bright eyes light up upon seeing it presented to her."
+    ""
+
+# game/script_jessie.rpy:21418
+translate russian ch4j_epilogue2_b842676c:
+
+    # "Even if she says no, which she's every right to do, at least she'll have a fine bauble to add to her collection. I certainly don't worry about her leaving me."
+    ""
+
+# game/script_jessie.rpy:21427
+translate russian ch4j_epilogue2_ffc5d265:
+
+    # "Together we bridge the worlds between human and fae, between what is seen as normal and that which is considered magic."
+    ""
+
+# game/script_jessie.rpy:21428
+translate russian ch4j_epilogue2_2ad3ff44:
+
+    # "Truly, she is the magic. My magic. All that I want or will ever need."
+    ""
+
+# game/script_jessie.rpy:21429
+translate russian ch4j_epilogue2_3f319b98:
+
+    # "She will take the world by storm, and all will be swept away by her impact. I stand by her side, breathing in the air of her tempest."
+    ""
+
+# game/script_jessie.rpy:21457
+translate russian ch4j_epilogue3_bdc38739:
+
+    # "Jessie MacLeod: Jazz singer, cabaret dancer, entertainer of the highest class."
+    ""
+
+# game/script_jessie.rpy:21458
+translate russian ch4j_epilogue3_630a7be5:
+
+    # "It turned out making a name for herself without a manager like Wondrous Walter wasn't such a big hurdle after all. She knew she could do this on her own. And did she ever."
+    ""
+
+# game/script_jessie.rpy:21459
+translate russian ch4j_epilogue3_7229e575:
+
+    # "After an open audition at Clatty Pat's, the largest nightclub in Glasgow, Jessie landed a nightly solo show. A month later she was headlining, with her name on the neon marquee."
+    ""
+
+# game/script_jessie.rpy:21460
+translate russian ch4j_epilogue3_67cc736f:
+
+    # "Jessie was an immediate hit among bohemian Glaswegians. And with Glasgow under her spell, now she's set her sights on lighting up London's night scene someday."
+    ""
+
+# game/script_jessie.rpy:21467
+translate russian ch4j_epilogue3_3f9b0e0a:
+
+    # "Jessie's act is a magical spectacle with multiple costume changes, and lots of her original music. She's looking into hiring some back up dancers, as well."
+    ""
+
+# game/script_jessie.rpy:21468
+translate russian ch4j_epilogue3_7d4a615a:
+
+    # "We've taught ourselves a modest amount about songwriting. I've even been trying my best to learn enough on piano to accompany her when she rehearses at home."
+    ""
+
+# game/script_jessie.rpy:21469
+translate russian ch4j_epilogue3_3ef86081:
+
+    # "But most of all, I live for the nights I can see her perform and get hypnotized by her voice. It puts me in a dream-like state, one even stronger than a whisky neat."
+    ""
+
+# game/script_jessie.rpy:21476
+translate russian ch4j_epilogue3_9aeca34b:
+
+    # "We've settled into our flat in the west end of the city, one much larger than I'd envisioned. Jessie's small stash of cash ended up being just the beginning of her income. Our wealth."
+    ""
+
+# game/script_jessie.rpy:21477
+translate russian ch4j_epilogue3_95fe9a22:
+
+    # "She's a natural in the city, eager to poke her head around corners, on the hunt for new merchants, new wardrobe pieces, new restaurants."
+    ""
+
+# game/script_jessie.rpy:21478
+translate russian ch4j_epilogue3_87c88b72:
+
+    # "Sometimes she's out so late that I have to take myself home to get any sleep."
+    ""
+
+# game/script_jessie.rpy:21479
+translate russian ch4j_epilogue3_d01b7149:
+
+    # "She absorbs the world's gifts like a sponge, and wrings herself dry, soaking all those around her with the same high-spirited energy."
+    ""
+
+# game/script_jessie.rpy:21481
+translate russian ch4j_epilogue3_c3ca90b6:
+
+    # "As for me? I'm getting used to city life, though I can't say I prefer it over the country."
+    ""
+
+# game/script_jessie.rpy:21482
+translate russian ch4j_epilogue3_98dddb95:
+
+    # "There are days, usually when the streets overflow with commotion, when Jessie agrees and we've both had enough noise."
+    ""
+
+# game/script_jessie.rpy:21489
+translate russian ch4j_epilogue3_62b4b595:
+
+    # "Those are the times we plan our trips back to our family. The train ride reminds us of the serenity that awaits. We watch the world go by and listen for the last whistle to signal our stop."
+    ""
+
+# game/script_jessie.rpy:21500
+translate russian ch4j_epilogue3_f7a42763:
+
+    # "Not much has changed in quiet Ach-na-Creige. During our first return home, we avoided eye contact with anyone but close family. But now, gone are the worries of mobs and pitchforks."
+    ""
+
+# game/script_jessie.rpy:21501
+translate russian ch4j_epilogue3_66ba0335:
+
+    # "The townspeople have become overly superstitious about the werewolf incident. Few speak of it. Even fewer want to admit what they saw."
+    ""
+
+# game/script_jessie.rpy:21502
+translate russian ch4j_epilogue3_90a672d9:
+
+    # "Gone too is Owen. Most of us are privately grateful that he chose to reenlist. The MacLeod homestead is a safer, warmer place without him."
+    ""
+
+# game/script_jessie.rpy:21509
+translate russian ch4j_epilogue3_239a275a:
+
+    # "Jessie's sisters split their time between our family's two farms. What farmwork is neglected doesn't much matter now. There is plenty of money to send home thanks to Jessie's success."
+    ""
+
+# game/script_jessie.rpy:21510
+translate russian ch4j_epilogue3_6cf0b130:
+
+    # "True to her word, she never forgets our family and their welfare. All seem much more at ease now that their financial situation isn't so uncertain."
+    ""
+
+# game/script_jessie.rpy:21511
+translate russian ch4j_epilogue3_c85e2b57:
+
+    # "Marion has even warmed up to the new arrangement, where tending to Gran and Toast has given her a sense of home, as well."
+    ""
+
+# game/script_jessie.rpy:21512
+translate russian ch4j_epilogue3_a9d49f47:
+
+    # "With Marion and Grace at her side, Gran is well supported. I've apologized profusely for abandoning her, though she tells me she doesn't see it that way, especially with the friends she has in town."
+    ""
+
+# game/script_jessie.rpy:21513
+translate russian ch4j_epilogue3_6c68fa69:
+
+    # "Of course Grace is itching to come visit us as soon as possible. She seems excited for all the glitz and glamour and can't wait to see her sister perform."
+    ""
+
+# game/script_jessie.rpy:21520
+translate russian ch4j_epilogue3_114871e1:
+
+    # "And Balgair? Why, his beloved neon sign now hangs above the door to the Stag & Nanny."
+    ""
+
+# game/script_jessie.rpy:21521
+translate russian ch4j_epilogue3_c670c9bb:
+
+    # "He assures the locals that the Electricity Act will get it turned on by the end of the decade. What a sight that'll be."
+    ""
+
+# game/script_jessie.rpy:21522
+translate russian ch4j_epilogue3_49f1f95d:
+
+    # "That's not the only new feature at the Stag & Nanny, either. It seems another performer was waiting quietly in the wings to take over center stage."
+    ""
+
+# game/script_jessie.rpy:21529
+translate russian ch4j_epilogue3_aae04c95:
+
+    # "Douglas Crannach, the town fishmonger and a firm believer in the occult, puts on quite a magic show, so we are told. Despite being only a bit older than me, he has the look of a grizzled old wizard."
+    ""
+
+# game/script_jessie.rpy:21530
+translate russian ch4j_epilogue3_744a0690:
+
+    # "Magic—of a tamer variety—has become something of a hot topic in Ach-na-Creige. It's helped spurred business at the Stag & Nanny back to acceptable levels in Jessie's absence."
+    ""
+
+# game/script_jessie.rpy:21531
+translate russian ch4j_epilogue3_4d21f8e6:
+
+    # "Douglas caught a rabbit at the edge of town that he pulls out of his hat nightly."
+    ""
+
+# game/script_jessie.rpy:21532
+translate russian ch4j_epilogue3_534b5591:
+
+    # "Grace told us everyone's favorite shows are the ones where the rabbit bites Douglas and takes off running across Balgair's piano and around the bar."
+    ""
+
+# game/script_jessie.rpy:21533
+translate russian ch4j_epilogue3_1cee3c55:
+
+    # "Also according to Grace, Marion has taken a liking to him and his antics. We all quietly, eagerly hope it turns into something more."
+    ""
+
+# game/script_jessie.rpy:21540
+translate russian ch4j_epilogue3_3c70a862:
+
+    # "All good things in time. Most importantly, peace has finally returned to our lives. Jessie stays calm and I steadily work away in the loft, writing a bit of a memoir."
+    ""
+
+# game/script_jessie.rpy:21541
+translate russian ch4j_epilogue3_22c7997b:
+
+    # "What with the werewolves and all, I'll have to pitch it as fiction to a publisher. But I'll know the truth. I'm not looking for fame and fortune, just for Jessie's story to be heard. Mine, too."
+    ""
+
+# game/script_jessie.rpy:21542
+translate russian ch4j_epilogue3_375baeec:
+
+    # "Jessie is living her dream. And I have found that the peace from stability and emotional support is more a dream than I ever knew existed."
+    ""
+
+# game/script_jessie.rpy:21543
+translate russian ch4j_epilogue3_3f706698:
+
+    # "Gone are the days that I pray for survival. We thrive now. I wake to her smile; I fall asleep to her heartbeat. My dream lives within appreciating every day and every moment spent together."
+    ""
+
+# game/script_jessie.rpy:21546
+translate russian ch4j_epilogue3_e93dc9cd:
+
+    # "She is living her dream, and always asks how I'm getting along with all the fervor and intensity of city life."
+    ""
+
+# game/script_jessie.rpy:21547
+translate russian ch4j_epilogue3_c1304e9d:
+
+    # "I am always open and honest, and I kept telling her it would be a lie to say I wouldn't change a thing."
+    ""
+
+# game/script_jessie.rpy:21548
+translate russian ch4j_epilogue3_91bb382e:
+
+    # "So I did change one thing."
+    ""
+
+# game/script_jessie.rpy:21555
+translate russian ch4j_epilogue3_19305bc0:
+
+    # "It was a difficult, but necessary decision. The evening runs, the restless slumbers and nightmares, the days I would let my mind wander and notice I had fur on my knuckles. It was too much."
+    ""
+
+# game/script_jessie.rpy:21556
+translate russian ch4j_epilogue3_100037f2:
+
+    # "I miss the phenomena I held onto as a wolf, but know it was never meant to be who I am."
+    ""
+
+# game/script_jessie.rpy:21557
+translate russian ch4j_epilogue3_c49b87d3:
+
+    # "Jessie took it hard, but never blamed me. We both knew it was complicating our work and personal relationship. She offers to give me a quick scratch should I ever change my mind again, although I privately doubt it would work."
+    ""
+
+# game/script_jessie.rpy:21558
+translate russian ch4j_epilogue3_19456d22:
+
+    # "No one's life is perfect, but I would argue mine is the closest it can be. We speak frequently about what the future holds. Her next dream is to romp beneath the lights of the Eiffel Tower. Mine is to see the South Pacific."
+    ""
+
+# game/script_jessie.rpy:21559
+translate russian ch4j_epilogue3_f00a277f:
+
+    # "The only secret I keep from her is how I've been squirreling away enough money to get her an amethyst ring, one that matches her eyes."
+    ""
+
+# game/script_jessie.rpy:21560
+translate russian ch4j_epilogue3_dddfedeb:
+
+    # "I hope it will lead to marriage, but I simply want it to be a symbol of my commitment to her."
+    ""
+
+# game/script_jessie.rpy:21569
+translate russian ch4j_epilogue3_e7b82ce2:
+
+    # "On nights we go deeper into our wine bottles, Jessie will talk again about me being a wolf, about how she is quite sure I'll go back."
+    ""
+
+# game/script_jessie.rpy:21570
+translate russian ch4j_epilogue3_22553e5c:
+
+    # "The wolf is waiting to make its way out, she says."
+    ""
+
+# game/script_jessie.rpy:21571
+translate russian ch4j_epilogue3_f037b3c5:
+
+    # "I'm unsure about that. I want her to be happy. But I'm also keen on keeping myself happy."
+    ""
+
+# game/script_jessie.rpy:21572
+translate russian ch4j_epilogue3_74ba6ede:
+
+    # "So I say little, and assure her that whit's for us..."
+    ""
+
+# game/script_jessie.rpy:21573
+translate russian ch4j_epilogue3_9feb060b:
+
+    # "Well, we all know the rest."
+    ""
+
+# game/script_jessie.rpy:21576
+translate russian ch4j_epilogue3_99a3e288:
+
+    # "Well... our evening excitement doesn't hurt, either."
+    ""
+
+# game/script_jessie.rpy:21583
+translate russian ch4j_epilogue3_babf4ef6:
+
+    # "On Jessie's nights off, when the full moon shines, we play. My ability to transform is strengthened by her presence, but I do try it alone occasionally."
+    ""
+
+# game/script_jessie.rpy:21584
+translate russian ch4j_epilogue3_6cccb583:
+
+    # "That's usually when I end up with my ears—what's left of them—flopping around, or my tail not growing long enough."
+    ""
+
+# game/script_jessie.rpy:21585
+translate russian ch4j_epilogue3_c1ca85d2:
+
+    # "But it's all fine by me. Anything that used to terrify me about changing is now what drives me to keep doing it."
+    ""
+
+# game/script_jessie.rpy:21586
+translate russian ch4j_epilogue3_4e700504:
+
+    # "The warm, blood-boiling sensation in my veins, the deftness of my limbs, the sights and sounds and smells. It's all amazing."
+    ""
+
+# game/script_jessie.rpy:21593
+translate russian ch4j_epilogue3_7541ebe2:
+
+    # "At night, we run the streets, artfully dodging the seedier crowds, and head to the empty spaces we can find. Under streetlamps, we create long shadows. Far from the city, we make love."
+    ""
+
+# game/script_jessie.rpy:21594
+translate russian ch4j_epilogue3_7808279c:
+
+    # "We speak openly and honestly about what the future holds. Her next dream is to romp beneath the lights of the Eiffel Tower. Mine is to dig in the sand on some beach in the South Pacific."
+    ""
+
+# game/script_jessie.rpy:21595
+translate russian ch4j_epilogue3_f00a277f_1:
+
+    # "The only secret I keep from her is how I've been squirreling away enough money to get her an amethyst ring, one that matches her eyes."
+    ""
+
+# game/script_jessie.rpy:21596
+translate russian ch4j_epilogue3_dddfedeb_1:
+
+    # "I hope it will lead to marriage, but I simply want it to be a symbol of my commitment to her."
+    ""
+
+# game/script_jessie.rpy:21605
+translate russian ch4j_epilogue3_965aadce:
+
+    # "On nights when we go deeply into our wine bottles, Jessie will tipsily talk about what it would be like to incorporate her secret into her act, or to start a family, complete with wee werepups."
+    ""
+
+# game/script_jessie.rpy:21606
+translate russian ch4j_epilogue3_6729fa85:
+
+    # "These visions seem as much a wild dream as anything previous in our lives. But they also seem possible. Anything could happen! After all, whit's for us..."
+    ""
+
+# game/script_jessie.rpy:21607
+translate russian ch4j_epilogue3_9feb060b_1:
+
+    # "Well, we all know the rest."
+    ""
+
+translate russian strings:
+
+    # game/script_jessie.rpy:2597
+    old "{image=iconjsmall}\nChapter 3-1: Rehearsal"
+    new ""
+
+    # game/script_jessie.rpy:2606
+    old "Chapter 3\n{size=40}A Sheep in Wolf's Clothing{/size}"
+    new ""
+
+    # game/script_jessie.rpy:3459
+    old "{image=iconjsmall}\nChapter 3-2: The Modern Woman"
+    new ""
+
+    # game/script_jessie.rpy:3512
+    old "Keep mum."
+    new ""
+
+    # game/script_jessie.rpy:3512
+    old "Tell the truth."
+    new ""
+
+    # game/script_jessie.rpy:3796
+    old "{image=iconjsmall}\nChapter 3-3: Impressionable Youth"
+    new ""
+
+    # game/script_jessie.rpy:4200
+    old "Gran ought to see Jessie in her element."
+    new ""
+
+    # game/script_jessie.rpy:4200
+    old "It's probably best to leave it alone."
+    new ""
+
+    # game/script_jessie.rpy:4358
+    old "{image=iconjsmall}\nChapter 3-4: Night on the Town"
+    new ""
+
+    # game/script_jessie.rpy:4883
+    old "Tonight was special."
+    new ""
+
+    # game/script_jessie.rpy:5059
+    old "{image=iconjsmall}\nChapter 3-5: The Moon Beckons"
+    new ""
+
+    # game/script_jessie.rpy:5454
+    old "Whistle."
+    new ""
+
+    # game/script_jessie.rpy:5454
+    old "Clap."
+    new ""
+
+    # game/script_jessie.rpy:5454
+    old "Call her name."
+    new ""
+
+    # game/script_jessie.rpy:5599
+    old "{image=iconjsmall}\nChapter 3-6: Under the Stars"
+    new ""
+
+    # game/script_jessie.rpy:6039
+    old "{image=iconjsmall}\nChapter 3-7: Gran's Care"
+    new ""
+
+    # game/script_jessie.rpy:6214
+    old "{image=iconjsmall}\nChapter 3-8: Here and Now"
+    new ""
+
+    # game/script_jessie.rpy:6382
+    old "{image=iconjsmall}\nChapter 3-9: Stirring Up the Nest"
+    new ""
+
+    # game/script_jessie.rpy:6911
+    old "Stand up for Jessie."
+    new ""
+
+    # game/script_jessie.rpy:6911
+    old "Change the subject."
+    new ""
+
+    # game/script_jessie.rpy:7257
+    old "{image=iconjsmall}\nChapter 3-10: Bathtime"
+    new ""
+
+    # game/script_jessie.rpy:7768
+    old "{image=iconjsmall}\nChapter 3-11: Toast"
+    new ""
+
+    # game/script_jessie.rpy:8596
+    old "{image=iconjsmall}\nChapter 3-12: Gran's Revelation"
+    new ""
+
+    # game/script_jessie.rpy:9047
+    old "Try to calm the situation."
+    new ""
+
+    # game/script_jessie.rpy:9047
+    old "Question Agnes."
+    new ""
+
+    # game/script_jessie.rpy:9215
+    old "{image=iconjsmall}\nChapter 3-13: Gran's Blessing"
+    new ""
+
+    # game/script_jessie.rpy:9378
+    old "{image=iconjsmall}\nChapter 3-14: What the Future May Hold"
+    new ""
+
+    # game/script_jessie.rpy:9542
+    old "Let it go."
+    new ""
+
+    # game/script_jessie.rpy:9689
+    old "{image=iconjsmall}\nChapter 3-15: Jessie's Big Break"
+    new ""
+
+    # game/script_jessie.rpy:10267
+    old "It simply isn't possible for everyone's dreams to come true."
+    new ""
+
+    # game/script_jessie.rpy:10272
+    old "My dreams were never enough to overcome my fate."
+    new ""
+
+    # game/script_jessie.rpy:10274
+    old "Especially when someone else's dreams outshone mine, dimming my hope and vision."
+    new ""
+
+    # game/script_jessie.rpy:10277
+    old "I couldn't outwit destiny with my imagination."
+    new ""
+
+    # game/script_jessie.rpy:10279
+    old "When my fantasies grew to be at odds with reality, how quickly everything fell apart."
+    new ""
+
+    # game/script_jessie.rpy:10283
+    old "Or perhaps I just never dreamt hard enough."
+    new ""
+
+    # game/script_jessie.rpy:10296
+    old "{image=iconjsmall}\nChapter 4-1: Hair of the Dog"
+    new ""
+
+    # game/script_jessie.rpy:10305
+    old "Chapter 4\n{size=40}Escape{/size}"
+    new ""
+
+    # game/script_jessie.rpy:11000
+    old "{image=iconjsmall}\nChapter 4-2: Two of a Kind"
+    new ""
+
+    # game/script_jessie.rpy:11119
+    old "Let go."
+    new ""
+
+    # game/script_jessie.rpy:11119
+    old "Try to remember."
+    new ""
+
+    # game/script_jessie.rpy:11249
+    old "And wild they stayed."
+    new ""
+
+    # game/script_jessie.rpy:11252
+    old "Much like myself, they traversed the darker paths, the quieter routes. Night was their time."
+    new ""
+
+    # game/script_jessie.rpy:11254
+    old "Unlike me, they had someone. Each other."
+    new ""
+
+    # game/script_jessie.rpy:11256
+    old "I am, and have never been, part of their world. Part of that elusive existence of both fear and contentment, of happiness with pain."
+    new ""
+
+    # game/script_jessie.rpy:11258
+    old "I am but alone, free to roam at will, but ne'er to share my soul with another."
+    new ""
+
+    # game/script_jessie.rpy:11382
+    old "It's incredible."
+    new ""
+
+    # game/script_jessie.rpy:11382
+    old "It's bewildering."
+    new ""
+
+    # game/script_jessie.rpy:11393
+    old "It's terrifying."
+    new ""
+
+    # game/script_jessie.rpy:11492
+    old "Return to human."
+    new ""
+
+    # game/script_jessie.rpy:11492
+    old "Go along for the ride."
+    new ""
+
+    # game/script_jessie.rpy:12366
+    old "Think of my love for Jessie."
+    new ""
+
+    # game/script_jessie.rpy:12366
+    old "Think of my responsibility to Gran."
+    new ""
+
+    # game/script_jessie.rpy:12366
+    old "Think of my desire to return to human."
+    new ""
+
+    # game/script_jessie.rpy:12893
+    old "{image=iconjsmall}\nChapter 4-3: Rescue Mission"
+    new ""
+
+    # game/script_jessie.rpy:12934
+    old "Sneak around them."
+    new ""
+
+    # game/script_jessie.rpy:12934
+    old "Distract them."
+    new ""
+
+    # game/script_jessie.rpy:12934
+    old "Scare them."
+    new ""
+
+    # game/script_jessie.rpy:12934
+    old "Act natural."
+    new ""
+
+    # game/script_jessie.rpy:13273
+    old "{image=iconjsmall}\nChapter 4-4: A Solution"
+    new ""
+
+    # game/script_jessie.rpy:13821
+    old "{image=iconjsmall}\nChapter 4-5: A Wolf Walks into a Bar"
+    new ""
+
+    # game/script_jessie.rpy:14144
+    old "{image=iconjsmall}\nChapter 4-6: On the Scent"
+    new ""
+
+    # game/script_jessie.rpy:14626
+    old "{image=iconjsmall}\nChapter 4-7: Standoff"
+    new ""
+
+    # game/script_jessie.rpy:14830
+    old "Hunting the wolf."
+    new ""
+
+    # game/script_jessie.rpy:14830
+    old "Taking a stroll."
+    new ""
+
+    # game/script_jessie.rpy:14874
+    old "Balgair."
+    new ""
+
+    # game/script_jessie.rpy:14874
+    old "Agnes."
+    new ""
+
+    # game/script_jessie.rpy:14874
+    old "No one."
+    new ""
+
+    # game/script_jessie.rpy:16052
+    old "Take the antidote."
+    new ""
+
+    # game/script_jessie.rpy:16052
+    old "Do something reckless."
+    new ""
+
+    # game/script_jessie.rpy:16903
+    old "Leave immediately."
+    new ""
+
+    # game/script_jessie.rpy:16903
+    old "Collect Owen's photo."
+    new ""
+
+    # game/script_jessie.rpy:17104
+    old "{image=iconjsmall}\nChapter 4-8: Farewell"
+    new ""
+
+    # game/script_jessie.rpy:17181
+    old "The antidote."
+    new ""
+
+    # game/script_jessie.rpy:17181
+    old "Walter's card."
+    new ""
+
+    # game/script_jessie.rpy:19042
+    old "{image=iconjsmall}\nChapter 4-9: Fork in the Road"
+    new ""
+
+    # game/script_jessie.rpy:19208
+    old "We're married."
+    new ""
+
+    # game/script_jessie.rpy:19208
+    old "We're good friends."
+    new ""
+
+    # game/script_jessie.rpy:19208
+    old "Pop the question."
+    new ""
+
+    # game/script_jessie.rpy:19258
+    old "{image=iconjsmall}\nChapter 4-10: All Aboard"
+    new ""
+
+    # game/script_jessie.rpy:21126
+    old "Where the wind blew, I went. Through quiet storms and loud silence."
+    new ""
+
+    # game/script_jessie.rpy:21129
+    old "Almost nothing made sense, just peculiar sounds, turns of phrase, and voices that were a wee bit familiar."
+    new ""
+
+    # game/script_jessie.rpy:21131
+    old "Never did I see all that could have been there for me."
+    new ""
+
+    # game/script_jessie.rpy:21135
+    old "Off I flew in solitude, dreaming of what once was and perhaps could be again."
+    new ""
+
+    # game/script_jessie.rpy:21138
+    old "I dreamt of love, but not as how I knew it... only as how it would never be again."
+    new ""
+

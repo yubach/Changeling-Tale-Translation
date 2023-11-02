@@ -467,3 +467,47 @@ translate russian strings:
     old "\n                {color=#b55100}Thanks for playing the Changeling Tale Demo!{/color}\n\n                We hope you enjoy your time in Ach-na-Creige.\n                If you would like to play more or support the\n                project, consider joining our Patreon for the latest\n                Early Access Builds, as well as exclusive Bonus Content!\n\n                Sincerely,\n                {i}The Changeling Tale Team{/i}\n                "
     new ""
 
+# TODO: Translation updated at 2023-11-01 19:51
+
+# game/script.rpy:24927
+translate russian mugstuckeasteregg_65afdcc5:
+
+    # "The mug gets stuck on my comically fat snout. Of course it does. Mugs aren't made for muzzles."
+    ""
+
+# game/script.rpy:24928
+translate russian mugstuckeasteregg_f8b56d0b:
+
+    # "Ugh. Not only have I made an awful first impression, I've gone and embarrassed myself in front of the pubwmaster, too."
+    ""
+
+# game/script.rpy:24931
+translate russian mugstuckeasteregg_083c2804:
+
+    # "With a huff through my nostrils and some wiggling, the glass comes loose without too much spillage. I'm such a hot mess. What must Balgair be making of all this?"
+    ""
+
+# game/script.rpy:25394
+translate russian nametest_259770b6_1:
+
+    # d "test"
+    d ""
+
+translate russian strings:
+
+    # game/script.rpy:37
+    old "Rowan"
+    new ""
+
+    # game/script.rpy:24355
+    old "[persistent.eastereggs]/9"
+    new ""
+
+    # game/script.rpy:24361
+    old "[persistent.eastereggs]/4"
+    new ""
+
+    # game/script.rpy:24366
+    old "[persistent.eastereggs]/12"
+    new ""
+

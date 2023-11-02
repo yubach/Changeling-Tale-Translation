@@ -162,3 +162,79 @@ translate russian strings:
     old "\nWhilst out discovering medicinal plants, he encountered what he knows to be a {i}maighdean uaine,{/i} a real Glaistig woman. When he commented on her cloven hooves creating a faint din on the wood floors of a pub in an undisclosed location, she scoffed at him, telling him he was a drunken fool. Believing his past delirium in becoming a Kelpie gave him the power to see fae-born among his surroundings, he cornered the woman late in the evening as she made her way back home. He shared his tale of phantasmagoria, and this time she took notice, even lifting her skirt briefly to reveal her hooven goat legs. Their shared bond continued in the form of letters over the years, though Baird has honoured his promise never to reveal her secret.\nThese escapades and more have inspired the tales and history compiled in {i}Baird's Unabridged Compendium of Faerie Lore: Rhymes, Myths & Legends of Scotch Tradition.{/i} Reading through this marvelous wonder will connect you to fae culture, kingdoms, and creatures as tightly as the bond that once existed between man and the faerie realm.\nThis chronicle is faithfully and humbly compiled, executed, and confirmed by Robert Columba Crimthann Baird on this third day of September in the year of our Lord, one thousand eight hundred and sixty-five."
     new ""
 
+# TODO: Translation updated at 2023-11-01 19:51
+
+translate russian strings:
+
+    # game/screens_bairds.rpy:908
+    old "Ùruisg"
+    new ""
+
+    # game/screens_bairds.rpy:1006
+    old "Werewolf"
+    new ""
+
+    # game/screens_bairds.rpy:1034
+    old "Kelpie"
+    new ""
+
+    # game/screens_bairds.rpy:1076
+    old "Beithir"
+    new ""
+
+    # game/screens_bairds.rpy:1118
+    old "Bramble"
+    new ""
+
+    # game/screens_bairds.rpy:1386
+    old "\nThe goat-hooved Brùnaidh, the forest adventurer, the spritely uruisg. Much like their brethren faerie, the Púca, the Ùruisg display an impish spirit, full of mischief-making, with a dash of cordiality. Elfish in visage and form, they work hard at being both troublesome and courteous in their actions."
+    new ""
+
+    # game/screens_bairds.rpy:1397
+    old "These are roguish pixie spirits who fight their way through entangling vines and overgrowth only to climb trees and watch over the human world. They have been known to instinctively latch onto a human clan, performing chores and duties clandestinely when no person is around. Though sometimes after a whirlwind jaunt of tidying and washing, they will intentionally knock over a small bucket of water, or smash a petite porcelain carafe before fleeing, leaving their mark of minute destruction.\nLittle, mighty scamps though they may be, these venerable creatures are more honorable than they appear. For every playful deed they may commit, innumerable pleasant tasks are provided. Should your wash need finishing, should your hogs need a feed, or should your shoes need a scraping… the wee uruisg may hear your wish at night and come scurrying secretly to your door. Listen carefully for the light sound of hooves clicking as you start to fall asleep."
+    new ""
+
+    # game/screens_bairds.rpy:1492
+    old "\nOft heard is the legend of the Glaistig, the Green Lady, the embittered and beautiful blonde maiden, with a sulky visage and empowered aura. The spiteful spirit bears the name Maighdean Uaine because she dons a long, green robe to hide her mystical secret. What is that secret, you ask? Her hybrid form, of course. To the naked eye, it would seem this cursed creature is female. But when she reveals her legs, they are those of a satyr-- ghastly and gnarled, with hair and cloven toes."
+    new ""
+
+    # game/screens_bairds.rpy:1503
+    old "Who is this half-goat woman, with her sallow complexion and spellbinding eyes? Who is hiding behind that mane of flaxen hair? At once indifferent and invasive, the Glaistig lives among us, charming you with a kind smile before luring you away to commit unspeakable acts. While known for her protective nature, it is one that comes at a cost, that of expected discreet and everlasting loyalty.\nOnce a mortal, she wronged the fae by testing their boundaries and going too far. Her punishment was that of immortality and isolation. Whilst the Glaistig lives covertly, she is always around. If you listen closely to footsteps nearby, you may hear the hooves of sadness clicking as they pass."
+    new ""
+
+    # game/screens_bairds.rpy:1706
+    old "\nThe vicious lycanthrope, the man-wolf, cursed to walk among beasts. But a nibble or a scratch from a lupine soul is all it takes to contract the scourge. Beneath the light of the moon, the offending affliction mutates… both the scar and the man. The claws come first, then the full body hair, the long canine teeth. There soon appears the midnight beast, the wild dog created by ferocity, to breed more destruction."
+    new ""
+
+    # game/screens_bairds.rpy:1717
+    old "Unlike the Wulver, the Werewolf is not born of any condition other than human. Once changed, he will hunt new prey. How does one avoid attack, ye ask? Keep alert at dusk and nightfall, watching out for the glowing yellow eyes of a lycan on the prowl. Ne’er disturb four-legged creatures of the night.\nWerewolves will find like creatures, oft disappearing into the woods to live as packs, always desperate to return to humanity. A lucky few might find salvation through the warmth of the sun's rays, the dignity of their own clothes, or a brew of petal of azuchroma. Others, like the damned souls of Ossory, are doomed to forever walk the earth as monsters.\nThere comes a time in a man’s life when he has to decide which of the fairytale legends will haunt him forever, and which of those he will leave behind in his childhood nightmares. Hold tight to the knowledge that Werewolves are real. Believe not the horror stories of the Wulver’s attacks, and risk having your life fall from two legs onto four."
+    new ""
+
+    # game/screens_bairds.rpy:1760
+    old "\nThe mischievous Cat Sìth lurks in the dark shadows, waiting to pounce. With ink black fur and a distinct white spot across the chest, the Cat Sìth possesses a majestic beauty along with its fearsome snarl. But the lithe four-legged animal at your feet is not simply there for a fresh sardine. Without appropriate distraction, the Cat Sìth will steal your soul faster than the blink of an eye. Adequate distraction will commonly save you from her evils, but should Samhain pass without ye placing a saucer of fresh warm milk out for the sìth, the creature will return to suck the teats of yer herd dry, ne'er to be blessed with milk again, even with help from the Banarach."
+    new ""
+
+    # game/screens_bairds.rpy:1814
+    old "\nThe water horse nay be a mischievous water spirit like the unpredictable Fuath. These shape-shifting beasts are creatures black as ink with souls as dark to match. The Kelpie rises from the watery depths of the lochs and rivers, just waiting to take hold of their next victim to feast upon. Like the home it inhabits, the Kelpie's eyes are dark pools that draw in the unsuspecting. Do not approach the evil Kelpie when seen in its equine form. One touch and yer hand will be clung to the animal's mane, as tight as tar. Then it has got ye! Down into the murky waters the horse will drag your soul and body. A breath will ne'er be had again."
+    new ""
+
+    # game/screens_bairds.rpy:1825
+    old "Also beware any human with eyes near aflame. Those golden orbs shine with the demonic spirit of the Kelpie in another form. The water horse easily transforms into a human. 'Twas seen by the eyes of Aindreas Bathgate himself just a decade past. The strapping lad, a sheep farmer from Glenfinnan, discovered a nude woman sitting by the shores of Loch Shiel, her long hair flying in the breeze. He slowly came up to her, intending to ask if she needed help, but not wanting to scare her away. She turned towards him with an outstretched arm, and eyes of amber. Bathgate was transfixed and reached out to her hand. By the time he noticed her hands were hooves, it was too late. At once, his fingertips were scalded and seared to her hoof as her body shape-shifted back to that of a black horse. Pinned to the ground, the man struggled to free himself. Just as the horse plunged into the loch’s depths, Bathgate fished a sharp stone from the loch floor and sliced his fingertips straight off, leaving the Kelpie to sink all alone. He claims he found his fingertips at the loch’s edge the next day and his wife was able to sew back two of four.\nBe not the prey of the foul beast Kelpie. Its torments know no bounds. While fae-seekers scour the shores for the mysterious dark horse, be it known they look only for danger."
+    new ""
+
+    # game/screens_bairds.rpy:1922
+    old "\nThe serpent, as catastrophic and beguiling as lightning. The twisting thunderbolt, the Fuath adder, the water-dwelling dragonic snake. The Beithir. These wild serpentine beasts-- nary any creature be larger nor deadlier-- even without wings or breath of fire, they kill more men, and spare few in their paths."
+    new ""
+
+    # game/screens_bairds.rpy:1933
+    old "Hidden deep in caves, lurking in the damp corries, the Beithir is oft found alone and ready to attack. Be their stings venomous? Just ask Aindreas Vass of Invergarry, whose father accidentally hacked a garden snake in half whilst chopping firewood. In this simplest of acts, he was cursed. Try as the elder Vass might to bury each half of the wee snake in separate villages, the Fuath reformed itself-- this time, as a Beithir, the grand and deadly serpent. Vass did not learn of this terror until he went out to fish in Loch Oich and came face-to-face with the monster outside its imposing cave, where he made the fatal mistake of making eye contact with the beast. Immediately he was stung, immobilized, and pulled down into the icy waters. Vass's clothes were found floating in the loch mere days later, Beithir scales still stuck to his soggy coatsleeves.\nOthers whisper of fates worse than death. Unholy twistings of form and flesh, where naught remains of the men who once were. So beware the glen's corries, and stay clear of lochs unknown. There lurks the foul Beithir, waiting for you, waiting to strike."
+    new ""
+
+    # game/screens_bairds.rpy:2028
+    old "\nHere we arrive at the edge of the forest, of the expansive fields, at the precipice of seeming normality. Perhaps your mother or grandmother, after baking off a fresh cake, or sipping her berry-hued cordial, warned you to stay clear of the bramble and its delicious berries. Perhaps you only thought her to be warning of the bushes' thick thorns, or the tendency to drop blood-red juice on your knickers as you steal a handful as a treat. "
+    new ""
+
+    # game/screens_bairds.rpy:2039
+    old "But nay, these are no ordinary greens. It is said that as far back as time is remembered, the thickest brambles have served as the boundary between our world and the domain of the Fair Folk. They protect the land, preventing passers through; and woe to anyone who tries. For these twisted vines know the antics they can cause, and are eager to snare unsuspecting intruders into unspeakable fates.\nI know this legend for a fact, after speaking with a man from Inverness, who wishes to retain his anonymity. He spun his yarn of how the brambles caught him and his mates as they were traipsing through the edge of town, out collecting bramble berries for their wives' holiday pies. He thought he'd gone mad when vines took hold of his wrist, tugging him deeper into the brush. His vessel was threaded with thorns, tendrils, and greenery until he could barely breathe. All the strapping mens' bodies slowly took the form of ewes—common Dunface, to be precise—trapped fast by their new, thick wool. When he awoke from the nightmare, he found himself alone in a field outside the village, surrounded by berries, and wearing nary a scrap of clothing.\nHeed my warning that the brambles are the most dastardly plant one can encounter. Keep your hands to yourselves, your children close, and your holiday pies free of forbidden fruit."
+    new ""
+

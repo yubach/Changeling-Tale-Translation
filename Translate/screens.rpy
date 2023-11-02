@@ -957,3 +957,151 @@ translate russian strings:
     old "Go Back"
     new ""
 
+# TODO: Translation updated at 2023-11-01 19:51
+
+translate russian strings:
+
+    # game/screens.rpy:412
+    old "Cast Profiles"
+    new ""
+
+    # game/screens.rpy:2038
+    old "Big Catch"
+    new ""
+
+    # game/screens.rpy:2042
+    old "Marion's Request"
+    new ""
+
+    # game/screens.rpy:2046
+    old "Sailing Secondhand"
+    new ""
+
+    # game/screens.rpy:2050
+    old "Faith in a Dream Uncertain"
+    new ""
+
+    # game/screens.rpy:2054
+    old "Beacon"
+    new ""
+
+    # game/screens.rpy:2058
+    old "Along for the Ride"
+    new ""
+
+    # game/screens.rpy:2062
+    old "Relation/Ship"
+    new ""
+
+    # game/screens.rpy:2066
+    old "Treasure Seekers"
+    new ""
+
+    # game/screens.rpy:2070
+    old "Sail Branch"
+    new ""
+
+    # game/screens.rpy:2073
+    old "Departure"
+    new ""
+
+    # game/screens.rpy:2077
+    old "The Calm Before"
+    new ""
+
+    # game/screens.rpy:2081
+    old "The Storm"
+    new ""
+
+    # game/screens.rpy:2085
+    old "Paradise Found"
+    new ""
+
+    # game/screens.rpy:2089
+    old "On Distant Shores"
+    new ""
+
+    # game/screens.rpy:2093
+    old "Cafe & Pelt Branches"
+    new ""
+
+    # game/screens.rpy:2096
+    old "Giving In"
+    new ""
+
+    # game/screens.rpy:2100
+    old "Chapter 5"
+    new ""
+
+    # game/screens.rpy:2103
+    old "Catch or Release"
+    new ""
+
+    # game/screens.rpy:2107
+    old "Cafe Branch"
+    new ""
+
+    # game/screens.rpy:2110
+    old "The Glaistig's Lover"
+    new ""
+
+    # game/screens.rpy:2114
+    old "All That Glitters"
+    new ""
+
+    # game/screens.rpy:2118
+    old "Other Fish in the Sea"
+    new ""
+
+    # game/screens.rpy:2122
+    old "Sisterly Solace"
+    new ""
+
+    # game/screens.rpy:2126
+    old "Solivagnant"
+    new ""
+
+    # game/screens.rpy:2130
+    old "Bon Voyage"
+    new ""
+
+    # game/screens.rpy:2134
+    old "Pelt Branch"
+    new ""
+
+    # game/screens.rpy:2137
+    old "The White Whale"
+    new ""
+
+    # game/screens.rpy:2141
+    old "A Curious Pelt"
+    new ""
+
+    # game/screens.rpy:2145
+    old "To Be Human"
+    new ""
+
+    # game/screens.rpy:2149
+    old "Parting Gift"
+    new ""
+
+    # game/screens.rpy:2153
+    old "Second Skin"
+    new ""
+
+    # game/screens.rpy:2157
+    old "Life with Flippers"
+    new ""
+
+    # game/screens.rpy:2161
+    old "Seal of Approval"
+    new ""
+
+    # game/screens.rpy:2165
+    old "Safe Harbor"
+    new ""
+
+    # game/screens.rpy:2410
+    old "[persistent.eastereggs]/13"
+    new ""
+

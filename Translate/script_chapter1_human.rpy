@@ -18121,3 +18121,71 @@ translate russian strings:
     old "Though, as I stood from afar and watched as Malcolm stopped crying, I couldn't help but guess that the two of us would be all right."
     new ""
 
+# TODO: Translation updated at 2023-11-01 19:51
+
+# game/script_chapter1_human.rpy:61
+translate russian ch1_01_ac67df08:
+
+    # lettertextmobile "She does not wish to be a burden, but Malcolm, please consider returning home to live in the country with your grandmother once your tour has completed. She would love you to the moon and back for it.\n\nYour mother and I think often of you. Be safe. Your proud father, ever,\n\n{image=bruce.png}{alt}Bruce{/alt}"
+    lettertextmobile ""
+
+# game/script_chapter1_human.rpy:63
+translate russian ch1_01_40bbb128:
+
+    # lettertext "She does not wish to be a burden, but Malcolm, please consider returning home to live in the country with your grandmother once your tour has completed. She would love you to the moon and back for it.\n\nYour mother and I think often of you. Be safe. Your proud father, ever,\n\n{image=bruce.png}{alt}Bruce{/alt}"
+    lettertext ""
+
+# game/script_chapter1_human.rpy:4793
+translate russian ch1_11m_d8be0968:
+
+    # "We touch upon more news and gossip; Mrs. Riley recently had a child, but rumor has it, Mr. Riley, who has been at war well over nine months, is not the father."
+    ""
+
+# game/script_chapter1_human.rpy:6126
+translate russian ch1_10j_b_6cd56066:
+
+    # b "Don't want to let a young man go thirsty, eh?"
+    b ""
+
+# game/script_chapter1_human.rpy:7990
+translate russian ch1_14g_efe69b51:
+
+    # "The water hits like a bath of ice. I gasp for air, momentarily too shocked to breathe. Grace swims by, laughing, just as my body starts responding again."
+    ""
+
+# game/script_chapter1_human.rpy:7991
+translate russian ch1_14g_c0db6352:
+
+    # g "See? Not so bad!"
+    g ""
+
+# game/script_chapter1_human.rpy:7992
+translate russian ch1_14g_7558f798:
+
+    # "She seems to interpret my shivering as a nod."
+    ""
+
+# game/script_chapter1_human.rpy:7993
+translate russian ch1_14g_578d96de:
+
+    # g "Now come on!"
+    g ""
+
+# game/script_chapter1_human.rpy:8238
+translate russian ch1_14_0e710039:
+
+    # "After finishing repairs on the second—and thankfully, final—roof of the Campbell farm, Gran has treated me to quite a feast."
+    ""
+
+# game/script_chapter1_human.rpy:8297
+translate russian ch1_14_2460dc81:
+
+    # lettertext2mobile "Dear Marion & Grace,\n\nI have to go. My heart is no longer in this tiny village. It is holding me back. I am holding myself back. I am leaving for Glasgow and hope to be settled by the end of the year. Do forgive me for my sudden disappearance. Know that I love you both, and don't want you worrying about me. I've only left so quickly so as not to be stopped in the pursuit of my dreams. I will write when I am able.\n\nYours,{image=jessie.png}{alt}Jessie{/alt}\nPS — Please forgive me for taking Mother's silver locket."
+    lettertext2mobile ""
+
+# game/script_chapter1_human.rpy:8299
+translate russian ch1_14_0c83c4b8:
+
+    # lettertext2 "Dear Marion & Grace,\n\nI have to go. My heart is no longer in this tiny village. It is holding me back. I am holding myself back. I am leaving for Glasgow and hope to be settled by the end of the year. Do forgive me for my sudden disappearance. Know that I love you both, and don't want you worrying about me. I've only left so quickly so as not to be stopped in the pursuit of my dreams. I will write when I am able.\n\nYours,{image=jessie.png}{alt}Jessie{/alt}\nPS — Please forgive me for taking Mother's silver locket."
+    lettertext2 ""
+
