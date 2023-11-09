@@ -15203,7 +15203,7 @@ translate russian ch3j_09_59b0b452:
 translate russian ch3j_09_b9e45652:
 
     # "She has the uncanny ability to send me orbiting."
-    "У нее есть сверхъестественная способность отправлять меня на орбиту."
+    "У нее есть сверхъестественная способность отправлять меня на седьмое небо."
 
 # game/script_jessie.rpy:7227
 translate russian ch3j_09_5763a7c6:
@@ -15215,1117 +15215,1117 @@ translate russian ch3j_09_5763a7c6:
 translate russian ch3j_09_59b8c2b3:
 
     # "Suddenly, I'm ready to abandon Hazel and jump into the freezing loch with my girlfriend."
-    ""
+    "Я готов внезапно бросить Хейзел и прыгнуть в замерзающее озеро со своей девушкой."
 
 # game/script_jessie.rpy:7229
 translate russian ch3j_09_194edd2c:
 
     # "Unfortunately, Jessie comes to her senses first."
-    ""
+    "К сожалению, Джесси приходит в себя первой."
 
 # game/script_jessie.rpy:7231
 translate russian ch3j_09_e0d83b55:
 
     # j "Probably not. But there's always tomorrow. First thing in the morning?"
-    j ""
+    j "Наверное, не сойдёт. Но всегда есть завтра. Первым делом с утра?"
 
 # game/script_jessie.rpy:7232
 translate russian ch3j_09_d57ef76b:
 
     # c "Marion will be at church?"
-    c ""
+    c "Мэрион будет в церкви?"
 
 # game/script_jessie.rpy:7234
 translate russian ch3j_09_d7823941:
 
     # j "Agnes will be with her. Grace will be fishing."
-    j ""
+    j "Агнес будет с ней. Грейс будет на рыбалке."
 
 # game/script_jessie.rpy:7235
 translate russian ch3j_09_b84002c7:
 
     # c "And your boyfriend, the heathen, will draw you the hottest bath you've ever had."
-    c ""
+    c "А твой парень, язычник, приготовит тебе самую горячую ванну, которую ты когда-либо принимала."
 
 # game/script_jessie.rpy:7236
 translate russian ch3j_09_86141a26:
 
     # "I get one more kiss before parting."
-    ""
+    "Я получаю ещё один поцелуй перед расставанием."
 
 # game/script_jessie.rpy:7238
 translate russian ch3j_09_45ee3723:
 
     # j "I can't wait."
-    j ""
+    j "Не могу дождаться."
 
 # game/script_jessie.rpy:7268
 translate russian ch3j_10_a42c02bf:
 
     # "In the morning, I sprint to Jessie's house."
-    ""
+    "С утра я мчусь к дому Джесси."
 
 # game/script_jessie.rpy:7280
 translate russian ch3j_10_08c92ea4:
 
     # "Before I can knock on the door, it swings open."
-    ""
+    "Прежде чем я успеваю постучать в дверь, она распахивается."
 
 # game/script_jessie.rpy:7288
 translate russian ch3j_10_37e91a4c:
 
     # c "It's like a miracle!"
-    c ""
+    c "Что за чудеса!"
 
 # game/script_jessie.rpy:7290
 translate russian ch3j_10_b1a8dba5:
 
     # j "I can't get too close. My sisters mentioned how horrible I smell. I told them that dog tripped me on my walk home."
-    j ""
+    j "Я не могу подойти слишком близко. Мои сестры упомянули, как ужасно я пахну. Я сказала им, что собака сбила меня с ног, когда я шла домой."
 
 # game/script_jessie.rpy:7291
 translate russian ch3j_10_ed4ac9d9:
 
     # c "This poor imaginary dog! The most hated mongrel in the village."
-    c ""
+    c "Бедная воображаемая собака! Самая ненавистная дворняга в деревне."
 
 # game/script_jessie.rpy:7293
 translate russian ch3j_10_a83dee0e:
 
     # j "Hmmm. My future?"
-    j ""
+    j "Хммм. Моё будущее?"
 
 # game/script_jessie.rpy:7294
 translate russian ch3j_10_b27acaf0:
 
     # c "Hardly! You'd be the most beloved."
-    c ""
+    c "Вряд ли! Ты была бы самой обожаемой."
 
 # game/script_jessie.rpy:7296
 translate russian ch3j_10_e277ae15:
 
     # j "Come inside! I told Marion I couldn't go to church because I broke a toe dancing. I'm officially the worst sister."
-    j ""
+    j "Заходи! Я сказала Мэрион, что не могу пойти в церковь, потому что во время танца сломала палец на ноге. Официально я худшая сестра."
 
 # game/script_jessie.rpy:7297
 translate russian ch3j_10_669d51c7:
 
     # c "She just told me you never lie!"
-    c ""
+    c "Она только вчера сказала мне, что ты никогда не лжешь!"
 
 # game/script_jessie.rpy:7299
 translate russian ch3j_10_27b7f259:
 
     # j "Oh, Lord! If she only knew!"
-    j ""
+    j "О Господи! Если бы она только знала!"
 
 # game/script_jessie.rpy:7310
 translate russian ch3j_10_2e7e133d:
 
     # "We step inside the auspiciously empty house."
-    ""
+    "Мы входим в благоприятно пустой дом."
 
 # game/script_jessie.rpy:7315
 translate russian ch3j_10_3e78ef70:
 
     # c "Say, just how many red dresses do you have? Or are you... still in last night's clothes?"
-    c ""
+    c "Скажи, сколько у тебя красных платьев? Или ты... всё ещё во вчерашнем?"
 
 # game/script_jessie.rpy:7317
 translate russian ch3j_10_a482df88:
 
     # j "No sense spoiling another outfit. But I think it's high time I slip into something more comfortable."
-    j ""
+    j "Нет смысла портить ещё один наряд. Но, думаю, мне давно пора переодеться во что-нибудь более удобное."
 
 # game/script_jessie.rpy:7318
 translate russian ch3j_10_b41af4a8:
 
     # "Jessie smirks mischievously."
-    ""
+    "Джесси озорно ухмыляется."
 
 # game/script_jessie.rpy:7320
 translate russian ch3j_10_77f2b1f5:
 
     # j "Come on, quickly! While the water's still warm!"
-    j ""
+    j "Давай, быстрее! Пока вода ещё теплая!"
 
 # game/script_jessie.rpy:7344
 translate russian ch3j_10_a7284af6:
 
     # "She takes me by the hand into the lavvy, where the water in the bathtub steams and heats the room."
-    ""
+    "Она ведёт меня за руку в туалетную комнату. Вода в ванной поднимается паром и нагревает комнату."
 
 # game/script_jessie.rpy:7366
 translate russian ch3j_10_bc19176a:
 
     # "Jessie unabashedly slips out of her dress and into her natural fur coat."
-    ""
+    "Джесси беззастенчиво снимает платье и надевает шубу из натурального меха."
 
 # game/script_jessie.rpy:7411
 translate russian ch3j_10_b987b4aa:
 
     # "As the fog clears, she steps gingerly into the tub, scented of lavender and jasmine flower."
-    ""
+    "Когда пар рассеивается, она осторожно заходит в ванну, благоухающую лавандой и цветками жасмина."
 
 # game/script_jessie.rpy:7426
 translate russian ch3j_10_a7284af6_1:
 
     # "She takes me by the hand into the lavvy, where the water in the bathtub steams and heats the room."
-    ""
+    "Она ведёт меня за руку в туалетную комнату. Вода в ванной поднимается паром и нагревает комнату."
 
 # game/script_jessie.rpy:7442
 translate russian ch3j_10_e050756b:
 
     # "The mist obscures Jessie's form as she slips out of her dress and into her natural fur coat."
-    ""
+    "Пар скрывает очертания Джесси, когда она снимает платье и надевает шубу из натурального меха."
 
 # game/script_jessie.rpy:7484
 translate russian ch3j_10_b987b4aa_1:
 
     # "As the fog clears, she steps gingerly into the tub, scented of lavender and jasmine flower."
-    ""
+    "Когда пар рассеивается, она осторожно заходит в ванну, благоухающую лавандой и цветками жасмина."
 
 # game/script_jessie.rpy:7486
 translate russian ch3j_10_5d61d929:
 
     # "Her tail floats lazily out from under the water, and she strokes it gently."
-    ""
+    "Её хвост лениво выплывает из-под воды, и она нежно поглаживает его."
 
 # game/script_jessie.rpy:7488
 translate russian ch3j_10_f263d502:
 
     # j "So? Come help me lather up."
-    j ""
+    j "Ну и? Помогай мне намылиться."
 
 # game/script_jessie.rpy:7489
 translate russian ch3j_10_ea8928a9:
 
     # "Jessie waves a puffy wet bathing sponge my way."
-    ""
+    "Джесси машет в мою сторону пушистой влажной губкой."
 
 # game/script_jessie.rpy:7526
 translate russian ch3j_10_66f2e727:
 
     # "I eagerly accept my call to duty, and begin lathering her and the sponge. The floral scents fill the air along with the warm fog, and I begin to lose all sense of rationality."
-    ""
+    "Я охотно принимаю свой долг и начинаю намыливать её и губку. Цветочные ароматы наполняют воздух вместе с тёплым туманом, и я начинаю терять всякое чувство здравомыслия."
 
 # game/script_jessie.rpy:7527
 translate russian ch3j_10_4328d3ca:
 
     # "I don't stop to think about what a terrible idea it is to fool around with my girlfriend with the risk of two people coming home and finding us."
-    ""
+    "Я не перестаю думать о том, какая это ужасная идея - валять дурака со своей девушкой, рискуя, что двое людей вернутся домой и найдут нас."
 
 # game/script_jessie.rpy:7528
 translate russian ch3j_10_37b656cd:
 
     # "I just keep running my fingers through Jessie's soapy mane, dipping my hand below the surface of the bath water, and letting the sponge go wherever I deem necessary."
-    ""
+    "Я просто продолжаю проводить пальцами по мыльной гриве Джесси, опуская руку под воду в ванне и позволяя губке двигаться туда, куда я сочту нужным."
 
 # game/script_jessie.rpy:7531
 translate russian ch3j_10_42435fa2:
 
     # "She sighs and guides my hands this way and that, towards... every inch of her bare fur."
-    ""
+    "Она вздыхает и направляет мои руки туда-сюда, к... каждому дюйму её оголённой шерсти."
 
 # game/script_jessie.rpy:7551
 translate russian ch3j_10_043edb39:
 
     # "I pause longer than I should when she looks up and steals a kiss. Her nose feels wet against my cheek, and not from the bath."
-    ""
+    "Я делаю большую паузу, чем следовало бы, когда она поднимает глаза и украдкой целует меня. Её нос ощущается влажным на моей щеке, и не из-за воды."
 
 # game/script_jessie.rpy:7552
 translate russian ch3j_10_ed32413c:
 
     # c "Och, that's cold!"
-    c ""
+    c "Ох, холодно!"
 
 # game/script_jessie.rpy:7553
 translate russian ch3j_10_740629dd:
 
     # j "The water's warm. Maybe you should join me and... warm up?"
-    j ""
+    j "Вода тёплая. Может, тебе стоит присоединиться ко мне и... согреться?"
 
 # game/script_jessie.rpy:7561
 translate russian ch3j_10_42bc358b:
 
     # "The offer is tempting, albeit impractical. As I try to picture how the two of us could possibly fit in such a small tub, from the corner of my eye, I think I see a shadow through the window."
-    ""
+    "Предложение заманчивое, хотя и непрактичное. Когда я пытаюсь представить, как мы вдвоём могли бы поместиться в такой маленькой ванне, краем глаза я замечаю тень в окне."
 
 # game/script_jessie.rpy:7562
 translate russian ch3j_10_64f82e6c:
 
     # "Oh, no. I don't need another surprise visitor. If I never saw Alana's scowl of judgment ever again, I'd live a happy life."
-    ""
+    "О, нет. Мне не нужен ещё один неожиданный посетитель. Если бы я никогда больше не видел осуждающего взгляда Аланы, я бы прожил счастливую жизнь."
 
 # game/script_jessie.rpy:7563
 translate russian ch3j_10_2b97e59b:
 
     # c "Somebody's here."
-    c ""
+    c "Здесь кто-то есть."
 
 # game/script_jessie.rpy:7565
 translate russian ch3j_10_6907b3a4:
 
     # j "No! Who could it be?"
-    j ""
+    j "Нет! Кто бы это мог быть?"
 
 # game/script_jessie.rpy:7566
 translate russian ch3j_10_d01eb469:
 
     # "When I look outside again, I don't see anyone. Maybe I'm mistaken. Or nervous... or paranoid. It could have been anything."
-    ""
+    "Когда я снова выглядываю наружу, я никого не вижу. Может быть, я ошибаюсь. Или нервничаю... или параноик. Это могло быть что угодно."
 
 # game/script_jessie.rpy:7635
 translate russian ch3j_10_4592e2b7:
 
     # "Jessie hops out of the tub, goes down on her paws, and shakes wildly back and forth. Water sprays from floor to ceiling, covering me from head to toe with suds and bubbles."
-    ""
+    "Джесси выпрыгивает из ванны, опускается на лапы и дико трясётся взад-вперёд. Вода брызжет от пола до потолка, покрывая меня с головы до ног пеной и пузырьками."
 
 # game/script_jessie.rpy:7652
 translate russian ch3j_10_34d06508:
 
     # "I close my eyes under the deluge. Sopping wet, I reach blindly for a towel."
-    ""
+    "Я закрываю глаза под этим проливным дождём. Промокнув насквозь, я вслепую тянусь за полотенцем."
 
 # game/script_jessie.rpy:7686
 translate russian ch3j_10_a6f56e9a:
 
     # "In the middle of drying off, I open my eyes to see Grace's mouth agape. In her hand is a metal bucket, overflowing with fish."
-    ""
+    "Во время вытирания, я открываю глаза и вижу, что Грейс разинула рот. В её руке металлическое ведро, доверху наполненное рыбой."
 
 # game/script_jessie.rpy:7690
 translate russian ch3j_10_a82ce78d:
 
     # g "Where am I going to put my mackerel?"
-    g ""
+    g "И куда мне положить свою макрель?"
 
 # game/script_jessie.rpy:7692
 translate russian ch3j_10_63fbf464:
 
     # "Jessie stands there, covered in sopping wet fur, and a snarl building."
-    ""
+    "Джесси стоит, покрытая насквозь промокшей шерстью, и рычит всё сильнее."
 
 # game/script_jessie.rpy:7693
 translate russian ch3j_10_b21c525c:
 
     # c "Aren't you going to eat them?"
-    c ""
+    c "Разве ты не собираешься её съесть?"
 
 # game/script_jessie.rpy:7695
 translate russian ch3j_10_3494cbaa:
 
     # g "Can't eat 'em all at once!"
-    g ""
+    g "Не могу же я съесть всё сразу!"
 
 # game/script_jessie.rpy:7696
 translate russian ch3j_10_45c93f39:
 
     # j "Grace! Get out!"
-    j ""
+    j "Грейс! Убирайся!"
 
 # game/script_jessie.rpy:7698
 translate russian ch3j_10_89cafdc3:
 
     # g "Marion's going to love cleaning all of this up."
-    g ""
+    g "Мэрион будет в восторге, когда будет всё это убирать."
 
 # game/script_jessie.rpy:7700
 translate russian ch3j_10_06497459:
 
     # j "Now, Grace! {i}Out!{/i}"
-    j ""
+    j "Сейчас же, Грейс! {i}Вон!{/i}"
 
 # game/script_jessie.rpy:7722
 translate russian ch3j_10_338d9d10:
 
     # "Instead, Grace saunters over to the bathtub, and empties her bucket into the tub before heading back to the open door."
-    ""
+    "Вместо этого Грейс неторопливо подходит к ванне и опорожняет в неё своё ведро, прежде чем вернуться к открытой двери."
 
 # game/script_jessie.rpy:7724
 translate russian ch3j_10_042e6453:
 
     # g "Well, don't throw the fish out with the bathwater!"
-    g ""
+    g "Только не выбрасывайте рыбу, когда будете сливать воду!"
 
 # game/script_jessie.rpy:7779
 translate russian ch3j_11_dba5fbcf:
 
     # "After our interruption, it takes a good while to calm Jessie's fury. I satiate her with some liver and cheese, and lots of scratches. We find a spot in the sun to relax and dry off."
-    ""
+    "После вмешательства Грейс требуется немало времени, чтобы утихомирить ярость Джесси. Я угощаю её печенью с сыром и большим количеством закусок. Мы находим местечко на солнце, чтобы отдохнуть и обсохнуть."
 
 # game/script_jessie.rpy:7780
 translate russian ch3j_11_cfda9653:
 
     # "We pretend the surprise visit from her sister never happened. Grace has taken a shine to Jessie's new appearance—it's one of very few things that has made life easier during this... {i}transition{/i}."
-    ""
+    "Мы притворяемся, что неожиданного визита её сестры никогда не было. Грейс очень понравилась новая внешность Джесси — это одна из немногих вещей, которые облегчили ей жизнь в этот период... {i}перехода{/i}."
 
 # game/script_jessie.rpy:7783
 translate russian ch3j_11_9c9ab8f8:
 
     # j "So, now that I'm fresh as a daisy, we need to head to Glenn's livery yard to fetch a mongrel."
-    j ""
+    j "Итак, теперь, когда я свежа, как ромашка, нам нужно отправиться на конюшню Гленна за дворняжкой."
 
 # game/script_jessie.rpy:7784
 translate russian ch3j_11_c97b0fdf:
 
     # c "Glenn's? The stable?"
-    c ""
+    c "Гленн? Конюшня?"
 
 # game/script_jessie.rpy:7786
 translate russian ch3j_11_9d084ad9:
 
     # j "Aye. Glenn's been known to have a dog or two up for barter. I'll offer up one of Marion's spring hogs. We'll just hope ol' Glenn works in future payments."
-    j ""
+    j "Ага. У Гленна, как известно, есть несколько собак для обмена. Я предложу одного из весенних поросят Мэрион. Будем надеяться, что старина Гленн заработает на будущих платежах."
 
 # game/script_jessie.rpy:7787
 translate russian ch3j_11_8b5863fb:
 
     # c "A dog. You know I was joking last night?"
-    c ""
+    c "Собака... Ты ведь понимаешь, что я пошутил прошлой ночью?"
 
 # game/script_jessie.rpy:7789
 translate russian ch3j_11_99e64c7c:
 
     # j "You... well, we... promised Marion the services of a sheepdog, and contrary to your white lies, I don't think Murdoch has a magically trained pup that can herd its neighbors' flock nightly."
-    j ""
+    j "Ты... ну, мы... обещали Мэрион услуги овчарки, и вопреки твоей невинной лжи, я не думаю, что у Мердока есть волшебно обученный щенок, который может пасти соседское стадо по ночам."
 
 # game/script_jessie.rpy:7792
 translate russian ch3j_11_9583135a:
 
     # j "Even though {i}I{/i} can be well trained."
-    j ""
+    j "Даже если {i}я{/i} смогу быть хорошо обучена."
 
 # game/script_jessie.rpy:7793
 translate russian ch3j_11_063e3a0a:
 
     # c "I bet you can..."
-    c ""
+    c "Держу пари, ты сможешь..."
 
 # game/script_jessie.rpy:7794
 translate russian ch3j_11_a8ba3090:
 
     # "I hold her chin in my hand."
-    ""
+    "Я беру её рукой за подбородок."
 
 # game/script_jessie.rpy:7795
 translate russian ch3j_11_9af5d0a2:
 
     # c "Then get my cap and boots. We're headed out."
-    c ""
+    c "Принеси мою кепи и ботинки. Мы уходим."
 
 # game/script_jessie.rpy:7805
 translate russian ch3j_11_1e85b490:
 
     # "Jessie gets on all fours, and runs into the house to gather my supplies."
-    ""
+    "Джесси встаёт на четвереньки и бежит в дом за моими вещами."
 
 # game/script_jessie.rpy:7814
 translate russian ch3j_11_95778578:
 
     # "She returns with my tam in her mouth, and two boots on her front paws."
-    ""
+    "Она возвращается с моим кепи во рту и двумя сапогами в передних лапах."
 
 # game/script_jessie.rpy:7815
 translate russian ch3j_11_33c12e26:
 
     # "She sits upright, panting, and begging for my attention."
-    ""
+    "Она садится прямо, тяжело дыша и умоляя меня обратить на неё внимание."
 
 # game/script_jessie.rpy:7834
 translate russian ch3j_11_51775988:
 
     # "I take the hat from her mouth, and give her a loving tousle upon the head."
-    ""
+    "Я вынимаю шляпу у неё изо рта и ласково треплю её по голове."
 
 # game/script_jessie.rpy:7835
 translate russian ch3j_11_9696ccb2:
 
     # c "Good girl."
-    c ""
+    c "Хорошая девочка."
 
 # game/script_jessie.rpy:7837
 translate russian ch3j_11_091dab4c:
 
     # j "Thank you, master."
-    j ""
+    j "Спасибо, хозяин."
 
 # game/script_jessie.rpy:7839
 translate russian ch3j_11_f4b23fa3:
 
     # "I nearly faint from attraction. I never knew role playing was this exciting."
-    ""
+    "Я чуть не падаю в обморок от влечения. Никогда не знал, что ролевые игры настолько увлекательны."
 
 # game/script_jessie.rpy:7840
 translate russian ch3j_11_1f5c27a8:
 
     # c "Ahem. Well... uh... yes. Let's get going."
-    c ""
+    c "Гм. Что ж... э-э... да. Давай пойдём поскорее."
 
 # game/script_jessie.rpy:7843
 translate russian ch3j_11_31bf6917:
 
     # j "So we can get home faster?"
-    j ""
+    j "Чтобы мы быстрее вернулись домой?"
 
 # game/script_jessie.rpy:7844
 translate russian ch3j_11_147d6009:
 
     # c "Yes. Yes, indeed."
-    c ""
+    c "Да. Да, верно"
 
 # game/script_jessie.rpy:7846
 translate russian ch3j_11_df0be9b3:
 
     # c "Um... aren't you forgetting something?"
-    c ""
+    c "Эм... ты ничего не забыла?"
 
 # game/script_jessie.rpy:7852
 translate russian ch3j_11_9ed614f1:
 
     # "She tilts her head, and I can't tell if she is playing or has truly forgotten."
-    ""
+    "Она наклоняет голову, и я не могу сказать, играет ли она или действительно забыла."
 
 # game/script_jessie.rpy:7853
 translate russian ch3j_11_c76d99f5:
 
     # c "Ought you wear something yourself?"
-    c ""
+    c "Может, тебе самой что-нибудь надеть?"
 
 # game/script_jessie.rpy:7855
 translate russian ch3j_11_45714c5f:
 
     # j "Me? Aw. An' I thought ya liked me in my \"fur coat!\""
-    j ""
+    j "Я? Оу. А я думала, что нравлюсь тебе в своей \"шубке\"!"
 
 # game/script_jessie.rpy:7881
 translate russian ch3j_11_c2359966:
 
     # "Somehow, I gather my wits long enough to get Jessie on the road instead of into the bedroom."
-    ""
+    "Каким-то образом я собираюсь с мыслями, и отправляюсь с Джесси в дорогу, а не в спальню."
 
 # game/script_jessie.rpy:7882
 translate russian ch3j_11_34a2eaca:
 
     # "She wears a proper outfit, and it feels unusual to see her out of her flashy red dress. I doubt it's self-consciousness at play; the dress simply still needs to be washed."
-    ""
+    "На ней подобающий наряд. Кажется необычным видеть её без кричащего красного платья. Я сомневаюсь, что дело в застенчивости: платье просто всё ещё нуждается в стирке."
 
 # game/script_jessie.rpy:7899
 translate russian ch3j_11_0db73e3e:
 
     # "Jessie doesn't let the clothes stop her from leaning into the canine side of her hybrid form. The lines between her forms are blurring more all the time."
-    ""
+    "Джесси не позволяет одежде помешать ей склониться к волчьей стороне своей гибридной формы. Границы между её формами с каждым разом становятся всё более размытыми."
 
 # game/script_jessie.rpy:7900
 translate russian ch3j_11_b8a92b10:
 
     # "I hope it means she is becoming even more comfortable. It certainly is entertaining to watch. And to participate."
-    ""
+    "Я надеюсь, это означает, что ей становится ещё комфортнее. За этим, безусловно, интересно наблюдать. И принимать участие."
 
 # game/script_jessie.rpy:7906
 translate russian ch3j_11_30ef373e:
 
     # "She bounds all around me, picking up errant sticks, and making me toss them for her to chase."
-    ""
+    "Она прыгает вокруг меня, подбирая разбросанные палочки и заставляя меня бросать их, чтобы она за ними гонялась."
 
 # game/script_jessie.rpy:7907
 translate russian ch3j_11_60e3c877:
 
     # "Is that drool on her chin? Oh, I don't even want to dwell on that."
-    ""
+    "Это слюни у нее на подбородке? О, я даже не хочу зацикливаться на этом."
 
 # game/script_jessie.rpy:7908
 translate russian ch3j_11_8262cdb5:
 
     # c "Where do you get all that energy? I'd love half of it!"
-    c ""
+    c "Откуда у тебя столько энергии? Мне бы не помешала хотя бы половина!"
 
 # game/script_jessie.rpy:7909
 translate russian ch3j_11_d293b5b2:
 
     # j "It's all inside me! I can hardly sit still anymore."
-    j ""
+    j "Это всё внутри меня! Я больше не могу усидеть на месте."
 
 # game/script_jessie.rpy:7911
 translate russian ch3j_11_84d3b031:
 
     # "The only problem arises when she struggles to get back to human."
-    ""
+    "Единственная проблема возникает, когда она пытается вернуться к человеческому облику."
 
 # game/script_jessie.rpy:7912
 translate russian ch3j_11_c051b644:
 
     # c "Jessie, you need to bottle up your fangs. At least for a short while!"
-    c ""
+    c "Джесси, тебе нужно спрятать свои клыки. По крайней мере, на короткое время!"
 
 # game/script_jessie.rpy:7913
 translate russian ch3j_11_2f0a4bd4:
 
     # j "They're not fangs! Those are my natural teeth. There's a reason they're called \"canine\" teeth, Malcolm!"
-    j ""
+    j "Это не клыки! Это мои натуральные зубы. Не зря их называют \"волчьими\", Малькольм!"
 
 # game/script_jessie.rpy:7914
 translate russian ch3j_11_3e3902c2:
 
     # c "Well, they're not going to help us with our bargaining today, that's for sure."
-    c ""
+    c "Ну, они не помогут нам в наших сегодняшних переговорах, это точно."
 
 # game/script_jessie.rpy:7915
 translate russian ch3j_11_aad8ba52:
 
     # j "Are you kidding? One flash of these babies, and we'll get whatever we want."
-    j ""
+    j "Ты шутишь? Одна проблеск этих малышей, и мы получим всё, что захотим."
 
 # game/script_jessie.rpy:7925
 translate russian ch3j_11_06615f3b:
 
     # "I take her by the hand, trying to calm her internal excitement. I don't believe it helps at all, though."
-    ""
+    "Я беру её за руку, пытаясь успокоить её внутреннее волнение. Хотя я не верю, что это вообще помогает."
 
 # game/script_jessie.rpy:7933
 translate russian ch3j_11_8a55b022:
 
     # "Jessie taps her palm to her forehead."
-    ""
+    "Джесси подводит ладонью ко лбу."
 
 # game/script_jessie.rpy:7934
 translate russian ch3j_11_e1b7e468:
 
     # j "The sheep!"
-    j ""
+    j "Овца!"
 
 # game/script_jessie.rpy:7935
 translate russian ch3j_11_4f8f554d:
 
     # c "The sheep?"
-    c ""
+    c "Овца?"
 
 # game/script_jessie.rpy:7936
 translate russian ch3j_11_2c706815:
 
     # "I try to wrack my brain. I've seen so many sheep in my life."
-    ""
+    "Я пытаюсь напрячь свой мозг. Я видел так много овец в своей жизни."
 
 # game/script_jessie.rpy:7938
 translate russian ch3j_11_07a7de42:
 
     # j "It was at Glenn's farm, you silly goose!"
-    j ""
+    j "Это было на ферме Гленна, глупый ты гусь!"
 
 # game/script_jessie.rpy:7940
 translate russian ch3j_11_a22f32d3:
 
     # "Then it hits me. I can't believe it didn't trigger my childhood memories earlier, just saying the name."
-    ""
+    "И тут до меня доходит. Я не могу поверить, что произнесённое имя не пробудило мои детские воспоминания раньше."
 
 # game/script_jessie.rpy:7941
 translate russian ch3j_11_7883fc46:
 
     # c "You convinced me you could catch a sheep with your bare hands!"
-    c ""
+    c "Ты убеждала меня, что сможешь поймать овцу голыми руками!"
 
 # game/script_jessie.rpy:7943
 translate russian ch3j_11_3b74481b:
 
     # j "I was trying to impress you! I had no idea that sheep just sit there like napping lumps."
-    j ""
+    j "Я пыталась произвести на тебя впечатление! Я понятия не имела, что овцы лишь выглядят, как дремлющие комочки."
 
 # game/script_jessie.rpy:7944
 translate russian ch3j_11_de8651e5:
 
     # c "Lo and behold, those sheep were not having it with our antics."
-    c ""
+    c "О чудо, этим овцам не понравились наши выходки."
 
 # game/script_jessie.rpy:7946
 translate russian ch3j_11_28a95240:
 
     # j "I chased them around the farm all afternoon until Farmer Glenn noticed and came out cursing and shouting. But I got that lamb, by gum!"
-    j ""
+    j "Я гонялась за ними по ферме весь день, пока фермер Гленн не заметил и не выбежал, ругаясь и крича. Но я поймала этого ягненка, клянусь жвачкой!"
 
 # game/script_jessie.rpy:7947
 translate russian ch3j_11_dc129382:
 
     # c "You stood there, frozen! Holding a bleating sheep, trying to catch your breath."
-    c ""
+    c "Ты стояла там, застыв! Держа в руках блеющую овцу и пытаясь отдышаться."
 
 # game/script_jessie.rpy:7949
 translate russian ch3j_11_435d002e:
 
     # j "I was so proud of myself! I honestly can't believe you remember that!"
-    j ""
+    j "Я так гордилась собой! Честно говоря, не могу поверить, что ты помнишь это!"
 
 # game/script_jessie.rpy:7950
 translate russian ch3j_11_0e373503:
 
     # c "Of course I do! After you dropped the sheep, we took off running. I twisted my ankle something terrible during our madcap escape. Had to tell my parents we were out playing tag."
-    c ""
+    c "Конечно помню! После того, как ты бросила овцу, мы кинулись бежать. Я ужасно подвернул лодыжку во время нашего сумасбродного побега. Пришлось сказать родителям, что мы играли в пятнашки."
 
 # game/script_jessie.rpy:7953
 translate russian ch3j_11_ec434a7a:
 
     # j "Sheep tag!"
-    j ""
+    j "Овечьи пятнашки!"
 
 # game/script_jessie.rpy:7960
 translate russian ch3j_11_c21b4bcd:
 
     # "Jessie just about doubles over from laughter."
-    ""
+    "Джесси чуть не сгибается пополам от смеха."
 
 # game/script_jessie.rpy:7961
 translate russian ch3j_11_d09e9da4:
 
     # "Reminiscing like this... it's a wonderful feeling. It puts me at such ease. With her, with myself, with my own life."
-    ""
+    "Вспоминать всё это... это чудесное чувство. Мне становится так легко. С ней, с самим собой, со своей собственной жизнью."
 
 # game/script_jessie.rpy:7962
 translate russian ch3j_11_4cc6fa9c:
 
     # "These memories aren't just nostalgic. They are carefree times. Moments I want to relive; to bury the more recent past."
-    ""
+    "Эти воспоминания не просто ностальгические. Это беззаботные времена. Моменты, которые я хочу пережить заново; чтобы похоронить более недавнее прошлое."
 
 # game/script_jessie.rpy:7964
 translate russian ch3j_11_00e6e689:
 
     # j "I can catch anything I want now!"
-    j ""
+    j "Теперь я могу поймать всё, что захочу!"
 
 # game/script_jessie.rpy:7965
 translate russian ch3j_11_1b2af967:
 
     # c "That is a fact."
-    c ""
+    c "Это факт."
 
 # game/script_jessie.rpy:7980
 translate russian ch3j_11_484fe77e:
 
     # "The timing is terrible."
-    ""
+    "Только не сейчас..."
 
 # game/script_jessie.rpy:7981
 translate russian ch3j_11_625a56df:
 
     # "Young Florrie Fairfowl comes soaring down the path to the livery, her barrel hoop and stick flying by her side."
-    ""
+    "Юная Флорри Фэйрфаул стремительно спускается по дорожке к конюшне, её обруч-бочонок и палка катятся рядом с ней."
 
 # game/script_jessie.rpy:7989
 translate russian ch3j_11_e296ea89:
 
     # "Unfortunately, Jessie's instincts kick in once again, and she starts to chase the little girl's toy. She tears off down the rocky pathway."
-    ""
+    "К сожалению, инстинкты Джесси снова срабатывают, и она начинает гоняться за игрушкой маленькой девочки. Она срывается вниз по каменистой тропинке."
 
 # game/script_jessie.rpy:7990
 translate russian ch3j_11_d2456c18:
 
     # c "Jessie! Come back!"
-    c ""
+    c "Джесси! Вернись!"
 
 # game/script_jessie.rpy:7991
 translate russian ch3j_11_457ccd5c:
 
     # "But she's at full speed. Her front paws are visible, stomping and leaping all around the child."
-    ""
+    "Но она мчится на полной скорости. Видны лишь её передние лапы, когда она топает и прыгает вокруг ребенка."
 
 # game/script_jessie.rpy:7992
 translate russian ch3j_11_e1f339d9:
 
     # f "Oh! Your toes are so pritty... and fluffy!"
-    f ""
+    f "О! Твои пальчики такие милые... и пушистые!"
 
 # game/script_jessie.rpy:8012
 translate russian ch3j_11_70727610:
 
     # "By the time I catch up, Jessie finally looks embarrassed. She also appears to have come to her senses, crouching like a real person next to the girl and her fallen hoop."
-    ""
+    "К тому времени, как я догоняю Джесси, она, наконец, выглядит смущённой. Она тоже, похоже, пришла в себя, присев на корточки, как настоящий человек, рядом с девочкой и её упавшим обручем."
 
 # game/script_jessie.rpy:8014
 translate russian ch3j_11_dd270c65:
 
     # j "Oh, they're simply gloves, Florrie!"
-    j ""
+    j "О, это просто перчатки, Флорри!"
 
 # game/script_jessie.rpy:8016
 translate russian ch3j_11_dffb341e:
 
     # f "I pet dem?"
-    f ""
+    f "Я их поглажу?"
 
 # game/script_jessie.rpy:8019
 translate russian ch3j_11_2d7f238a:
 
     # j "Oh... well... yes, if you want!"
-    j ""
+    j "О... ну... да, если хочешь!"
 
 # game/script_jessie.rpy:8044
 translate russian ch3j_11_f85ce0fd:
 
     # "Jessie lets Florrie pet her paws, then stands, and retrieves the little girl's hoop."
-    ""
+    "Джесси позволяет Флорри погладить её лапы, затем встаёт и берёт обруч маленькой девочки."
 
 # game/script_jessie.rpy:8046
 translate russian ch3j_11_30e4652e:
 
     # j "I'm sorry for interrupting your game. I hope I didn't spoil anything."
-    j ""
+    j "Извини, что прервала твою игру. Надеюсь, я ничего не испортила."
 
 # game/script_jessie.rpy:8048
 translate russian ch3j_11_f80dff55:
 
     # f "Nope. Jus' going to see my muffer at the bake-ree shoppe."
-    f ""
+    f "Неа. Плосто иду посмотлеть свою мафу в пекалной лавке."
 
 # game/script_jessie.rpy:8049
 translate russian ch3j_11_b5226639:
 
     # c "Muffer...? Ah... {i}mother{/i}!"
-    c ""
+    c "Мафу...? Ах... {i}маму{/i}!"
 
 # game/script_jessie.rpy:8052
 translate russian ch3j_11_ffb10c47:
 
     # j "Tell her you deserve the biggest fern cake. You're such a sweetheart."
-    j ""
+    j "Скажи ей, что ты заслуживаешь самого большого папоротникового кекса. Ты такая милая."
 
 # game/script_jessie.rpy:8056
 translate russian ch3j_11_f2be565f:
 
     # f "Thank you, Miss Doggie! You deserve the biggest bithkit!"
-    f ""
+    f "Спасибо, Мисс Собачка! Ты заслуживаешь самого большого бифквита!"
 
 # game/script_jessie.rpy:8058
 translate russian ch3j_11_fba18929:
 
     # j "Biscuit? Well, thank you! I will tell Mr. Malcolm here to fetch me the largest biscuit in the village!"
-    j ""
+    j "Бисквита? Что ж, спасибо! Я скажу мистеру Малькольму, чтобы он принёс мне самый большой бисквит в деревне!"
 
 # game/script_jessie.rpy:8060
 translate russian ch3j_11_80ab1cb3:
 
     # f "G'bye!"
-    f ""
+    f "Пока!"
 
 # game/script_jessie.rpy:8072
 translate russian ch3j_11_5df57fb4:
 
     # "Florrie gathers her toys and runs off down the path. I look to Jessie, wanting to chastise her for letting her guard down so... but can really only offer support."
-    ""
+    "Флорри собирает свои игрушки и убегает дальше по дороге. Я смотрю на Джесси, желая отчитать её за то, что она так ослабила бдительность... но на самом деле могу только предложить свою поддержку."
 
 # game/script_jessie.rpy:8073
 translate russian ch3j_11_65e32b2c:
 
     # c "Are you all right?"
-    c ""
+    c "С тобой всё в порядке?"
 
 # game/script_jessie.rpy:8075
 translate russian ch3j_11_a8046a31:
 
     # j "I'm so sorry... I'm not sure what got into me."
-    j ""
+    j "Прости... Не знаю, что на меня нашло."
 
 # game/script_jessie.rpy:8076
 translate russian ch3j_11_aa40c988:
 
     # c "It's okay. Nothing bad happened."
-    c ""
+    c "Всё хорошо. Ничего плохого не случилось."
 
 # game/script_jessie.rpy:8077
 translate russian ch3j_11_c0d1b2d6:
 
     # "This time, I think to myself."
-    ""
+    "В этот раз, думаю я про себя"
 
 # game/script_jessie.rpy:8078
 translate russian ch3j_11_b209ff40:
 
     # c "Let's go get you a bithkit!"
-    c ""
+    c "Пойдём купим тебе бифквит!"
 
 # game/script_jessie.rpy:8081
 translate russian ch3j_11_e7b94314:
 
     # "We try to laugh it off, but the mood has shifted. What was fun and playful now feels less than harmless. I'm not sure Mr. Glenn will believe paw pads are some type of expensive gloves."
-    ""
+    "Мы пытаемся отшутиться, но настроение изменилось. То, что было весёлым и игривым, теперь кажется менее безобидным. Я не уверен, что мистер Гленн поверит, что подушечки для лап - это что-то вроде дорогих перчаток."
 
 # game/script_jessie.rpy:8098
 translate russian ch3j_11_dde9c544:
 
     # "As we approach the livery, we both see a large bundle of wriggling puppies in a stone pen by the stables."
-    ""
+    "Когда мы подходим к ферме, мы оба видим большую связку резвящихся щенков в каменном загоне у конюшни."
 
 # game/script_jessie.rpy:8099
 translate russian ch3j_11_4e5e916d:
 
     # "Not just any puppies; {i}Welsh Corgi{/i} puppies. I suppress the urge to laugh. It's like a dozen little Sergeant Stumpies."
-    ""
+    "Не просто какие-то щенки — {i}щенки вельш-корги{/i}. Я подавляю желание рассмеяться. Это как дюжина маленьких Сержантов Стампи."
 
 # game/script_jessie.rpy:8100
 translate russian ch3j_11_dd9eb609:
 
     # "The mother spots us and starts to bark."
-    ""
+    "Мать замечает нас и начинает лаять."
 
 # game/script_jessie.rpy:8101
 translate russian ch3j_11_c4b39e52:
 
     # "Farmer Glenn is sitting by the barn doors, drinking out of a teacup. He looks up at the commotion."
-    ""
+    "Фермер Гленн сидит у дверей амбара и пьет чай. Он поднимает глаза и смотрит на причину суматохи."
 
 # game/script_jessie.rpy:8107
 translate russian ch3j_11_49d4b396:
 
     # "I wave to catch his attention, and he makes his way over to us. As if reading my thoughts, Jessie pulls her hands out of her pockets. She waves too, looking pointedly at me."
-    ""
+    "Я машу рукой, чтобы привлечь его внимание, и он направляется к нам. Словно прочитав мои мысли, Джесси вытаскивает руки из карманов. Она тоже машет, многозначительно глядя на меня."
 
 # game/script_jessie.rpy:8108
 translate russian ch3j_11_d3501a17:
 
     # "Her paws are back to hands. Thank goodness."
-    ""
+    "Её лапы снова превратились в руки. Слава богу."
 
 # game/script_jessie.rpy:8117
 translate russian ch3j_11_5f9c6179:
 
     # gl "Hullo, how goes! What brings you two out this way on such a glorious day?"
-    gl ""
+    gl "Привет, как дела! Что привело вас двоих сюда в такой чудесный день?"
 
 # game/script_jessie.rpy:8118
 translate russian ch3j_11_e11179ad:
 
     # "I look up to the clouds. Is he seeing something we don't?"
-    ""
+    "Я поднимаю взгляд к облакам. Он видит что-то, чего не видим мы?"
 
 # game/script_jessie.rpy:8121
 translate russian ch3j_11_aad0f409:
 
     # j "We're here for a dog! We'd like to get a herding dog for my sister, Marion, and her cows."
-    j ""
+    j "Мы здесь за собакой! Мы хотели бы приобрести пастушью собаку для моей сестры Мэрион и ее коров."
 
 # game/script_jessie.rpy:8122
 translate russian ch3j_11_65d13a38:
 
     # c "Yes... I noticed the corgis. Do you have anything, uh... more intelligent?"
-    c ""
+    c "Да... Я заметил корги. У вас есть кто-нибудь, э-э... поумнее?"
 
 # game/script_jessie.rpy:8123
 translate russian ch3j_11_09b73b53:
 
     # "Good old Sergeant Stumpy was a swell dog, courageous too... but none too bright."
-    ""
+    "Старый добрый Сержант Стампи был отличным псом, к тому же храбрым... но не слишком сообразительным."
 
 # game/script_jessie.rpy:8124
 translate russian ch3j_11_35d1d818:
 
     # "There was the time he mistook our coffee ration for a pile of his own scraps. I didn't think he'd ever stop zooming around chasing the trench rats. Fastest critter I'd ever seen... apart from Jessie."
-    ""
+    "Был случай, когда он принял нашу порцию кофе за кучу своего собственного корма. Я думал, что он никогда не перестанет носиться по округе, гоняясь за траншейными крысами. Самая быстрое существо, которое я когда-либо видел... кроме Джесси."
 
 # game/script_jessie.rpy:8125
 translate russian ch3j_11_e31a2d29:
 
     # c "Er. I was picturing a border collie or sheltie. Something easily trained."
-    c ""
+    c "Эм. Я представлял бордер-колли или шелти. Что-нибудь легко поддающееся дрессировке."
 
 # game/script_jessie.rpy:8126
 translate russian ch3j_11_79ed501c:
 
     # gl "Intelligent? Why these little fellas are the smartest dogs in the animal kingdom! Look at 'em."
-    gl ""
+    gl "Поумнее? Эти маленькие ребята - самые умные собаки в животном мире! Посмотри на них."
 
 # game/script_jessie.rpy:8127
 translate russian ch3j_11_661570e8:
 
     # "I do. Half are scratching their ears. The other half are asleep."
-    ""
+    "Я смотрю. Половина чешет себе за ушами. Другая половина спит."
 
 # game/script_jessie.rpy:8128
 translate russian ch3j_11_6ca1fd66:
 
     # j "They're just precious!"
-    j ""
+    j "Они просто очаровательны!"
 
 # game/script_jessie.rpy:8129
 translate russian ch3j_11_ee48752b:
 
     # "I can't argue that. And for me, they do bring to mind some of the brighter moments of a bleak time."
-    ""
+    "Я не могу с этим поспорить. И для меня они действительно служат напоминанием о некоторых ярких моментах мрачного времени."
 
 # game/script_jessie.rpy:8131
 translate russian ch3j_11_03f4da53:
 
     # c "All right. I've got hogs coming this spring. What do you say? A pig for a dog?"
-    c ""
+    c "Хорошо. Этой весной у меня появятся свиньи. Что скажете? Свинья в обмен на собаку?"
 
 # game/script_jessie.rpy:8132
 translate russian ch3j_11_6fd6d033:
 
     # gl "A pig? Mr. Campbell, that's a lopsided deal. I'll have meals for weeks. All you'll have is trouble on your hands."
-    gl ""
+    gl "Свинья? Мистер Кэмпбелл, это однобокая сделка. Я получу еды на недели. Всё, что получишь ты - это неприятности"
 
 # game/script_jessie.rpy:8138
 translate russian ch3j_11_b413d00d:
 
     # "As if on cue, the pups begin barking."
-    ""
+    "Как по команде, щенки начинают лаять."
 
 # game/script_jessie.rpy:8146
 translate russian ch3j_11_fa21d6d8:
 
     # "Jessie heads to the pen and kneels down to pet them all one by one, no doubt checking for the brightest shining star."
-    ""
+    "Джесси направляется к загону и опускается на колени, чтобы погладить их всех по очереди, без сомнения, ища самую яркую сияющую звёздочку."
 
 # game/script_jessie.rpy:8147
 translate russian ch3j_11_eccf9c5b:
 
     # gl "These pups need good homes. I'll take a side of rib chops when you're good and ready. No hurry at all. Go find your newest and hardest worker!"
-    gl ""
+    gl "Этим щенкам нужен хороший дом. Я возьму отбивные на рёбрышках, когда они будут готовы. Не торопись. Иди и найди своего самого нового и трудолюбивого работника!"
 
 # game/script_jessie.rpy:8148
 translate russian ch3j_11_6e1b5ec3:
 
     # "The puppies are excitable and energetic. One takes a quick shine to Jessie, sniffing at her feet and nipping at her ankles."
-    ""
+    "Щенки возбуждены и энергичны. Один из них быстро подбегает к Джесси, обнюхивает её ноги и покусывает за лодыжки."
 
 # game/script_jessie.rpy:8149
 translate russian ch3j_11_ffa71826:
 
     # c "Do they have names, yet?"
-    c ""
+    c "У них уже есть имена?"
 
 # game/script_jessie.rpy:8150
 translate russian ch3j_11_25eb275d:
 
     # gl "Nay. That task is left to the lucky owner."
-    gl ""
+    gl "Нет. Эта задача достанется счастливым обладателем."
 
 # game/script_jessie.rpy:8157
 translate russian ch3j_11_b46f06d3:
 
     # "Jessie holds the puppy aloft. With its fluffy, golden coat, it looks like a loaf of fur bread."
-    ""
+    "Джесси держит щенка на весу. Благодаря своей пушистой золотистой шёрстке он похож на буханку мехового хлеба."
 
 # game/script_jessie.rpy:8158
 translate russian ch3j_11_d63f1d09:
 
     # j "This is the one!"
-    j ""
+    j "Это тот самый!"
 
 # game/script_jessie.rpy:8160
 translate russian ch3j_11_c23c20af:
 
     # gl "That one?"
-    gl ""
+    gl "Вот этот?"
 
 # game/script_jessie.rpy:8161
 translate russian ch3j_11_60381b2a:
 
     # c "The lady knows her canines. If she says that's the one, then that pup is the pick of the litter."
-    c ""
+    c "Леди разбирается в собаках. Если она говорит, что это тот самый, значит, этот щенок - лучший в помёте."
 
 # game/script_jessie.rpy:8162
 translate russian ch3j_11_3af2db88:
 
     # gl "It's all yours. Should be easy to train! Set it up with the herd as soon as ye can. Its instincts will kick in in no time."
-    gl ""
+    gl "Тогда он твой. Должен легко поддаваться дрессировке! Познакомь его со стадом, как только сможешь. Его инстинкты сработают в мгновение ока."
 
 # game/script_jessie.rpy:8169
 translate russian ch3j_11_e87630bb:
 
     # "Jessie sets the dog down, and it starts chasing its own... well... it doesn't have a tail. It spins, chasing its own nub."
-    ""
+    "Джесси опускает собаку на землю, и она начинает гоняться за своей собственным... хорошо... у неё нет хвоста. Она вращается, преследуя свой собственный обрубок."
 
 # game/script_jessie.rpy:8170
 translate russian ch3j_11_1c9b3c14:
 
     # c "A real genius!"
-    c ""
+    c "Настоящий гений!"
 
 # game/script_jessie.rpy:8171
 translate russian ch3j_11_1ca8f7a6:
 
     # j "Oh, it's the cutest thing I've ever seen in my life!"
-    j ""
+    j "О, это самая милая вещь, которую я когда-либо видела в своей жизни!"
 
 # game/script_jessie.rpy:8178
 translate russian ch3j_11_eb1c88fc:
 
     # "I step into the pen to get a closer look at the little ball of fuzz. All the while, the dog galumphs along, right under Jessie's feet."
-    ""
+    "Я захожу в загон, чтобы поближе рассмотреть маленький пушистый комочек. Всё это время собака галопирует рядом, прямо под ногами Джесси."
 
 # game/script_jessie.rpy:8179
 translate russian ch3j_11_3789b90a:
 
     # c "You two seem to be quite the pair!"
-    c ""
+    c "Вы двое, кажется, отличная пара!"
 
 # game/script_jessie.rpy:8181
 translate russian ch3j_11_31777cd2:
 
     # j "I hope it bonds with Marion as much as it seems to be bonding with my ankles."
-    j ""
+    j "Я надеюсь, что он сблизит меня с Мэрион так же сильно, как он сблизился с моими лодыжками."
 
 # game/script_jessie.rpy:8186
 translate russian ch3j_11_8106970f:
 
     # "The pup nips at her lower legs, then seems to take interest in sniffing her posterior. A sight I try not to dwell on, until I notice..."
-    ""
+    "Щенок покусывает её за голени, затем, кажется, проявляет интерес к обнюхиванию её задницы. Зрелище, на котором я стараюсь не зацикливаться, пока не замечаю..."
 
 # game/script_jessie.rpy:8194
 translate russian ch3j_11_d8e117b5:
 
     # c "{i}{size=24}Your tail, Jessie! Tuck it away!{/size}{/i}"
-    c ""
+    c "{i}{size=24}Твой хвост, Джесси! Убери его!{/size}{/i}"
 
 # game/script_jessie.rpy:8201
 translate russian ch3j_11_3c19f8a8:
 
     # "I watch the appendage shrink away in the blink of an eye. I'm left wondering just how much excitement will trigger the next accidental swoosh of a tail."
-    ""
+    "Я наблюдаю, как отросток уменьшается в мгновение ока. Мне остаётся только гадать, сколько волнения вызовет следующий случайный взмах хвоста."
 
 # game/script_jessie.rpy:8216
 translate russian ch3j_11_88b70a39:
 
     # "Jessie gathers up the squirming dog, and we pay our thanks to Mr. Glenn."
-    ""
+    "Джесси поднимает извивающуюся собаку, и мы выражаем нашу благодарность мистеру Гленну."
 
 # game/script_jessie.rpy:8217
 translate russian ch3j_11_0d5822f8:
 
     # gl "'Tis no worries, Mr. Campbell and Miss MacLeod. Least I can do for a returning hero. Woulda served myself if it weren't for the leg."
-    gl ""
+    gl "Не беспокойтесь, мистер Кэмпбелл и мисс МакЛауд. Это меньшее, что я могу сделать для вернувшегося героя. Я бы сам служил тебе, если бы не нога."
 
 # game/script_jessie.rpy:8218
 translate russian ch3j_11_4ce12b96:
 
     # "He taps his left calf with his cane, and we hear the hollow sound of wood."
-    ""
+    "Он постукивает тростью по левой икре, и мы слышим глухой звук дерева."
 
 # game/script_jessie.rpy:8219
 translate russian ch3j_11_7872a4db:
 
     # j "Oh, my. I'm so sorry, Mr. Glenn."
-    j ""
+    j "О боже. Мне так жаль, мистер Гленн."
 
 # game/script_jessie.rpy:8220
 translate russian ch3j_11_44fbf634:
 
     # "I'd forgotten he lost the leg as a child."
-    ""
+    "Я и забыл, что он потерял ногу в детстве."
 
 # game/script_jessie.rpy:8221
 translate russian ch3j_11_04abddf6:
 
     # c "An honor, sir. No need to call anyone heroes 'round these parts. We've all been through enough to call each other heroes. On that, I swear."
-    c ""
+    c "Большая честь, сэр. Не нужно никого называть героями в этих краях. Мы все прошли через многое, чтобы называть друг друга героями. В этом я клянусь."
 
 # game/script_jessie.rpy:8240
 translate russian ch3j_11_bb04e726:
 
     # "I avoid further discussion of military service by taking Jessie by the arm, waving towards Glenn, and making our way back down the road towards our homes."
-    ""
+    "Я избегаю дальнейшего обсуждения военной службы, беру Джесси за руку, машу Гленну, и мы возвращаемся по дороге к нашим домам."
 
 # game/script_jessie.rpy:8261
 translate russian ch3j_11_46910abb:
 
     # "When we get back, we find Marion whistling while scrubbing dishes. The house is warm and smells like cinnamon."
-    ""
+    "Когда мы возвращаемся, то обнаруживаем, что Марион, насвистывая, моет посуду. В доме тепло и пахнет корицей."
 
 # game/script_jessie.rpy:8267
 translate russian ch3j_11_aad35dcc:
