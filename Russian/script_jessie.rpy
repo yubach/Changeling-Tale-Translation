@@ -36413,7 +36413,7 @@ translate russian ch4j_epilogue1_3ef86081:
 translate russian ch4j_epilogue1_9aeca34b:
 
     # "We've settled into our flat in the west end of the city, one much larger than I'd envisioned. Jessie's small stash of cash ended up being just the beginning of her income. Our wealth."
-    "Мы поселились в нашей квартире в западной части города, гораздо большей, чем я себе представлял. Небольшая заначка Джесси наличными оказалась только началом её дохода. Нашего богатства."
+    "Мы поселились в нашей квартире в западной части города, гораздо большей, чем я себе представлял. Небольшая заначка Джесси была лишь началом её дохода. Нашего богатства."
 
 # game/script_jessie.rpy:21192
 translate russian ch4j_epilogue1_95fe9a22:
@@ -36431,7 +36431,7 @@ translate russian ch4j_epilogue1_87c88b72:
 translate russian ch4j_epilogue1_d01b7149:
 
     # "She absorbs the world's gifts like a sponge, and wrings herself dry, soaking all those around her with the same high-spirited energy."
-    "Она впитывает дары мира, как губка, и выжимает себя досуха, пропитывая всех окружающих такой же пылкой энергией."
+    "Она впитывает дары мира, как губка, и затем выжимает себя досуха, пропитывая всех окружающих такой же пылкой энергией."
 
 # game/script_jessie.rpy:21196
 translate russian ch4j_epilogue1_c3ca90b6:
@@ -36443,7 +36443,7 @@ translate russian ch4j_epilogue1_c3ca90b6:
 translate russian ch4j_epilogue1_98dddb95:
 
     # "There are days, usually when the streets overflow with commotion, when Jessie agrees and we've both had enough noise."
-    "Бывают дни, зачастую когда улицы переполняет суета, когда Джесси соглашается, что нам обоим достаточно шума."
+    "Бывают дни, зачастую когда улицы переполнены суетой, когда даже Джесси соглашается, что нам обоим достаточно этого шума."
 
 # game/script_jessie.rpy:21204
 translate russian ch4j_epilogue1_62b4b595:
@@ -36455,7 +36455,7 @@ translate russian ch4j_epilogue1_62b4b595:
 translate russian ch4j_epilogue1_f7a42763:
 
     # "Not much has changed in quiet Ach-na-Creige. During our first return home, we avoided eye contact with anyone but close family. But now, gone are the worries of mobs and pitchforks."
-    "В тихом Ач-на-Крейге мало что изменилось. Во время нашего первого возвращения домой мы избегали зрительного контакта с кем-либо, кроме близких родственников. Но теперь исчезли опасения по поводу толпы и вил."
+    "В тихом Ач-на-Крейге мало что изменилось. Во время нашего первого возвращения домой мы избегали зрительного контакта с кем-либо, кроме близких родственников. Но теперь исчезли опасения по поводу толп и вил."
 
 # game/script_jessie.rpy:21206
 translate russian ch4j_epilogue1_66ba0335:
@@ -36467,31 +36467,31 @@ translate russian ch4j_epilogue1_66ba0335:
 translate russian ch4j_epilogue1_90a672d9:
 
     # "Gone too is Owen. Most of us are privately grateful that he chose to reenlist. The MacLeod homestead is a safer, warmer place without him."
-    "Овен тоже ушел. Большинство из нас в душе благодарны за то, что он решил вернуться на службу. Ферма МакЛаудов стала более безопасным и теплым местом без него."
+    "Овен тоже покинул городок. Большинство из нас в душе благодарны за то, что он решил вернуться на службу. Ферма МакЛаудов стала более безопасным и теплым местом без него."
 
 # game/script_jessie.rpy:21214
 translate russian ch4j_epilogue1_239a275a:
 
     # "Jessie's sisters split their time between our family's two farms. What farmwork is neglected doesn't much matter now. There is plenty of money to send home thanks to Jessie's success."
-    "Сестры Джесси делят своё время между двумя фермами нашей семьи. Сейчас не имеет большого значения, что некоторой работой на ферме пренебрегают. Благодаря успеху Джесси можно отправлять домой немало денег."
+    "Сёстры Джесси делят своё время между двумя фермами нашей семьи. Сейчас не имеет большого значения, что некоторой работой на ферме пренебрегают. Благодаря успеху Джесси можно отправлять домой немало денег."
 
 # game/script_jessie.rpy:21215
 translate russian ch4j_epilogue1_6cf0b130:
 
     # "True to her word, she never forgets our family and their welfare. All seem much more at ease now that their financial situation isn't so uncertain."
-    "Верная своему слову, она никогда не забывает о нашей семье и их благополучии. Теперь, когда их финансовое положение не такое неопределенное, все чувствуют себя намного спокойнее."
+    "Верная своему слову, она никогда не забывает о нашей семье и её благополучии. Теперь, когда финансовое положение не такое неопределенное, все чувствуют себя намного спокойнее."
 
 # game/script_jessie.rpy:21216
 translate russian ch4j_epilogue1_c85e2b57:
 
     # "Marion has even warmed up to the new arrangement, where tending to Gran and Toast has given her a sense of home, as well."
-    "Мэрион даже прониклась новым порядком, в котором забота о бабушке и Сухарике дала ей ощущение дома."
+    "Мэрион даже прониклась новым порядком. Забота о бабушке и Сухарике дала ей ощущение дома."
 
 # game/script_jessie.rpy:21217
 translate russian ch4j_epilogue1_a9d49f47:
 
     # "With Marion and Grace at her side, Gran is well supported. I've apologized profusely for abandoning her, though she tells me she doesn't see it that way, especially with the friends she has in town."
-    "От Мэрион и Грейс бабушка получает хорошую поддержку. Я искренне извинялся за то, что бросил её, хотя она говорит мне, что так не считает, особенно с друзьями, которые у неё есть в городе."
+    "От Мэрион и Грейс бабушка получает хорошую поддержку. Я искренне извинялся за то, что бросил её, хотя она говорила мне, что так не считает, особенно с друзьями, которые у неё есть в городе."
 
 # game/script_jessie.rpy:21218
 translate russian ch4j_epilogue1_6c68fa69:
@@ -36509,7 +36509,7 @@ translate russian ch4j_epilogue1_114871e1:
 translate russian ch4j_epilogue1_c670c9bb:
 
     # "He assures the locals that the Electricity Act will get it turned on by the end of the decade. What a sight that'll be."
-    "Он уверяет местных, что Закон об электрофикации позволит включить её к концу десятилетия. Какое зрелище это будет."
+    "Он уверяет местных, что закон об электрофикации позволит включить её к концу десятилетия. Какое зрелище это будет."
 
 # game/script_jessie.rpy:21227
 translate russian ch4j_epilogue1_49f1f95d:
@@ -36539,13 +36539,13 @@ translate russian ch4j_epilogue1_4d21f8e6:
 translate russian ch4j_epilogue1_534b5591:
 
     # "Grace told us everyone's favorite shows are the ones where the rabbit bites Douglas and takes off running across Balgair's piano and around the bar."
-    "Грейс сказала нам, что у всех самая любимая часть шоу — в котором кролик кусает Дугласа и сбегает, проносясь по пианино Балгайра и по всему бару."
+    "Грейс сказала нам, что самая любимая всеми часть шоу — в котором кролик кусает Дугласа и сбегает по пианино Балгайра, скача затем по всему бару."
 
 # game/script_jessie.rpy:21238
 translate russian ch4j_epilogue1_1cee3c55:
 
     # "Also according to Grace, Marion has taken a liking to him and his antics. We all quietly, eagerly hope it turns into something more."
-    "Также, по словам Грейс, Мэрион прониклась симпатией к нему и его выходкам. Мы все втайне, с нетерпением надеемся, что это перерастет во что-то большее."
+    "Также, по словам Грейс, Мэрион прониклась симпатией к нему и его выходкам. Мы все с нетерпением втайне надеемся, что это перерастет во что-то большее."
 
 # game/script_jessie.rpy:21245
 translate russian ch4j_epilogue1_3c70a862:
@@ -36557,7 +36557,7 @@ translate russian ch4j_epilogue1_3c70a862:
 translate russian ch4j_epilogue1_22c7997b:
 
     # "What with the werewolves and all, I'll have to pitch it as fiction to a publisher. But I'll know the truth. I'm not looking for fame and fortune, just for Jessie's story to be heard. Mine, too."
-    "Что касается оборотней и всего остального — мне придётся представить это издателю как художественную литературу. Но я буду знать правду. Я не ищу славы и богатства, просто хочу, чтобы история Джесси была услышана. Моя тоже."
+    "Что касается оборотней и всего остального — мне придётся представить издателю эту историю как художественную. Но я буду знать правду. Я не ищу славы и богатства, просто хочу, чтобы история Джесси была услышана. Как и моя."
 
 # game/script_jessie.rpy:21253
 translate russian ch4j_epilogue1_a2e1af1a:
@@ -36593,13 +36593,13 @@ translate russian ch4j_epilogue1_3f706698:
 translate russian ch4j_epilogue1_f00a277f:
 
     # "The only secret I keep from her is how I've been squirreling away enough money to get her an amethyst ring, one that matches her eyes."
-    "Единственный секрет, который я храню от неё, — это как я откложил достаточно денег, чтобы купить ей кольцо с аметистом, которое подходит к её глазам."
+    "Единственный секрет, который я храню от неё, — это как я отложил достаточно денег, чтобы купить ей кольцо с аметистом, которое подходит к её глазам."
 
 # game/script_jessie.rpy:21265
 translate russian ch4j_epilogue1_dddfedeb:
 
     # "I hope it will lead to marriage, but I simply want it to be a symbol of my commitment to her."
-    "Я надеюсь, что оно приведет к браку, но просто хочу, чтобы оно было символом моей преданности ей."
+    "Я хочу, чтобы кольцо было символом моей преданности ей, и немного надеюсь, что оно приведет к браку."
 
 # game/script_jessie.rpy:21274
 translate russian ch4j_epilogue1_e7302272:
@@ -36617,7 +36617,7 @@ translate russian ch4j_epilogue1_00c08ae3:
 translate russian ch4j_epilogue1_74ba6ede:
 
     # "So I say little, and assure her that whit's for us..."
-    "Поэтому я говорю немного и заверяю её, что для нас это..."
+    "Поэтому я говорю немного и заверяю её, что чему для нас быть..."
 
 # game/script_jessie.rpy:21277
 translate russian ch4j_epilogue1_9feb060b:
@@ -36953,654 +36953,654 @@ translate russian ch4j_epilogue3_3ef86081:
 translate russian ch4j_epilogue3_9aeca34b:
 
     # "We've settled into our flat in the west end of the city, one much larger than I'd envisioned. Jessie's small stash of cash ended up being just the beginning of her income. Our wealth."
-    "Мы поселились в нашей квартире в западной части города, гораздо большей, чем я себе представлял. Небольшая заначка Джесси наличными оказалась только началом её дохода. Нашего богатства."
+    "Мы поселились в нашей квартире в западной части города, гораздо большей, чем я себе представлял. Небольшая заначка Джесси была лишь началом её дохода. Нашего богатства."
 
 # game/script_jessie.rpy:21477
 translate russian ch4j_epilogue3_95fe9a22:
 
     # "She's a natural in the city, eager to poke her head around corners, on the hunt for new merchants, new wardrobe pieces, new restaurants."
-    ""
+    "Она быстро освоилась в городе, заглядывала в каждый угол в поисках новых продавцов, новых предметов гардероба, новых ресторанов."
 
 # game/script_jessie.rpy:21478
 translate russian ch4j_epilogue3_87c88b72:
 
     # "Sometimes she's out so late that I have to take myself home to get any sleep."
-    ""
+    "Иногда она задерживается настолько допоздна, что мне приходится одному тащиться домой, чтобы хоть немного поспать."
 
 # game/script_jessie.rpy:21479
 translate russian ch4j_epilogue3_d01b7149:
 
     # "She absorbs the world's gifts like a sponge, and wrings herself dry, soaking all those around her with the same high-spirited energy."
-    ""
+    "Она впитывает дары мира, как губка, и затем выжимает себя досуха, пропитывая всех окружающих такой же пылкой энергией."
 
 # game/script_jessie.rpy:21481
 translate russian ch4j_epilogue3_c3ca90b6:
 
     # "As for me? I'm getting used to city life, though I can't say I prefer it over the country."
-    ""
+    "Что касается меня? Я начинаю привыкать к городской жизни, хотя и не могу сказать, что предпочитаю её сельской."
 
 # game/script_jessie.rpy:21482
 translate russian ch4j_epilogue3_98dddb95:
 
     # "There are days, usually when the streets overflow with commotion, when Jessie agrees and we've both had enough noise."
-    ""
+    "Бывают дни, зачастую когда улицы переполняет суета, когда даже Джесси соглашается, что нам обоим достаточно этого шума."
 
 # game/script_jessie.rpy:21489
 translate russian ch4j_epilogue3_62b4b595:
 
     # "Those are the times we plan our trips back to our family. The train ride reminds us of the serenity that awaits. We watch the world go by and listen for the last whistle to signal our stop."
-    ""
+    "В такие моменты мы планируем наши поездки обратно к нашей семье. Поездка на поезде напоминает нам о безмятежности, которая нас ждёт. Мы наблюдаем за проплывающим мимо миром и ждем последнего гудка, сигнализирующего о нашей остановке."
 
 # game/script_jessie.rpy:21500
 translate russian ch4j_epilogue3_f7a42763:
 
     # "Not much has changed in quiet Ach-na-Creige. During our first return home, we avoided eye contact with anyone but close family. But now, gone are the worries of mobs and pitchforks."
-    ""
+    "В тихом Ач-на-Крейге мало что изменилось. Во время нашего первого возвращения домой мы избегали зрительного контакта с кем-либо, кроме близких родственников. Но теперь исчезли опасения по поводу толп и вил."
 
 # game/script_jessie.rpy:21501
 translate russian ch4j_epilogue3_66ba0335:
 
     # "The townspeople have become overly superstitious about the werewolf incident. Few speak of it. Even fewer want to admit what they saw."
-    ""
+    "Горожане стали чрезмерно суеверными из-за инцидента с оборотнем. Немногие говорят о нём. Ещё меньше хотят признаться в том, что они видели."
 
 # game/script_jessie.rpy:21502
 translate russian ch4j_epilogue3_90a672d9:
 
     # "Gone too is Owen. Most of us are privately grateful that he chose to reenlist. The MacLeod homestead is a safer, warmer place without him."
-    ""
+    "Овен тоже покинул городок. Большинство из нас в душе благодарны за то, что он решил вернуться на службу. Ферма МакЛаудов стала более безопасным и теплым местом без него."
 
 # game/script_jessie.rpy:21509
 translate russian ch4j_epilogue3_239a275a:
 
     # "Jessie's sisters split their time between our family's two farms. What farmwork is neglected doesn't much matter now. There is plenty of money to send home thanks to Jessie's success."
-    ""
+    "Сёстры Джесси делят своё время между двумя фермами нашей семьи. Сейчас не имеет большого значения, что некоторой работой на ферме пренебрегают. Благодаря успеху Джесси можно отправлять домой немало денег."
 
 # game/script_jessie.rpy:21510
 translate russian ch4j_epilogue3_6cf0b130:
 
     # "True to her word, she never forgets our family and their welfare. All seem much more at ease now that their financial situation isn't so uncertain."
-    ""
+    "Верная своему слову, она никогда не забывает о нашей семье и её благополучии. Теперь, когда финансовое положение не такое неопределенное, все чувствуют себя намного спокойнее."
 
 # game/script_jessie.rpy:21511
 translate russian ch4j_epilogue3_c85e2b57:
 
     # "Marion has even warmed up to the new arrangement, where tending to Gran and Toast has given her a sense of home, as well."
-    ""
+    "Мэрион даже прониклась новым порядком. Забота о бабушке и Сухарике вернула ей ощущение дома."
 
 # game/script_jessie.rpy:21512
 translate russian ch4j_epilogue3_a9d49f47:
 
     # "With Marion and Grace at her side, Gran is well supported. I've apologized profusely for abandoning her, though she tells me she doesn't see it that way, especially with the friends she has in town."
-    ""
+    "От Мэрион и Грейс бабушка получает хорошую поддержку. Я искренне извинялся за то, что бросил её, хотя она говорила мне, что так не считает, особенно с друзьями, которые у неё есть в городке."
 
 # game/script_jessie.rpy:21513
 translate russian ch4j_epilogue3_6c68fa69:
 
     # "Of course Grace is itching to come visit us as soon as possible. She seems excited for all the glitz and glamour and can't wait to see her sister perform."
-    ""
+    "Конечно, Грейс не терпится навестить нас как можно скорее. Кажется, она в восторге от всего этого блеска и гламура и не может дождаться, когда увидит выступление своей сестры."
 
 # game/script_jessie.rpy:21520
 translate russian ch4j_epilogue3_114871e1:
 
     # "And Balgair? Why, his beloved neon sign now hangs above the door to the Stag & Nanny."
-    ""
+    "А Балгайр? Ну, его обожаемая неоновая вывеска теперь висит над дверью в \"Оленя & Козу\"."
 
 # game/script_jessie.rpy:21521
 translate russian ch4j_epilogue3_c670c9bb:
 
     # "He assures the locals that the Electricity Act will get it turned on by the end of the decade. What a sight that'll be."
-    ""
+    "Он уверяет местных, что закон об электрофикации позволит включить её к концу десятилетия. Какое зрелище это будет."
 
 # game/script_jessie.rpy:21522
 translate russian ch4j_epilogue3_49f1f95d:
 
     # "That's not the only new feature at the Stag & Nanny, either. It seems another performer was waiting quietly in the wings to take over center stage."
-    ""
+    "И это не единственная новинка в \"Олене & Козе\". Похоже, другой исполнитель тихо ждал за кулисами, чтобы занять центральное место на сцене."
 
 # game/script_jessie.rpy:21529
 translate russian ch4j_epilogue3_aae04c95:
 
     # "Douglas Crannach, the town fishmonger and a firm believer in the occult, puts on quite a magic show, so we are told. Despite being only a bit older than me, he has the look of a grizzled old wizard."
-    ""
+    "Дуглас Краннах, городской торговец рыбой и убеждённый сторонник оккультизма, устраивает настоящее магическое шоу, как нам сказали. Несмотря на то, что он лишь немного старше меня, он выглядит как старый седой волшебник."
 
 # game/script_jessie.rpy:21530
 translate russian ch4j_epilogue3_744a0690:
 
     # "Magic—of a tamer variety—has become something of a hot topic in Ach-na-Creige. It's helped spurred business at the Stag & Nanny back to acceptable levels in Jessie's absence."
-    ""
+    "Магия — в более укрощённой разновидности — стала чем-то вроде горячей темы в Ач-на-Крейге. Это помогло поднять количество посетителей в \"Олене и Козе\" на приемлемый уровень в отсутствие Джесси."
 
 # game/script_jessie.rpy:21531
 translate russian ch4j_epilogue3_4d21f8e6:
 
     # "Douglas caught a rabbit at the edge of town that he pulls out of his hat nightly."
-    ""
+    "Дуглас поймал кролика на окраине города, и теперь каждый вечер достаёт его из своей шляпы."
 
 # game/script_jessie.rpy:21532
 translate russian ch4j_epilogue3_534b5591:
 
     # "Grace told us everyone's favorite shows are the ones where the rabbit bites Douglas and takes off running across Balgair's piano and around the bar."
-    ""
+    "Грейс сказала нам, что самая любимая всеми часть шоу — в котором кролик кусает Дугласа и сбегает по пианино Балгайра, скача затем по всему бару."
 
 # game/script_jessie.rpy:21533
 translate russian ch4j_epilogue3_1cee3c55:
 
     # "Also according to Grace, Marion has taken a liking to him and his antics. We all quietly, eagerly hope it turns into something more."
-    ""
+    "Также, по словам Грейс, Мэрион прониклась симпатией к Дугласу и его выходкам. Мы все с нетерпением втайне надеемся, что это перерастет во что-то большее."
 
 # game/script_jessie.rpy:21540
 translate russian ch4j_epilogue3_3c70a862:
 
     # "All good things in time. Most importantly, peace has finally returned to our lives. Jessie stays calm and I steadily work away in the loft, writing a bit of a memoir."
-    ""
+    "Всему своё время. Самое главное, что в нашу жизнь наконец-то вернулся мир. Джесси сохраняет спокойствие, а я постоянно работаю на чердаке, пишу что-то вроде мемуаров."
 
 # game/script_jessie.rpy:21541
 translate russian ch4j_epilogue3_22c7997b:
 
     # "What with the werewolves and all, I'll have to pitch it as fiction to a publisher. But I'll know the truth. I'm not looking for fame and fortune, just for Jessie's story to be heard. Mine, too."
-    ""
+    "Что касается оборотней и всего остального — мне придётся представить издателю эту историю как художественную. Но я буду знать правду. Я не ищу славы и богатства, просто хочу, чтобы история Джесси была услышана. Как и моя."
 
 # game/script_jessie.rpy:21542
 translate russian ch4j_epilogue3_375baeec:
 
     # "Jessie is living her dream. And I have found that the peace from stability and emotional support is more a dream than I ever knew existed."
-    ""
+    "Джесси воплощает в жизнь свою мечту. И я обнаружил, что покой от стабильности и эмоциональной поддержки — это мечта, которой я себе и представить не мог."
 
 # game/script_jessie.rpy:21543
 translate russian ch4j_epilogue3_3f706698:
 
     # "Gone are the days that I pray for survival. We thrive now. I wake to her smile; I fall asleep to her heartbeat. My dream lives within appreciating every day and every moment spent together."
-    ""
+    "Прошли те дни, когда я молился о выживании. Сейчас мы процветаем. Я просыпаюсь под её улыбку; я засыпаю под стук её сердца. Моя мечта живёт в том, чтобы ценить каждый день и каждое мгновение, проведённое вместе."
 
 # game/script_jessie.rpy:21546
 translate russian ch4j_epilogue3_e93dc9cd:
 
     # "She is living her dream, and always asks how I'm getting along with all the fervor and intensity of city life."
-    ""
+    "Она живет своей мечтой и всегда спрашивает, как я справляюсь со всем пылом и интенсивностью городской жизни."
 
 # game/script_jessie.rpy:21547
 translate russian ch4j_epilogue3_c1304e9d:
 
     # "I am always open and honest, and I kept telling her it would be a lie to say I wouldn't change a thing."
-    ""
+    "Я всегда открыт и честен, и я продолжаю говорить ей, что солгу, если скажу, что не желаю ничего не изменить."
 
 # game/script_jessie.rpy:21548
 translate russian ch4j_epilogue3_91bb382e:
 
     # "So I did change one thing."
-    ""
+    "И потому, я всё же изменил одну вещь."
 
 # game/script_jessie.rpy:21555
 translate russian ch4j_epilogue3_19305bc0:
 
     # "It was a difficult, but necessary decision. The evening runs, the restless slumbers and nightmares, the days I would let my mind wander and notice I had fur on my knuckles. It was too much."
-    ""
+    "Это было трудное, но необходимое решение. Вечерние пробежки, беспокойный сон и ночные кошмары, дни, когда я позволял своим мыслям блуждать и замечал шерсть на костяшках пальцев. Это было слишком."
 
 # game/script_jessie.rpy:21556
 translate russian ch4j_epilogue3_100037f2:
 
     # "I miss the phenomena I held onto as a wolf, but know it was never meant to be who I am."
-    ""
+    "Я скучаю по вещам, за которые цеплялся, будучи волком, но знаю, что мне никогда не должен был стать тем, кто я есть."
 
 # game/script_jessie.rpy:21557
 translate russian ch4j_epilogue3_c49b87d3:
 
     # "Jessie took it hard, but never blamed me. We both knew it was complicating our work and personal relationship. She offers to give me a quick scratch should I ever change my mind again, although I privately doubt it would work."
-    ""
+    "Джесси тяжело восприняла это, но никогда не винила меня. Мы оба знали, что это осложняло нашу работу и личные отношения. Она предлагает мне дать себя царапнуть, если я когда-нибудь снова передумаю, хотя в глубине души я сомневаюсь, что это сработает."
 
 # game/script_jessie.rpy:21558
 translate russian ch4j_epilogue3_19456d22:
 
     # "No one's life is perfect, but I would argue mine is the closest it can be. We speak frequently about what the future holds. Her next dream is to romp beneath the lights of the Eiffel Tower. Mine is to see the South Pacific."
-    ""
+    "Ничья жизнь не идеальна, но я бы сказал, что моя ближе всего к этому. Мы часто говорим о том, что ждёт нас в будущем. Её следующая мечта - порезвиться под огнями Эйфелевой башни. Моя - увидеть южную часть Тихого океана."
 
 # game/script_jessie.rpy:21559
 translate russian ch4j_epilogue3_f00a277f:
 
     # "The only secret I keep from her is how I've been squirreling away enough money to get her an amethyst ring, one that matches her eyes."
-    ""
+    "Единственный секрет, который я храню от неё, — это как я отложил достаточно денег, чтобы купить ей кольцо с аметистом, которое подходит к её глазам."
 
 # game/script_jessie.rpy:21560
 translate russian ch4j_epilogue3_dddfedeb:
 
     # "I hope it will lead to marriage, but I simply want it to be a symbol of my commitment to her."
-    ""
+    "Я хочу, чтобы кольцо было символом моей преданности ей, и немного надеюсь, что оно приведет к браку."
 
 # game/script_jessie.rpy:21569
 translate russian ch4j_epilogue3_e7b82ce2:
 
     # "On nights we go deeper into our wine bottles, Jessie will talk again about me being a wolf, about how she is quite sure I'll go back."
-    ""
+    "Вечерами, когда мы глубже погружаемся в наши бокалы вина, Джесси снова говорит о том, что я волк, о том, что она совершенно уверена, что я вернусь."
 
 # game/script_jessie.rpy:21570
 translate russian ch4j_epilogue3_22553e5c:
 
     # "The wolf is waiting to make its way out, she says."
-    ""
+    "Она говорит, что волк только и ждёт, чтобы выбраться наружу."
 
 # game/script_jessie.rpy:21571
 translate russian ch4j_epilogue3_f037b3c5:
 
     # "I'm unsure about that. I want her to be happy. But I'm also keen on keeping myself happy."
-    ""
+    "Я не уверен в этом. Я хочу, чтобы она была счастлива. Но я также заинтересован в том, чтобы быть счастливым самому."
 
 # game/script_jessie.rpy:21572
 translate russian ch4j_epilogue3_74ba6ede:
 
     # "So I say little, and assure her that whit's for us..."
-    ""
+    "Поэтому я говорю мало и заверяю её, что чему для нас быть..."
 
 # game/script_jessie.rpy:21573
 translate russian ch4j_epilogue3_9feb060b:
 
     # "Well, we all know the rest."
-    ""
+    "Что ж, остальное мы все знаем."
 
 # game/script_jessie.rpy:21576
 translate russian ch4j_epilogue3_99a3e288:
 
     # "Well... our evening excitement doesn't hurt, either."
-    ""
+    "Ну и... наше вечернее возбуждение тоже этому не вредит."
 
 # game/script_jessie.rpy:21583
 translate russian ch4j_epilogue3_babf4ef6:
 
     # "On Jessie's nights off, when the full moon shines, we play. My ability to transform is strengthened by her presence, but I do try it alone occasionally."
-    ""
+    "В выходные ночи Джесси, когда светит полная луна, мы играем. Её присутствие усиливает мою способность перевоплощаться, но иногда я пробую это делать и в одиночку."
 
 # game/script_jessie.rpy:21584
 translate russian ch4j_epilogue3_6cccb583:
 
     # "That's usually when I end up with my ears—what's left of them—flopping around, or my tail not growing long enough."
-    ""
+    "Обычно это заканчивается лишь болтающимися ушами — точнее тем, что от них осталось, или немного выросшим хвостом."
 
 # game/script_jessie.rpy:21585
 translate russian ch4j_epilogue3_c1ca85d2:
 
     # "But it's all fine by me. Anything that used to terrify me about changing is now what drives me to keep doing it."
-    ""
+    "Но меня всё устраивает. Всё, что раньше пугало меня в перевоплощении, теперь заставляет продолжать это делать."
 
 # game/script_jessie.rpy:21586
 translate russian ch4j_epilogue3_4e700504:
 
     # "The warm, blood-boiling sensation in my veins, the deftness of my limbs, the sights and sounds and smells. It's all amazing."
-    ""
+    "Ощущение тепла, от которого кровь закипает в моих венах, ловкость моих конечностей, зрение, звуки и запахи. Всё это потрясающе."
 
 # game/script_jessie.rpy:21593
 translate russian ch4j_epilogue3_7541ebe2:
 
     # "At night, we run the streets, artfully dodging the seedier crowds, and head to the empty spaces we can find. Under streetlamps, we create long shadows. Far from the city, we make love."
-    ""
+    "Ночью мы бежим по улицам, искусно уворачиваясь от оживлённых улиц, и направляемся на безлюдные, которые можем найти. Под уличными фонарями мы создаём длинные тени. Вдали от города мы занимаемся любовью."
 
 # game/script_jessie.rpy:21594
 translate russian ch4j_epilogue3_7808279c:
 
     # "We speak openly and honestly about what the future holds. Her next dream is to romp beneath the lights of the Eiffel Tower. Mine is to dig in the sand on some beach in the South Pacific."
-    ""
+    "Мы открыто и честно говорим о том, что ждет нас в будущем. Её следующая мечта — резвиться под огнями Эйфелевой башни. Моя - копаться в песке на каком-нибудь пляже в южной части Тихого океана."
 
 # game/script_jessie.rpy:21595
 translate russian ch4j_epilogue3_f00a277f_1:
 
     # "The only secret I keep from her is how I've been squirreling away enough money to get her an amethyst ring, one that matches her eyes."
-    ""
+    "Единственный секрет, который я храню от неё, — это как я отложил достаточно денег, чтобы купить ей кольцо с аметистом, которое подходит к её глазам."
 
 # game/script_jessie.rpy:21596
 translate russian ch4j_epilogue3_dddfedeb_1:
 
     # "I hope it will lead to marriage, but I simply want it to be a symbol of my commitment to her."
-    ""
+    "Я хочу, чтобы кольцо было символом моей преданности ей, и немного надеюсь, что оно приведет к браку."
 
 # game/script_jessie.rpy:21605
 translate russian ch4j_epilogue3_965aadce:
 
     # "On nights when we go deeply into our wine bottles, Jessie will tipsily talk about what it would be like to incorporate her secret into her act, or to start a family, complete with wee werepups."
-    ""
+    "Вечерами, когда мы углубляемся в наши бокалы вина, Джесси, подвыпив, рассказывает о том, каково было бы включить свой секрет в выступление или создать семью с маленькими щенками."
 
 # game/script_jessie.rpy:21606
 translate russian ch4j_epilogue3_6729fa85:
 
     # "These visions seem as much a wild dream as anything previous in our lives. But they also seem possible. Anything could happen! After all, whit's for us..."
-    ""
+    "Эти видения кажутся таким же диким сном, как и всё предыдущее в нашей жизни. Но они также кажутся возможными. Всё может случиться! В конце концов, чему для нас быть..."
 
 # game/script_jessie.rpy:21607
 translate russian ch4j_epilogue3_9feb060b_1:
 
     # "Well, we all know the rest."
-    ""
+    "Что ж, остальное мы все знаем."
 
 translate russian strings:
 
     # game/script_jessie.rpy:2597
     old "{image=iconjsmall}\nChapter 3-1: Rehearsal"
-    new ""
+    new "Репетиция"
 
     # game/script_jessie.rpy:2606
     old "Chapter 3\n{size=40}A Sheep in Wolf's Clothing{/size}"
-    new ""
+    new "Глава 3\n{size=40}Овечка в Волчьей Шкуре{/size}"
 
     # game/script_jessie.rpy:3459
     old "{image=iconjsmall}\nChapter 3-2: The Modern Woman"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-2: Современная Женщина"
 
     # game/script_jessie.rpy:3512
     old "Keep mum."
-    new ""
+    new "Хранить молчание."
 
     # game/script_jessie.rpy:3512
     old "Tell the truth."
-    new ""
+    new "Сказать правду."
 
     # game/script_jessie.rpy:3796
     old "{image=iconjsmall}\nChapter 3-3: Impressionable Youth"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-3: Впечатлительный Юноша"
 
     # game/script_jessie.rpy:4200
     old "Gran ought to see Jessie in her element."
-    new ""
+    new "Бабушке следовало бы увидеть Джесси в её стихии."
 
     # game/script_jessie.rpy:4200
     old "It's probably best to leave it alone."
-    new ""
+    new "Пожалуй, лучше оставить эту тему."
 
     # game/script_jessie.rpy:4358
     old "{image=iconjsmall}\nChapter 3-4: Night on the Town"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-4: Ночь в Городе"
 
     # game/script_jessie.rpy:4883
     old "Tonight was special."
-    new ""
+    new "Сегодняшняя ночь была особенной."
 
     # game/script_jessie.rpy:5059
     old "{image=iconjsmall}\nChapter 3-5: The Moon Beckons"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-5: Зов Луны"
 
     # game/script_jessie.rpy:5454
     old "Whistle."
-    new ""
+    new "Свистнуть."
 
     # game/script_jessie.rpy:5454
     old "Clap."
-    new ""
+    new "Похлопать."
 
     # game/script_jessie.rpy:5454
     old "Call her name."
-    new ""
+    new "Позвать её по имени."
 
     # game/script_jessie.rpy:5599
     old "{image=iconjsmall}\nChapter 3-6: Under the Stars"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-6: Под Звёздами"
 
     # game/script_jessie.rpy:6039
     old "{image=iconjsmall}\nChapter 3-7: Gran's Care"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-7: Бабушкина Забота"
 
     # game/script_jessie.rpy:6214
     old "{image=iconjsmall}\nChapter 3-8: Here and Now"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-8: Здесь и Сейчас"
 
     # game/script_jessie.rpy:6382
     old "{image=iconjsmall}\nChapter 3-9: Stirring Up the Nest"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-9: Разворошить Гнездо"
 
     # game/script_jessie.rpy:6911
     old "Stand up for Jessie."
-    new ""
+    new "Заступиться за Джесси."
 
     # game/script_jessie.rpy:6911
     old "Change the subject."
-    new ""
+    new "Сменить тему."
 
     # game/script_jessie.rpy:7257
     old "{image=iconjsmall}\nChapter 3-10: Bathtime"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-10: Банное время"
 
     # game/script_jessie.rpy:7768
     old "{image=iconjsmall}\nChapter 3-11: Toast"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-11: Сухарик"
 
     # game/script_jessie.rpy:8596
     old "{image=iconjsmall}\nChapter 3-12: Gran's Revelation"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-12: Бабушкино Откровение"
 
     # game/script_jessie.rpy:9047
     old "Try to calm the situation."
-    new ""
+    new "Попробовать разрядить обстановку."
 
     # game/script_jessie.rpy:9047
     old "Question Agnes."
-    new ""
+    new "Спросить Агнес."
 
     # game/script_jessie.rpy:9215
     old "{image=iconjsmall}\nChapter 3-13: Gran's Blessing"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-13: Бабушкино благословение"
 
     # game/script_jessie.rpy:9378
     old "{image=iconjsmall}\nChapter 3-14: What the Future May Hold"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-14: Что Будущее Нам Готовит"
 
     # game/script_jessie.rpy:9542
     old "Let it go."
-    new ""
+    new "Согласиться с ней."
 
     # game/script_jessie.rpy:9689
     old "{image=iconjsmall}\nChapter 3-15: Jessie's Big Break"
-    new ""
+    new "{image=iconjsmall}\nГлава 3-15: Звёздный Час Джесси"
 
     # game/script_jessie.rpy:10267
     old "It simply isn't possible for everyone's dreams to come true."
-    new ""
+    new "Просто невозможно, чтобы мечты каждого человека сбылись."
 
     # game/script_jessie.rpy:10272
     old "My dreams were never enough to overcome my fate."
-    new ""
+    new "Моих мечтаний всегда было недостаточно, чтобы преодолеть мою судьбу."
 
     # game/script_jessie.rpy:10274
     old "Especially when someone else's dreams outshone mine, dimming my hope and vision."
-    new ""
+    new "Особенно когда чьи-то мечты затмевают мои, затуманивают мою надежду и взор."
 
     # game/script_jessie.rpy:10277
     old "I couldn't outwit destiny with my imagination."
-    new ""
+    new "Я не могу перехитрить судьбу своим воображением."
 
     # game/script_jessie.rpy:10279
     old "When my fantasies grew to be at odds with reality, how quickly everything fell apart."
-    new ""
+    new "Когда мои фантазии начали расходиться с реальностью, как быстро всё развалилось."
 
     # game/script_jessie.rpy:10283
     old "Or perhaps I just never dreamt hard enough."
-    new ""
+    new "Или, возможно, я просто никогда не мечтала достаточно усердно."
 
     # game/script_jessie.rpy:10296
     old "{image=iconjsmall}\nChapter 4-1: Hair of the Dog"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-1: Собачья шерсть"
 
     # game/script_jessie.rpy:10305
     old "Chapter 4\n{size=40}Escape{/size}"
-    new ""
+    new "Глава 4\n{size=40}Побег{/size}"
 
     # game/script_jessie.rpy:11000
     old "{image=iconjsmall}\nChapter 4-2: Two of a Kind"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-2: Двое в Своём Роде"
 
     # game/script_jessie.rpy:11119
     old "Let go."
-    new ""
+    new "Отпустить"
 
     # game/script_jessie.rpy:11119
     old "Try to remember."
-    new ""
+    new "Пытаться вспомнить"
 
     # game/script_jessie.rpy:11249
     old "And wild they stayed."
-    new ""
+    new "И дикими они остались"
 
     # game/script_jessie.rpy:11252
     old "Much like myself, they traversed the darker paths, the quieter routes. Night was their time."
-    new ""
+    new "Как и я, они выбирали более тёмные тропы, более тихие маршруты. Ночь была их временем."
 
     # game/script_jessie.rpy:11254
     old "Unlike me, they had someone. Each other."
-    new ""
+    new "В отличие от меня, они были не одиноки. Они были друг у друга."
 
     # game/script_jessie.rpy:11256
     old "I am, and have never been, part of their world. Part of that elusive existence of both fear and contentment, of happiness with pain."
-    new ""
+    new "Я не являюсь и никогда не являлась частью их мира. Частью этого неуловимого существования, состоящего одновременно из страха и удовольствия, счастья и боли."
 
     # game/script_jessie.rpy:11258
     old "I am but alone, free to roam at will, but ne'er to share my soul with another."
-    new ""
+    new "Я одинока, вольна бродить по своему желанию, и никогда не разделю свою душу с другим."
 
     # game/script_jessie.rpy:11382
     old "It's incredible."
-    new ""
+    new "Это невероятно."
 
     # game/script_jessie.rpy:11382
     old "It's bewildering."
-    new ""
+    new "Это сбивает с толку."
 
     # game/script_jessie.rpy:11393
     old "It's terrifying."
-    new ""
+    new "Это пугает."
 
     # game/script_jessie.rpy:11492
     old "Return to human."
-    new ""
+    new "Вернуть человеческий облик."
 
     # game/script_jessie.rpy:11492
     old "Go along for the ride."
-    new ""
+    new "Пойти на прогулку."
 
     # game/script_jessie.rpy:12366
     old "Think of my love for Jessie."
-    new ""
+    new "Думать о моей любви к Джесси."
 
     # game/script_jessie.rpy:12366
     old "Think of my responsibility to Gran."
-    new ""
+    new "Думать о моей ответственностью перед бабушкой"
 
     # game/script_jessie.rpy:12366
     old "Think of my desire to return to human."
-    new ""
+    new "Думать о моём желании вернуться к человеческому облику."
 
     # game/script_jessie.rpy:12893
     old "{image=iconjsmall}\nChapter 4-3: Rescue Mission"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-3: Спасательная Миссия"
 
     # game/script_jessie.rpy:12934
     old "Sneak around them."
-    new ""
+    new "Прокрасться мимо них."
 
     # game/script_jessie.rpy:12934
     old "Distract them."
-    new ""
+    new "Отвлечь их."
 
     # game/script_jessie.rpy:12934
     old "Scare them."
-    new ""
+    new "Напугать их."
 
     # game/script_jessie.rpy:12934
     old "Act natural."
-    new ""
+    new "Вести себя естественно."
 
     # game/script_jessie.rpy:13273
     old "{image=iconjsmall}\nChapter 4-4: A Solution"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-4: Решение"
 
     # game/script_jessie.rpy:13821
     old "{image=iconjsmall}\nChapter 4-5: A Wolf Walks into a Bar"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-5: Волк Заходит в Бар"
 
     # game/script_jessie.rpy:14144
     old "{image=iconjsmall}\nChapter 4-6: On the Scent"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-6: По Следу"
 
     # game/script_jessie.rpy:14626
     old "{image=iconjsmall}\nChapter 4-7: Standoff"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-7: Противостояние"
 
     # game/script_jessie.rpy:14830
     old "Hunting the wolf."
-    new ""
+    new "Охочусь на волка."
 
     # game/script_jessie.rpy:14830
     old "Taking a stroll."
-    new ""
+    new "Вышел прогуляться."
 
     # game/script_jessie.rpy:14874
     old "Balgair."
-    new ""
+    new "Балгайр."
 
     # game/script_jessie.rpy:14874
     old "Agnes."
-    new ""
+    new "Агнес."
 
     # game/script_jessie.rpy:14874
     old "No one."
-    new ""
+    new "Никого."
 
     # game/script_jessie.rpy:16052
     old "Take the antidote."
-    new ""
+    new "Принять противоядие."
 
     # game/script_jessie.rpy:16052
     old "Do something reckless."
-    new ""
+    new "Сделать что-нибудь безрассудное."
 
     # game/script_jessie.rpy:16903
     old "Leave immediately."
-    new ""
+    new "Уйти немедленно."
 
     # game/script_jessie.rpy:16903
     old "Collect Owen's photo."
-    new ""
+    new "Подобрать фотографию Овена"
 
     # game/script_jessie.rpy:17104
     old "{image=iconjsmall}\nChapter 4-8: Farewell"
-    new ""
+    new "{image=iconjsmall}\nChapter 4-8: Прощание"
 
     # game/script_jessie.rpy:17181
     old "The antidote."
-    new ""
+    new "Противоядие."
 
     # game/script_jessie.rpy:17181
     old "Walter's card."
-    new ""
+    new "Визитка Уолтера"
 
     # game/script_jessie.rpy:19042
     old "{image=iconjsmall}\nChapter 4-9: Fork in the Road"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-9: Развилка дорог"
 
     # game/script_jessie.rpy:19208
     old "We're married."
-    new ""
+    new "Мы женаты"
 
     # game/script_jessie.rpy:19208
     old "We're good friends."
-    new ""
+    new "Мы хорошие друзья."
 
     # game/script_jessie.rpy:19208
     old "Pop the question."
-    new ""
+    new "Сделать предложение."
 
     # game/script_jessie.rpy:19258
     old "{image=iconjsmall}\nChapter 4-10: All Aboard"
-    new ""
+    new "{image=iconjsmall}\nГлава 4-10: Все на борт"
 
     # game/script_jessie.rpy:21126
     old "Where the wind blew, I went. Through quiet storms and loud silence."
-    new ""
+    new "Куда дул ветер я шла. Сквозь тихие бури и громкую тишину."
 
     # game/script_jessie.rpy:21129
     old "Almost nothing made sense, just peculiar sounds, turns of phrase, and voices that were a wee bit familiar."
-    new ""
+    new "Почти ничего не имело смысла, лишь странные звуки, обороты фраз и голоса, которые были отдалённо знакомы."
 
     # game/script_jessie.rpy:21131
     old "Never did I see all that could have been there for me."
-    new ""
+    new "Никогда я не видела того, что могло бы быть здесь для меня"
 
     # game/script_jessie.rpy:21135
     old "Off I flew in solitude, dreaming of what once was and perhaps could be again."
-    new ""
+    new "Улетела я в одиночестве, мечтая о том, что когда-то было и, возможно, могло бы быть снова."
 
     # game/script_jessie.rpy:21138
     old "I dreamt of love, but not as how I knew it... only as how it would never be again."
-    new "Я мечтала о любви, но не о той, что я знала... лишь о той, что никогда не вернётся."
+    new "Я мечтала о любви, но не о той, что знала... лишь о той, что никогда не случиться снова."
