@@ -4,157 +4,157 @@
 translate russian ch2m_01_3599ebae:
 
     # "A week passes, but not a day goes by without me seeing Marion. I feel a responsibility to check in on her regularly, now that her sister has left town."
-    ""
+    "Прошла неделя, но не проходило и дня, чтобы я не виделся с Мэрион. Я чувствую себя обязанным регулярно навещать её теперь, когда её сестра уехала из города."
 
 # game/script_marion.rpy:33
 translate russian ch2m_01_168628fc:
 
     # "In the mornings I stop by with breakfast biscuits or a daily newspaper, or just about anything I can think of that she or Grace might need."
-    ""
+    "По утрам я заглядываю к ней с печеньем на завтрак или ежедневной газетой, или просто со тем, что, как мне кажется, может понадобиться ей или Грейс."
 
 # game/script_marion.rpy:34
 translate russian ch2m_01_bd14c9bd:
 
     # "Sometimes Marion and I only speak briefly, a hello or thank you. Other times she has longer moments to spare to chat about her day and mine. But mostly, we keep busy with work at home."
-    ""
+    "Иногда мы с Мэрион лишь перекидываемся парой фраз, здороваемся или благодарим друг друга. В других случаях у неё есть больше свободного времени, чтобы поболтать о своём дне и моем. Но в основном мы заняты работой по хозяйству."
 
 # game/script_marion.rpy:35
 translate russian ch2m_01_35daa40a:
 
     # "While she seems to have recovered from the initial shock of Jessie's departure, times are still tough. Marion has redoubled her efforts on the farm."
-    ""
+    "Хотя она, кажется, оправилась от первоначального шока, вызванного отъездом Джесси, времена по-прежнему тяжёлые. Мэрион удвоила свои усилия на ферме."
 
 # game/script_marion.rpy:36
 translate russian ch2m_01_23fbef77:
 
     # "Whether the extra hard work is a necessity or simply a necessary distraction, I cannot say."
-    ""
+    "Является ли эта сверхтяжёлая работа сама по себе необходимостью или необходима лишь чтобы отвлечься, я не могу сказать."
 
 # game/script_marion.rpy:37
 translate russian ch2m_01_c559400e:
 
     # "All I know is that I miss those evenings when we could simply talk, free from all responsibilities. Oh, how I'd love to share another meal together soon."
-    ""
+    "Всё, что я знаю, это то, что я скучаю по тем вечерам, когда мы можем просто поговорить, свободные от всех обязанностей. О, как бы я хотел поскорее разделить с ней ещё один ужин."
 
 # game/script_marion.rpy:39
 translate russian ch2m_01_a20cefa7:
 
     # "..."
-    ""
+    "..."
 
 # game/script_marion.rpy:40
 translate russian ch2m_01_efb1a434:
 
     # "I suppose I could just ask, but I'd hate to pressure her to take time away from her routine."
-    ""
+    "Наверное, я мог бы просто спросить, но мне бы не хотелось давить на неё, отвлекать от её рутины."
 
 # game/script_marion.rpy:41
 translate russian ch2m_01_a5fda4a1:
 
     # "At least, that is what I tell myself. Otherwise, I would have to face the truth that... perhaps we're now more than just neighbors. More than just friends."
-    ""
+    "По крайней мере, так я себе говорю. Иначе мне пришлось бы взглянуть правде в глаза и увидеть, что... возможно, мы теперь больше, чем просто соседи. Больше, чем просто друзья."
 
 # game/script_marion.rpy:42
 translate russian ch2m_01_cf58fd33:
 
     # "That after every visit, I think more fondly of Marion. What if I get hurt, or worse, hurt this woman who is becoming dear to my heart?"
-    ""
+    "Что после каждого визита я думаю о Мэрион со всё большей нежностью. Что, если мне будет больно или, что ещё хуже, будет больно этой девушке, которая становится так дорога моему сердцу?"
 
 # game/script_marion.rpy:56
 translate russian ch2m_01_da62fc9f:
 
     # "Eventually, my grandmother takes notice of my strange behavior. At lunch one day, she voices her thoughts."
-    ""
+    "В конце концов, моя бабушка замечает моё странное поведение. Однажды за обедом она озвучивает свои мысли."
 
 # game/script_marion.rpy:58
 translate russian ch2m_01_55ca9d54:
 
     # s "You've seemed nervous these past few days, Malcolm. Is everything alright?"
-    s ""
+    s "Последние несколько дней ты, кажется, нервничаешь, Малкольм. Всё в порядке?"
 
 # game/script_marion.rpy:59
 translate russian ch2m_01_f6f16163:
 
     # c "Uh, yes."
-    c ""
+    c "Эм, да."
 
 # game/script_marion.rpy:60
 translate russian ch2m_01_ad9a6273:
 
     # "I shift in my seat, knowing I'm terrible at lying. Gran saves me the trouble of having to need a cover story."
-    ""
+    "Я ёрзаю на стуле, зная, что врать не умею. Бабушка избавляет меня от необходимости придумывать историю для оправдания."
 
 # game/script_marion.rpy:62
 translate russian ch2m_01_5bc6c7c7:
 
     # s "You two are sweet together."
-    s ""
+    s "Вы так мило выглядите вместе."
 
 # game/script_marion.rpy:63
 translate russian ch2m_01_df72d121:
 
     # c "What's that?"
-    c ""
+    c "Ты о чём?"
 
 # game/script_marion.rpy:65
 translate russian ch2m_01_8ee0d5a4:
 
     # s "You and Marion. I see you dote on her. You make a dear couple."
-    s ""
+    s "Ты и Мэрион. Я вижу, ты в ней души не чаешь. Из вас получилась прекрасная пара."
 
 # game/script_marion.rpy:66
 translate russian ch2m_01_82db23ac:
 
     # "Leave it to Gran to be a dining table matchmaker."
-    ""
+    "Предоставь бабушке быть свахой за обеденным столом."
 
 # game/script_marion.rpy:67
 translate russian ch2m_01_79b2c915:
 
     # c "I—I'm not entirely sure that's, uh... what we are?"
-    c ""
+    c "Я... Я не совсем уверен, что это, эм... то, кем мы являемся?"
 
 # game/script_marion.rpy:69
 translate russian ch2m_01_22960f8a:
 
     # s "Then you ought to try harder. To become a dear couple."
-    s ""
+    s "Тогда тебе следует стараться усерднее. Чтобы вы стали прекрасной парой."
 
 # game/script_marion.rpy:70
 translate russian ch2m_01_9971f65f:
 
     # c "Ha! I imagine some of that would be her decision, Gran."
-    c ""
+    c "Ха! Я полагаю, что отчасти это должно быть её решением, бабушка."
 
 # game/script_marion.rpy:72
 translate russian ch2m_01_4092afd0:
 
     # s "No need. Most times a woman makes her mind up first. Then the man realizes what the woman has decided. And he accepts it."
-    s ""
+    s "В большинстве случаев женщина принимает решение первой. Затем мужчина понимает, что решила женщина. И он принимает это."
 
 # game/script_marion.rpy:73
 translate russian ch2m_01_d1c20ddd:
 
     # c "And Marion has made up her mind?"
-    c ""
+    c "И Мэрион приняла решение?"
 
 # game/script_marion.rpy:75
 translate russian ch2m_01_9c727c8a:
 
     # s "And yours. I've seen the way you look at her. More importantly, I see the way she looks at you. She's keen on you. Taken to your heart and kindness."
-    s ""
+    s "Как и ты. Я видела, как ты смотришь на неё. Что более важно, я вижу, как она смотрит на тебя. Она увлечена тобой. Тронута твоим сердцем и добротой."
 
 # game/script_marion.rpy:76
 translate russian ch2m_01_681f59e5:
 
     # s "I see strength in you both! You ought to make sure she is happy."
-    s ""
+    s "Я вижу силу в вас обоих! Ты должен убедиться, что она счастлива."
 
 # game/script_marion.rpy:77
 translate russian ch2m_01_7f272f06:
 
     # c "I trust that you're offering sage advice, and not giving me undue hope."
-    c ""
+    c "Я верю, что ты даёшь мудрый совет, а не вселяешь в меня неоправданных надежд."
 
 # game/script_marion.rpy:79
 translate russian ch2m_01_a7c769d8:
@@ -33871,4 +33871,3 @@ translate russian strings:
     # game/script_marion.rpy:19727
     old "And memories now scurry furiously through my head\nlike squirrels collecting their food for winter."
     new ""
-
