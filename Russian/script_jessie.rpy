@@ -37583,7 +37583,7 @@ translate russian strings:
 
     # game/script_jessie.rpy:19258
     old "{image=iconjsmall}\nChapter 4-10: All Aboard"
-    new "{image=iconjsmall}\nГлава 4-10: Все на борт"
+    new "{image=iconjsmall}\nГлава 4-10: Все на Борт"
 
     # game/script_jessie.rpy:21126
     old "Where the wind blew, I went. Through quiet storms and loud silence."
@@ -37599,8 +37599,8 @@ translate russian strings:
 
     # game/script_jessie.rpy:21135
     old "Off I flew in solitude, dreaming of what once was and perhaps could be again."
-    new "Улетела я в одиночестве, мечтая о том, что когда-то было и, возможно, могло бы быть снова."
+    new "Улетела я в одиночестве, мечтая о том, что было когда-то и, возможно, могло бы быть снова."
 
     # game/script_jessie.rpy:21138
     old "I dreamt of love, but not as how I knew it... only as how it would never be again."
-    new "Я мечтала о любви, но не о той, что знала... лишь о той, что никогда не случиться снова."
+    new "Я мечтала о любви, но не о той, что знала... лишь о той, что никогда не случится снова."
