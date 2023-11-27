@@ -2236,823 +2236,823 @@ translate russian ch2m_05_888a7e18:
 translate russian ch2m_05_2d1f4539:
 
     # "My tenseness eases, and I don't have the heart to hold it against her."
-    ""
+    "Моё напряжение ослабевает, и у меня не хватает духу злиться на неё."
 
 # game/script_marion.rpy:1328
 translate russian ch2m_05_0bd91b9e:
 
     # c "Don't fret. It's enough to know that I am welcomed among old friends and acquaintances."
-    c ""
+    c "Не волнуйся. Достаточно знать, что мне рады среди старых друзей и знакомых."
 
 # game/script_marion.rpy:1330
 translate russian ch2m_05_021dedce:
 
     # a "And family too, I hope. How has your grandmother been? Is she here today?"
-    a ""
+    a "И семьи тоже, я надеюсь. Как поживает твоя бабушка? Она сегодня здесь?"
 
 # game/script_marion.rpy:1331
 translate russian ch2m_05_7fd44a5c:
 
     # c "She would have loved to come, but Sunday service is her only outing for the week. Anything more does tire her greatly, these days."
-    c ""
+    c "Она бы с удовольствием пришла, но воскресная служба — ее единственный выход в свет на неделе. Иные прогулки её сильно утомляют в последнее время."
 
 # game/script_marion.rpy:1332
 translate russian ch2m_05_f783f9ce:
 
     # c "Thank you for asking, though. I'll give her your best. Or you can tell her yourself, next Sunday."
-    c ""
+    c "Спасибо, что спросила. Я передам ей твои наилучшие пожелания. Или ты можешь сказать ей это сама, в следующее воскресенье."
 
 # game/script_marion.rpy:1334
 translate russian ch2m_05_931724e2:
 
     # a "Oh, I don't make it to the church in town very often. I just came today to help look after the children."
-    a ""
+    a "О, я нечасто бываю в городской церкви. Я и сегодня пришла только для того, чтобы помочь присмотреть за детьми."
 
 # game/script_marion.rpy:1338
 translate russian ch2m_05_49ae87f7:
 
     # c "I appreciate your concern, but I'm still confused as to what prompted it."
-    c ""
+    c "Я ценю твою заботу, но я всё ещё не понимаю, что всё это значило."
 
 # game/script_marion.rpy:1340
 translate russian ch2m_05_1d8b1aa6:
 
     # a "And for that, I'm sorry as well. But I'm afraid there's not much more I can say."
-    a ""
+    a "И за это я тоже прошу прощения. Но, боюсь, больше я ничего не могу сказать."
 
 # game/script_marion.rpy:1341
 translate russian ch2m_05_51a06b16:
 
     # "And back to her mysterious side, she withdraws. Come to think of it, I don't even remember seeing her in the pews previously."
-    ""
+    "И, возвращаясь к своей таинственной стороне, она уходит в себя. Если подумать, я даже не помню, чтобы видел её когда-нибудь на церковной скамье."
 
 # game/script_marion.rpy:1342
 translate russian ch2m_05_ca8adfef:
 
     # c "I see. So... what brings you to the church picnic today? Are you here as part of the congregation, or...?"
-    c ""
+    c "Понятно. Итак... что привело тебя сегодня на церковный пикник? Ты здесь как одна из прихожан или...?"
 
 # game/script_marion.rpy:1344
 translate russian ch2m_05_af3167bb:
 
     # a "I offered to help look after the children."
-    a ""
+    a "Я предложила помочь присмотреть за детьми."
 
 # game/script_marion.rpy:1350
 translate russian ch2m_05_3cdb5348:
 
     # "One look toward poor \"Wondrous Walter\" shows just what a hopeless task that is. The kids swarm around his penny-farthing like angry Sopwiths about a Zeppelin."
-    ""
+    "Один взгляд на бедного \"Чудесного Уолтера\" показывает, насколько это безнадежная задача. Дети роятся вокруг его пенни-фартинга, как разъяренные истребители вокруг дирижабля."
 
 # game/script_marion.rpy:1351
 translate russian ch2m_05_0bd5d5d9:
 
     # "They duck and dive perilously close to his machine. It's only a matter of time before someone is shot down."
-    ""
+    "Они пригибаются и ныряют в опасной близости от его механизма. Это только вопрос времени, когда кого-нибудь собьют."
 
 # game/script_marion.rpy:1354
 translate russian ch2m_05_c78bd89c:
 
     # a "Children!"
-    a ""
+    a "Дети!"
 
 # game/script_marion.rpy:1363
 translate russian ch2m_05_769597d1:
 
     # "Alana's call isn't loud, but the kids seem to hear it nonetheless. At once, they become quiet and snap to attention. My back straightens as I instinctively do the same."
-    ""
+    "Крик Аланы негромкий, но дети, кажется, всё равно его слышат. Они сразу же замолкают и вытягиваются по стойке смирно. Моя спина выпрямляется, когда я инстинктивно делаю то же самое."
 
 # game/script_marion.rpy:1365
 translate russian ch2m_05_1446f0a8:
 
     # a "Behave."
-    a ""
+    a "Ведите себя прилично!"
 
 # game/script_marion.rpy:1367
 translate russian ch2m_05_d9febc7c:
 
     # "And like that, the children abort their mission, buzzing off to find new quarry. Alana seems to have powers that would make any schoolmarm jealous."
-    ""
+    "И вот так дети прерывают свою миссию, отправляясь на поиски новой добычи. Алана, кажется, обладает способностями, которым позавидовала бы любая школьная учительница."
 
 # game/script_marion.rpy:1368
 translate russian ch2m_05_35923a42:
 
     # c "Impressive. Still putting your schoolhouse skills to good use?"
-    c ""
+    c "Впечатляет. Всё ещё находишь хорошее применение своим навыкам школьного учителя?"
 
 # game/script_marion.rpy:1370
 translate russian ch2m_05_4b82f986:
 
     # a "Aye. And this class is a fair share more obedient than your own."
-    a ""
+    a "Да. И этот класс намного более послушен, чем был твой."
 
 # game/script_marion.rpy:1371
 translate russian ch2m_05_4d6447f3:
 
     # "Hmph. A bit of healthy disobedience never hurt anyone... except for the occasional ruler to the backside. Nonetheless, I choose to take it as a compliment."
-    ""
+    "Хмм. Немного здорового непослушания никогда никому не повредит... не считая редких ударов линейкой по заднице. Всё же, я предпочту воспринимать это как комплимент."
 
 # game/script_marion.rpy:1372
 translate russian ch2m_05_2531bf05:
 
     # c "Your students? Still teaching the youth of Ach-na-Creige, then?"
-    c ""
+    c "Твои ученики? Значит, всё ещё обучаешь молодежь Ач-на-Крейге?"
 
 # game/script_marion.rpy:1374
 translate russian ch2m_05_4b0df312:
 
     # a "You didn't think you'd driven me into retirement, did you? No, I'll keep teaching this town's little troublemakers as long as I have to."
-    a ""
+    a "Ты же не думал, что смог отправить меня на пенсию, не так ли? Нет, я буду продолжать учить маленьких нарушителей спокойствия этого города столько, сколько потребуется."
 
 # game/script_marion.rpy:1376
 translate russian ch2m_05_e2c24a33:
 
     # "I can see the moment Alana's face drops. Marion has come up beside me, to offer me a cold ginger tonic."
-    ""
+    "Я вижу, как лицо Аланы мрачнеет. Мэрион подходит ко мне, чтобы предложить холодный имбирный тоник."
 
 # game/script_marion.rpy:1379
 translate russian ch2m_05_6467d0da:
 
     # m "Miss Alana! How are you? You look lovely today."
-    m ""
+    m "Мисс Алана! Как дела? Ты сегодня прекрасно выглядишь."
 
 # game/script_marion.rpy:1380
 translate russian ch2m_05_23ac0152:
 
     # a "Thank you, Marion."
-    a ""
+    a "Спасибо, Мэрион."
 
 # game/script_marion.rpy:1381
 translate russian ch2m_05_2e7e21e6:
 
     # "While Alana's still smiling, there's an icy tone to her voice. She looks back and forth between Marion and me."
-    ""
+    "Хотя Алана всё ещё улыбается, в её голосе слышатся ледяные нотки. Она переводит взгляд с Мэрион на меня и обратно."
 
 # game/script_marion.rpy:1382
 translate russian ch2m_05_bf3ccaed:
 
     # "I can tell she's displeased to see the two of us in such close proximity after voicing her warnings to me not long back."
-    ""
+    "Могу предположить, что она недовольна видеть нас двоих в такой непосредственной близости после её недавнего предупреждения."
 
 # game/script_marion.rpy:1384
 translate russian ch2m_05_e55ac09b:
 
     # a "So, you two are... here together?"
-    a ""
+    a "Итак, вы... пришли вдвоём?"
 
 # game/script_marion.rpy:1385
 translate russian ch2m_05_386c9e91:
 
     # "Marion is quick to save the situation, obviously as uncomfortable as I am, though most likely unaware that Alana's question is more of an accusation."
-    ""
+    "Мэрион быстро спасает ситуацию. Очевидно, ей так же неуютно, как и мне, хотя, скорее всего, она не осознает, что вопрос Аланы больше похож на обвинение."
 
 # game/script_marion.rpy:1387
 translate russian ch2m_05_50c823f3:
 
     # m "Malcolm was kind enough to bring his horse by, so I didn't have to lug my large basket all this way."
-    m ""
+    m "Малкольм был достаточно любезен, чтобы одолжить свою лошадь, так что мне не пришлось тащить свою большую корзину всю дорогу."
 
 # game/script_marion.rpy:1389
 translate russian ch2m_05_f26ad090:
 
     # a "Don't you have your own horse?"
-    a ""
+    a "Разве у тебя нет своей лошади?"
 
 # game/script_marion.rpy:1390
 translate russian ch2m_05_081a0a18:
 
     # "Curt and aggressive as ever. I nearly choke on my ginger tonic."
-    ""
+    "Резко и агрессивно, как и всегда. Я чуть не подавился своим имбирным тоником."
 
 # game/script_marion.rpy:1391
 translate russian ch2m_05_890b5879:
 
     # c "She does, yes. I... uh, thought it best not to aggravate her horse further. It's been injured of late."
-    c ""
+    c "Да, у неё есть. Я... э-э, подумал, что лучше не тревожить её лошадь. В последнее время она выглядит болезнено."
 
 # game/script_marion.rpy:1393
 translate russian ch2m_05_ec346513:
 
     # "I'm sure I turned red at the lie, though when I look to Marion, she seemed undisturbed by my tall tale."
-    ""
+    "Уверен, что покраснел от этой лжи, хотя Мэрион, судя по виду, кажется, ничуть не смутилась от моей небылицы."
 
 # game/script_marion.rpy:1395
 translate russian ch2m_05_2eff2244:
 
     # a "What's wrong with it?"
-    a ""
+    a "Что с ней случилось?"
 
 # game/script_marion.rpy:1396
 translate russian ch2m_05_689664ed:
 
     # "It asks too many questions, I want to say."
-    ""
+    "Она задает слишком много вопросов, хочу я сказать."
 
 # game/script_marion.rpy:1398
 translate russian ch2m_05_aef82278:
 
     # m "I believe it's a stress injury. Overcompensating on one side. With rest, he'll be fine."
-    m ""
+    m "Я думаю, это болезнь от стресса. Перетрудилась. После отдыха с ней всё будет в порядке."
 
 # game/script_marion.rpy:1399
 translate russian ch2m_05_072ca2c0:
 
     # "Marion looks to me with big eyes, as if to confirm our story. I'm not sure why she's covering for my lie, but I certainly appreciate it."
-    ""
+    "Мэрион смотрит на меня большими глазами, как будто просит подтвердить нашу историю. Я точно не знаю, почему она покрывает мою ложь, но я, безусловно, ценю это."
 
 # game/script_marion.rpy:1400
 translate russian ch2m_05_ea12d3ed:
 
     # c "Aye. The poor horse still has the gumption, just not the drive."
-    c ""
+    c "Да. У бедной лошади всё ещё здоровый дух, но не хватает драйва."
 
 # game/script_marion.rpy:1408
 translate russian ch2m_05_602f0017:
 
     # b "Ahoy, good friends and neighbors!"
-    b ""
+    b "Хэй, добрые друзья и соседи!"
 
 # game/script_marion.rpy:1409
 translate russian ch2m_05_61ed0dce:
 
     # "As heavenly as Moses parting the Red Sea, Balgair barges into our social huddle, plate in hand. He presents it with great enthusiasm."
-    ""
+    "Словно святой Моисей, раздвигающий Красное море, Балгайр вклинивается в нашу компанию с тарелкой в руке. Он преподносит её с большим энтузиазмом."
 
 # game/script_marion.rpy:1411
 translate russian ch2m_05_7e233057:
 
     # b "Miss Alana, I don't believe you've had one of my beer-battered haggis balls, yet!"
-    b ""
+    b "Мисс Алана, не могу поверить, что вы ещё не отведали ни одного моего пивного шарика хаггис!"
 
 # game/script_marion.rpy:1414
 translate russian ch2m_05_3c93310d:
 
     # "Alana expression goes from skeptical to horrified, instantly. I believe he may have distracted her attention fully."
-    ""
+    "Выражение лица Аланы мгновенно меняется от скептического к испуганному. Полагаю, он смог полностью отвлечь её внимание."
 
 # game/script_marion.rpy:1416
 translate russian ch2m_05_19d69fa6:
 
     # a "Ah, the children seem to be unleashing a colony of ants upon the desserts. Please excuse me."
-    a ""
+    a "Ах, дети, кажется, натравливают колонию муравьев на десерты. Прошу меня извинить."
 
 # game/script_marion.rpy:1422
 translate russian ch2m_05_de0881f6:
 
     # "Alana makes her escape, without bidding anyone a fair day. Balgair watches after her, grinning."
-    ""
+    "Алана убегает, не попрощавшись. Балгайр, ухмыляясь, смотрит ей вслед."
 
 # game/script_marion.rpy:1432
 translate russian ch2m_05_76a85f15:
 
     # c "I daresay we owe you."
-    c ""
+    c "Осмелюсь сказать, мы у тебя в долгу."
 
 # game/script_marion.rpy:1434
 translate russian ch2m_05_979a1f4e:
 
     # b "Eh?"
-    b ""
+    b "А?"
 
 # game/script_marion.rpy:1435
 translate russian ch2m_05_c0a6ef5f:
 
     # c "For saving us, just then."
-    c ""
+    c "За то, что спас нас только что."
 
 # game/script_marion.rpy:1437
 translate russian ch2m_05_5dda5117:
 
     # b "Ah, lad, mah pleasure, though not mah intent. Just trying to see that these don't go to waste like last year. And the year before. And the year 'afore that."
-    b ""
+    b "Ах, парень, рад помочь, хотя и не намеривался. Просто пытаюсь проследить, чтобы закуска не пропала даром, как в прошлом году. И в позапрошлом. И за год до позапрошлого."
 
 # game/script_marion.rpy:1438
 translate russian ch2m_05_22d3652a:
 
     # "It's very clearly eating at him. The plate is still full, and my nose wrinkles at the scent. I look to Marion."
-    ""
+    "Это явно гложет его. Тарелка всё ещё полна, а мой нос морщится от запаха. Я смотрю на Мэрион."
 
 # game/script_marion.rpy:1440
 translate russian ch2m_05_d8acb95b:
 
     # m "My stomach has been very delicate of late, but thank you, Balgair."
-    m ""
+    m "В последнее время у меня очень чувствительный желудок, но спасибо за предложение, Балгайр."
 
 # game/script_marion.rpy:1451
 translate russian ch2m_05_ae8985d5:
 
     # b "That leaves you, my boy! Well?"
-    b ""
+    b "Остаешься только ты, мой мальчик! Ну?"
 
 # game/script_marion.rpy:1457
 translate russian ch2m_05_feddf415:
 
     # "I take a ball in my hand, rolling its greasy surface a bit between my fingers. Ugh."
-    ""
+    "Я беру шарик в руку, немного перекатывая его жирную поверхность между пальцами. Фу."
 
 # game/script_marion.rpy:1459
 translate russian ch2m_05_1682b9e3:
 
     # b "That's it! Eat up!"
-    b ""
+    b "Вот так! Ешь скорее!"
 
 # game/script_marion.rpy:1460
 translate russian ch2m_05_9dfa7156:
 
     # "The wind kicks up, and it calls to mind the sound of a trench whistle. In one swift motion, I pop the ball whole into my mouth. Gagging, I swallow."
-    ""
+    "Поднимается ветер, напоминающий звук траншейного свистка. Одним быстрым движением я засовываю шарик целиком в рот. Давясь, я его проглатываю."
 
 # game/script_marion.rpy:1463
 translate russian ch2m_05_bfe222a6:
 
     # "My, if the whole of a garbage heap was compressed into a palm-sized ball, battered, and fried... it would still taste better than Balgair's balls."
-    ""
+    "Ух, если бы целую кучу мусора спрессовать в шарик размером с ладонь, взбить и обжарить... это всё равно было бы вкуснее, чем шарики Балгайра."
 
 # game/script_marion.rpy:1465
 translate russian ch2m_05_3832a2a9:
 
     # b "Attaboy! A pair of those would make a true Scot out of even an Englishman."
-    b ""
+    b "Молодец, парень! Пара этих шаров даже из англичанина сделала бы настоящего шотландца."
 
 # game/script_marion.rpy:1468
 translate russian ch2m_05_7366dc8e:
 
     # c "Sorry, I'm... tryin' to watch my weight."
-    c ""
+    c "Извини, я... пытаюсь следить за своим весом"
 
 # game/script_marion.rpy:1470
 translate russian ch2m_05_24fe275b:
 
     # b "Are ye sure m'boy? They're my grandpappy's recipe!"
-    b ""
+    b "Ты уверен, мой мальчик? Это рецепт моего дедушки!"
 
 # game/script_marion.rpy:1471
 translate russian ch2m_05_4cbd2d36:
 
     # c "No, but thank you."
-    c ""
+    c "Уверен, но всё равно спасибо."
 
 # game/script_marion.rpy:1473
 translate russian ch2m_05_09ea56d5:
 
     # b "Ah, well... more for me!"
-    b ""
+    b "Ах, ну м ладно... мне же больше достанется!"
 
 # game/script_marion.rpy:1476
 translate russian ch2m_05_23edb6ad:
 
     # "He takes three whole balls, wads them into his mouth, and nearly swallows them whole. I feel queasy."
-    ""
+    "Он берёт целых три шарика, кладёт их в рот и проглатывает почти целиком. Меня подташнивает."
 
 # game/script_marion.rpy:1477
 translate russian ch2m_05_5b1163d3:
 
     # c "Would you excuse me a moment?"
-    c ""
+    c "Я отойду на минутку?"
 
 # game/script_marion.rpy:1486
 translate russian ch2m_05_2e3e26c6:
 
     # "I shuffle away from the table—and the offending plate—to get some fresh air, lest I start wretching."
-    ""
+    "Я отхожу от стола — и от этой ужасной тарелки — подышать свежим воздухом, пока мне не стало совсем плохо."
 
 # game/script_marion.rpy:1487
 translate russian ch2m_05_d6795e0d:
 
     # "The feeling passes quickly enough, but I linger, enjoying the break from the crowds. A moment later, Marion joins me."
-    ""
+    "Тошнота проходит достаточно быстро, но я задерживаюсь, наслаждаясь отдыхом от толпы. Мгновение спустя Мэрион присоединяется ко мне."
 
 # game/script_marion.rpy:1494
 translate russian ch2m_05_2d85290c:
 
     # m "You're a brave fellow, Mr. Campbell!"
-    m ""
+    m "Ты храбрый парень, Мистер Кэмпбелл!"
 
 # game/script_marion.rpy:1495
 translate russian ch2m_05_f6dd0088:
 
     # c "My own delicate stomach will repay me later."
-    c ""
+    c "Мой собственный слабый желудок отплатит мне позже."
 
 # game/script_marion.rpy:1499
 translate russian ch2m_05_44ae4792:
 
     # m "Everything well?"
-    m ""
+    m "Всё хорошо?"
 
 # game/script_marion.rpy:1500
 translate russian ch2m_05_ccc5c712:
 
     # c "Better than if I had eaten one of Balgair's haggis balls, for certain."
-    c ""
+    c "Могло быть и хуже, если бы я съел один из этих шариков Балгайра."
 
 # game/script_marion.rpy:1503
 translate russian ch2m_05_6e817e84:
 
     # "Marion laughs. She seems much less jittery now, but she still fidgets with her head covering and her skirt."
-    ""
+    "Мэрион смеётся. Сейчас она кажется гораздо менее нервной, хоть всё ещё и теребит свой головной убор и юбку."
 
 # game/script_marion.rpy:1504
 translate russian ch2m_05_bc8a0c58:
 
     # c "How are you holding up, now?"
-    c ""
+    c "А ты как держишься?"
 
 # game/script_marion.rpy:1506
 translate russian ch2m_05_bc2fe20e:
 
     # m "A bit better, I suppose. It definitely has helped take my mind off... things."
-    m ""
+    m "Немного лучше, полагаю. Это определённо помогло мне отвлечься от... всякого."
 
 # game/script_marion.rpy:1507
 translate russian ch2m_05_4820ea1d:
 
     # c "Good! Good. And, your horse—he {i}is{/i} all right, isn't he?"
-    c ""
+    c "Отлично! Хорошо. И с твоей лошадью — с ней всё в порядке, не так ли?"
 
 # game/script_marion.rpy:1509
 translate russian ch2m_05_610131fc:
 
     # "She laughs again, shaking her head."
-    ""
+    "Она снова смеётся, качая головой."
 
 # game/script_marion.rpy:1510
 translate russian ch2m_05_cc9b81e8:
 
     # m "Of course! I know how... odd... Alana can be. It looked like you needed help, so I followed your lead."
-    m ""
+    m "Конечно! Я знаю, какой... странной... Алана может быть. Похоже, тебе нужна была помощь, поэтому я решила тебе подыграть."
 
 # game/script_marion.rpy:1511
 translate russian ch2m_05_f0ffa1a8:
 
     # c "I guess I should thank you... thank you for enabling my lies."
-    c ""
+    c "Думаю, я должен поблагодарить тебя... спасибо за то, что помогла мне солгать."
 
 # game/script_marion.rpy:1513
 translate russian ch2m_05_46b3b8da:
 
     # m "Hey now. I can't be a perfect role model for you rascals {i}all{/i} the time."
-    m ""
+    m "Послушай. Я же не могу быть идеальным образцом для подражания для вас, негодяев, {i}всё{/i} время."
 
 # game/script_marion.rpy:1515
 translate russian ch2m_05_e12cbdcd:
 
     # "We trade conspiratorial winks, and I reach out to take her hand in mine—when a little scamp screeches to a halt in between us."
-    ""
+    "Мы заговорщицки подмигиваем друг другу, и я протягиваю руку, чтобы взять её ладонь, когда маленькая шалунья с визгом врывается между нами."
 
 # game/script_marion.rpy:1519
 translate russian ch2m_05_3e847dcf:
 
     # m "Oh! Hello Florrie. Take care where you're hastening to, now."
-    m ""
+    m "Ох! Привет, Флорри. Осторожнее, куда спешишь."
 
 # game/script_marion.rpy:1521
 translate russian ch2m_05_c182eb5d:
 
     # "The child nods vigorously. I'm amazed how Marion seems to know everyone in town, even down to the wee ones."
-    ""
+    "Ребёнок энергично кивает. Я поражена тем, что Мэрион, кажется, знает всех в городе, даже самых маленьких."
 
 # game/script_marion.rpy:1523
 translate russian ch2m_05_022f3bd6:
 
     # f "Hullo Miss Marion an' Mister... not-Marion. Wan' sum space kek?"
-    f ""
+    f "Здрафтфуйте, мисс Мэрион и мифтер... не-Мэрион. Хофите кофмический кекф?"
 
 # game/script_marion.rpy:1524
 translate russian ch2m_05_91c53eae:
 
     # "Space cake? For a moment I wonder if H.G. Wells contributed a dessert to the picnic."
-    ""
+    "Космический кекс? На мгновение я задаюсь вопросом, не Герберт Ли Уэллс приготовил десерты для пикника."
 
 # game/script_marion.rpy:1526
 translate russian ch2m_05_2a7dc360:
 
     # "Then Florrie produces a frosted wad of dessert from her pocket, and I recognize—barely—the remains of Gran's spice cake."
-    ""
+    "Затем Флорри достает из кармана покрытый глазурью кусочек десерта, и я с трудом узнаю остатки бабушкиного пряного торта."
 
 # game/script_marion.rpy:1528
 translate russian ch2m_05_34a1839e:
 
     # m "Ooooh... thank you?"
-    m ""
+    m "Ээээм... спасибо?"
 
 # game/script_marion.rpy:1530
 translate russian ch2m_05_d3809ab9:
 
     # "Marion and I exchange a glance as she takes the lint-covered gift. Florrie smiles, and says something unintelligible to adult ears."
-    ""
+    "Мы с Мэрион обмениваемся взглядами, когда она берёт подарок, покрытый катышками. Флорри улыбается и говорит что-то неразборчивое для взрослых ушей."
 
 # game/script_marion.rpy:1531
 translate russian ch2m_05_4be64fd6:
 
     # c "Heh. Gran will be thrilled to know her dessert was such a hit with the kids."
-    c ""
+    c "Хех. Бабушка будет в восторге, узнав, что её десерт пользовался таким успехом у детей."
 
 # game/script_marion.rpy:1533
 translate russian ch2m_05_9e0635ce:
 
     # m "I, um, will save this for later, Florrie. Dessert comes {i}after{/i} the... the..."
-    m ""
+    m "Я, эм, оставлю его на потом, Флорри. Десерт подается {i}после{/i}...эм..."
 
 # game/script_marion.rpy:1538
 translate russian ch2m_05_d606c6b2:
 
     # m "Oh! OH, NO!"
-    m ""
+    m "О! О, НЕТ!"
 
 # game/script_marion.rpy:1539
 translate russian ch2m_05_6a853f68:
 
     # "That's not lint on the frosting. Little black dots begin to crawl indiscriminately from the cake to Marion's hand. So Alana wasn't kidding about the ants, after all..."
-    ""
+    "Это не катышки на глазури. Маленькие чёрные точки начинают беспорядочно переползать с торта на руку Мэрион. Значит, Алана всё-таки не шутила насчёт муравьёв..."
 
 # game/script_marion.rpy:1549
 translate russian ch2m_05_3709bd20:
 
     # "Marion sends the glob flying, and dances a wild jig that would give even her flapper sister a run for her money."
-    ""
+    "Мэрион отправляет шарик в полет и танцует дикую джигу, повторить которую даже её сестре-флапперше станет серьёзным испытанием."
 
 # game/script_marion.rpy:1550
 translate russian ch2m_05_eef936f6:
 
     # m "Get off me, get off me, waaaaaah!"
-    m ""
+    m "Слезьте с меня, слезьте с меня, ааааааа!"
 
 # game/script_marion.rpy:1570
 translate russian ch2m_05_83e53353:
 
     # "...What in the world?"
-    ""
+    "..Что за чертовщина?"
 
 # game/script_marion.rpy:1571
 translate russian ch2m_05_a0f688a6:
 
     # c "Marion, what is—?"
-    c ""
+    c "Мэрион, что..."
 
 # game/script_marion.rpy:1582
 translate russian ch2m_05_6644ffc6:
 
     # "She dives over the wall and down the hillside, speeding away from the picnic as fast as the wind will take her."
-    ""
+    "Она перелезает через ограду и мчится по склону холма, удаляясь от пикника так быстро, как только позволяет ветер."
 
 # game/script_marion.rpy:1583
 translate russian ch2m_05_9e5ed4ef:
 
     # "I rub my eyes, not sure I believe what I see."
-    ""
+    "Я протираю глаза, не уверенный, что верю тому, что вижу."
 
 # game/script_marion.rpy:1586
 translate russian ch2m_05_eb7111b2:
 
     # f "Miss Marion look funny. Hey, Mister, can I haf tail too?"
-    f ""
+    f "Мисс Мэрион выглядит забафно. Эй, мифтер, мофно мне тоже хфостик?"
 
 # game/script_marion.rpy:1593
 translate russian ch2m_05_e2566841:
 
     # c "Don't be ridiculous, lass. Marion doesn't have a tail."
-    c ""
+    c "Не говори глупости, девочка. У Мэрион нет хвоста."
 
 # game/script_marion.rpy:1605
 translate russian ch2m_05_1de6efc3:
 
     # "Although that's certainly what it looked like. I glance left and right."
-    ""
+    "Хотя, безусловно, именно хвостом это и выглядело. Я бросаю взгляд налево и направо."
 
 # game/script_marion.rpy:1606
 translate russian ch2m_05_5b5ed37e:
 
     # "The elderly women of the Whist club are still deep in conversation. Murdoch seems to have given up on them and is now intent on sampling every hors d'oeuvre."
-    ""
+    "Пожилые дамы из клуба Виста всё ещё увлечены беседой. Мердок, похоже, махнул на них рукой и теперь намерен попробовать все закуски."
 
 # game/script_marion.rpy:1607
 translate russian ch2m_05_0a912266:
 
     # "Everyone else is further up the hill. No one but the child and I seem to have witnessed the scene."
-    ""
+    "Все остальные расположились выше по склону. Похоже, никто, кроме ребёнка и меня, не был свидетелем этой сцены."
 
 # game/script_marion.rpy:1608
 translate russian ch2m_05_9e49231f:
 
     # c "Why don't you go back and play with your friends. Malcolm needs to have a talk with Miss Marion."
-    c ""
+    c "Почему бы тебе не вернуться и не поиграть со своими друзьями. Малькольму нужно поговорить с мисс Мэрион."
 
 # game/script_marion.rpy:1609
 translate russian ch2m_05_b7338cae:
 
     # "I hop the wall and give chase."
-    ""
+    "Я перепрыгиваю через ограду и бросаюсь в погоню."
 
 # game/script_marion.rpy:1635
 translate russian ch2m_06_42187cbf:
 
     # c "Marion! Please, wait for me!"
-    c ""
+    c "Марион! Пожалуйста, подожди меня!"
 
 # game/script_marion.rpy:1636
 translate russian ch2m_06_dc31be2e:
 
     # "She tears down the path away from town, desperately tugging at her kerchief and skirt. A tuft of hair at her hem refuses to be contained, and it swings back and forth."
-    ""
+    "Она мчится по тропинке прочь от города, отчаянно теребя свой платок и юбку. Выбившийся из-под подола пучок волос отказывается успокаиваться и раскачивается взад-вперёд."
 
 # game/script_marion.rpy:1637
 translate russian ch2m_06_d94766dc:
 
     # "It's difficult to keep pace, but I finally catch up as she ducks behind a small berm. She struggles to catch her breath."
-    ""
+    "За ней трудно угнаться, но я, наконец, догоняю её, когда она ныряет за небольшую насыпь. Мэрион с трудом пытается отдышаться."
 
 # game/script_marion.rpy:1642
 translate russian ch2m_06_01a93953:
 
     # c "Marion, I—"
-    c ""
+    c "Мэрион, Я..."
 
 # game/script_marion.rpy:1644
 translate russian ch2m_06_7d8397bd:
 
     # m "I have to show you something. Please, please, {i}please{/i} don't run away!"
-    m ""
+    m "Я должна тебе кое-что показать. Пожалуйста, пожалуйста, {i}пожалуйста{/i} не убегай!"
 
 # game/script_marion.rpy:1645
 translate russian ch2m_06_62d0071b:
 
     # c "You're worrying me. I don't want you to run off, either!"
-    c ""
+    c "Ты меня беспокоишь. Я тоже не хочу, чтобы ты убегала!"
 
 # game/script_marion.rpy:1646
 translate russian ch2m_06_ba9cfa4c:
 
     # "Marion is panting as she slowly and deliberately lifts the loose kerchief she's been playing with all day."
-    ""
+    "Тяжело дыша, Мэрион медленно и осторожно приподнимает платок, с которым возилась весь день."
 
 # game/script_marion.rpy:1652
 translate russian ch2m_06_d472b1bc:
 
     # "Then I see them."
-    ""
+    "И тогда я вижу их."
 
 # game/script_marion.rpy:1653
 translate russian ch2m_06_8475e721:
 
     # c "Horns?"
-    c ""
+    c "Рога?"
 
 # game/script_marion.rpy:1655
 translate russian ch2m_06_5edb22b6:
 
     # m "{i}And ears!{/i}"
-    m ""
+    m "{i}И уши!{/i}"
 
 # game/script_marion.rpy:1656
 translate russian ch2m_06_7b51754b:
 
     # "Gone are Marion's petite human ears. Right before my eyes sit two fuzzy brown cow-shaped ears jutting from the sides of her head."
-    ""
+    "Исчезли маленькие человеческие ушки Мэрион. Прямо перед моими глазами два пушистых коричневых коровьих ушка, торчащих по бокам её головы."
 
 # game/script_marion.rpy:1658
 translate russian ch2m_06_48bfa05e:
 
     # "Nubby horns sit in between the ears, just like a common shorthorn heifer. All I can do is laugh out loud."
-    ""
+    "Бугристые рожки торчат между ушами, как у обычной короткошёрстной тёлки. Всё, что я могу сделать, это громко рассмеяться."
 
 # game/script_marion.rpy:1659
 translate russian ch2m_06_98a5ec88:
 
     # c "Oh, Marion! It's lovely. But, why the costume?"
-    c ""
+    c "Ох, Мэрион! Это мило. Но к чему этот костюм?"
 
 # game/script_marion.rpy:1661
 translate russian ch2m_06_3f21e352:
 
     # m "It's not a costume!"
-    m ""
+    m "Это не костюм!"
 
 # game/script_marion.rpy:1679
 translate russian ch2m_06_df139e3f:
 
     # "She is near tears as she grabs my hand, and has me feel at her new ears."
-    ""
+    "Она чуть не плачет, когда хватает меня за руку и заставляет пощупать её новые уши."
 
 # game/script_marion.rpy:1680
 translate russian ch2m_06_cd722734:
 
     # c "They're so soft!"
-    c ""
+    c "Они такие мягкие!"
 
 # game/script_marion.rpy:1681
 translate russian ch2m_06_5ce3693d:
 
     # m "They're {i}cow's ears,{/i} Malcolm!"
-    m ""
+    m "Это {i}коровьи уши,{/i} Малькольм!"
 
 # game/script_marion.rpy:1684
 translate russian ch2m_06_d4fd413f:
 
     # "I'm petting her head when she pulls at her skirt. A swishing, thick bovine tail falls out."
-    ""
+    "Я глажу её по голове, когда она одёргивает юбку. Толстый виляющий коровий хвост выпадает из-под неё."
 
 # game/script_marion.rpy:1685
 translate russian ch2m_06_56248904:
 
     # m "I have a {i}tail!{/i}"
-    m ""
+    m "У меня есть {i}хвост!{/i}"
 
 # game/script_marion.rpy:1686
 translate russian ch2m_06_a79a19ef:
 
     # "She is trying to use a low voice, but she is still shouting."
-    ""
+    "Она пытается говорить тише, но всё равно кричит."
 
 # game/script_marion.rpy:1687
 translate russian ch2m_06_e01ef08b:
 
     # c "You... do? You sure do."
-    c ""
+    c "У тебя... хвост? Точно, это он."
 
 # game/script_marion.rpy:1688
 translate russian ch2m_06_5f960a1a:
 
     # m "That's all you can say?!"
-    m ""
+    m "Это всё, что ты можешь сказать?!"
 
 # game/script_marion.rpy:1689
 translate russian ch2m_06_71661eed:
 
     # "I'm quite taken aback. I'm not entirely sure what to make of this."
-    ""
+    "Я совершенно ошеломлён. Я не совсем уверен, что мне делать."
 
 # game/script_marion.rpy:1695
 translate russian ch2m_06_2b2a9e6f:
 
     # m "I-I don't know when or how it happened. I woke up like this."
-    m ""
+    m "Я...Я не знаю, когда и как это произошло. Я проснулась со всем этим."
 
 # game/script_marion.rpy:1696
 translate russian ch2m_06_62457877:
 
     # c "Does it hurt?"
-    c ""
+    c "Нигде не болит?"
 
 # game/script_marion.rpy:1698
 translate russian ch2m_06_2e1ccd22:
 
     # m "No. Not a bit. It all feels... very natural. Like it's always been there. But... why did this {i}happen?{/i}"
-    m ""
+    m "Нет. Ничуть. Всё это ощущается... очень естественно. Как будто они были у меня всегда. Но... почему это {i}произошло?{/i}"
 
 # game/script_marion.rpy:1701
 translate russian ch2m_06_09dd63cc:
 
     # butterfly_effect "{image=butterflysprite}" nointeract
-    butterfly_effect "" nointeract
+    butterfly_effect "{image=butterflysprite}" nointeract
 
 # game/script_marion.rpy:1706
 translate russian ch2m_06_ab093036:
 
     # c "It's certainly odd."
-    c ""
+    c "Это, определённо, странно."
 
 # game/script_marion.rpy:1708
 translate russian ch2m_06_5c95cfb9:
 
     # m "Odd?? It's insane! I've become a cow!"
-    m ""
+    m "Странно?? Это безумие! Я стала коровой!"
 
 # game/script_marion.rpy:1709
 translate russian ch2m_06_b412d171:
 
     # c "Well, only parts of you."
-    c ""
+    c "Ну, лишь частично."
 
 # game/script_marion.rpy:1711
 translate russian ch2m_06_073113f5:
 
     # m "Oh, don't joke about this! What will I do?"
-    m ""
+    m "Ох, не шути над этим! Что мне делать?"
 
 # game/script_marion.rpy:1712
 translate russian ch2m_06_bbe7b163:
 
     # c "Here. Take my hand. I'll lead you home, and we'll think of something. Somehow."
-    c ""
+    c "Вот. Возьми меня за руку. Я отведу тебя домой, и мы что-нибудь придумаем. Как-нибудь."
 
 # game/script_marion.rpy:1715
 translate russian ch2m_06_5700710d:
 
     # c "I've no idea."
-    c ""
+    c "Понятия не имею."
 
 # game/script_marion.rpy:1716
 translate russian ch2m_06_f284eb2d:
 
     # "It's quite shocking, even a bit dreadful. My mind can't help but return to that horribly vivid nightmare, which... I wonder, could it now be playing out before our eyes?"
-    ""
+    "Это шокируюет, даже немного ужасает. Мой разум не может не возвращаться к тому ужасно яркому кошмару, который... Интересно, может ли он сейчас разыгрываться у нас на глазах?"
 
 # game/script_marion.rpy:1717
 translate russian ch2m_06_2fe5a3d3:
 
     # "I want to be able to reassure Marion, but find myself doing the opposite."
-    ""
+    "Я хочу успокоить Мэрион, но ловлю себя на том, что делаю прямо противоположное"
 
 # game/script_marion.rpy:1718
 translate russian ch2m_06_53d7a36e:
