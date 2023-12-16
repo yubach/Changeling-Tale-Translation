@@ -19406,7 +19406,7 @@ translate russian ch4m_01_81d891ee:
 translate russian ch4m_01_3fa374f5:
 
     # j "Uh... how are you?"
-    j "Эм... как дела?"
+    j "Эм... как жизнь?"
 
 # game/script_marion.rpy:10421
 translate russian ch4m_01_6172685e:
@@ -19418,385 +19418,385 @@ translate russian ch4m_01_6172685e:
 translate russian ch4m_01_c3baaa9a:
 
     # c "I'm... well. Wel...come? Yes, welcome!"
-    c ""
+    c "Ну... добра. Добро... пожаловать? Да, Добро пожаловать!"
 
 # game/script_marion.rpy:10423
 translate russian ch4m_01_c459afcb:
 
     # c "W-welcome home, Jessie!"
-    c ""
+    c "Д-добро пожаловать домой, Джесси!"
 
 # game/script_marion.rpy:10425
 translate russian ch4m_01_9deaaf2e:
 
     # "I stutter, still trying to wrap my head around the unexpected visit. This isn't Marion's worst nightmare. It might be a dream come true."
-    ""
+    "Я заикаюсь, всё ещё пытаясь осмыслить неожиданный визит. Это не худший кошмар Мэрион. Возможно, это её сбывшаяся мечта."
 
 # game/script_marion.rpy:10431
 translate russian ch4m_01_fc3b2161:
 
     # j "Di... Did I stop at the wrong farm?"
-    j ""
+    j "Я... Я пришла не на ту ферму?"
 
 # game/script_marion.rpy:10440
 translate russian ch4m_01_f33ef670:
 
     # "Grace pushes herself past me with a force that belies her size."
-    ""
+    "Грейс проталкивается через меня с силой, которая противоречит её размерам."
 
 # game/script_marion.rpy:10441
 translate russian ch4m_01_2e396cb0:
 
     # g "Jessie! Oh my word! Get in here!"
-    g ""
+    g "Джесси! Боже мой! Заходи скорей!"
 
 # game/script_marion.rpy:10474
 translate russian ch4m_01_a7fc3d29:
 
     # "Grace drags Jessie inside, holding her tight, swaying her this way and that. A sisterly reunion of squeals so high-pitched, the noise dizzies my mind."
-    ""
+    "Грейс затаскивает Джесси внутрь и заключает в крепкие объятия, качая из стороны в сторону. Сестринское воссоединение визжит так пронзительно, что у меня кружится голова от этого шума."
 
 # game/script_marion.rpy:10483
 translate russian ch4m_01_f23557dc:
 
     # "When Grace finally lets Jessie go, she looks up at her sister with bemusement."
-    ""
+    "Когда Грейс наконец отпускает Джесси, она ошеломлённо смотрит на сестру."
 
 # game/script_marion.rpy:10484
 translate russian ch4m_01_5e60293f:
 
     # g "You rascal! So you went an' visited auld man Balgair before your own kith and kin, did you?"
-    g ""
+    g "Негодяйка! Ты решила навестить старика Балгайра раньше своих родных, я права?"
 
 # game/script_marion.rpy:10485
 translate russian ch4m_01_c7247355:
 
     # "Now out of the elements, I pick up the scent of the Stag & Nanny coming off Jessie as well."
-    ""
+    "Теперь, помимо всего прочего, я улавливаю аромат \"Оленя & Козы\", исходящий от Джесси."
 
 # game/script_marion.rpy:10488
 translate russian ch4m_01_06c90f6e:
 
     # j "Beg your pardon? I'll have y'know I was headed straight here when I was invited—nay, waylaid!—by that auld man. T'woulda been... improper not to have accepted a welcome home drink."
-    j ""
+    j "Прошу прощения? Да будет вам известно, я направлялась прямо сюда, когда меня пригласил — нет, подкараулил! — этот старик. Это было бы... неприлично не выпить кружку в честь визита."
 
 # game/script_marion.rpy:10489
 translate russian ch4m_01_7153b9da:
 
     # "Sure enough, Jessie is jumpy and slurring her words, and I suspect that first \"drink\" turned into several more. Grace must have just missed her when she left to get the post."
-    ""
+    "Конечно же, Джесси нервничает и невнятно произносит слова, и я подозреваю, что та первая \"кружка\" перешла в ещё несколько. Грейс, должно быть, просто разминулась с ней, когда ушла за почтой."
 
 # game/script_marion.rpy:10492
 translate russian ch4m_01_bf91b01b:
 
     # "Jessie's eyes veer towards me."
-    ""
+    "Джесси переводит взгляд на меня."
 
 # game/script_marion.rpy:10493
 translate russian ch4m_01_14d4d5e0:
 
     # j "Speaking of unexpected welcomes... 'tis good to see you, Malcolm, but... what're ya doing here? And where's Marion?"
-    j ""
+    j "Кстати, говоря о неожиданных визитах... рада тебя видеть, Малькольм, но... что ты здесь делаешь? И где Мэрион?"
 
 # game/script_marion.rpy:10495
 translate russian ch4m_01_bbc91e87:
 
     # "I struggle to find my voice, and am saved by Marion finding hers."
-    ""
+    "Я изо всех сил пытаюсь вернуть себе дар речи, но меня спасает Мэрион, вернувшая свой."
 
 # game/script_marion.rpy:10497
 translate russian ch4m_01_4e6e7b93:
 
     # m "I'm here."
-    m ""
+    m "Я здесь."
 
 # game/script_marion.rpy:10532
 translate russian ch4m_01_010551ac:
 
     # "We all turn to the source of the quiet admission."
-    ""
+    "Мы все поворачиваемся к источнику этого тихого признания."
 
 # game/script_marion.rpy:10534
 translate russian ch4m_01_b27eb89a:
 
     # "For a moment, the room is perfectly still. Even my breath catches in my throat."
-    ""
+    "На мгновение в комнате воцаряется абсолютная тишина. У меня даже дыхание перехватывает."
 
 # game/script_marion.rpy:10540
 translate russian ch4m_01_6e0bd4ba:
 
     # m "Oh, Jessie!"
-    m ""
+    m "Ох, Джесси!"
 
 # game/script_marion.rpy:10586
 translate russian ch4m_01_4f406970:
 
     # "Marion barrels towards her returned sister, nearly knocking her to the ground."
-    ""
+    "Мэрион бросается к своей вернувшейся сестре, чуть не сбивая её с ног."
 
 # game/script_marion.rpy:10587
 translate russian ch4m_01_151444e6:
 
     # "I chuckle. It's not unlike a bull rushing towards a toreador... and Jessie's red skirt makes the image all that more perfect."
-    ""
+    "Я хихикаю. Это похоже на быка, бросающегося на тореадора... а красная юбка Джесси только подчёркивает данный образ."
 
 # game/script_marion.rpy:10589
 translate russian ch4m_01_56530ee0:
 
     # "They hold each other tightly, but Jessie keeps her eyes open, scanning Marion's body as if trying to figure out if she even knows this person."
-    ""
+    "Они крепко обнимают друг друга, но Джесси держит глаза открытыми, исследуя тело Мэрион, словно пытаясь понять, знает ли она вообще этого человека."
 
 # game/script_marion.rpy:10604
 translate russian ch4m_01_d19a0d53:
 
     # m "I thought I would never see you again!"
-    m ""
+    m "Я думала, что никогда больше тебя не увижу!"
 
 # game/script_marion.rpy:10606
 translate russian ch4m_01_21498049:
 
     # j "And I'm... not sure what I'm seeing..."
-    j ""
+    j "И я... не уверена, что именно вижу я..."
 
 # game/script_marion.rpy:10610
 translate russian ch4m_01_2734c24a:
 
     # j "M... Marion?"
-    j ""
+    j "М...Мэрион?"
 
 # game/script_marion.rpy:10613
 translate russian ch4m_01_2115146a:
 
     # "Marion's round face turns as red as Jessie's nose."
-    ""
+    "Круглое лицо Мэрион становится таким же красным, как нос Джесси."
 
 # game/script_marion.rpy:10614
 translate russian ch4m_01_8556fe0c:
 
     # m "It's me, Jessie. Just—"
-    m ""
+    m "Это я, Джесси. Просто..."
 
 # game/script_marion.rpy:10616
 translate russian ch4m_01_5da463d6:
 
     # g "Oh it's Marion under there, all right—as Malcolm can {i}intimately{/i} attest!"
-    g ""
+    g "Ох, это Мэрион там, под всем этим, всё в порядке — Малкольм может {i}лично{/i} засвидетельствовать!"
 
 # game/script_marion.rpy:10625
 translate russian ch4m_01_7d7a76ef:
 
     # m "Grace!"
-    m ""
+    m "Грейс!"
 
 # game/script_marion.rpy:10626
 translate russian ch4m_01_7febe92d:
 
     # "My cheeks flush. Fortunately, Jessie seems too busy processing what her eyes are seeing to read into Grace's innuendo."
-    ""
+    "Мои щёки вспыхивают. К счастью, Джесси, кажется, слишком занята осознанием того, что видят её глаза, чтобы понять намеки Грейс."
 
 # game/script_marion.rpy:10632
 translate russian ch4m_01_07cb8084:
 
     # j "...'Tis a costume? For the Heifer Parade? Marion, you're adorable!"
-    j ""
+    j "...Это костюм? Для Парада Тёлок? Мэрион, ты очаровательна!"
 
 # game/script_marion.rpy:10634
 translate russian ch4m_01_bded4e47:
 
     # m "No, Jessie, it's—"
-    m ""
+    m "Нет, Джесси, это..."
 
 # game/script_marion.rpy:10641
 translate russian ch4m_01_e56ad197:
 
     # m "OW!"
-    m ""
+    m "АЙ!"
 
 # game/script_marion.rpy:10642
 translate russian ch4m_01_a957dab0:
 
     # "Marion lets out a yelp when Jessie reaches for Marion's ears and gives them a tug."
-    ""
+    "Мэрион вскрикивает, когда Джесси тянется к её ушам и дёргает."
 
 # game/script_marion.rpy:10645
 translate russian ch4m_01_ac3058a6:
 
     # j "No? If not for the Heifer Parade, then... {i}why?{/i} And how'd you get the makeup so realistic?"
-    j ""
+    j "Нет? Если не Парад Тёлок, то... {i}зачем?{/i} И как тебе удалось сделать такой реалистичный макияж?"
 
 # game/script_marion.rpy:10647
 translate russian ch4m_01_02329cd3:
 
     # j "I'm impressed—I thought I was the only one here with cosmetics skills!"
-    j ""
+    j "Я впечатлена — думала, что я здесь единственная, кто разбирается в косметике!"
 
 # game/script_marion.rpy:10654
 translate russian ch4m_01_c8ac89e9:
 
     # "Marion rubs at her ears a moment and looks ready to cry. With happy or sad tears, I can't tell."
-    ""
+    "Мэрион какое-то время потирает уши и, похоже, вот-вот заплачет. От радости или от печали, я не могу сказать."
 
 # game/script_marion.rpy:10657
 translate russian ch4m_01_dbeaa5a6:
 
     # c "Jessie, let's sit. Grace will bring us tea. We can all catch up."
-    c ""
+    c "Джесси, давай присядем. Грейс принесёт нам чай. Мы все можем наверстать упущенное."
 
 # game/script_marion.rpy:10660
 translate russian ch4m_01_a861497d:
 
     # "Marion gathers herself."
-    ""
+    "Марион берёт себя в руки."
 
 # game/script_marion.rpy:10662
 translate russian ch4m_01_810c85e3:
 
     # m "Yes. It's a night for rejoicing! Oh, Jessie. I cannot express how happy I am that you're home. I'm so, {i}so{/i} relieved! Tell us everything!"
-    m ""
+    m "Да. Это ночь для ликования! Ох, Джесси. Я не могу выразить, как счастлива, что ты дома. Я так, {i}так{/i} рада! Расскажи нам всё!"
 
 # game/script_marion.rpy:10664
 translate russian ch4m_01_5bf586cb:
 
     # j "Wait. Methinks you should start, Marion. What's with the... the...?"
-    j ""
+    j "Подожди. Думаю, тебе стоит начать первой, Мэрион. Что это за... за...?"
 
 # game/script_marion.rpy:10666
 translate russian ch4m_01_22e454ce:
 
     # g "The \"fur coat?\""
-    g ""
+    g "Что за \"меховая шуба?\""
 
 # game/script_marion.rpy:10670
 translate russian ch4m_01_8d0400b4:
 
     # g "You can forget your little red dress, Jess'. Marion's gonna start a hot new fashion trend!"
-    g ""
+    g "Можешь забыть о своем маленьком красном платье, Джесси. Мэрион собирается ввести новый модный тренд!"
 
 # game/script_marion.rpy:10673
 translate russian ch4m_01_b477115c:
 
     # "Jessie seems dubious, either of the sight before her, or—more likely—of the idea of her more traditional sister leading any new fashion trends."
-    ""
+    "Джесси, кажется, сомневается —  либо в том, что предстаёт перед глазами, либо, что более вероятно, в том, что её более традиционных взглядов сестра возглавит какие-либо новые модные тенденции."
 
 # game/script_marion.rpy:10674
 translate russian ch4m_01_a8e7b788:
 
     # c "You'd better take a seat, Jessie. It's a long story."
-    c ""
+    c "Тебе лучше присесть, Джесси. Это долгая история."
 
 # game/script_marion.rpy:10708
 translate russian ch4m_01_d2ae2762:
 
     # "Grace slides into the room, tea tray in hand. We sip our hot drinks and give Jessie a good deal of time to sober up before we tell her the tale."
-    ""
+    "Грейс проскальзывает в комнату с чайным подносом в руках. Мы потягиваем горячие напитки и даем Джесси достаточно времени протрезветь, прежде чем рассказать ей нашу историю."
 
 # game/script_marion.rpy:10715
 translate russian ch4m_01_30053aa0:
 
     # "As we all talk, Jessie sits literally on the edge of her seat."
-    ""
+    "Пока мы все разговариваем, Джесси нервно сидит на краешке своего стула."
 
 # game/script_marion.rpy:10719
 translate russian ch4m_01_41bcc8e1:
 
     # "I give Marion credit for becoming much more stoic in the storytelling, not breaking down once... and even cracking a smile or two."
-    ""
+    "Я отдаю должное Мэрион за то, что она стала гораздо более стойкой в рассказе, ни разу не расплакалась... и даже выдавила пару улыбок."
 
 # game/script_marion.rpy:10720
 translate russian ch4m_01_daf61c70:
 
     # "I'm impressed with her bravery, although explaining all of this to her proudly outlandish sister—instead of the oafish father we'd all expected—makes it much easier."
-    ""
+    "Я впечатлён её храбростью, хотя объяснять всё это ее гордой иногородной сестре — вместо глуповатого отца, которого мы все ожидали, — гораздо проще."
 
 # game/script_marion.rpy:10728
 translate russian ch4m_01_2751c02c:
 
     # "It's when Marion begins to describe the two of us falling in love that Jessie starts to sit back, slumped in her seat."
-    ""
+    "Когда Мэрион начинает описывать, как мы влюбляемся друг в друга, Джесси откидывается на спинку стула."
 
 # game/script_marion.rpy:10734
 translate russian ch4m_01_fc794462:
 
     # j "That's wonderful. I'm so happy for you both."
-    j ""
+    j "Это замечательно. Я так рада за вас двоих."
 
 # game/script_marion.rpy:10736
 translate russian ch4m_01_e17ba2c2:
 
     # "The words are genuine, I think, but she gives me an odd glance as she says them."
-    ""
+    "Я думаю, что эти слова искренни, но, произнося их, она бросает на меня странный взгляд."
 
 # game/script_marion.rpy:10738
 translate russian ch4m_01_8615a227:
 
     # "I try to look into Jessie's eyes, but she turns away, back to her big sister."
-    ""
+    "Я пытаюсь заглянуть Джесси в глаза, но она отворачивается, переводя взгяд на свою старшую сестру."
 
 # game/script_marion.rpy:10739
 translate russian ch4m_01_58ecac1a:
 
     # j "But this!"
-    j ""
+    j "Но это!"
 
 # game/script_marion.rpy:10740
 translate russian ch4m_01_ce576755:
 
     # "Jessie gestures up and down at Marion."
-    ""
+    "Джесси обводит Марион рукой сверху вниз."
 
 # game/script_marion.rpy:10741
 translate russian ch4m_01_b0bd3341:
 
     # j "It's... {i}insane!{/i} I'm... well, I'm flabbergasted!"
-    j ""
+    j "Это... {i}безумно!{/i} Я... что ж, я ошеломлена!"
 
 # game/script_marion.rpy:10743
 translate russian ch4m_01_89dc127d:
 
     # m "I... guess it's an odd circumstance, for sure. It's certainly been challenging."
-    m ""
+    m "Я... думаю, такое, определённо, не часто увидишь. Безусловно, было поначалу непросто."
 
 # game/script_marion.rpy:10745
 translate russian ch4m_01_1fbe7b8e:
 
     # j "But what are the odds? One in a million! Or more!"
-    j ""
+    j "Увидишь насколько нечасто? Раз в сто лет! А то и больше!"
 
 # game/script_marion.rpy:10747
 translate russian ch4m_01_3d203583:
 
     # j "Marion, you're born of fae magic. {i}You are magic!{/i} How amazing is that?"
-    j ""
+    j "Мэрион, ты рождена магией фейри. {i}Ты и есть магия!{/i} Насколько это чудесно?"
 
 # game/script_marion.rpy:10749
 translate russian ch4m_01_0160970c:
 
     # m "Well, tell it to my udder. That's not always feeling magical."
-    m ""
+    m "Ну, скажи это моему вымени. Это не всегда кажется таким волшебным."
 
 # game/script_marion.rpy:10756
 translate russian ch4m_01_8437c835:
 
     # "Jessie blushes, Grace snorts, and Marion smirks, too. It relieves a bit of tension in the room."
-    ""
+    "Джесси краснеет, Грейс фыркает, и Мэрион тоже ухмыляется. Это немного снимает напряжение в комнате."
 
 # game/script_marion.rpy:10758
 translate russian ch4m_01_12c3c7bd:
 
     # "As I see Marion relax, my pride for her grows even deeper. She seems to have embraced this transformation in a new way. One of ownership... of self. I would dare say a badge of honor."
-    ""
+    "Когда я вижу, как Мэрион расслабляется, моя гордость за неё становится ещё глубже. Кажется, она восприняла это преображение по-новому. Как к чему-то, что пренадлежит... ей. Я бы осмелился сказать, как к знаку почёта."
 
 # game/script_marion.rpy:10759
 translate russian ch4m_01_a95ac65c:
 
     # "Or if she's not embracing it, it certainly is acceptance, for which I'm thankful."
-    ""
+    "Даже если она его не понимает, то, безусловно, принимает, за что я ей благодарен."
 
 # game/script_marion.rpy:10761
 translate russian ch4m_01_2493315b:
 
     # "The fireplace dances and crackles, echoing the good cheer in the room. It's as if Jessie never left, and as if Marion's appearance is as normal as Jessie's flashy attire."
-    ""
+    "Камин танцует и потрескивает, отражая хорошее настроение в комнате. Как будто Джесси никогда не уходила, и как будто внешность Мэрион такая же привычная, как и кричащий наряд Джесси."
 
 # game/script_marion.rpy:10762
 translate russian ch4m_01_3e24a7d3:
@@ -19808,1237 +19808,1237 @@ translate russian ch4m_01_3e24a7d3:
 translate russian ch4m_01_9e5e587f:
 
     # j "Well, udder or not, you're still very much my sister. And who knows! Perhaps some of the weight has been taken off your shoulders now that you... er... carry it down there."
-    j ""
+    j "Ну, с выменем или без, ты всё равно всё ещё моя сестра. И кто знает! Возможно, теперь часть груза свалилась с твоих плеч, когда ты... э-э... перенесла его себе туда, вниз."
 
 # game/script_marion.rpy:10770
 translate russian ch4m_01_803d2854:
 
     # m "Hah! Really, now? Just what is that supposed to mean?"
-    m ""
+    m "Ха! Ты сейчас серьезно? Что ты хочешь этим сказать?"
 
 # game/script_marion.rpy:10774
 translate russian ch4m_01_540dda58:
 
     # j "Marion, I can't empathize with your body, but I can understand that changes push us forward, whether we want them to or not."
-    j ""
+    j "Мэрион, я не могу посочувствовать твоему телу, но я могу понять, что перемены толкают нас вперёд, хотим мы этого или нет."
 
 # game/script_marion.rpy:10776
 translate russian ch4m_01_2f8cecf2:
 
     # "Grace laughs out loud."
-    ""
+    "Грейс громко смеётся."
 
 # game/script_marion.rpy:10778
 translate russian ch4m_01_559935e5:
 
     # g "Where did you hear that? In a nightclub?"
-    g ""
+    g "Где ты это услышала? В ночном клубе?"
 
 # game/script_marion.rpy:10780
 translate russian ch4m_01_7c9838e5:
 
     # j "From a very trusted source. A reliable friend."
-    j ""
+    j "От очень надежного источника. Надёжного друга."
 
 # game/script_marion.rpy:10782
 translate russian ch4m_01_4520bd91:
 
     # g "A certain aging publican?"
-    g ""
+    g "Некоего стареющего трактирщика?"
 
 # game/script_marion.rpy:10788
 translate russian ch4m_01_14ec1bce:
 
     # j "Yes. And you were right, I just had to pay Balgair a visit before coming home. I was... nervous. Scared to see you again. I left so abruptly. I wanted to make sure I could handle..."
-    j ""
+    j "Да. И ты была права, мне просто нужно было навестить Балгайра перед возвращением домой. Я... нервничала. Боялась увидеть вас снова. Я ушла так внезапно. Я хотела убедиться, что смогу справиться..."
 
 # game/script_marion.rpy:10789
 translate russian ch4m_01_63d1a501:
 
     # "Jessie's voice drifts off."
-    ""
+    "Голос Джесси затихает."
 
 # game/script_marion.rpy:10792
 translate russian ch4m_01_7c155b1d:
 
     # g "Marion's wrath?"
-    g ""
+    g "С гневом Мэрион?"
 
 # game/script_marion.rpy:10794
 translate russian ch4m_01_c077dd1d:
 
     # j "And your sassy tongue."
-    j ""
+    j "И твоим дерзким язычком."
 
 # game/script_marion.rpy:10796
 translate russian ch4m_01_304d22a8:
 
     # "Marion starts chuckling."
-    ""
+    "Марион начинает хихикать."
 
 # game/script_marion.rpy:10798
 translate russian ch4m_01_c6113a5a:
 
     # m "It's fine, Jessie. I know how quick to anger I used to be, but... suffice to say, these past few months have let me see myself in a new light."
-    m ""
+    m "Всё в порядке, Джесси. Я знаю, какой вспыльчивой была раньше, но... стоит сказать, что последние несколько месяцев позволили мне увидеть себя в новом свете."
 
 # game/script_marion.rpy:10800
 translate russian ch4m_01_f6f00852:
 
     # g "Especially since she has to look out over her new snout."
-    g ""
+    g "Особенно с учетом того, что ей приходится вечно видеть свою новую мордочку."
 
 # game/script_marion.rpy:10802
 translate russian ch4m_01_6e0ce538:
 
     # j "We best be thankful for that snout, then, aye?"
-    j ""
+    j "Тогда нам лучше быть благодарными за эту мордочку, да?"
 
 # game/script_marion.rpy:10806
 translate russian ch4m_01_c3187341:
 
     # "They giggle as one, and the banter returns. The three share a bond that's visible as they smile. My body has stilled itself, taking in the fast chatter and loud laughs. The MacLeod sisters reunited."
-    ""
+    "Они все хихикают, и подшучивание возвращается. Между ними троими существует связь, которая видна, когда они улыбаются. Моё тело само успокоилось, впитывая быструю болтовню и громкий смех. Сестры МакЛауд воссоединились."
 
 # game/script_marion.rpy:10809
 translate russian ch4m_01_91fe4940:
 
     # j "Well, I confess... this is crazier than a lot of the things I saw in Glasgow!"
-    j ""
+    j "Что ж, признаюсь... это безумнее многого из того, что я видела в Глазго!"
 
 # game/script_marion.rpy:10813
 translate russian ch4m_01_a70d77c3:
 
     # g "Tell us! We need a topic other than Milkmaid Marion for a while!"
-    g ""
+    g "Расскажи нам! На некоторое время нам нужна тема для разговоров, отличная от \"Доярки Мэрион\"!"
 
 # game/script_marion.rpy:10817
 translate russian ch4m_01_d978cac0:
 
     # j "Gosh... Glasgow is unbelievable. First of all, they have electricity everywhere! Balgair woulda been thrilled to see the neon signs! And the streets are lit up all night long, right 'til dawn."
-    j ""
+    j "Боже... Глазго невероятен. Во-первых, у них везде есть электричество! Балгайр был бы в восторге, увидев неоновые вывески! И улицы освещены всю ночь напролет, до самого рассвета."
 
 # game/script_marion.rpy:10819
 translate russian ch4m_01_7299fb25:
 
     # g "What about where you work? Is it as nice as the Stag & Nanny?"
-    g ""
+    g "А как насчет твоей работы? Там так же хорошо, как в \"Олене & Козе\"?"
 
 # game/script_marion.rpy:10821
 translate russian ch4m_01_81e374e2:
 
     # j "Oh, Grace! It's so unlike anything I'd ever seen, except in magazines! I sing at Cleopatra's, but everyone calls it Clatty Pat's. It's at least ten times the size of Balgair's place."
-    j ""
+    j "О, Грейс! Это не похоже ни на что, что я когда-либо видела, разве что в журналах! Я пою в \"Клеопатре\", но все называют бар \"Клэтти Пэт\". Он по меньшей мере в десять раз больше заведения Балгайра."
 
 # game/script_marion.rpy:10823
 translate russian ch4m_01_4918713b:
 
     # g "Wow!"
-    g ""
+    g "Вау!"
 
 # game/script_marion.rpy:10825
 translate russian ch4m_01_d01ddd8f:
 
     # j "'Tis true. Holds almost four hundred people at peak times. When the band starts up—there's a full band, can you believe it?—they play straight through the whole night."
-    j ""
+    j "Это правда. В часы пик вмещает почти четыреста человек. Когда группа начинает выступать — Там группы в полном составе, можете в это поверить? — Они играют без перерыва всю ночь."
 
 # game/script_marion.rpy:10827
 translate russian ch4m_01_8cdc3b58:
 
     # m "Goodness! When do you sleep?"
-    m ""
+    m "Боже! Когда ты спишь?"
 
 # game/script_marion.rpy:10829
 translate russian ch4m_01_d751390e:
 
     # j "During the daytime, mostly—it's not so bad as it seems! I've grown accustomed to being nocturnal."
-    j ""
+    j "В основном днём — это не так плохо, как кажется! Я привыкла вести ночной образ жизни."
 
 # game/script_marion.rpy:10831
 translate russian ch4m_01_7a63f0c9:
 
     # m "But how do you pick up your groceries? Surely you must miss Market Day!"
-    m ""
+    m "Но как ты покупаешь продукты? Наверняка ты пропускаешь Базарный День!"
 
 # game/script_marion.rpy:10833
 translate russian ch4m_01_65d42b54:
 
     # j "\"Market Day?\" My dear Marion, there are stores where you can buy anything you want, whenever you want! I walked in and saw foods I had never heard of. What on Earth is a \"water chestnut?\""
-    j ""
+    j "\"Базарный День?\" Моя дорогая Мэрион, там магазины, в которых ты можешь купить всё, что захочешь, и когда захочешь! Я вошла и увидела продукты, о которых никогда не слышала. Что, черт возьми, такое \"водяной каштан\"?""
 
 # game/script_marion.rpy:10836
 translate russian ch4m_01_b2f4092b:
 
     # "Grace leans over to me."
-    ""
+    "Грейс наклоняется ко мне."
 
 # game/script_marion.rpy:10839
 translate russian ch4m_01_7f6478c8:
 
     # g "A favorite of water squirrels, I'd surmise."
-    g ""
+    g "Предположу, что любимое блюдо водяных белок."
 
 # game/script_marion.rpy:10842
 translate russian ch4m_01_cb2eeeac:
 
     # "I nod in silent agreement, charmed by the sisters' reactions to a way of life I'd already seen in London, Paris, and elsewhere. I suppose it wasn't that long ago that I'd felt awed by it, too."
-    ""
+    "Я киваю в молчаливом согласии, очарованный реакцией сестер на образ жизни, который я уже видел в Лондоне, Париже и других местах. Полагаю, не так давно я тоже испытывал благоговейный трепет перед ним."
 
 # game/script_marion.rpy:10845
 translate russian ch4m_01_16f96dc2:
 
     # j "Everything is always bustling, always moving, as if the city itself is alive. There are bobbies everywhere. More children running in the streets than have ever grown up in this village."
-    j ""
+    j "Постоянная суета, постоянное движение, как будто сам город живой. Повсюду полицейские. По улицам бегает больше детей, чем когда-либо росло в этой деревне."
 
 # game/script_marion.rpy:10847
 translate russian ch4m_01_d2fb7d9f:
 
     # j "There's even an entire store that just sells books! Can you imagine? Who would ever shop there?"
-    j ""
+    j "Есть даже целый магазин, который продает только книги! Можете себе представить? Кто стал бы в нём что-то покупать?"
 
 # game/script_marion.rpy:10852
 translate russian ch4m_01_a9725994:
 
     # m "I would!" (multiple=3)
-    m "" (multiple=3)
+    m "Я бы покупала!" (multiple=3)
 
 # game/script_marion.rpy:10853
 translate russian ch4m_01_b65d87c4:
 
     # g "I would!" (multiple=3)
-    g "" (multiple=3)
+    g "Я бы покупала!" (multiple=3)
 
 # game/script_marion.rpy:10854
 translate russian ch4m_01_69b8f277:
 
     # c "I would!" (multiple=3)
-    c "" (multiple=3)
+    c "Я бы покупал!" (multiple=3)
 
 # game/script_marion.rpy:10858
 translate russian ch4m_01_6d1ac595:
 
     # j "Oh... well... anyway... the streets are completely overrun with horse carriages, grime, and cats. I've had to chase several out of my path!"
-    j ""
+    j "О... ну... в любом случае... улицы полностью забиты конными экипажами, сажей и кошками. Мне пришлось прогнать нескольких со своего пути!"
 
 # game/script_marion.rpy:10860
 translate russian ch4m_01_f179fc1a:
 
     # g "It sounds so dangerous!"
-    g ""
+    g "Звучит довольно опасно!"
 
 # game/script_marion.rpy:10861
 translate russian ch4m_01_0518ade1:
 
     # "Grace's eyes are wide, either excited or overwhelmed by the idea of it all."
-    ""
+    "Глаза Грейс широко раскрыты, она либо взволнована, либо ошеломлена всеми этими идеями."
 
 # game/script_marion.rpy:10863
 translate russian ch4m_01_0d6a0a40:
 
     # j "I've almost been hit several times... by motorcycles!"
-    j ""
+    j "Меня несколько раз чуть не сбили... мотоциклы!"
 
 # game/script_marion.rpy:10867
 translate russian ch4m_01_f8e0f001:
 
     # g "Oh, my!"
-    g ""
+    g "О, Боже!"
 
 # game/script_marion.rpy:10869
 translate russian ch4m_01_48d763a3:
 
     # j "One of the men was so apologetic that he offered to take me for a ride."
-    j ""
+    j "Один из мужчин так извинялся, что предложил подвезти меня."
 
 # game/script_marion.rpy:10874
 translate russian ch4m_01_129a24f6:
 
     # m "You didn't do it, did you?"
-    m ""
+    m "Ты ведь не согласилась, правда?"
 
 # game/script_marion.rpy:10875
 translate russian ch4m_01_a8ed5b36:
 
     # "I think we all know the answer to that."
-    ""
+    "Я думаю, мы все знаем ответ на этот вопрос."
 
 # game/script_marion.rpy:10877
 translate russian ch4m_01_ca28e2af:
 
     # j "You bet I did! It was so fast! Like flying through the air!"
-    j ""
+    j "Согласилась, можешь не сомневаться! Это было так быстро! Как будто мы летели по воздуху!"
 
 # game/script_marion.rpy:10879
 translate russian ch4m_01_534a298b:
 
     # m "{i}Jessie...{/i}"
-    m ""
+    m "{i}Джесси...{/i}"
 
 # game/script_marion.rpy:10881
 translate russian ch4m_01_6a344e9b:
 
     # j "You never know, maybe one day I'll have my own!"
-    j ""
+    j "Кто знает, может быть, однажды у куплю собственный мотоцикл!"
 
 # game/script_marion.rpy:10883
 translate russian ch4m_01_4a82f480:
 
     # g "Me, too!"
-    g ""
+    g "Я тоже!"
 
 # game/script_marion.rpy:10884
 translate russian ch4m_01_52896934:
 
     # c "It does sound rather thrilling."
-    c ""
+    c "Это действительно звучит довольно захватывающе."
 
 # game/script_marion.rpy:10891
 translate russian ch4m_01_ee87d548:
 
     # m "Malcolm!"
-    m ""
+    m "Малькольм!"
 
 # game/script_marion.rpy:10892
 translate russian ch4m_01_f22a7fe4:
 
     # c "What? It does!"
-    c ""
+    c "Что? Это правда!"
 
 # game/script_marion.rpy:10896
 translate russian ch4m_01_bfaa55f6:
 
     # m "You're not getting a m-{i}moo{/i}-torcycle, Jessie!"
-    m ""
+    m "Ты не получишь м-{i}муу{/i}-тоцикл, Джесси!"
 
 # game/script_marion.rpy:10898
 translate russian ch4m_01_cfa2c296:
 
     # "I lean over to the middle sister, and whisper loud enough for everyone to hear."
-    ""
+    "Я наклоняюсь к средней сестре и шепчу достаточно громко, чтобы все услышали."
 
 # game/script_marion.rpy:10899
 translate russian ch4m_01_4da420a1:
 
     # c "It's ok. You can borrow mine one day!"
-    c ""
+    c "Всё хорошо. Ты можешь позаимствовать мой как-нибудь!"
 
 # game/script_marion.rpy:10904
 translate russian ch4m_01_922703f7:
 
     # m "Oh, you two!"
-    m ""
+    m "Ох, вы оба!"
 
 # game/script_marion.rpy:10908
 translate russian ch4m_01_5b50b787:
 
     # "While Jessie regales us with stories from Glasgow, Marion leans into me, and I hold tight to her. She smells of flour and nutmeg, and it calms me."
-    ""
+    "Пока Джесси потчует нас историями из Глазго, Мэрион прижимается ко мне, а я крепко прижимаюсь к ней. От неё пахнет мукой и мускатным орехом, и этот запах меня успокаивает."
 
 # game/script_marion.rpy:10914
 translate russian ch4m_01_42db8ef1:
 
     # j "There's also a circus that pops up every few weeks. I swear I even saw Wondrous Walter and his silly monkey! They had a bearded lady, too. Can you imagine being covered in hair all over?"
-    j ""
+    j "А ещё есть цирк, который открывается каждые несколько недель. Клянусь, я даже видела Чудесного Уолтера и его глупую обезьянку! У них тоже была бородатая дама. Вы можете себе представить, что она вся покрыта волосами?"
 
 # game/script_marion.rpy:10916
 translate russian ch4m_01_3b3b2e04:
 
     # "My heart sinks for Marion, but she only rolls her eyes at her sister."
-    ""
+    "Моё сердце сжимается из-за Мэрион, но она только закатывает глаза, глядя на свою сестру."
 
 # game/script_marion.rpy:10918
 translate russian ch4m_01_eddca656:
 
     # j "Oh, I didn't—I'm sorry, Marion. But yes, it was great to see! Maybe you have a career in the city coming!"
-    j ""
+    j "Ох, я не... Прости, Мэрион. Но да, было здорово это увидеть! Возможно, у тебя впереди карьера в городе!"
 
 # game/script_marion.rpy:10920
 translate russian ch4m_01_f1b5510c:
 
     # m "Never!"
-    m ""
+    m "Никогда!"
 
 # game/script_marion.rpy:10925
 translate russian ch4m_01_a98dda36:
 
     # j "Suit yourself. All the nightlife, the bars, the lights and excitement... it's everything I had wanted it to be!"
-    j ""
+    j "Представь себе. Вся ночная жизнь, бары, огни и волнение... там есть всё, чего я хотела!"
 
 # game/script_marion.rpy:10927
 translate russian ch4m_01_47ea982d:
 
     # g "Nothing scary? Frightening? Tell us an exciting story!"
-    g ""
+    g "И ничего страшного? Пугающего? Расскажи нам захватывающую историю!"
 
 # game/script_marion.rpy:10930
 translate russian ch4m_01_345fa60e:
 
     # "Jessie's face drops and her complexion noticeably pales. I wonder if the veneer of urban living is not entirely as glamorous as she would have us believe."
-    ""
+    "Джесси осунулась, и её лицо заметно побледнело. Интересно, так ли гламурна городская жизнь, как она хочет, чтобы мы думали?"
 
 # game/script_marion.rpy:10932
 translate russian ch4m_01_dddad380:
 
     # j "Not tonight. There's plenty of time for that later. For now, though, I wouldn't mind getting some rest. I've been on the road all day."
-    j ""
+    j "Не этой ночью. Для неё будет много времени позже. А сейчас я бы не прочь немного отдохнуть. Я весь день была в дороге."
 
 # game/script_marion.rpy:10934
 translate russian ch4m_01_1cabd276:
 
     # m "Of course! But... Jessie, before you go, you ought to know..."
-    m ""
+    m "Конечно! Но... Джесси, прежде чем ты уйдёшь, ты должна знать..."
 
 # game/script_marion.rpy:10937
 translate russian ch4m_01_4c452c77:
 
     # "I look at Grace and Marion, who are looking at me."
-    ""
+    "Я смотрю на Грейс и Мэрион, которые смотрят на меня."
 
 # game/script_marion.rpy:10941
 translate russian ch4m_01_b90a32f9:
 
     # m "We got a letter today."
-    m ""
+    m "Сегодня мы получили письмо."
 
 # game/script_marion.rpy:10944
 translate russian ch4m_01_e16829fe:
 
     # "With heavy hearts and lots of pregnant pauses, we discuss Owen's announcement, and our options—of which there are precious few."
-    ""
+    "С тяжестью на сердце и множеством многозначительных пауз мы обсуждаем заявление Овена и наши варианты, которых не очень много."
 
 # game/script_marion.rpy:10949
 translate russian ch4m_01_0654ae8c:
 
     # m "It's all out of our hands right now. There's almost nothing we can do except be forthright. There's no hiding... {i}this...{/i}"
-    m ""
+    m "Сейчас всё это не в нашей власти. Мы почти ничего не можем сделать, кроме как быть откровенными. Не получится скрывать... {i}это...{/i}"
 
 # game/script_marion.rpy:10951
 translate russian ch4m_01_8e99df9e:
 
     # "Marion gestures to herself."
-    ""
+    "Марион указывает на себя."
 
 # game/script_marion.rpy:10954
 translate russian ch4m_01_bbf13d47:
 
     # j "Hm."
-    j ""
+    j "Хм."
 
 # game/script_marion.rpy:10957
 translate russian ch4m_01_5593f212:
 
     # j "Ah! Have you heard of Lady Esther's face powder? I could try to—"
-    j ""
+    j "А! Вы слышали о пудре для лица леди Эстер? Я могла бы попробовать..."
 
 # game/script_marion.rpy:10964
 translate russian ch4m_01_5f926e69:
 
     # m "Oh, no!" (multiple=2)
-    m "" (multiple=2)
+    m "О, нет!" (multiple=2)
 
 # game/script_marion.rpy:10965
 translate russian ch4m_01_eab30431:
 
     # c "That won't be necessary." (multiple=2)
-    c "" (multiple=2)
+    c "В этом нет необходимости." (multiple=2)
 
 # game/script_marion.rpy:10972
 translate russian ch4m_01_45dda774:
 
     # "Jessie looks between Marion and me, and seems to think better of asking more."
-    ""
+    "Джесси переводит взгляд с Мэрион на меня и, кажется, передумывает задвать лишние вопросы."
 
 # game/script_marion.rpy:10973
 translate russian ch4m_01_ef1a229b:
 
     # j "All right. Did the letter say when Father would arrive?"
-    j ""
+    j "Ладно. В письме было сказано, когда приедет отец?"
 
 # game/script_marion.rpy:10975
 translate russian ch4m_01_830242e4:
 
     # g "No. It was posted several weeks ago, though. How long would it take, Malcolm?"
-    g ""
+    g "Нет. Однако оно прибыло на почту несколько недель назад. Сколько времени займет путь сюда, Малькольм?"
 
 # game/script_marion.rpy:10979
 translate russian ch4m_01_3010aff7:
 
     # "All eyes turn to me, but I can offer no certainty."
-    ""
+    "Все взгляды обращены на меня, но я не могу сказать ничего определённого."
 
 # game/script_marion.rpy:10980
 translate russian ch4m_01_ebade0da:
 
     # c "It's anyone's guess. Some of the lads get their return ticket straight away. Others wait weeks, even months, for passage home."
-    c ""
+    c "Об этом можно только догадываться. Некоторые ребята сразу же получают обратный билет. Другие ждут неделями, даже месяцами, чтобы вернуться домой."
 
 # game/script_marion.rpy:10984
 translate russian ch4m_01_e7eb75b9:
 
     # j "I see."
-    j ""
+    j "Понятно."
 
 # game/script_marion.rpy:10987
 translate russian ch4m_01_8eb652ed:
 
     # j "Well... if our father is coming home to a fluffy daughter, the least I can do is make sure he's not coming home to a missing one, too. I'll write to ask if I can extend my holiday."
-    j ""
+    j "Что ж... если наш отец возвращается домой к пушистой дочурке, самое меньшее, что я могу сделать, это убедиться, что он не вернется домой к ещё и пропавшей. Я отправлю письмо, чтобы узнать, можно ли мне продлить свой отпуск."
 
 # game/script_marion.rpy:10991
 translate russian ch4m_01_6c9a4dc5:
 
     # "Marion nods in appreciation, but Grace seems disappointed."
-    ""
+    "Мэрион одобрительно кивает, но Грейс, похоже, разочарована."
 
 # game/script_marion.rpy:10992
 translate russian ch4m_01_05df74c3:
 
     # g "I thought you were back... to stay?"
-    g ""
+    g "Я думала, ты вернулась... чтобы остаться?"
 
 # game/script_marion.rpy:10994
 translate russian ch4m_01_4d1bbcbe:
 
     # j "No. I'm sorry Grace, but this is a visit, nothing more. I have a job. I can't afford to lose it."
-    j ""
+    j "Нет. Прости, Грейс, но это визит, не более того. У меня там работа. Я не могу позволить себе потерять её."
 
 # game/script_marion.rpy:10996
 translate russian ch4m_01_02352d73:
 
     # g "Then what made you come back now?"
-    g ""
+    g "Тогда что заставило тебя вернуться именно сейчас?"
 
 # game/script_marion.rpy:10999
 translate russian ch4m_01_570a0fe9:
 
     # "Jessie's eyes mist over as she smiles to herself."
-    ""
+    "Глаза Джесси затуманиваются, когда она улыбается сама себе."
 
 # game/script_marion.rpy:11000
 translate russian ch4m_01_d08a11c4:
 
     # j "I guess you could say I've always been a bit of a pack animal. It's been hard being away from family."
-    j ""
+    j "Думаю, можно сказать, что я всегда была чем-то вроде стайного животного. Было тяжело находиться вдали от семьи."
 
 # game/script_marion.rpy:11001
 translate russian ch4m_01_6c589183:
 
     # m "We've missed you, too. Tremendously."
-    m ""
+    m "Мы тоже скучали по тебе. Очень сильно."
 
 # game/script_marion.rpy:11024
 translate russian ch4m_01_9e5376f4:
 
     # "We all stand for hugs, and one by one take Jessie into our arms. Marion holds onto her the longest, and I hear Jessie whisper in her ear."
-    ""
+    "Мы все встаем и по очереди заключаем Джесси в объятия. Мэрион держится за неё дольше всех, и я слышу, как Джесси шепчет ей на ухо."
 
 # game/script_marion.rpy:11025
 translate russian ch4m_01_87935a41:
 
     # j "You're still my big sis'. I love you."
-    j ""
+    j "Ты всё еще моя старшая сестрёнка. Я люблю тебя."
 
 # game/script_marion.rpy:11026
 translate russian ch4m_01_d7fe4ab5:
 
     # "Through tears of joy and relief, Marion whispers back."
-    ""
+    "Сквозь слезы радости и облегчения Мэрион шепчет в ответ."
 
 # game/script_marion.rpy:11027
 translate russian ch4m_01_55599539:
 
     # m "I love you too. Thank you for coming home."
-    m ""
+    m "Я тоже тебя люблю. Спасибо за то, что вернулась домой."
 
 # game/script_marion.rpy:11039
 translate russian ch4m_01_060ea25a:
 
     # "We make our way toward our respective beds, but not before Jessie hands out gifts to her sisters."
-    ""
+    "Мы направляемся в свои кровати, но не раньше, чем Джесси раздаст подарки своим сёстрам."
 
 # game/script_marion.rpy:11040
 translate russian ch4m_01_8a8b4629:
 
     # "For Grace: a small bottle of amber liquid labeled \"Hair of the Dog\"—from a popular Glasgow distillery, we are told—and a maillot style one-piece swimsuit."
-    ""
+    "Для Грейс: маленькая бутылочка янтарной жидкости с надписью \"Собачья шерсть\" — как нам сказали, от популярной винодельни в Глазго — и цельный купальник в стиле майо."
 
 # game/script_marion.rpy:11041
 translate russian ch4m_01_2d525d90:
 
     # "For Marion: a long, fringed piano shawl and a small, white hairbrush carved of mother of pearl."
-    ""
+    "Для Марион: длинная шаль для пианино с бахромой и маленькая белая расчёска для волос, вырезанная из перламутра."
 
 # game/script_marion.rpy:11042
 translate russian ch4m_01_2bb9f55e:
 
     # "Between the two, I imagine Marion will get more use out of the brush; especially now that she has so much more to groom!"
-    ""
+    "Между этими двумя подарками, я думаю, Марион получит больше пользы от расчёски; особенно теперь, когда ей нужно так много ухаживания!"
 
 # game/script_marion.rpy:11044
 translate russian ch4m_01_dcdde37e:
 
     # "Jessie must be doing quite well for herself to afford such extravagant gifts."
-    ""
+    "Джесси, должно быть, неплохо устроилась, раз может позволить себе такие экстравагантные подарки."
 
 # game/script_marion.rpy:11045
 translate russian ch4m_01_6ffa985d:
 
     # "I remember how worried Marion had been over her prospects when she left. Perhaps things just have a way of... working out?"
-    ""
+    "Я вспоминаю, как волновалась Мэрион за перспективы Джесси, когда та ушла. Возможно, всё просто шло... своим чередом?"
 
 # game/script_marion.rpy:11049
 translate russian ch4m_01_53557c3b:
 
     # "I pause to knock on the wooden nightstand before resuming changing into my underclothes. Then, through the wall, I hear another noise."
-    ""
+    "Я останавливаюсь, чтобы постучать по деревянному прикроватному столику, прежде чем снова переодеться в нижнее белье. Затем за стеной я слышу другой шум."
 
 # game/script_marion.rpy:11050
 translate russian ch4m_01_d5a0f8cd:
 
     # "Jessie is reacting in horror to Grace's redecoration of her former room. Once again, I'm thankful to be an only child."
-    ""
+    "Джесси с ужасом реагирует на то, как Грейс переделала её бывшую комнату. Снова я благодарен судьбе за то, что единственный ребенок в семье."
 
 # game/script_marion.rpy:11052
 translate russian ch4m_01_79f524b0:
 
     # "My arrangement with Marion is more agreeable. We think nothing of sharing a bed anymore, and her sisters seem to hold no ill judgments against our relationship and personal closeness."
-    ""
+    "Мои отношения с Мэрион более прятные. Мы больше не задумываемся, как нам делить постель, и её сестры, похоже, не осуждают наши отношения и личную близость."
 
 # game/script_marion.rpy:11087
 translate russian ch4m_01_adce7d88:
 
     # m "Well? What do you think?"
-    m ""
+    m "Ну? Что думаешь?"
 
 # game/script_marion.rpy:11088
 translate russian ch4m_01_335c5355:
 
     # "Marion has emerged from the powder room draped in the piano shawl over her nightgown."
-    ""
+    "Мэрион вышла из дамской комнаты, накинув поверх ночной рубашки новую шаль."
 
 # game/script_marion.rpy:11089
 translate russian ch4m_01_f6f72240:
 
     # c "I think you look ready for a night out on the town."
-    c ""
+    c "Я думаю, ты выглядишь готовой к ночной прогулке по городу."
 
 # game/script_marion.rpy:11091
 translate russian ch4m_01_0e687f2c:
 
     # m "I think I look like a lampshade."
-    m ""
+    m "Мне кажется, я похож на абажур."
 
 # game/script_marion.rpy:11092
 translate russian ch4m_01_63baab83:
 
     # c "More like the whole lamp. You're positively glowing."
-    c ""
+    c "Скорее, на всю лампу целиком. Ты светишься позитивом."
 
 # game/script_marion.rpy:11094
 translate russian ch4m_01_3350bf9c:
 
     # "The glow rises to her cheeks, as she ruffles the edges of the shawl."
-    ""
+    "Румянец приливает к её щекам, когда она теребит края шали."
 
 # game/script_marion.rpy:11096
 translate russian ch4m_01_f234ecfc:
 
     # m "My dear, are you trying to seduce me?"
-    m ""
+    m "Дорогой, ты пытаешься соблазнить меня?"
 
 # game/script_marion.rpy:11097
 translate russian ch4m_01_16770b49:
 
     # c "You're the one dressed so seductively."
-    c ""
+    c "Это ты одета так соблазнительно."
 
 # game/script_marion.rpy:11099
 translate russian ch4m_01_1b4865ed:
 
     # m "Aye. Leave it to my sister to find the trampiest outfits in Glasgow."
-    m ""
+    m "Ага. Предоставь ещё моей сестре искать самые модные наряды в Глазго."
 
 # game/script_marion.rpy:11104
 translate russian ch4m_01_0e7d3413:
 
     # c "Oh, I didn't mean— er, it looks quite elegant on you."
-    c ""
+    c "О, я не это имел в виду... эм, на тебе это смотрится довольно элегантно."
 
 # game/script_marion.rpy:11106
 translate russian ch4m_01_2a558c95:
 
     # "I see past her bovine features, and, truth be told, past whatever she wears, as well. Marion is elegant, beautiful, from her fur coat to her soul."
-    ""
+    "Я смотрю сквозь её коровьи черты и, по правде говоря, сквозь то, что она носит. Мэрион элегантна, красива, от меховой шубы до души."
 
 # game/script_marion.rpy:11107
 translate russian ch4m_01_ea7e50fa:
 
     # m "I suppose. The material is quite nice. Comfortable."
-    m ""
+    m "Думаю, да. Материал довольно приятный. Удобный."
 
 # game/script_marion.rpy:11109
 translate russian ch4m_01_ad6a7ce6:
 
     # c "Jessie just doesn't understand your style. Once she's gone, you'll never have to wear it again."
-    c ""
+    c "Джесси просто не понимает твоего стиля. Как только она уйдёт, тебе больше никогда не придётся это носить."
 
 # game/script_marion.rpy:11113
 translate russian ch4m_01_0b5b2dac:
 
     # m "Well... the material is quite nice. Comfortable. Maybe I can wear it around the house."
-    m ""
+    m "Ну... материал довольно приятный. Удобный. Может быть, я смогу носить её в доме."
 
 # game/script_marion.rpy:11114
 translate russian ch4m_01_55aff91a:
 
     # c "In the bedroom?"
-    c ""
+    c "В спальне?"
 
 # game/script_marion.rpy:11116
 translate russian ch4m_01_fa29e65a:
 
     # m "Someone likes to push his luck."
-    m ""
+    m "Кому-то нравится испытывать судьбу."
 
 # game/script_marion.rpy:11143
 translate russian ch4m_01_2af10937:
 
     # "Marion saunters over to me, doing a good impression of Jessie's stage act. I laugh, grabbing hold of both ends of her shawl, and pulling her into bed."
-    ""
+    "Марион неторопливо подходит ко мне, производя хорошее впечатление сценического номера Джесси. Я смеюсь, хватаю ее за оба конца шали и тяну в постель."
 
 # game/script_marion.rpy:11144
 translate russian ch4m_01_00674ab9:
 
     # "Her nightgown slips low. Her arms curl around my middle and my nose touches her snout. We kiss, passionately, our bodies pressing each other, molding into one."
-    ""
+    "Её ночная рубашка сползает ниже. Её руки обхватывают меня за талию, и мой нос касается ее мордочки. Мы страстно целуемся, наши тела прижимаются друг к другу, сливаясь в одно целое."
 
 # game/script_marion.rpy:11145
 translate russian ch4m_01_ec40470d:
 
     # "Every inch of her softness, every curve pressed against me, is a reminder not of some odd transformation, but of the warmth she kindles in my heart."
-    ""
+    "Каждый дюйм её мягкости, каждый изгиб, прижатый ко мне, напоминает не о каком-то странном преображении, а о тепле, которое она разжигает в моём сердце."
 
 # game/script_marion.rpy:11154
 translate russian ch4m_01_77cf6ec7:
 
     # j "Marion! Will you tell our sister that a pillow is {i}no place to store seashells—{/i}"
-    j ""
+    j "Мэрион! Не скажешь ли ты нашей сестре, что подушка — {i}неподходящее место для хранения ракушек...{/i}"
 
 # game/script_marion.rpy:11155
 translate russian ch4m_01_b9cdc77a:
 
     # j "Oh."
-    j ""
+    j "Ой."
 
 # game/script_marion.rpy:11157
 translate russian ch4m_01_1e65b478:
 
     # m "The spare pillows are in the linen closet."
-    m ""
+    m "Запасные подушки находятся в шкафу для белья."
 
 # game/script_marion.rpy:11158
 translate russian ch4m_01_90d5a3ed:
 
     # j "Ah. Yes. Thank you."
-    j ""
+    j "Ах, да. Спасибо."
 
 # game/script_marion.rpy:11160
 translate russian ch4m_01_c8e7aa34:
 
     # j "Er... have a good night."
-    j ""
+    j "Эм... спокойной ночи."
 
 # game/script_marion.rpy:11161
 translate russian ch4m_01_90bb422e:
 
     # m "Good night, Jessie."
-    m ""
+    m "Спокойной ночи, Джесси."
 
 # game/script_marion.rpy:11173
 translate russian ch4m_01_fe53cbe6:
 
     # "The door is shut much more gingerly than it was opened. As soon as Jessie's footsteps fade away, Marion and I both burst into laughter."
-    ""
+    "Дверь закрывается гораздо тише, чем открывалась. Как только шаги Джесси затихают вдали, мы с Мэрион разражаемся смехом."
 
 # game/script_marion.rpy:11174
 translate russian ch4m_01_c77d33b8:
 
     # c "Jessie certainly came home to more than she bargained for."
-    c ""
+    c "Джесси определенно, вернувшись домой, получила больше, чем рассчитывала"
 
 # game/script_marion.rpy:11175
 translate russian ch4m_01_c4d664c4:
 
     # m "And yet some things never change."
-    m ""
+    m "И всё же некоторые вещи никогда не меняются."
 
 # game/script_marion.rpy:11177
 translate russian ch4m_01_d09ff57a:
 
     # "We sigh, and snuggle up tightly again in the dark room. The mood has changed, but not the warmth between us."
-    ""
+    "Мы вздыхаем и снова крепко прижимаемся друг к другу в тёмной комнате. Настроение изменилось, но не теплота между нами."
 
 # game/script_marion.rpy:11178
 translate russian ch4m_01_4ee3832f:
 
     # m "Oh, Malcolm. Truth be told... I wouldn't change those things for the world."
-    m ""
+    m "О, Малькольм. По правде говоря... Я ни за что на свете не изменила бы эти вещи."
 
 # game/script_marion.rpy:11179
 translate russian ch4m_01_8757e8ef:
 
     # c "They don't drive you up a wall?"
-    c ""
+    c "Они не загоняют тебя в угол?"
 
 # game/script_marion.rpy:11180
 translate russian ch4m_01_d11d6237:
 
     # m "Sometimes. But I never want them gone. I will manage if I must, but Malcolm... now that Jessie is home again, oh, my heart is full to bursting!"
-    m ""
+    m "Иногда. Но я никогда не хочу, чтобы они исчезали. Я справлюсь, если придется, но Малькольм... Теперь, когда Джесси снова дома, ох, моё сердце готово разорваться!"
 
 # game/script_marion.rpy:11181
 translate russian ch4m_01_09fa870b:
 
     # c "Of course. It's a happy day! Your family is whole again."
-    c ""
+    c "Конечно. Это счастливый день! Твоя семья снова в сборе."
 
 # game/script_marion.rpy:11182
 translate russian ch4m_01_58480245:
 
     # "A shadow crosses Marion's face."
-    ""
+    "По лицу Мэрион пробегает тень."
 
 # game/script_marion.rpy:11183
 translate russian ch4m_01_458dec11:
 
     # m "What about Father?"
-    m ""
+    m "А как же Отец?"
 
 # game/script_marion.rpy:11185
 translate russian ch4m_01_6d9c4766:
 
     # "I pause, not knowing how to put it delicately... so instead I say it forthright."
-    ""
+    "Я замолкаю, не зная, как выразиться поделикатнее... поэтому вместо этого я говорю прямо."
 
 # game/script_marion.rpy:11186
 translate russian ch4m_01_71aac466:
 
     # c "Your sisters were always your family, Marion."
-    c ""
+    c "Твои сёстры всегда были твоей семьей, Мэрион."
 
 # game/script_marion.rpy:11188
 translate russian ch4m_01_6226b491:
 
     # "She nods, soberly, and smiles."
-    ""
+    "Она серьёзно кивает и улыбается."
 
 # game/script_marion.rpy:11189
 translate russian ch4m_01_955bcf3a:
 
     # m "And now you are, too."
-    m ""
+    m "А теперь ещё и ты."
 
 # game/script_marion.rpy:11191
 translate russian ch4m_01_511b22c3:
 
     # "My heart leaps, and I know that here, in this bed, in this house... as long as I am with Marion, I am home."
-    ""
+    "Моё сердце подпрыгивает, и я знаю, что здесь, в этой постели, в этом доме... пока я с Мэрион, я дома."
 
 # game/script_marion.rpy:11218
 translate russian ch4m_02_ceb0e0fa:
 
     # "In the morning, I am awash in a serenity that I appreciate while it lasts. Watching Marion sleep is akin to my soul being a spring well, overflowing with affection."
-    ""
+    "Утром я погружаюсь в безмятежность, которой дорожу, пока она длится.  Когда я наблюдаю за спящей Мэрион, моя душа словно становится родниковым колодцем, переполненным любовью."
 
 # game/script_marion.rpy:11219
 translate russian ch4m_02_67e136a4:
 
     # "It's as though she is hugging me without even the slightest touch."
-    ""
+    "Как будто она обнимает меня без малейшего прикосновения."
 
 # game/script_marion.rpy:11228
 translate russian ch4m_02_ca4fd55a:
 
     # "She wakes, looking groggy and perfect."
-    ""
+    "Она просыпается, выглядя сонной и совершенной."
 
 # game/script_marion.rpy:11229
 translate russian ch4m_02_46e73c40:
 
     # m "...What is it? You're looking at me like the first night we..."
-    m ""
+    m "...Что такое? Ты смотришь на меня, как в ту первую ночь, когда мы..."
 
 # game/script_marion.rpy:11231
 translate russian ch4m_02_6fcaf7a7:
 
     # c "Marion, you look absolutely gorgeous today."
-    c ""
+    c "Марион, ты сегодня выглядишь просто великолепно."
 
 # game/script_marion.rpy:11238
 translate russian ch4m_02_eb60fff9:
 
     # "I roll to one side, holding her from behind, clinging to her side. My head rests on her back as we nestle into each other."
-    ""
+    "Я перекатываюсь на бок, обнимая её сзади, прижимаясь к ней сбоку. Моя голова покоится на её спине, когда мы прижимаемся друг к другу."
 
 # game/script_marion.rpy:11239
 translate russian ch4m_02_653dcb53:
 
     # c "You look stunning every day. But... I meant it when I said you're glowing. You're such a beautiful woman inside and out."
-    c ""
+    c "Ты выглядишь сногсшибательно каждый день. Но... Я именно это имел в виду, когда сказал, что ты сияешь. Ты такая прекрасная женщина и внутри, и снаружи."
 
 # game/script_marion.rpy:11240
 translate russian ch4m_02_2479187a:
 
     # "She still has the sleepy face she awoke with."
-    ""
+    "У неё всё ещё сонное лицо, с которым она проснулась."
 
 # game/script_marion.rpy:11241
 translate russian ch4m_02_b12759d1:
 
     # c "Keep sleeping if you need to."
-    c ""
+    c "Поспи ещё, если нужно."
 
 # game/script_marion.rpy:11243
 translate russian ch4m_02_8bfaf9cf:
 
     # m "Thank you, Malcolm. I can't tell you how much that means to me, hearing that—"
-    m ""
+    m "Спасибо, Малькольм. Я не могу выразить, как много значит для меня, слышать что..."
 
 # game/script_marion.rpy:11244
 translate russian ch4m_02_6b6fe637:
 
     # "Her voice cracks, but she continues."
-    ""
+    "Её голос срывается, но она продолжает."
 
 # game/script_marion.rpy:11245
 translate russian ch4m_02_853321e8:
 
     # m "That—I'm still beautiful... after my whole body, my life, have both been turned upside down. I don't look normal anymore."
-    m ""
+    m "Что я всё ещё прекрасна... после того, как всё моё тело и моя жизнь перевернулись с ног на голову. Я больше не выгляжу нормально."
 
 # game/script_marion.rpy:11246
 translate russian ch4m_02_9d3f16bb:
 
     # c "You do look normal. You look like you, the Marion you're meant to be."
-    c ""
+    c "Ты выглядишь нормально. Ты похожа на себя, на Мэрион, которой тебе суждено быть."
 
 # game/script_marion.rpy:11247
 translate russian ch4m_02_44234900:
 
     # "I try to continue, but she buries her face in the pillow. I wait to speak until she resurfaces."
-    ""
+    "Я пытаюсь продолжить, но она зарывается лицом в подушку. Я жду, пока она не вынырнет, прежде чем заговорить."
 
 # game/script_marion.rpy:11248
 translate russian ch4m_02_006f4ec0:
 
     # c "Your smile still shines. Your cheeks are still rosy. Your heart is still pure."
-    c ""
+    c "Твоя улыбка всё ещё сияет. Твои щёки всё ещё румяные. Твоё сердце всё ещё чисто."
 
 # game/script_marion.rpy:11255
 translate russian ch4m_02_19b2bce0:
 
     # "She turns to face me, glassy-eyed, rewarding me with that shining smile."
-    ""
+    "Она поворачивается ко мне лицом с остекленевшими глазами, награждая меня своей сияющей улыбкой."
 
 # game/script_marion.rpy:11256
 translate russian ch4m_02_f90c5e27:
 
     # m "Malcolm..."
-    m ""
+    m "Малькольм..."
 
 # game/script_marion.rpy:11264
 translate russian ch4m_02_afefabec:
 
     # g "Marion? The hearth is on fire."
-    g ""
+    g "Мэрион? Камин горит."
 
 # game/script_marion.rpy:11295
 translate russian ch4m_02_f75d8663:
 
     # "Marion leaps from the bed, half-dressed. I follow. Sure enough, there is a small fire by the hearth, burning where it ought not be burning."
-    ""
+    "Мэрион спрыгивает с кровати, полуголая. Я следую за ней. Конечно же, в камине горит небольшой огонь. Горит там, где ему не следовало бы гореть."
 
 # game/script_marion.rpy:11296
 translate russian ch4m_02_2c67812d:
 
     # "Groggily, but calmly, Marion takes a large quilt and bats it hard down on the flames."
-    ""
+    "Пошатываясь, но сохраняя спокойствие, Мэрион берет большое стёганое одеяло и с силой швыряет его в огонь."
 
 # game/script_marion.rpy:11297
 translate russian ch4m_02_6efc3008:
 
     # m "Is it grease?"
-    m ""
+    m "Это жир?"
 
 # game/script_marion.rpy:11298
 translate russian ch4m_02_00ffe954:
 
     # "She keeps whacking at the fire until only smoke appears."
-    ""
+    "Она продолжает колотить по огню, пока не остаётся только дым."
 
 # game/script_marion.rpy:11299
 translate russian ch4m_02_006cf5d4:
 
     # j "I was trying to cook us all bacon."
-    j ""
+    j "Я пыталась приготовить нам всем бекон."
 
 # game/script_marion.rpy:11306
 translate russian ch4m_02_fc72c00d:
 
     # "Jessie sounds on the verge of tears. We all reassure her and compliment her efforts as the smoke starts to settle."
-    ""
+    "Джесси, кажется, вот-вот расплачется. Мы все успокаиваем её и хвалим за ее усилия, когда дым начинает оседать."
 
 # game/script_marion.rpy:11309
 translate russian ch4m_02_3a9bd6d5:
 
     # c "Well then. How about cold scones and tea instead?"
-    c ""
+    c "Ну что ж. Как насчет холодных булочек и чая вместо бекона?"
 
 # game/script_marion.rpy:11311
 translate russian ch4m_02_b76de656:
 
     # g "Sounds good! I'll get out some sardines, for myself."
-    g ""
+    g "Звучит заманчиво! Я достану немного сардин для себя."
 
 # game/script_marion.rpy:11324
 translate russian ch4m_02_b0ff7786:
 
     # "Grace joins me in helping prepare a strange, if more risk-free, breakfast. I've learned not to question her unusual appetite."
-    ""
+    "Грейс присоединяется ко мне и помогает приготовить странный, хотя и более безвредный завтрак. Я научился не задавать вопросов насчёт её необычного аппетита."
 
 # game/script_marion.rpy:11355
 translate russian ch4m_02_b5eef19e:
 
     # j "I guess I owe you a quilt?"
-    j ""
+    j "Полагаю, я должна тебе одеяло?"
 
 # game/script_marion.rpy:11363
 translate russian ch4m_02_8c5af747:
 
     # m "That, you do. And please leave the cooking to me, all right? Goodness, how do you survive living alone?"
-    m ""
+    m "Да, должна. И, пожалуйста, предоставь готовку мне, хорошо? Боже, как ты выживаешь, живя одна?"
 
 # game/script_marion.rpy:11364
 translate russian ch4m_02_f8e944ab:
 
     # "In Marion's voice is no trace of spite, only pure curiosity."
-    ""
+    "В голосе Мэрион нет и следа злобы, только чистое любопытство."
 
 # game/script_marion.rpy:11366
 translate russian ch4m_02_45dcfc23:
 
     # j "They do all the cooking for me at Clatty Pat's. Oh, you haven't had a steak until you've tried one of their aged ribeyes..."
-    j ""
+    j "В \"Клэтти Пэт\" за меня всё готовят. О, вы не можете сказать, что пробовали стейк, пока не попробовали один из их выдержанных рибай..."
 
 # game/script_marion.rpy:11374
 translate russian ch4m_02_728ba30d:
 
     # "We all wince simultaneously as Jessie realizes what she's said."
-    ""
+    "Мы все одновременно вздрагиваем, когда Джесси осознает, что она сказала."
 
 # game/script_marion.rpy:11381
 translate russian ch4m_02_9725d6a6:
 
     # j "...Uh, but mostly I eat light to keep my figure."
-    j ""
+    j "... Ух, но в основном я ем лёгкую пищу, чтобы сохранить свою фигуру."
 
 # game/script_marion.rpy:11384
 translate russian ch4m_02_c7d03b29:
 
     # g "So, ah, how many scones ya want, sis'?"
-    g ""
+    g "Итак, сколько булочек ты хочешь, сестрёнка?"
 
 # game/script_marion.rpy:11392
 translate russian ch4m_02_31e45e04:
 
     # m "I don't think I'm very hungry anymore. If you'll excuse me, I'll get a head start on the day's chores. Malcolm, won't you stay with these ladies to make sure they don't burn the house down?"
-    m ""
+    m "Не думаю, что я очень голодна теперь. С вашего позволения, я займусь повседневными делами. Малькольм, не останешься ли ты с этими Леди, чтобы убедиться, что они не сожгут дом дотла?"
 
 # game/script_marion.rpy:11393
 translate russian ch4m_02_4e8c7062:
 
     # c "Of course."
-    c ""
+    c "Конечно."
 
 # game/script_marion.rpy:11416
 translate russian ch4m_02_ffde8e9b:
 
     # "Her hooves clack on the floor as she returns to her room to change. It's not until Marion leaves the front door that Grace finally speaks up."
-    ""
+    "Её копыта стучат по полу, когда она возвращается в свою комнату, чтобы переодеться. Только когда Мэрион выходит за дверь, Грейс наконец заговаривает."
 
 # game/script_marion.rpy:11421
 translate russian ch4m_02_f94cdcf4:
 
     # g "So, Jessie. Tell me more about those aged ribeyes!"
-    g ""
+    g "Итак, Джесси. Расскажи мне побольше об этих выдержанных рибай!"
 
 # game/script_marion.rpy:11445
 translate russian ch4m_02_e6935794:
 
     # "As soon as the fire beneath the tea kettle is extinguished, and after I've had my fill of scones, I leave the two younger siblings to catch up among themselves."
-    ""
+    "Как только огонь под чайником гаснет, и после того, как наелась булочек, я оставляю двух младших сестёр наедине."
 
 # game/script_marion.rpy:11446
 translate russian ch4m_02_73295bb9:
 
     # "The morning air is crisp and refreshing. There are chores that need tending to, not just here, but at my residence as well."
-    ""
+    "Утренний воздух бодрящий и освежающий. Есть дела, которыми нужно заняться не только здесь, но и в моей резиденции."
 
 # game/script_marion.rpy:11447
 translate russian ch4m_02_d3d42c23:
 
     # "There, Gran will be glad to learn of Jessie's return; that is, if she hasn't heard it from her network of quidnuncs already."
-    ""
+    "Бабушка будет рада узнать о возвращении Джесси. Конечно, если она ещё не слышала об этом от своей сети сплетниц."
 
 # game/script_marion.rpy:11454
 translate russian ch4m_02_559e2df6:
 
     # "Before I head down the road, I seek out Marion, to let her know I love her, that I'll be back soon... and to try to buoy her spirits after such an awkward morning."
-    ""
+    "Прежде чем отправиться в путь, я разыскиваю Мэрион, чтобы сказать, что люблю её и скоро вернусь... и попытаться поднять ей настроение после такого неловкого утра."
 
 # game/script_marion.rpy:11472
 translate russian ch4m_02_d4e439bb:
 
     # c "Fiona! Have you seen our two-legged friend?"
-    c ""
+    c "Фиона! Ты видела нашего двуногого друга?"
 
 # game/script_marion.rpy:11474
 translate russian ch4m_02_16663f94:
 
     # "After a lap around the field and no sign of Marion, I thought she might be in the barn cheddaring the latest batch of cheese. But there's no sign of her here, either."
-    ""
+    "Обойдя поле и не обнаружив никаких признаков Мэрион, я подумал, что она, возможно, в сарае, готовит последнюю партию сыра. Но и здесь её тоже нет."
 
 # game/script_marion.rpy:11475
 translate russian ch4m_02_91f57b50:
 
     # "Only faithful Fiona. Odd that she's in her stall rather than out to pasture with the rest of the herd."
-    ""
+    "Только верная Фиона. Странно, что она в своем стойле, а не на пастбище с остальным стадом."
 
 # game/script_marion.rpy:11479
 translate russian ch4m_02_25e5fbf7:
 
     # "Fiona replies in a language only she can understand. I begin to wonder if Marion has gone further afield, perhaps to the shores of the loch to clear her mind."
-    ""
+    "Фиона отвечает на языке, понятном только ей. Я начинаю задумываться, не ушла ли Мэрион ещё дальше, возможно, на берега озера, чтобы очистить разум."
 
 # game/script_marion.rpy:11481
 translate russian ch4m_02_22e71256:
 
     # m "I'm up here, Malcolm."
-    m ""
+    m "Я здесь, наверху, Малькольм."
 
 # game/script_marion.rpy:11482
 translate russian ch4m_02_961a3aa2:
 
     # c "Marion?"
-    c ""
+    c "Мэрион?"
 
 # game/script_marion.rpy:11498
 translate russian ch4m_02_68fa8095:
 
     # "Her voice is soft, and as I climb the ladder to find its source, I wonder just how deeply Jessie's words had cut."
-    ""
+    "Её голос мягок, и, поднимаясь по лестнице, чтобы найти его источник, я задаюсь вопросом, насколько глубоко задели её слова Джесси."
 
 # game/script_marion.rpy:11513
 translate russian ch4m_02_15986039:
 
     # m "Over here."
-    m ""
+    m "Сюда."
 
 # game/script_marion.rpy:11515
 translate russian ch4m_02_1c291be1:
 
     # c "Goodness, what are you doing in the loft? Is everything all right?"
-    c ""
+    c "Боже мой, что ты делаешь на чердаке? С тобой всё хорошо?"
 
 # game/script_marion.rpy:11522
 translate russian ch4m_02_db9a82c2:
 
     # "She sits nestled in the corner, among stored hay and pails."
-    ""
+    "Она сидит, уютно устроившись в углу, среди сложенного сена и вёдер."
 
 # game/script_marion.rpy:11523
 translate russian ch4m_02_5cc24371:
 
     # m "Yes, I'm fine."
-    m ""
+    m "Да, я в порядке."
 
 # game/script_marion.rpy:11538
 translate russian ch4m_02_702c0059:
 
     # "Marion's demeanor is peaceful⁠—placid even⁠—but I sense there is something she's not telling me. I take a seat beside her, and take her hoof-ish hand into mine."
-    ""
+    "Мэрион ведет себя мирно, даже безмятежно, но я чувствую, что она чего—то недоговаривает. Я сажусь рядом с ней и беру её за руку-копыто."
 
 # game/script_marion.rpy:11539
 translate russian ch4m_02_dd0118b3:
 
     # c "I'm so sorry about what Jessie said, what she did. We talked about it after, and she felt awful⁠—"
-    c ""
+    c "Я сожалею о том, что сказала Джесси, что она сделала. Мы поговорили об этом позже, и она чувствовала себя ужасно"
 
 # game/script_marion.rpy:11549
 translate russian ch4m_02_f3503c34:
 
     # "A smile spreads across Marion's face, and she shakes her head."
-    ""
+    "По лицу Мэрион расплывается улыбка, и она качает головой."
 
 # game/script_marion.rpy:11551
 translate russian ch4m_02_6b2b56eb:
 
     # m "Oh! No no, it's not that! Well... not {i}entirely{/i} that."
-    m ""
+    m "О! Нет, нет, дело не в этом! Хорошо... не {i}только{/i} в этом."
 
 # game/script_marion.rpy:11554
 translate russian ch4m_02_fe75aba6:
 
     # m "Jessie has never been a very careful person, neither in action nor words. I can't begrudge her for being... her. Especially so soon after she's come home."
-    m ""
+    m "Джесси никогда не была очень аккуратным человеком, ни в действиях, ни в словах. Я не могу осуждать её за то, что она является... ей. Особенно так скоро после того, как она вернулась домой."
 
 # game/script_marion.rpy:11555
 translate russian ch4m_02_d7687634:
 
     # c "Tell me where you find the patience."
-    c ""
+    c "Скажи мне, где ты находишь столько терпения?"
 
 # game/script_marion.rpy:11557
 translate russian ch4m_02_13ca233c:
 
     # "She laughs, and the sound of it lifts my heart."
-    ""
+    "Она смеётся, и от этого звука у меня отлегает от сердца."
 
 # game/script_marion.rpy:11559
 translate russian ch4m_02_f0302c9c:
 
     # m "A sprinkle of practice, a dash of sisterly duty... and a heap of fresh perspective."
-    m ""
+    m "Немного практики, капелька сестринского долга... и куча свежих перспектив."
 
 # game/script_marion.rpy:11560
 translate russian ch4m_02_84f62231:
 
     # c "Aye. Things weren't the same with her gone, eh?"
-    c ""
+    c "Ага. С её уходом всё стало по-другому, да?"
 
 # game/script_marion.rpy:11563
 translate russian ch4m_02_39fab54c:
 
     # m "Things aren't the same when you've grown horns and a tail, either."
-    m ""
+    m "Когда у тебя вырастают рога и хвост, тоже всё становится по-другому."
 
 # game/script_marion.rpy:11565
 translate russian ch4m_02_703560c1:
 
     # "She grabs the tip of her tail and uses it to tickle the underside of my chin. I agree with her, once I've stopped chuckling."
-    ""
+    "Она хватает кончик своего хвоста и использует его, чтобы пощекотать меня под подбородком. Я соглашаюсь с ней, как только перестаю хихикать."
 
 # game/script_marion.rpy:11566
 translate russian ch4m_02_f28d9b0f:
 
     # c "That too. You know... I can scarcely put to words how proud I am to see the way you've grown to accept this... magic."
-    c ""
+    c "С этим тоже. Ты знаешь... я едва ли могу выразить словами, как горжусь тем, что вижу, как ты научился принимать это... волшебство."
 
 # game/script_marion.rpy:11568
 translate russian ch4m_02_d737b069:
 
     # m "Thank you. Truth be told, if you weren't here to support me, I don't know if I would have half the courage."
-    m ""
+    m "Спасибо тебе. По правде говоря, если бы тебя здесь не было, чтобы поддержать меня, я не знаю, было бы у меня и половины смелости."
 
 # game/script_marion.rpy:11569
 translate russian ch4m_02_61f0d671:
