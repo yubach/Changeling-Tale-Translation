@@ -4,79 +4,79 @@
 translate russian ch2g_01_83301ad2:
 
     # "The memory of the previous day's events is so vivid in my mind that sleep is impossible."
-    ""
+    "Воспоминания о прошедшем дне столь ясны что уснуть невозможно."
 
 # game/script_grace.rpy:30
 translate russian ch2g_01_5de8e07f:
 
     # "Grace? {i}Grace MacLeod?{/i} That little scamp from so many years back? Now transformed into an alluring... audacious... unapologetically flirtatious young woman."
-    ""
+    "Грейс? {i}Грейс Маклеод?{/i} Эта маленькая негодяйка из давно ушедших лет? Теперь притягательная... смелая... бесстыдно кокетливая молодая женщина."
 
 # game/script_grace.rpy:31
 translate russian ch2g_01_e24ac60b:
 
     # "The thoughts roll through my mind like tidal waves. Soft echoes of her voice, shadows of her face, her smile, her body."
-    ""
+    "Мысли набегают на разум как волны прилива. Мягкое эхо её голоса, тени на её лице, её улыбка, её тело."
 
 # game/script_grace.rpy:32
 translate russian ch2g_01_506eb918:
 
     # "The waves crash and my heart thumps harder every time I let my memories of her take me there. Each offers some new level of excitement."
-    ""
+    "Волны бьются и моё сердце стучит сильнее каждый раз как разрешаю воспоминаниям унести меня туда. Каждое предлагает всё новые высоты восторга."
 
 # game/script_grace.rpy:33
 translate russian ch2g_01_25f0406a:
 
     # "I'm intrigued. Infatuated? Am I developing feelings for her?"
-    ""
+    "Я заинтригован. Влюблён? Неужто появляются чувства к ней?"
 
 # game/script_grace.rpy:34
 translate russian ch2g_01_17e5b24f:
 
     # "No... it couldn't be that. Could it? Not this soon."
-    ""
+    "Нет... быть того не может. Или может? Нет, слишком."
 
 # game/script_grace.rpy:35
 translate russian ch2g_01_9117ed7b:
 
     # "I'm just... bowled over. Stimulated. Still, even hours past our encounter."
-    ""
+    "Я всего лишь... поражён. На взводе. До сих пор, хотя с нашей встречи прошло несколько часов."
 
 # game/script_grace.rpy:36
 translate russian ch2g_01_a48ed5a0:
 
     # "I can't yet admit that it's too late to reel myself back in. The waves keep crashing over and again in my thoughts."
-    ""
+    "Я ещё не способен признать что уже поздно пятиться назад. Волны продолжают биться в мыслях, снова и снова."
 
 # game/script_grace.rpy:37
 translate russian ch2g_01_a1e1b18a:
 
     # "I've met women with that level of audacity. Most of them remind me more of girls in Jessie's line of work, rather than seemingly \"shy\" Grace."
-    ""
+    "Я встречал женщин с её смелостью. Большинство из них больше напоминают мне девушек вроде Джесси, нежели \"застенчивую\" на вид Грейс."
 
 # game/script_grace.rpy:38
 translate russian ch2g_01_1b762bb1:
 
     # "Maybe the shyness is a bit of an act on Grace's part. Maybe her whole life is a bit of an act. It wouldn't be a surprise, having seen her sister's performances."
-    ""
+    "Может эта застенчивость отчасти спектакль самой Грейс. Может вся её жизнь отчасти спектакль. Это и не удивительно, вспоминая выступления её сестёр."
 
 # game/script_grace.rpy:39
 translate russian ch2g_01_a9c586dd:
 
     # "Grace is blunt, forward. Independent, but lonely. A free spirit if ever there was one. I sigh, self-reflecting. Perhaps a kindred soul, as well."
-    ""
+    "Грейс говорит прямо, грубо. Независима, но одинока. Свободная душа, если такие вообще бывают. Я вздыхаю, рефлексирую. Может даже родственная душа."
 
 # game/script_grace.rpy:40
 translate russian ch2g_01_5e84828b:
 
     # "My stomach is in knots. My heart races when I let her image pass through my mind. Rarely in my life have I ever been this unsure of how to feel..."
-    ""
+    "Живот как узел. Сердце спешит когда позволяю её образу застыть в уме. Редко в жизни я настолько сомневался в своих чувствах..."
 
 # game/script_grace.rpy:67
 translate russian ch2g_01_870ac70f:
 
     # "I wake in a pool of cold sweat, hearing a sharp rap on the front door."
-    ""
+    "Я просыпаюсь в холодном поту, улсышав сильный удар по входной двери."
 
 # game/script_grace.rpy:68
 translate russian ch2g_01_951842d2:
